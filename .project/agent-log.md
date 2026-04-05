@@ -18,3 +18,5 @@
 | 3 | 2026-04-04 | wiki-scraper | Run scrape_wiki_list.py to extract works from Wikipedia | done | 1,154 works -> van-gogh/wiki_works_raw.json |
 | 4 | 2026-04-04 | commons-resolver | Run resolve_commons_urls.py to fetch image URLs from Commons API | done | 1,150/1,150 resolved -> van-gogh/catalog.json |
 | 5 | 2026-04-04 | catalog-cleanup | Remove malformed entries, normalize fields | done | 1,153 final works in catalog.json |
+| 6 | 2026-04-04 | web-init | Create index.html landing + van-gogh/index.html gallery | done | Root catalog page + filterable gallery with lightbox |
+| 7 | 2026-04-04 | wikidata-fetch | Write & run fetch_wikidata.py to get genre/depicts from Wikidata | done | 887 items, 911 matched (79%), 713 genres, 664 depicts |

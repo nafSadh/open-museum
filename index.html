@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>open museum</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #1a1520;
+      --accent:   #B8A0E0;
+      --secondary:#7A7070;
+      --text-hi:  #F0EDE8;
+      --text-mid: #A09890;
+      --text-lo:  #504840;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      background-image:
+        radial-gradient(ellipse at 15% 20%, rgba(120,80,200,0.25) 0%, transparent 55%),
+        radial-gradient(ellipse at 85% 60%, rgba(60,180,160,0.18) 0%, transparent 50%),
+        radial-gradient(ellipse at 50% 90%, rgba(200,130,80,0.12) 0%, transparent 45%);
+      color: var(--text-hi);
+      font-family: 'Fraunces', Georgia, serif;
+      font-optical-sizing: auto;
+      line-height: 1.7;
+      overflow-x: hidden;
+    }
+
+    /* ── Layout ── */
+    main { position: relative; z-index: 1; }
+
+    .divider {
+      width: 100%; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--accent), transparent);
+      opacity: 0.25;
+    }
+
+    section {
+      min-height: 65vh;
+      display: flex; align-items: center;
+      padding: 10vh 6vw;
+      max-width: 1100px; margin: 0 auto;
+    }
+    section .inner { width: 100%; }
+
+    /* ── Scroll reveals ── */
+    @supports (animation-timeline: view()) {
+      .reveal-up {
+        animation: slide-up linear both;
+        animation-timeline: view();
+        animation-range: entry 0% entry 38%;
+      }
+      .reveal-left {
+        animation: slide-left linear both;
+        animation-timeline: view();
+        animation-range: entry 0% entry 42%;
+      }
+      @keyframes slide-up { from { opacity: 0; transform: translateY(50px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes slide-left { from { opacity: 0; transform: translateX(-64px); } to { opacity: 1; transform: translateX(0); } }
+    }
+    @supports not (animation-timeline: view()) {
+      .reveal-up, .reveal-left { opacity: 1; }
+    }
+
+    /* ── Hero ── */
+    #hero {
+      min-height: 100vh;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 1.2rem;
+      max-width: 1100px;
+      padding: 0 6vw;
+      position: relative;
+    }
+    .hero-tagline {
+      font-family: 'Fira Code', monospace;
+      font-size: clamp(0.78rem, 1.8vw, 1rem);
+      color: var(--accent);
+      letter-spacing: 0.1em;
+    }
+    .hero-tagline::before { content: '// '; opacity: 0.5; }
+
+    .hero-name {
+      font-size: clamp(3.4rem, 11vw, 7rem);
+      font-weight: 700;
+      font-style: italic;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+      padding-bottom: 0.05em;
+      background: linear-gradient(135deg, #F0EDE8 0%, #C8A8E8 50%, #90D0C0 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-desc {
+      font-size: clamp(0.95rem, 2.2vw, 1.3rem);
+      font-weight: 300;
+      color: var(--text-mid);
+      max-width: 540px;
+      line-height: 1.65;
+    }
+    .hero-desc em { color: var(--text-hi); font-style: italic; }
+
+    .scroll-hint {
+      position: absolute; bottom: 3.5vh; left: 6vw;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.65rem; color: var(--text-lo);
+      letter-spacing: 0.14em;
+      display: flex; align-items: center; gap: 0.6rem;
+    }
+    .scroll-hint::after {
+      content: ''; display: block;
+      width: 1px; height: 36px;
+      background: linear-gradient(to bottom, var(--accent), transparent);
+      animation: pulse-line 2.2s ease-in-out infinite;
+    }
+    @keyframes pulse-line { 0%,100% { opacity: 0.25; } 50% { opacity: 0.7; } }
+
+    /* ── Section labels ── */
+    .section-label {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.68rem; color: var(--secondary);
+      letter-spacing: 0.2em; text-transform: uppercase;
+      margin-bottom: 1.1rem;
+      display: flex; align-items: center; gap: 0.8rem;
+    }
+    .section-label::before {
+      content: ''; display: block;
+      width: 1.8rem; height: 1px; background: var(--secondary);
+    }
+
+    h2 {
+      font-size: clamp(1.9rem, 4.5vw, 3rem);
+      font-weight: 600; font-style: italic;
+      color: var(--text-hi); line-height: 1.1;
+      margin-bottom: 1.8rem;
+    }
+
+    p {
+      color: var(--text-mid);
+      font-size: 1.02rem;
+      max-width: 600px;
+      margin-bottom: 1.2rem;
+    }
+    p:last-child { margin-bottom: 0; }
+
+    a {
+      color: var(--accent); text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    a:hover { color: var(--text-hi); border-bottom-color: rgba(184, 160, 224, 0.5); }
+
+    /* ── Collection card ── */
+    .coll-card {
+      margin-top: 1.5rem;
+      background: rgba(184, 160, 224, 0.05);
+      border: 1px solid rgba(184, 160, 224, 0.13);
+      border-radius: 6px;
+      overflow: hidden;
+      transition: border-color 0.3s, background 0.3s;
+    }
+    .coll-card:hover {
+      border-color: rgba(184, 160, 224, 0.28);
+      background: rgba(184, 160, 224, 0.1);
+    }
+    .coll-hero {
+      width: 100%; aspect-ratio: 21/9; object-fit: cover; display: block;
+      opacity: 0.85; transition: opacity 0.4s;
+    }
+    .coll-card:hover .coll-hero { opacity: 1; }
+    .coll-body { padding: 1.8rem; }
+    .coll-title {
+      font-size: 1.6rem; font-weight: 600; font-style: italic;
+      color: var(--text-hi); line-height: 1.15; margin-bottom: 0.25rem;
+    }
+    .coll-artist {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; color: var(--secondary);
+      letter-spacing: 0.08em; margin-bottom: 0.9rem;
+    }
+    .coll-desc {
+      color: var(--text-mid); font-size: 0.95rem;
+      line-height: 1.65; max-width: 560px; margin-bottom: 0.9rem;
+    }
+    .coll-stats {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.68rem; color: var(--text-lo);
+      letter-spacing: 0.08em; margin-bottom: 1.2rem;
+    }
+    .coll-links { display: flex; gap: 0.8rem; }
+    .coll-links a {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.8rem; color: var(--text-mid);
+      border: 1px solid rgba(184, 160, 224, 0.16);
+      border-radius: 2px;
+      padding: 0.38rem 0.85rem;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .coll-links a:hover { color: var(--accent); border-color: var(--accent); }
+
+    /* ── Footer ── */
+    footer {
+      position: relative; z-index: 1;
+      text-align: center;
+      padding: 4rem 6vw 5rem;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; color: var(--text-lo);
+      letter-spacing: 0.08em;
+    }
+    footer a { color: var(--text-lo); border-bottom: none; }
+    footer a:hover { color: var(--accent); }
+
+    ::selection { background: rgba(184, 160, 224, 0.25); color: var(--text-hi); }
+
+    @media (max-width: 560px) {
+      section { padding: 8vh 5vw; min-height: 55vh; }
+      #hero { padding: 0 5vw; }
+    }
+  </style>
+</head>
+<body>
+
+  <main>
+
+    <section id="hero">
+      <div class="hero-tagline">public domain art, openly curated</div>
+      <h1 class="hero-name">open museum</h1>
+      <p class="hero-desc">
+        Curated collections of <em>public domain artwork</em> with
+        high-resolution images from Wikimedia Commons. Free of copyright,
+        beautifully presented.
+      </p>
+      <div class="scroll-hint" aria-hidden="true">scroll</div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section id="collections">
+      <div class="inner reveal-left">
+        <div class="section-label">collections</div>
+        <h2>what's inside</h2>
+
+        <div class="coll-card">
+          <a href="van-gogh/index.html">
+            <img class="coll-hero"
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+                 alt="The Starry Night" loading="lazy" />
+          </a>
+          <div class="coll-body">
+            <div class="coll-title">Vincent van Gogh</div>
+            <div class="coll-artist">dutch &middot; 1853&ndash;1890</div>
+            <p class="coll-desc">
+              The complete paintings, watercolors, lithographs, and letter sketches
+              &mdash; from his early Hague-period still lifes to the luminous Arles
+              canvases and the final works at Auvers-sur-Oise.
+            </p>
+            <div class="coll-stats">1,153 works &middot; 870 paintings &middot; 145 watercolors &middot; public domain</div>
+            <div class="coll-links">
+              <a href="van-gogh/index.html">gallery</a>
+              <a href="van-gogh/catalog.json">catalog.json</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section id="about">
+      <div class="inner reveal-up">
+        <div class="section-label">about</div>
+        <h2>why this exists</h2>
+        <p>
+          Millions of artworks are in the public domain &mdash; free for anyone
+          to view, share, and build upon. But they're scattered across wikis,
+          museum APIs, and archives with no single, clean entry point.
+        </p>
+        <p>
+          Open Museum collects them into browseable catalogs with structured
+          metadata and direct links to the highest-resolution images available.
+          Every entry traces back to its source.
+        </p>
+        <p>
+          Images from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>.
+          Data from <a href="https://en.wikipedia.org/">Wikipedia</a>.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    open museum &middot; public domain
+  </footer>
+
+</body>
+</html>

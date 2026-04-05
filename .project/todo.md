@@ -7,5 +7,5 @@
 - [x] Build master catalog (van-gogh/catalog.json)
 - [ ] Add Van Gogh drawings (separate Wikipedia article: ~1,100 works)
 - [ ] Enrich medium field for non-Hague painting sections (currently 12%)
-- [ ] Cross-reference with Wikidata for canonical metadata
-- [ ] Build browseable HTML gallery
+- [x] Cross-reference with Wikidata for canonical metadata (911 matched, 79%)
+- [x] Build browseable HTML gallery (era/subject/famous filters + void lightbox)
