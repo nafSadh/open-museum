@@ -24,3 +24,41 @@
 ### Other artists
 - [ ] Rembrandt collection
 - [ ] Vermeer collection
+- [ ] Claude Monet collection
+- [ ] Edgar Degas collection
+- [ ] Paul Cézanne collection
+- [ ] Leonardo da Vinci collection
+- [ ] Michelangelo collection
+- [ ] Pierre-Auguste Renoir collection
+- [ ] Édouard Manet collection
+- [ ] Paul Gauguin collection
+- [ ] Georges Seurat collection
+- [ ] Henri de Toulouse-Lautrec collection
+- [ ] Mary Cassatt collection
+- [ ] Raphael collection
+- [ ] Sandro Botticelli collection
+- [ ] Titian collection
+- [ ] Hieronymus Bosch collection
+- [ ] Pieter Bruegel the Elder collection
+- [ ] Jan van Eyck collection
+- [ ] Francisco Goya collection
+- [ ] J.M.W. Turner collection
+- [ ] Caspar David Friedrich collection
+- [ ] Eugène Delacroix collection
+- [ ] Gustav Klimt collection
+- [ ] Egon Schiele collection
+- [ ] Amedeo Modigliani collection
+- [ ] Katsushika Hokusai collection
+- [ ] Utagawa Hiroshige collection
+- [ ] Raja Ravi Varma collection
+- [ ] Amrita Sher-Gil collection
+- [ ] Abanindranath Tagore collection
+- [ ] Xu Beihong collection
+- [ ] Shitao collection
+- [ ] Bada Shanren collection
+- [ ] Shen Zhou collection
+- [ ] Tang Yin collection
+- [ ] Kitagawa Utamaro collection
+- [ ] Utagawa Kuniyoshi collection
+- [ ] Kuroda Seiki collection
+- [ ] Kamāl ud-Dīn Behzād collection
