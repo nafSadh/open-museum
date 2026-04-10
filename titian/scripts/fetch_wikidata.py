@@ -24,7 +24,7 @@ SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
 
 SPARQL_QUERY = """\
 SELECT ?item ?itemLabel ?genreLabel ?depictsLabel WHERE {
-  ?item wdt:P170 wd:Q332593 .
+  ?item wdt:P170 wd:Q47551 .
   ?item wdt:P31 wd:Q3305213 .
   OPTIONAL { ?item wdt:P136 ?genre . }
   OPTIONAL { ?item wdt:P180 ?depicts . }

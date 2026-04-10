@@ -161,6 +161,34 @@
       transition: border-color 0.2s;
     }
     .exp:hover .exp-summary { border-color: var(--orange); }
+    .exp-summary.has-value { color: var(--cadmium); border-color: rgba(224,176,64,0.5); }
+    .exp:hover .exp-summary.has-value { border-color: rgba(224,176,64,0.7); }
+
+    .exp-picks { display: none; }
+    .sentence:hover .exp-picks { display: inline; }
+    .sentence:hover .exp-summary { display: none; }
+    .sentence:hover .exp-hide-on-hover { display: none; }
+
+    .exp-brace {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.8em; color: var(--cobalt);
+      opacity: 0.6; font-style: normal; font-weight: 400;
+    }
+    .exp-label {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.82em; font-weight: 300;
+      color: var(--text-mid); font-style: normal;
+      margin-right: 0.1rem;
+    }
+    .pick {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.92em; font-weight: 400; font-style: italic;
+      border: none; background: transparent; cursor: pointer;
+      padding: 0.05rem 0.2rem; color: var(--text-mid);
+      opacity: 0.45; transition: color 0.2s, opacity 0.2s;
+    }
+    .pick:hover { opacity: 0.85; color: var(--text-hi); }
+    .pick.active { color: var(--cadmium); opacity: 1; font-weight: 500; }
 
     .search-row {
       margin-top: 0.5rem;
@@ -489,7 +517,33 @@
     <p class="sentence">
       <span class="static">showing</span>
       <span class="count-num" id="count">0</span>
-      <span>works</span>
+
+      <span class="exp" id="exp-scope">
+        <span class="exp-summary" id="scope-summary">works</span>
+        <span class="exp-picks"><span class="exp-brace">{</span><button class="pick active" data-g="scope" data-v="all">all</button>
+          <button class="pick" data-g="scope" data-v="famous">famous</button><span class="exp-brace">}</span></span>
+      </span>
+
+      <span class="static exp-hide-on-hover">from</span>
+
+      <span class="exp" id="exp-era">
+        <span class="exp-summary" id="era-summary">any era</span>
+        <span class="exp-picks"><span class="exp-label">from era</span> <span class="exp-brace">{</span> <button class="pick active" data-g="era" data-v="any">any</button>
+          <button class="pick" data-g="era" data-v="early">early (pre-1530)</button>
+          <button class="pick" data-g="era" data-v="middle">middle (1530–50)</button>
+          <button class="pick" data-g="era" data-v="late">late (post-1550)</button> <span class="exp-brace">}</span></span>
+      </span>
+
+      <span class="static exp-hide-on-hover">of subject</span>
+
+      <span class="exp" id="exp-subject">
+        <span class="exp-summary" id="subject-summary">any subject</span>
+        <span class="exp-picks"><span class="exp-label">of subject</span> <span class="exp-brace">{</span> <button class="pick active" data-g="subject" data-v="any">any</button>
+          <button class="pick" data-g="subject" data-v="portrait">portrait</button>
+          <button class="pick" data-g="subject" data-v="religious">religious</button>
+          <button class="pick" data-g="subject" data-v="mythological">mythological</button>
+          <button class="pick" data-g="subject" data-v="allegory">allegory</button> <span class="exp-brace">}</span></span>
+      </span>
     </p>
     <div class="search-row">
       <input type="text" class="search-field" id="search"
@@ -530,6 +584,10 @@
 <script>
 const PG = 80;
 let works = [], filtered = [], shown = 0, lbIdx = -1, query = '';
+let famousOnly = false, activeEra = 'any', activeSubject = 'any';
+
+const eraNames  = { early: 'early', middle: 'middle', late: 'late' };
+const subjNames = { portrait: 'portrait', religious: 'religious', mythological: 'mythological', allegory: 'allegory' };
 
 async function init() {
   const resp = await fetch('catalog.json');
@@ -540,18 +598,33 @@ async function init() {
 function applyFilters() {
   const q = query.toLowerCase();
   filtered = works.filter(w => {
-    if (q) {
-      return [w.title, w.current_location, w.date]
-        .filter(Boolean).join(' ').toLowerCase().includes(q);
-    }
+    if (famousOnly && !w.famous) return false;
+    if (activeEra !== 'any' && w.era !== activeEra) return false;
+    if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
+    if (q) return [w.title, w.current_location, w.date].filter(Boolean).join(' ').toLowerCase().includes(q);
     return true;
   });
-  
+
   shown = 0;
   document.getElementById('gallery').innerHTML = '';
   document.getElementById('count').textContent = filtered.length.toLocaleString();
   document.getElementById('topbar-count').textContent = filtered.length.toLocaleString() + ' works';
+  updateSummaries();
   loadPage();
+}
+
+function updateSummaries() {
+  const sc = document.getElementById('scope-summary');
+  sc.textContent = famousOnly ? 'famous works' : 'works';
+  sc.classList.toggle('has-value', famousOnly);
+
+  const ec = document.getElementById('era-summary');
+  ec.textContent = activeEra === 'any' ? 'any era' : eraNames[activeEra];
+  ec.classList.toggle('has-value', activeEra !== 'any');
+
+  const suc = document.getElementById('subject-summary');
+  suc.textContent = activeSubject === 'any' ? 'any subject' : subjNames[activeSubject];
+  suc.classList.toggle('has-value', activeSubject !== 'any');
 }
 
 function loadPage() {
@@ -624,6 +697,19 @@ function esc(s) { const d = document.createElement('div'); d.textContent = s || 
 document.getElementById('search').addEventListener('input', e => {
   query = e.target.value;
   applyFilters();
+});
+
+document.querySelectorAll('.pick').forEach(btn => {
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    const g = btn.dataset.g, v = btn.dataset.v;
+    document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    if (g === 'scope') famousOnly = (v === 'famous');
+    else if (g === 'era') activeEra = v;
+    else if (g === 'subject') activeSubject = v;
+    applyFilters();
+  });
 });
 
 document.getElementById('more').addEventListener('click', loadPage);
