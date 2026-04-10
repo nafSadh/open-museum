@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vermeer — open museum</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --night:    #0e1118;
+      --deep:     #141820;
+      --lapis:    #2c5a8a;
+      --cerulean: #4a90c0;
+      --pearl:    #e8dcc8;
+      --ochre:    #c0a060;
+      --text-hi:  #f0ece4;
+      --text-mid: #92908a;
+      --text-lo:  #44424a;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--night);
+      background-image:
+        radial-gradient(ellipse at 20% 25%, rgba(44,90,138,0.20) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 15%, rgba(192,160,96,0.12) 0%, transparent 50%),
+        radial-gradient(ellipse at 55% 75%, rgba(74,144,192,0.08) 0%, transparent 45%),
+        radial-gradient(ellipse at 30% 90%, rgba(232,220,200,0.06) 0%, transparent 50%);
+      color: var(--text-hi);
+      font-family: 'Fraunces', Georgia, serif;
+      font-optical-sizing: auto;
+      line-height: 1.7;
+      overflow-x: hidden;
+    }
+
+    .grain {
+      position: fixed; inset: 0; z-index: 1;
+      pointer-events: none; opacity: 0.3;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.04'/%3E%3C/svg%3E");
+    }
+
+    .stroke {
+      width: 100%; height: 2px; position: relative; z-index: 2;
+      background: linear-gradient(90deg,
+        transparent 5%, var(--lapis) 20%, var(--cerulean) 45%,
+        var(--pearl) 65%, var(--ochre) 85%, transparent 95%);
+      opacity: 0.20;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      position: relative; z-index: 2;
+      min-height: 100vh;
+      display: flex; flex-direction: column;
+      justify-content: center; align-items: flex-start;
+      padding: 0 8vw;
+      max-width: 1200px; margin: 0 auto;
+      gap: 1rem;
+    }
+    .hero-back {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; color: var(--text-mid);
+      letter-spacing: 0.1em; text-decoration: none;
+      transition: color 0.2s;
+    }
+    .hero-back:hover { color: var(--cerulean); }
+    .hero-back::before { content: '\2190\00a0\00a0'; opacity: 0.5; }
+
+    .hero-name {
+      font-size: clamp(4rem, 14vw, 10rem);
+      font-weight: 900; font-style: italic;
+      letter-spacing: -0.04em;
+      line-height: 1.25; padding: 0.05em 0.1em 0.1em 0;
+      background: linear-gradient(135deg,
+        var(--lapis) 0%, var(--cerulean) 30%, var(--text-hi) 55%,
+        var(--pearl) 80%, var(--ochre) 100%);
+      background-size: 200% 200%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      animation: shimmer 12s ease-in-out infinite alternate;
+    }
+    @keyframes shimmer {
+      0%   { background-position: 0% 50%; }
+      100% { background-position: 100% 50%; }
+    }
+
+    .hero-sub {
+      font-family: 'Fira Code', monospace;
+      font-size: clamp(0.68rem, 1.4vw, 0.85rem);
+      color: var(--cerulean); letter-spacing: 0.14em;
+    }
+
+    .hero-desc {
+      font-size: clamp(1rem, 2.2vw, 1.3rem);
+      font-weight: 300; color: var(--text-mid);
+      max-width: 480px; line-height: 1.7;
+      margin-top: 0.5rem;
+    }
+    .hero-desc em { color: var(--pearl); font-style: italic; }
+
+    .scroll-cue {
+      position: absolute; bottom: 4vh; left: 8vw;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.62rem; color: var(--text-mid);
+      letter-spacing: 0.16em;
+      display: flex; align-items: center; gap: 0.6rem;
+    }
+    .scroll-cue::after {
+      content: ''; width: 1px; height: 32px;
+      background: linear-gradient(to bottom, var(--cerulean), transparent);
+      animation: pulse 2.4s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100% { opacity: 0.2; } 50% { opacity: 0.65; } }
+
+    /* ── Controls ── */
+    .controls {
+      position: relative; z-index: 10;
+      max-width: 1200px; margin: 0 auto;
+      padding: 4.5vh 8vw 2vh;
+    }
+
+    .sentence {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: clamp(1rem, 2.2vw, 1.25rem);
+      font-weight: 300;
+      line-height: 2.4;
+      color: var(--text-mid);
+    }
+    .sentence .count-num {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.88em; color: inherit;
+      font-weight: 400; font-style: normal;
+    }
+
+    .exp { display: inline; position: relative; }
+    .exp-summary {
+      font-style: italic; font-weight: 500;
+      color: var(--text-hi);
+      cursor: default;
+      border-bottom: 1px dashed rgba(74,144,192,0.5);
+      padding: 0.05rem 0;
+      transition: border-color 0.2s;
+    }
+    .exp:hover .exp-summary { border-color: var(--cerulean); }
+    .exp-summary.has-value { color: var(--pearl); border-color: rgba(232,220,200,0.5); }
+    .exp:hover .exp-summary.has-value { border-color: rgba(232,220,200,0.7); }
+
+    .exp-picks { display: none; }
+    .sentence:hover .exp-picks { display: inline; }
+    .sentence:hover .exp-summary { display: none; }
+    .sentence:hover .exp-hide-on-hover { display: none; }
+
+    .exp-brace {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.8em; color: var(--cerulean);
+      opacity: 0.6; font-style: normal; font-weight: 400;
+    }
+    .exp-label {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.82em; font-weight: 300;
+      color: var(--text-mid); font-style: normal;
+      margin-right: 0.1rem;
+    }
+    .pick {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.92em; font-weight: 400; font-style: italic;
+      border: none; background: transparent; cursor: pointer;
+      padding: 0.05rem 0.2rem; color: var(--text-mid);
+      opacity: 0.45; transition: color 0.2s, opacity 0.2s;
+    }
+    .pick:hover { opacity: 0.85; color: var(--text-hi); }
+    .pick.active { color: var(--pearl); opacity: 1; font-weight: 500; }
+
+    /* ── Layout toggle ── */
+    .layout-row {
+      margin-top: 1.1rem;
+      display: flex; align-items: center; gap: 0.5rem;
+    }
+    .layout-label {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.62rem; color: var(--text-lo);
+      letter-spacing: 0.12em;
+    }
+    .layout-btn {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.62rem; letter-spacing: 0.1em;
+      background: transparent; border: 1px solid transparent;
+      color: var(--text-lo); cursor: pointer;
+      padding: 0.18rem 0.55rem; border-radius: 2px;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .layout-btn:hover { color: var(--text-mid); border-color: rgba(74,144,192,0.2); }
+    .layout-btn.active { color: var(--cerulean); border-color: rgba(74,144,192,0.4); }
+
+    .search-row { margin-top: 0.5rem; }
+    .search-field {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; font-weight: 400;
+      background: transparent; border: none;
+      border-bottom: 1px solid rgba(74,144,192,0.3);
+      color: var(--text-hi);
+      width: 280px;
+      padding: 0.3rem 0;
+      outline: none;
+      transition: border-color 0.3s, width 0.3s;
+      letter-spacing: 0.04em;
+    }
+    .search-field:focus { border-color: var(--cerulean); width: 340px; }
+    .search-field::placeholder { color: var(--text-lo); }
+
+    /* ── Gallery ── */
+    .gallery-section {
+      position: relative; z-index: 2;
+      max-width: 1200px; margin: 0 auto;
+      padding: 0 8vw 10vh;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1.2rem;
+    }
+
+    .card {
+      position: relative; overflow: hidden; cursor: pointer;
+      aspect-ratio: 1; background: var(--deep);
+      border-radius: 3px;
+      box-shadow:
+        0 0 8px rgba(44,90,138,0.12),
+        0 0 24px rgba(44,90,138,0.06);
+      transition: box-shadow 0.5s ease, transform 0.5s ease;
+    }
+    .card:hover {
+      box-shadow:
+        0 0 10px rgba(74,144,192,0.18),
+        0 0 28px rgba(44,90,138,0.14),
+        0 0 56px rgba(44,90,138,0.08);
+      transform: translateY(-2px);
+    }
+    .card-img {
+      width: 100%; height: 100%; object-fit: cover; display: block;
+      opacity: 0.78;
+      transition: opacity 0.5s, transform 0.6s;
+    }
+    .card:hover .card-img { opacity: 1; transform: scale(1.04); }
+
+    /* Layout: tall */
+    .gallery.tall .card { aspect-ratio: 2/3; }
+
+    /* Layout: flow (CSS columns masonry) */
+    .gallery.flow {
+      display: block;
+      columns: 4 180px;
+      column-gap: 1rem;
+    }
+    .gallery.flow .card {
+      display: block;
+      aspect-ratio: var(--ar, 3/4);
+      width: 100%;
+      margin-bottom: 1rem;
+      break-inside: avoid;
+      transform: none;
+    }
+    .gallery.flow .card:hover { transform: none; }
+    .gallery.flow .card-img { object-fit: cover; }
+
+    .card-info {
+      position: absolute; inset: 0;
+      background: linear-gradient(to top, rgba(14,17,24,0.92) 0%, transparent 45%);
+      display: flex; flex-direction: column; justify-content: flex-end;
+      padding: 0.8rem;
+      opacity: 0; transition: opacity 0.35s;
+    }
+    .card:hover .card-info { opacity: 1; }
+    .card-title {
+      font-size: 0.82rem; font-weight: 400; font-style: italic;
+      color: var(--text-hi); line-height: 1.2;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+    .card-meta {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.52rem; color: var(--pearl);
+      letter-spacing: 0.06em; margin-top: 0.15rem; opacity: 0.6;
+    }
+    .card-empty {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Fira Code', monospace; font-size: 0.52rem;
+      color: var(--text-lo); text-align: center; padding: 0.8rem;
+    }
+
+    /* ── Lightbox ── */
+    .lb {
+      display: none; position: fixed; inset: 0; z-index: 300;
+      background: #0a0c10;
+      background-image:
+        radial-gradient(ellipse at 50% 45%, rgba(44,90,138,0.05) 0%, transparent 60%),
+        radial-gradient(ellipse at 50% 80%, rgba(232,220,200,0.03) 0%, transparent 50%);
+    }
+    .lb.open { display: block; }
+
+    .lb-top {
+      position: absolute; top: 0; left: 0; right: 0; z-index: 2;
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 1.2rem 2.5rem;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.6rem; color: rgba(240,236,228,0.15);
+      letter-spacing: 0.12em;
+      transition: color 0.5s;
+    }
+    .lb:hover .lb-top { color: rgba(240,236,228,0.35); }
+    .lb-btn {
+      background: none; border: none;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.6rem; color: inherit;
+      cursor: pointer; letter-spacing: 0.12em;
+      transition: color 0.2s;
+    }
+    .lb-btn:hover { color: var(--cerulean); }
+
+    .lb-canvas {
+      position: absolute; inset: 0;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .lb-canvas::before {
+      content: '';
+      position: absolute;
+      width: 80vw; height: 80vh;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      background: radial-gradient(ellipse at center,
+        rgba(74,144,192,0.04) 0%,
+        rgba(232,220,200,0.03) 30%,
+        transparent 65%);
+      pointer-events: none;
+    }
+
+    .lb-img {
+      position: relative; z-index: 1;
+      max-width: 72vw; max-height: 68vh;
+      object-fit: contain;
+      box-shadow:
+        0 0 4px rgba(44,90,138,0.12),
+        0 0 12px rgba(44,90,138,0.08);
+      animation: lb-fade-in 0.4s ease-out;
+    }
+    @keyframes lb-fade-in {
+      from { opacity: 0; transform: scale(0.97); }
+      to   { opacity: 1; transform: scale(1); }
+    }
+
+    .lb-arrow {
+      position: absolute; top: 50%; z-index: 2;
+      transform: translateY(-50%);
+      background: none; border: none;
+      font-size: 1.8rem; color: rgba(240,236,228,0.08);
+      cursor: pointer; padding: 2rem;
+      transition: color 0.3s;
+    }
+    .lb-arrow:hover { color: rgba(74,144,192,0.45); }
+    .lb-arrow.prev { left: 1vw; }
+    .lb-arrow.next { right: 1vw; }
+
+    .lb-info {
+      position: absolute; bottom: 0; left: 0; right: 0; z-index: 2;
+      text-align: center;
+      padding: 0 2rem 2.5rem;
+      opacity: 0; transition: opacity 0.5s;
+      pointer-events: none;
+    }
+    .lb:hover .lb-info { opacity: 1; pointer-events: auto; }
+
+    .lb-painting-title {
+      font-size: clamp(1.1rem, 2.8vw, 1.6rem);
+      font-weight: 400; font-style: italic;
+      color: rgba(240,236,228,0.9);
+      line-height: 1.2;
+      margin-bottom: 0.4rem;
+    }
+    .lb-painting-sub {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; color: rgba(240,236,228,0.5);
+      letter-spacing: 0.08em;
+      line-height: 1.8;
+    }
+    .lb-ext-links {
+      display: inline-flex; gap: 1.2rem;
+      margin-top: 0.5rem;
+      font-family: 'Fira Code', monospace; font-size: 0.65rem;
+    }
+    .lb-ext-links a {
+      color: rgba(240,236,228,0.35);
+      text-decoration: none; letter-spacing: 0.06em;
+      transition: color 0.2s;
+    }
+    .lb-ext-links a:hover { color: var(--cerulean); }
+
+    /* ── Top bar ── */
+    .topbar {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 20;
+      display: flex; align-items: center; gap: 1.2rem;
+      padding: 0.6rem 8vw;
+      background: rgba(14,17,24,0.88);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(44,90,138,0.08);
+      opacity: 0;
+      transform: translateY(-100%);
+      transition: opacity 0.35s ease, transform 0.35s ease;
+      pointer-events: none;
+    }
+    .topbar.visible {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+    .topbar-back {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.6rem; color: var(--text-mid);
+      letter-spacing: 0.1em; text-decoration: none;
+      transition: color 0.2s;
+      white-space: nowrap;
+    }
+    .topbar-back:hover { color: var(--cerulean); }
+    .topbar-back::before { content: '\2190\00a0'; opacity: 0.5; }
+    .topbar-sep {
+      width: 1px; height: 14px;
+      background: rgba(44,90,138,0.2);
+      flex-shrink: 0;
+    }
+    .topbar-title {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.9rem; font-weight: 600; font-style: italic;
+      color: var(--text-hi);
+      opacity: 0.8;
+      cursor: pointer;
+      transition: opacity 0.2s;
+      white-space: nowrap;
+    }
+    .topbar-title:hover { opacity: 1; }
+    .topbar-count {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.58rem; color: var(--text-mid);
+      letter-spacing: 0.06em;
+      margin-left: auto;
+      opacity: 0.6;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 640px) {
+      .topbar { padding: 0.5rem 4vw; gap: 0.8rem; }
+      .topbar-count { display: none; }
+    }
+
+    footer {
+      position: relative; z-index: 2;
+      text-align: center;
+      padding: 4rem 6vw 5rem;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.68rem; color: var(--text-lo);
+      letter-spacing: 0.08em;
+    }
+    footer a { color: var(--text-lo); text-decoration: none; }
+    footer a:hover { color: var(--cerulean); }
+
+    ::selection { background: rgba(74,144,192,0.25); color: var(--text-hi); }
+
+    @media (max-width: 640px) {
+      .hero { padding: 0 6vw; }
+      .gallery-section { padding: 0 4vw 8vh; }
+      .gallery { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+      .gallery.flow { columns: 2 140px; }
+      .controls { padding: 3vh 6vw 2vh; }
+      .sentence { font-size: 1rem; }
+      .search-field { width: 100%; }
+      .search-field:focus { width: 100%; }
+      .lb-top { padding: 1rem 1.2rem; }
+      .lb-arrow { font-size: 1.4rem; padding: 1.2rem; }
+      .lb-arrow.prev { left: 0; }
+      .lb-arrow.next { right: 0; }
+      .lb-img { max-width: 90vw; max-height: 60vh; }
+      .lb-info { padding: 0 1.2rem 1.8rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="grain" aria-hidden="true"></div>
+
+  <nav class="topbar" id="topbar">
+    <a href="../index.html" class="topbar-back">open museum</a>
+    <div class="topbar-sep"></div>
+    <span class="topbar-title" id="topbar-title">Vermeer</span>
+    <span class="topbar-count" id="topbar-count"></span>
+  </nav>
+
+  <section class="hero">
+    <a href="../index.html" class="hero-back">open museum</a>
+    <h1 class="hero-name">Vermeer</h1>
+    <div class="hero-sub">dutch &middot; 1632 &ndash; 1675 &middot; public domain</div>
+    <p class="hero-desc">
+      The complete known works of Johannes Vermeer &mdash; quiet interiors bathed in light, painted with extraordinary precision. Only <em>37 paintings</em> survive.
+    </p>
+    <div class="scroll-cue" aria-hidden="true">scroll</div>
+  </section>
+
+  <div class="stroke"></div>
+
+  <div class="controls" id="controls">
+    <p class="sentence">
+      <span class="static">showing</span>
+      <span class="count-num" id="count">0</span>
+
+      <span class="exp" id="exp-scope">
+        <span class="exp-summary" id="scope-summary">works</span>
+        <span class="exp-picks"><span class="exp-brace">{</span><button class="pick active" data-g="scope" data-v="all">all</button>
+          <button class="pick" data-g="scope" data-v="famous">famous</button><span class="exp-brace">}</span></span>
+      </span>
+
+      <span class="static exp-hide-on-hover">from</span>
+
+      <span class="exp" id="exp-era">
+        <span class="exp-summary" id="era-summary">any era</span>
+        <span class="exp-picks"><span class="exp-label">from era</span> <span class="exp-brace">{</span> <button class="pick active" data-g="era" data-v="any">any</button>
+          <button class="pick" data-g="era" data-v="early">early (pre-1658)</button>
+          <button class="pick" data-g="era" data-v="middle">middle (1658&ndash;65)</button>
+          <button class="pick" data-g="era" data-v="late">late (post-1665)</button> <span class="exp-brace">}</span></span>
+      </span>
+
+      <span class="static exp-hide-on-hover">of subject</span>
+
+      <span class="exp" id="exp-subject">
+        <span class="exp-summary" id="subject-summary">any subject</span>
+        <span class="exp-picks"><span class="exp-label">of subject</span> <span class="exp-brace">{</span> <button class="pick active" data-g="subject" data-v="any">any</button>
+          <button class="pick" data-g="subject" data-v="genre">genre</button>
+          <button class="pick" data-g="subject" data-v="portrait">portrait</button>
+          <button class="pick" data-g="subject" data-v="landscape">landscape</button>
+          <button class="pick" data-g="subject" data-v="allegory">allegory</button>
+          <button class="pick" data-g="subject" data-v="religious">religious</button> <span class="exp-brace">}</span></span>
+      </span>
+    </p>
+    <div class="layout-row">
+      <span class="layout-label">layout</span>
+      <button class="layout-btn" data-layout="square">square</button>
+      <button class="layout-btn" data-layout="tall">tall</button>
+      <button class="layout-btn active" data-layout="flow">flow</button>
+    </div>
+    <div class="search-row">
+      <input type="text" class="search-field" id="search"
+             placeholder="search by title, location, date..." autocomplete="off" spellcheck="false">
+    </div>
+  </div>
+
+  <div class="gallery-section">
+    <div class="gallery flow" id="gallery"></div>
+  </div>
+
+  <div class="lb" id="lb">
+    <div class="lb-top">
+      <span id="lb-pos"></span>
+      <button class="lb-btn" id="lb-close">close</button>
+    </div>
+    <div class="lb-canvas" id="lb-canvas">
+      <button class="lb-arrow prev" id="lb-prev">&lsaquo;</button>
+      <img class="lb-img" id="lb-img" alt="">
+      <button class="lb-arrow next" id="lb-next">&rsaquo;</button>
+    </div>
+    <div class="lb-info">
+      <div class="lb-painting-title" id="lb-title"></div>
+      <div class="lb-painting-sub" id="lb-sub"></div>
+      <div class="lb-ext-links" id="lb-links"></div>
+    </div>
+  </div>
+
+  <footer>
+    images from <a href="https://commons.wikimedia.org/">wikimedia commons</a>
+    &middot;
+    data from <a href="https://en.wikipedia.org/">wikipedia</a>
+  </footer>
+
+<script>
+let works = [], filtered = [], lbIdx = -1, query = '';
+let famousOnly = false, activeEra = 'any', activeSubject = 'any';
+let activeLayout = 'flow';
+
+const eraNames     = { early: 'early', middle: 'middle', late: 'late' };
+const subjectNames = { genre: 'genre', portrait: 'portrait', landscape: 'landscape', allegory: 'allegory', religious: 'religious' };
+
+async function init() {
+  const resp = await fetch('catalog.json');
+  works = await resp.json();
+  applyFilters();
+}
+
+function applyFilters() {
+  const q = query.toLowerCase();
+  filtered = works.filter(w => {
+    if (famousOnly && !w.famous) return false;
+    if (activeEra !== 'any' && w.era !== activeEra) return false;
+    if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
+    if (q) return [w.title, w.current_location, w.date, w.technique].filter(Boolean).join(' ').toLowerCase().includes(q);
+    return true;
+  });
+
+  const g = document.getElementById('gallery');
+  g.innerHTML = '';
+  document.getElementById('count').textContent = filtered.length;
+  document.getElementById('topbar-count').textContent = filtered.length + ' works';
+  updateSummaries();
+
+  const f = document.createDocumentFragment();
+  for (let i = 0; i < filtered.length; i++) f.appendChild(mkCard(filtered[i], i));
+  g.appendChild(f);
+  applyLayout();
+}
+
+function updateSummaries() {
+  const sc = document.getElementById('scope-summary');
+  sc.textContent = famousOnly ? 'famous works' : 'works';
+  sc.classList.toggle('has-value', famousOnly);
+
+  const ec = document.getElementById('era-summary');
+  ec.textContent = activeEra === 'any' ? 'any era' : eraNames[activeEra];
+  ec.classList.toggle('has-value', activeEra !== 'any');
+
+  const suc = document.getElementById('subject-summary');
+  suc.textContent = activeSubject === 'any' ? 'any subject' : subjectNames[activeSubject];
+  suc.classList.toggle('has-value', activeSubject !== 'any');
+}
+
+function applyLayout() {
+  const g = document.getElementById('gallery');
+  g.classList.remove('tall', 'flow');
+  if (activeLayout === 'tall') g.classList.add('tall');
+  if (activeLayout === 'flow') g.classList.add('flow');
+}
+
+function mkCard(w, idx) {
+  const el = document.createElement('div');
+  el.className = 'card';
+  el.onclick = () => openLb(idx);
+  if (w.image_width && w.image_height) {
+    el.style.setProperty('--ar', `${w.image_width}/${w.image_height}`);
+  }
+  const t = w.thumb_url || '';
+  if (t) {
+    el.innerHTML =
+      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy">` +
+      `<div class="card-info"><div class="card-title">${esc(w.title)}</div>` +
+      `<div class="card-meta">${esc(w.date || '')}</div></div>`;
+  } else {
+    el.innerHTML = `<div class="card-empty">${esc(w.title || 'untitled')}</div>`;
+  }
+  return el;
+}
+
+function openLb(idx) {
+  lbIdx = idx;
+  renderLb();
+  document.getElementById('lb').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeLb() {
+  document.getElementById('lb').classList.remove('open');
+  document.body.style.overflow = '';
+  lbIdx = -1;
+}
+function navLb(d) {
+  if (lbIdx < 0) return;
+  lbIdx = (lbIdx + d + filtered.length) % filtered.length;
+  renderLb();
+}
+function renderLb() {
+  const w = filtered[lbIdx];
+  const img = document.getElementById('lb-img');
+  img.src = w.thumb_url || '';
+  img.alt = w.title;
+  img.style.animation = 'none';
+  img.offsetHeight;
+  img.style.animation = '';
+
+  document.getElementById('lb-title').textContent = w.title;
+  document.getElementById('lb-pos').textContent = (lbIdx + 1) + ' / ' + filtered.length;
+
+  const parts = [w.date, w.technique, w.dimensions, w.current_location].filter(Boolean);
+  document.getElementById('lb-sub').textContent = parts.join(' \u00b7 ');
+
+  let lk = '';
+  if (w.commons_page) lk += `<a href="${w.commons_page}" target="_blank">commons</a>`;
+  if (w.image_url) lk += `<a href="${w.image_url}" target="_blank">full resolution</a>`;
+  if (w.wikipedia_url) lk += `<a href="${w.wikipedia_url}" target="_blank">wikipedia</a>`;
+  document.getElementById('lb-links').innerHTML = lk;
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+document.getElementById('search').addEventListener('input', e => {
+  query = e.target.value;
+  applyFilters();
+});
+
+document.querySelectorAll('.pick').forEach(btn => {
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    const g = btn.dataset.g, v = btn.dataset.v;
+    document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    if (g === 'scope') famousOnly = (v === 'famous');
+    else if (g === 'era') activeEra = v;
+    else if (g === 'subject') activeSubject = v;
+    applyFilters();
+  });
+});
+
+document.querySelectorAll('.layout-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.layout-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeLayout = btn.dataset.layout;
+    applyLayout();
+  });
+});
+
+const tb = document.getElementById('topbar');
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 300) tb.classList.add('visible');
+  else tb.classList.remove('visible');
+}, { passive: true });
+
+document.getElementById('topbar-title').addEventListener('click', () => {
+  window.scrollTo({ top: 0 });
+});
+
+document.getElementById('lb-close').addEventListener('click', closeLb);
+document.getElementById('lb-prev').addEventListener('click', () => navLb(-1));
+document.getElementById('lb-next').addEventListener('click', () => navLb(1));
+document.getElementById('lb').addEventListener('click', e => {
+  if (e.target === document.getElementById('lb-canvas') || e.target.classList.contains('lb-canvas')) closeLb();
+});
+window.addEventListener('keydown', e => {
+  if (lbIdx < 0) return;
+  if (e.key === 'Escape') closeLb();
+  if (e.key === 'ArrowLeft') navLb(-1);
+  if (e.key === 'ArrowRight') navLb(1);
+});
+
+init();
+</script>
+</body>
+</html>

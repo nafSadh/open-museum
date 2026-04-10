@@ -34,3 +34,7 @@
 | 19 | 2026-04-09 | rembrandt-commons-resolver | Resolve Commons URLs for Rembrandt | done | 804/806 resolved → rembrandt/catalog.json |
 | 20 | 2026-04-09 | rembrandt-enrich | Enrich catalog with era/subject/famous | done | early 435 / middle 245 / late 126; portrait 292 / religious 195 / landscape 49 / mythological 22; 129 famous |
 | 21 | 2026-04-09 | rembrandt-web-init | Create rembrandt/index.html gallery (medium/era/subject filters) + root listing | done | Gallery with 4 filters: medium, era, subject, famous |
+| 22 | 2026-04-09 | vermeer-wiki-scraper | Scrape Wikipedia list for Vermeer | done | 37 works (36 confirmed + 1 disputed) → vermeer/wiki_works_raw.json |
+| 23 | 2026-04-09 | vermeer-commons-resolver | Resolve Commons URLs for Vermeer | done | 37/37 resolved → vermeer/catalog.json |
+| 24 | 2026-04-09 | vermeer-enrich | Enrich catalog with era/subject/famous | done | early 8 / middle 15 / late 14; genre 25 / religious 3 / allegory 2 / portrait 2 / landscape 2; 28 famous |
+| 25 | 2026-04-09 | vermeer-web-init | Create vermeer/index.html gallery + root listing | done | Lapis/pearl palette, flow layout default, 3 layout modes |
