@@ -22,9 +22,10 @@
 - [ ] "Load more" → infinite scroll or pagination improvement
 
 ### Other artists
+- [x] Titian collection (164 works, series/era/subject/famous filters)
+- [x] Claude Monet collection (1,774 works, series filter)
 - [ ] Rembrandt collection
 - [ ] Vermeer collection
-- [ ] Claude Monet collection
 - [ ] Edgar Degas collection
 - [ ] Paul Cézanne collection
 - [ ] Leonardo da Vinci collection
@@ -37,7 +38,6 @@
 - [ ] Mary Cassatt collection
 - [ ] Raphael collection
 - [ ] Sandro Botticelli collection
-- [ ] Titian collection
 - [ ] Hieronymus Bosch collection
 - [ ] Pieter Bruegel the Elder collection
 - [ ] Jan van Eyck collection

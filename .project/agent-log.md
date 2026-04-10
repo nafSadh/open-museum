@@ -23,3 +23,10 @@
 | 8 | 2026-04-06 | titian-wiki-scraper | Run scrape_wiki_list.py for Titian | done | 164 works -> titian/wiki_works_raw.json |
 | 9 | 2026-04-06 | titian-commons-resolver | Run resolve_commons_urls.py for Titian | done | 164/164 resolved -> titian/catalog.json |
 | 10 | 2026-04-06 | titian-web-init | Create titian/index.html gallery and root listing | done | Titian catalog page added |
+| 11 | 2026-04-06 | monet-wiki-scraper | Run scrape_wiki_list.py for Monet | done | 1,774 works -> monet/wiki_works_raw.json |
+| 12 | 2026-04-06 | monet-commons-resolver | Run resolve_commons_urls.py for Monet | done | Resolved -> monet/catalog.json |
+| 13 | 2026-04-06 | monet-web-init | Create monet/index.html gallery and root listing | done | Add Monet page and root link |
+| 14 | 2026-04-05 | titian-enrich | Create enrich_catalog.py; compute era/subject/type/famous for all 164 works | done | early 55 / middle 64 / late 45; portrait 50 / religious 40 / mythological 27 / allegory 6; 41 famous |
+| 15 | 2026-04-06 | titian-gallery-filters | Add sentence-builder filters (era, subject, famous) to titian/index.html | done | Inline pick UI with live filtering |
+| 16 | 2026-04-06 | monet-enrich | Create enrich_catalog.py; compute era/subject/famous for all 1,774 works | done | early 144 / impressionist 1137 / series 493; water 664 / landscape 465 / garden 224 / urban 81 / portrait 58 / still_life 38; 437 famous |
+| 17 | 2026-04-06 | monet-gallery-filters | Add era, subject, famous filters to monet/index.html sentence builder | done | Filters alongside existing series picker |

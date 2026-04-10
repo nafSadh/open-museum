@@ -14,6 +14,8 @@ A comprehensive catalog of **Vincent van Gogh's** artworks with links to public 
 - [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh) — Wikipedia biography
 - [Vincent van Gogh on Wikimedia Commons](https://commons.wikimedia.org/wiki/Vincent_van_Gogh)
 
+> **Note on Museum APIs**: We evaluated integrating APIs from The Met, Art Institute of Chicago, and Rijksmuseum. We decided to stick with Wikipedia/Wikidata as the primary source to minimize scraping complexity and fuzzy-matching overhead. See `../.project/api-sources-evaluation.md` for details.
+
 ## Catalog Schema
 
 Each entry in `catalog.json` follows this structure:
