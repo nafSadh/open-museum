@@ -30,3 +30,7 @@
 | 15 | 2026-04-06 | titian-gallery-filters | Add sentence-builder filters (era, subject, famous) to titian/index.html | done | Inline pick UI with live filtering |
 | 16 | 2026-04-06 | monet-enrich | Create enrich_catalog.py; compute era/subject/famous for all 1,774 works | done | early 144 / impressionist 1137 / series 493; water 664 / landscape 465 / garden 224 / urban 81 / portrait 58 / still_life 38; 437 famous |
 | 17 | 2026-04-06 | monet-gallery-filters | Add era, subject, famous filters to monet/index.html sentence builder | done | Filters alongside existing series picker |
+| 18 | 2026-04-09 | rembrandt-wiki-scraper | Scrape 3 Wikipedia list pages for Rembrandt | done | 806 works (348 paintings, 289 etchings, 169 drawings) → rembrandt/wiki_works_raw.json |
+| 19 | 2026-04-09 | rembrandt-commons-resolver | Resolve Commons URLs for Rembrandt | done | 804/806 resolved → rembrandt/catalog.json |
+| 20 | 2026-04-09 | rembrandt-enrich | Enrich catalog with era/subject/famous | done | early 435 / middle 245 / late 126; portrait 292 / religious 195 / landscape 49 / mythological 22; 129 famous |
+| 21 | 2026-04-09 | rembrandt-web-init | Create rembrandt/index.html gallery (medium/era/subject filters) + root listing | done | Gallery with 4 filters: medium, era, subject, famous |

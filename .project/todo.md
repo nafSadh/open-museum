@@ -24,7 +24,7 @@
 ### Other artists
 - [x] Titian collection (164 works, series/era/subject/famous filters)
 - [x] Claude Monet collection (1,774 works, series filter)
-- [ ] Rembrandt collection
+- [x] Rembrandt collection (806 works: 348 paintings, 289 etchings, 169 drawings)
 - [ ] Vermeer collection
 - [ ] Edgar Degas collection
 - [ ] Paul Cézanne collection
