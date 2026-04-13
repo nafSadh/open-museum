@@ -1,0 +1,2729 @@
+[
+  {
+    "title": "Leaving Edo : Nihonbashi, (The bridge of Japan)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige01_nihonbashi.jpg",
+    "japanese_title": "日本橋",
+    "transliteration": "Nihonbashi"
+  },
+  {
+    "title": "1st station : Shinagawa.",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-02-Shinagawa-MIA-01.jpg",
+    "japanese_title": "品川",
+    "transliteration": "Shinagawa"
+  },
+  {
+    "title": "2nd station : Kawasaki",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-03-Kawasaki-BM-01.jpg",
+    "japanese_title": "川崎",
+    "transliteration": "Kawasaki"
+  },
+  {
+    "title": "3rd station : Kanagawa",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-04-Kanagawa-BM-03.jpg",
+    "japanese_title": "神奈川",
+    "transliteration": "Kanagawa"
+  },
+  {
+    "title": "4th station : Hodogaya",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-05-Hodogaya-Tokyo-Met-02.jpg",
+    "japanese_title": "程ヶ谷, 保土ヶ谷",
+    "transliteration": "Hodogaya"
+  },
+  {
+    "title": "5th station : Totsuka",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-06-Totsuka-MFA-01.jpg",
+    "japanese_title": "戸塚",
+    "transliteration": "Totsuka"
+  },
+  {
+    "title": "6th station : Fujisawa",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Tokaido06_Fujisawa.jpg",
+    "japanese_title": "藤沢",
+    "transliteration": "Fujisawa"
+  },
+  {
+    "title": "7th station : Hiratsuka",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Tokaido07_Hiratsuka.jpg",
+    "japanese_title": "平塚",
+    "transliteration": "Hiratsuka"
+  },
+  {
+    "title": "8th station : Oiso (Rain on a town by the coast)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Tokaido08_Oiso.jpg",
+    "japanese_title": "大磯",
+    "transliteration": "Oiso"
+  },
+  {
+    "title": "9th station : Odawara (Crossing the Sakawa river at a ford)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Tokaido09_Odawara.jpg",
+    "japanese_title": "小田原",
+    "transliteration": "Odawara"
+  },
+  {
+    "title": "10th station : Hakone (High rocks by a lake)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-11-Hakone-MFA-01.jpg",
+    "japanese_title": "箱根",
+    "transliteration": "Hakone"
+  },
+  {
+    "title": "11th station : Mishima (Travellers passing a shrine in the mist)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-12-Mishima-MET-01.jpg",
+    "japanese_title": "三島",
+    "transliteration": "Mishima"
+  },
+  {
+    "title": "12th station : Numazu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-13-Numazu-Tokyo-MET-01.jpg",
+    "japanese_title": "沼津",
+    "transliteration": "Numazu"
+  },
+  {
+    "title": "13th station : Hara (Travellers passing Mount Fuji)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-14-Hara-MFA-01.jpg",
+    "japanese_title": "原",
+    "transliteration": "Hara"
+  },
+  {
+    "title": "14th station : Yoshiwara",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige15_yoshiwara.jpg",
+    "japanese_title": "吉原",
+    "transliteration": "Yoshiwara"
+  },
+  {
+    "title": "15th station : Kanbara (A village in the snow)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-16-Kanbara-MFA-02.jpg",
+    "japanese_title": "蒲原",
+    "transliteration": "Kanbara"
+  },
+  {
+    "title": "16th station : Yui (Travellers on a high cliff by the sea)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-17-Yui-ETM-01.jpg",
+    "japanese_title": "由井, 由比",
+    "transliteration": "Yui"
+  },
+  {
+    "title": "17th station : Okitsu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige18_okitsu.jpg",
+    "japanese_title": "興津",
+    "transliteration": "Okitsu"
+  },
+  {
+    "title": "18th station : Ejiri",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige19_ejiri.jpg",
+    "japanese_title": "江尻",
+    "transliteration": "Ejiri"
+  },
+  {
+    "title": "19th station : Fuchū",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige20_fuchu.jpg",
+    "japanese_title": "府中, 駿府",
+    "transliteration": "Fuchū"
+  },
+  {
+    "title": "20th station : Mariko (A roadside restaurant)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-21-Mariko-MFA-03.jpg",
+    "japanese_title": "鞠子, 丸子",
+    "transliteration": "Mariko"
+  },
+  {
+    "title": "21st station : Okabe",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige22_okabe.jpg",
+    "japanese_title": "岡部",
+    "transliteration": "Okabe"
+  },
+  {
+    "title": "22nd station : Fujieda",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige23_fujieda.jpg",
+    "japanese_title": "藤枝",
+    "transliteration": "Fujieda"
+  },
+  {
+    "title": "23rd station : Shimada",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige24_shimada.jpg",
+    "japanese_title": "島田",
+    "transliteration": "Shimada"
+  },
+  {
+    "title": "24th station : Kanaya (Crossing a wide river)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige25_kanaya.jpg",
+    "japanese_title": "金屋, 金谷",
+    "transliteration": "Kanaya"
+  },
+  {
+    "title": "25th station : Nissaka",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige26_nissaka.jpg",
+    "japanese_title": "日坂",
+    "transliteration": "Nissaka"
+  },
+  {
+    "title": "26th station : Kakegawa",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige27_kakegawa.jpg",
+    "japanese_title": "掛川",
+    "transliteration": "Kakegawa"
+  },
+  {
+    "title": "27th station : Fukuroi",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige28_fukuroi.jpg",
+    "japanese_title": "袋井",
+    "transliteration": "Fukuroi"
+  },
+  {
+    "title": "28th station : Mitsuke",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Tokaido28_Mitsuke.jpg",
+    "japanese_title": "見附",
+    "transliteration": "Mitsuke"
+  },
+  {
+    "title": "29th station : Hamamatsu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige30_hamamatsu.jpg",
+    "japanese_title": "浜松",
+    "transliteration": "Hamamatsu"
+  },
+  {
+    "title": "30th station : Maisaka",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-31-Maisaka-MFA-01.jpg",
+    "japanese_title": "舞阪",
+    "transliteration": "Maisaka"
+  },
+  {
+    "title": "31st station : Arai",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-31-32-Arai-MFA-01.jpg",
+    "japanese_title": "荒井, 新居",
+    "transliteration": "Arai"
+  },
+  {
+    "title": "32nd station : Shirasuka",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-33-Shirasuka-Tokyo-Met-02.jpg",
+    "japanese_title": "白須賀",
+    "transliteration": "Shirasuka"
+  },
+  {
+    "title": "33rd station : Futagawa",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-34-Futagawa-MFA-02.jpg",
+    "japanese_title": "二川",
+    "transliteration": "Futagawa"
+  },
+  {
+    "title": "34th station : Yoshida",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-35-Yoshida-MFA-02.jpg",
+    "japanese_title": "吉田",
+    "transliteration": "Yoshida"
+  },
+  {
+    "title": "35th station : Goyu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-36-Goyu-MFA-01.jpg",
+    "japanese_title": "御油",
+    "transliteration": "Goyu"
+  },
+  {
+    "title": "36th station : Akasaka",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-37-Akasaka-MFA-01.jpg",
+    "japanese_title": "赤坂",
+    "transliteration": "Akasaka"
+  },
+  {
+    "title": "37th station : Fujikawa",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige38_fujikawa.jpg",
+    "japanese_title": "藤川",
+    "transliteration": "Fujikawa"
+  },
+  {
+    "title": "38th station : Okazaki",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige39_okazaki.jpg",
+    "japanese_title": "岡崎",
+    "transliteration": "Okazaki"
+  },
+  {
+    "title": "39th station : Chiryu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-40-Chiryu-MET-New-York-01.jpg",
+    "japanese_title": "池鯉鮒, 知立",
+    "transliteration": "Chiryu"
+  },
+  {
+    "title": "40th station : Narumi",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg",
+    "japanese_title": "鳴海",
+    "transliteration": "Narumi"
+  },
+  {
+    "title": "41st station : Miya",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige42_miya.jpg",
+    "japanese_title": "宮",
+    "transliteration": "Miya"
+  },
+  {
+    "title": "42nd station : Kuwana",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-43-Kuwana-ETM-Tokyo-01.jpg",
+    "japanese_title": "桑名",
+    "transliteration": "Kuwana"
+  },
+  {
+    "title": "43rd station : Yokkaichi",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-44-Yokkaichi-MFA-01.jpg",
+    "japanese_title": "四日市",
+    "transliteration": "Yokkaichi"
+  },
+  {
+    "title": "44th station : Ishiyakushi",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige45_ishiyakushi.jpg",
+    "japanese_title": "石薬師",
+    "transliteration": "Ishiyakushi"
+  },
+  {
+    "title": "45th station : Shōno (Travellers surprised by sudden rain)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Tokaido45_Shono.jpg",
+    "japanese_title": "庄野",
+    "transliteration": "Shōno"
+  },
+  {
+    "title": "46th station : Kameyama (A castle on a snow-covered slope)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige47_kameyama.jpg",
+    "japanese_title": "亀山",
+    "transliteration": "Kameyama"
+  },
+  {
+    "title": "47th station : Seki (Departure from the inn)",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige48_seki.jpg",
+    "japanese_title": "関",
+    "transliteration": "Seki"
+  },
+  {
+    "title": "48th station : Sakashita",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige49_sakanoshita.jpg",
+    "japanese_title": "坂下",
+    "transliteration": "Sakashita"
+  },
+  {
+    "title": "49th station : Tsuchiyama",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige50_tsuchiyama.jpg",
+    "japanese_title": "土山",
+    "transliteration": "Tsuchiyama"
+  },
+  {
+    "title": "50th station : Minakuchi",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-51-Minakuchi-Met-New-York-01.jpg",
+    "japanese_title": "水口",
+    "transliteration": "Minakuchi"
+  },
+  {
+    "title": "51st station : Ishibe",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-52-Ishibe-MFA-01.jpg",
+    "japanese_title": "石部",
+    "transliteration": "Ishibe"
+  },
+  {
+    "title": "52nd station : Kusatsu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-53-Kusatsu-MFA-01.jpg",
+    "japanese_title": "草津",
+    "transliteration": "Kusatsu"
+  },
+  {
+    "title": "53rd station : Otsu",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige-53-Stations-Hoeido-54-Otsu-MFA-03.jpg",
+    "japanese_title": "大津",
+    "transliteration": "Otsu"
+  },
+  {
+    "title": "The end of the Tōkaidō: arriving at Kyoto.",
+    "series": "The Fifty-three Stations of the Tokaido",
+    "date": "1833-1834",
+    "commons_filename": "Hiroshige55_kyoto.jpg",
+    "japanese_title": "京師",
+    "transliteration": "Sanjō Ōhashi at Keishi (\"the capital\")"
+  },
+  {
+    "title": "Table of Contents",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "—",
+    "commons_filename": "Hiroshige,_Table_of_contents.jpg",
+    "depicted": "—",
+    "remarks": "Abbreviated titles of prints arranged by season: two boxes at top are spring, fan-shaped box is summer, bottom right box autumn and bottom left are winter prints"
+  },
+  {
+    "title": "Nihonbashi: Clearing after Snow (日本橋雪晴, Nihonbashi yukibare)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_001.jpg",
+    "depicted": "Nihonbashi, Edo Castle, Mount Fuji",
+    "remarks": "—"
+  },
+  {
+    "title": "Kasumigaseki (霞がせき)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 1",
+    "commons_filename": "100_views_edo_002.jpg",
+    "depicted": "Street (today Kasumigaseki-zaka), guardhouse of residence of Asano, barracks of samurai of the Kuroda clan, Edo Bay",
+    "remarks": "Kadomatsu gate pines and manzai dancers indicate a setting around New Year; kite with Japanese character for fish (Jap. \"sakana\") is a reference to the publisher of the series, Sakanaya Eikichi"
+  },
+  {
+    "title": "Hibiya and Soto-Sakurada from Yamashita-chō (山下町日比谷外さくら田, Yamashita-chō Hibiya Soto-Sakurada)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 12",
+    "commons_filename": "100_views_edo_003.jpg",
+    "depicted": "Residence of daimyō Nabeshima Kansō from the Saga Domain, outer moat of Edo Castle, Mount Fuji",
+    "remarks": "Kadomatsu pine, hagoita and kites indicate a setting around New year"
+  },
+  {
+    "title": "Tsukudajima and Eitai Bridge (永代橋佃しま, Eitaibashi Tsukudajima)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_004.jpg",
+    "depicted": "Eitai Bridge, Sumida River, fishing boats of Tsukudajima",
+    "remarks": "An almost identical composition titled Eitaibashi by Hiroshige exists in the second volume of his \"Illustrated Souvenirs of Edo\""
+  },
+  {
+    "title": "Ekōin Temple in Ryōgoku and Moto-Yanagi Bridge (両ごく回向院元柳橋, Ryōgoku Ekōin Moto-Yanagibashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / i5",
+    "commons_filename": "100_views_edo_005.jpg",
+    "depicted": "Drum tower of Ekō-in, Honjo neighbourhood, Sumida River, residence of Matsudaira feudal lor of Tanba, Mount Fuji",
+    "remarks": "Drum tower was associated with sumo tournaments held at Ekō-in; for marketing purposes the print appeared two months after a popular major exhibition of temple treasures at Ekō-in"
+  },
+  {
+    "title": "Hatsune Riding Ground in Bakuro-chō (馬喰町初音の馬場, Bakuro-chō Hatsune no baba)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "100_views_edo_006.jpg",
+    "depicted": "Hatsune Riding Ground and district's fire watch tower",
+    "remarks": "Dyers of Konya-chō district using riding grounds to dry their cloths"
+  },
+  {
+    "title": "Shops with Cotton Goods in Ōdenma-chō (大てんま町木綿店, Ōtenma-chō momendana)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 4",
+    "commons_filename": "100_views_edo_007.jpg",
+    "depicted": "Street scene with geishas, cotton shops in Ōdenma-chō",
+    "remarks": "—"
+  },
+  {
+    "title": "Suruga-chō (する賀てふ, Suruga tefu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 9",
+    "commons_filename": "100_views_edo_008.jpg",
+    "depicted": "Mitsui (yagō: Echigoya) textile stores, Mount Fuji",
+    "remarks": "Echigoya later became the Mitsukoshi department store chain whose modern day headquarters are located on the left side of the street in the print"
+  },
+  {
+    "title": "Yatsukōji, Inside Sujikai Gate (筋違内八ツ小路, Sujikai uchi Yatsukōji)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "100_views_edo_009.jpg",
+    "depicted": "Yatsukōji junction, Kanda River, Kanda Shrine",
+    "remarks": "One of the few open spaces in Edo, created as fire-breaks"
+  },
+  {
+    "title": "Sunrise at Kanda Myōjin Shrine (神田明神曙之景, Kanda Myōjin akebono no kei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "100_views_edo_010.jpg",
+    "depicted": "Kanda Shrine",
+    "remarks": "Probably produced as a souvenir of the shrine festival in memory of the Battle of Sekigahara celebrated on the 15th day of the 9th month"
+  },
+  {
+    "title": "Kiyomizu Hall and Shinobazu Pond at Ueno (上野清水堂不忍ノ池, Ueno Kiyomizu-dō Shinobazu no ike)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_011.jpg",
+    "depicted": "Kiyomizu Hall of Kan'ei-ji, Moon Pine, Shinobazu Pond",
+    "remarks": "Depicted pines are in reality much smaller"
+  },
+  {
+    "title": "Ueno Yamashita (上野山した)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 10",
+    "commons_filename": "100_views_edo_012.jpg",
+    "depicted": "Iseya restaurant, temples",
+    "remarks": "Published in the month after Hiroshige's death; composition probably based on his sketches but probably completed by Hiroshige II"
+  },
+  {
+    "title": "Shitaya Hirokōji (下谷広小路)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 9",
+    "commons_filename": "100_views_edo_013.jpg",
+    "depicted": "Hirokōji (\"Broadway\"), premises of textile retailer Matsuzakaya",
+    "remarks": "Published in the same month in which the depicted Matsuzakaya store re-opened after the 1855 earthquake"
+  },
+  {
+    "title": "Temple Gardens in Nippori (日暮里寺院の林泉, Nippori jiin no rinsen)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_014.jpg",
+    "depicted": "Temple Gardens",
+    "remarks": "Depicts cherries and azaleas in bloom while in reality they bloom at different times of the year"
+  },
+  {
+    "title": "Suwa Bluff in Nippori (日暮里諏訪の台, Nippori Suwanodai)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_015.jpg",
+    "depicted": "Suwa Myōjin Shrine grounds, Mount Tsukuba",
+    "remarks": "—"
+  },
+  {
+    "title": "Flower Park and Dangozaka Slope in Sendagi (千駄木団子坂花屋敷, Sendagi Dangozaka Hanayashiki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_016.jpg",
+    "depicted": "Cherry orchard, Pavilion of the Violet Spring (Shisentei)",
+    "remarks": "The print is a reference to the reconstruction of the Shisentai after the 1855 earthquake and to Tokugawa Iesada's visit to the park two months prior to publication"
+  },
+  {
+    "title": "View to the North from Asukayama (飛鳥山北の眺望, Asukayama kita no chōbō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_017.jpg",
+    "depicted": "Asukayama Park, Mount Tsukuba",
+    "remarks": "Possibly inspired by Tokugawa Iesada's visit to the park two months prior to publication"
+  },
+  {
+    "title": "The Ōji Inari Shrine (王子稲荷の社, Ōji Inari no yashiro)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "100_views_edo_018.jpg",
+    "depicted": "Ōji Inari Shrine, Mount Tsukuba",
+    "remarks": "—"
+  },
+  {
+    "title": "Dam on the Otonashi River at Ōji, known as \"The Great Waterfall\" (王子音無川堰棣 世俗大瀧ト唱, Ōji Otonashigawa entei, sezoku Ōtaki to tonau)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_019.jpg",
+    "depicted": "Otonashi River, Amida Hall of Kinrin-ji temple, Takata-chō",
+    "remarks": "Likely created to mark Tokugawa Iesada's visit to Kinrin-ji (Ōji Shrine) and Takata on the 21st day of the first month (also see no. 115, 116)"
+  },
+  {
+    "title": "The Kawaguchi Ferry and Zenkōji temple (川口のわたし善光寺, Kawaguchi no watashi Zenkōji)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_020.jpg",
+    "depicted": "Arakawa River, Zenkō-ji temple",
+    "remarks": "A year after Hiroshige designed the print, the Buddha in the Amida Hall at the top was due to be exhibited publicly for the first time in 13 years; in a pun Hiroshige covered the hall of this  \"secret Buddha\" with the title cartouche"
+  },
+  {
+    "title": "Mount Atago in Shiba (芝愛宕山, Shiba Atagoyama)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_021.jpg",
+    "depicted": "Atago Shrine, Edo Bay",
+    "remarks": "Scene depicts an emissary from Enpuku-ji temple who on every third day of the year performs a ceremony at Atago Shrine for good fortune, health and success and to avert hunger and disease; the large rice paddle in his hand symbolizes abundance, the seaweed around his neck was distributed after the ceremony among the faithful who used it to brew an infusion against colds"
+  },
+  {
+    "title": "Hiroo on Furukawa River (広尾ふる川, Hiroo Furukawa)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_022.jpg",
+    "depicted": "Furukawa River, \"Fox\" (kitsune) restaurant",
+    "remarks": "—"
+  },
+  {
+    "title": "Chiyogaike Pond in Meguro (目黒千代か池川, Meguro Chiyogaike)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_023.jpg",
+    "depicted": "Chiyogaike Pond",
+    "remarks": "Feature a — for the time — unusual depiction of reflections of the trees in the water"
+  },
+  {
+    "title": "New Fuji in Meguro (目黒新富士, Meguro Shin-Fuji)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_024.jpg",
+    "depicted": "Mita Aqueduct, Mount Fuji replica, Mount Fuji",
+    "remarks": "Subject is a replica (one of many) of Mount Fuji erected in 1829 by Fuji worshippers"
+  },
+  {
+    "title": "The Original Fuji in Meguro (目黒元不二, Meguro Moto-Fuji)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_025.jpg",
+    "depicted": "Mount Fuji replica, Mount Fuji",
+    "remarks": "Fuji replica erected in 1812 was at 12 m (39 ft) the tallest in Edo; this print was incorrectly placed in the spring section of the table of contents since the depicted cherry trees are in autumn foliage; spelling of \"Fuji\" in the title as (不二; lit. \"not two\") is thought to be a pun on the doubling of the mountain"
+  },
+  {
+    "title": "The \"Armour-Hanging Pine\" at Hakkeizaka Bluff (八景坂鎧掛松, Hakkeizaka Yoroikakematsu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_026.jpg",
+    "depicted": "Tōkaidō, Edo Bay",
+    "remarks": "Depicts a popular viewpoint of Edo Bay; according to legend, Minamoto no Yoshiie hung his armour on this tree in 1062; Hiroshige adapts the shape of the tree so that only a giant could have hung his armour on it"
+  },
+  {
+    "title": "Plum Orchard in Kamada (蒲田の梅園, Kamada no umezono)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_027.jpg",
+    "depicted": "Plum Orchard in Kamada",
+    "remarks": "—"
+  },
+  {
+    "title": "Palace Hill in Shinagawa (品川御殿やま, Shinagawa Gotenyama)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_028.jpg",
+    "depicted": "Palace Hill",
+    "remarks": "Depicts both a famous cherry blossom spot and the destruction of the landscape after removal of earth; the earth was used to build ramparts (daiba) in the sea following Commodore Perry's arrival in Edo Bay in 1853"
+  },
+  {
+    "title": "Moto-Hachiman Shrine in Sunamura (砂むら元八まん, Sunamura Moto-Hachiman)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_029.jpg",
+    "depicted": "Torii of Moto-Hachiman Shrine, Edo Bay",
+    "remarks": "—"
+  },
+  {
+    "title": "Plum Park in Kameido (亀戸梅屋舗, Kameido Umeyashiki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "De_pruimenboomgaard_te_Kameido-Rijksmuseum_RP-P-1956-743.jpeg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plum_Park_in_Kameido",
+    "depicted": "Plum Park in Kameido",
+    "remarks": "Both in color and theme this print is related to print no. 27 (Plum Orchard in Kamada); copied by Vincent van Gogh under the title Japonaiserie: Flowering Plum Tree"
+  },
+  {
+    "title": "Azuma no mori Shrine and the Entwined Camphor (吾嬬の森連理の梓, Azuma no mori Renri no azusa)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_031.jpg",
+    "depicted": "Azuma Shrine",
+    "remarks": "—"
+  },
+  {
+    "title": "The Yanagishima (柳しま, Yanagishima)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_032.jpg",
+    "depicted": "Myōken Hall of Hōshō-ji temple, Hashimotoya restaurant (\"At the Foot of the Bridge\"), Mount Tsukuba",
+    "remarks": "—"
+  },
+  {
+    "title": "Towboats Along the Yotsugi-dōri Canal (四ツ木通用水引ふね, Yotsugi dōri yōsui hikifune)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_033.jpg",
+    "depicted": "Yotsugi-dōri Canal towpath",
+    "remarks": "Unlike in the print, the canal and towpath were absolutely straight"
+  },
+  {
+    "title": "Night View of Matsuchiyama and the San'ya Canal (真乳山山谷堀夜景, Matsuchiyama San'yabori yakei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_034.jpg",
+    "depicted": "Sumida River, San'ya Canal inlet, Yumeiro and Takeya restaurants, Matsuchiyama hill, Shōten Shrine",
+    "remarks": "Only image in the series to depict a large human figure, purportedly the favourite geisha of Hiroshige; Shōten Shrine on the top of the hill has sexual connotations"
+  },
+  {
+    "title": "Suijin Shrine and Massaki on the Sumida River (隅田川水神の森真崎, Sumidagawa Suijin no mori Massaki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 8",
+    "commons_filename": "100_views_edo_035.jpg",
+    "depicted": "Cherry tree trunk, Suijin Shrine, Sumida River, Massaki district, Mount Tsukuba",
+    "remarks": "People at the bottom of the print are on the way to the Hashiba ferry (see no. 37)"
+  },
+  {
+    "title": "View From Massaki of Suijin Shrine, Uchigawa Inlet, and Sekiya (真崎辺より水神の森内川関屋の里を見る図, Massaki atari yori Suijin no mori Uchigawa Sekiya no sato wo miru zu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_036.jpg",
+    "depicted": "Sumida River, Suijin Shrine, Massaki district, Mount Tsukuba",
+    "remarks": "Similar subject and location as no. 35"
+  },
+  {
+    "title": "Kilns and the Hashiba Ferry on the Sumida River (墨田河橋場の渡かわら竈, Sumidagawa hashiba no watashi kawaragama)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_037.jpg",
+    "depicted": "Kilns, Sumida River, Suijin Shrine, Mount Tsukuba",
+    "remarks": "Similar area as no. 35, 36"
+  },
+  {
+    "title": "Dawn Inside the Yoshiwara (廓中東雲, Kakuchū shinonome)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_038.jpg",
+    "depicted": "Yoshiwara",
+    "remarks": "Published two months prior to the reopening of Yoshiwara after it burnt down in the 1855 earthquake; Hiroshige may have submitted this design and title following the suicide of two courtesans and their two lovers at dawn of the 19th day of the 4th month of 1857"
+  },
+  {
+    "title": "Distant View of Kinryūzan Temple and the Azuma Bridge (吾妻橋金龍山遠望, Azumabashi Kinryūzan enbo)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_039.jpg",
+    "depicted": "Sumida River, Azuma Bridge, Kinryūzan Temple, Mount Fuji",
+    "remarks": "—"
+  },
+  {
+    "title": "Bashō's Hermitage on Camellia Hill beside the Aqueduct at Sekiguchi (せき口上水端はせを庵椿やま, Sekiguchi jōsuibata Bashōan Tsubakiyama)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_040.jpg",
+    "depicted": "Sekiguchi Aqueduct, Bashō's Hermitage",
+    "remarks": "—"
+  },
+  {
+    "title": "Hachiman Shrine in Ichigaya (市ヶ谷八幡, Ichigaya Hachiman)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 10",
+    "commons_filename": "100_views_edo_041.jpg",
+    "depicted": "Ichigaya moat, shopping street, Hachiman Shrine",
+    "remarks": "Dated one month after Hiroshige's death and therefore attributed to Hiroshige II by some art historians"
+  },
+  {
+    "title": "Cherry Blossoms on the Banks of the Tama River (玉川堤の花, Tamagawa tsutsumi no hana)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 2",
+    "commons_filename": "100_views_edo_042.jpg",
+    "depicted": "Actually, the Tama River-Jōsui channel is depicted, with cherry trees far outside Edo",
+    "remarks": "One of the first five prints sanctioned by the censors"
+  },
+  {
+    "title": "Nihonbashi Bridge and Edobashi Bridge (日本橋江戸ばし, Nihonbashi Edobashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 12",
+    "commons_filename": "100_views_edo_043.jpg",
+    "depicted": "Nihonbashi, Nihonbashi River, Edobashi",
+    "remarks": "Fish barrel with first bonito of the season represents early summer"
+  },
+  {
+    "title": "View of Nihonbashi itchōme Street (日本橋通一丁目略図, Nihonbashi Tōri itchōme ryakuzu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 8",
+    "commons_filename": "100_views_edo_044.jpg",
+    "depicted": "Nihonbashi itchōme Street",
+    "remarks": "Shirokiya shop on the right developed into one of the city's largest department stores and finally became part of the Tokyu Group"
+  },
+  {
+    "title": "Yatsumi Bridge (八ツ見のはし, Yatsumi no hashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 8",
+    "commons_filename": "100_views_edo_062.jpg",
+    "depicted": "Yatsumi Bridge, Edo Castle, Mount Fuji",
+    "remarks": "—"
+  },
+  {
+    "title": "Yoroi Ferry, Koami-chō (鎧の渡し小網町, Yoroi no watashi Koami-chō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 10",
+    "commons_filename": "100_views_edo_045.jpg",
+    "depicted": "Nihonbashi River, Yoroi ferry",
+    "remarks": "—"
+  },
+  {
+    "title": "Seidō and Kanda River from Shōhei Bridge (昌平橋聖堂神田川, Shōheibashi Seidō Kandagawa)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "100_views_edo_046.jpg",
+    "depicted": "Shōhei Bridge, Shōheizaka hill, Kanda River, wall of Yushima Seidō",
+    "remarks": "Exaggerated size of hill on left"
+  },
+  {
+    "title": "Suidō Bridge and the Surugadai Quarter (水道橋駿河台, Suidōbashi Surugadai)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / i5",
+    "commons_filename": "100_views_edo_063.jpg",
+    "depicted": "View from Surugadai, Kanda River, Suidō Bridge, Edo Castle, Mount Fuji",
+    "remarks": "Koinobori carp streamers place the scene around the Boy's festival on the 5th day of the 5th month, the same month as the print was approved by the censors"
+  },
+  {
+    "title": "Fudō Falls in Ōji (王子不動之滝, Ōji Fudō no taki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "Fudo_Wasserfall_r.jpg",
+    "depicted": "Fudō Falls",
+    "remarks": "Hasegawa Settan"
+  },
+  {
+    "title": "Kumano Jūnisha Shrine at Tsunohazu, known as \"Jūnisō\" (角筈熊野十二社 俗称十二そう, Tsunohazu Kumano Jūnisha zokushō Jūnisō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "Hiroshige,_Kumanojūnisha_Shrine,_1856.jpg",
+    "depicted": "Kumano Jūnisha Shrine",
+    "remarks": "—"
+  },
+  {
+    "title": "The Sannō  Festival Procession at Kōjimachi itchōme (糀町一丁目山王祭ねり込, Kōjimachi itchōme Sannō Matsuri nerikomi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_065.jpg",
+    "depicted": "Moat and Hanzōmon Gate of Edo Castle",
+    "remarks": "Sannō  Festival was held one month prior to the approval of the print"
+  },
+  {
+    "title": "The Paulownia Garden at Akasaka (赤坂桐畑, Akasaka Kiribatake)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_048.jpg",
+    "depicted": "Paulownia Garden, Tameike Pond, Hie Shrine, residence of daimyō Kuroda from Fukuoka",
+    "remarks": "Hie Shrine is location for the Sannō Festival (see no. 51)"
+  },
+  {
+    "title": "The Pagoda of Zōjōji Temple and Akabane (増上寺塔赤羽根, Zōjōjitō Akabane)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 1",
+    "commons_filename": "100_views_edo_049.jpg",
+    "depicted": "Zōjō-ji, Akabane Bridge, residence of daimyō Arima from Kurume",
+    "remarks": "—"
+  },
+  {
+    "title": "The Benkei Moat from Soto-Sakurada to Kōjimachi (外桜田弁慶堀糀町, Soto-Sakurada Benkeibori Kōjimachi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_066.jpg",
+    "depicted": "South-west embankment and moat of Edo Castle, residence of daimyō Ii from the Hikone Domain, Kōjimachi watchtower",
+    "remarks": "Kōjimachi watchtower had been restored two months prior to publication after burning down in the 1855 earthquake"
+  },
+  {
+    "title": "The Sumiyoshi Festival at Tsukudajima (佃しま住吉の祭, Tsukudajima Sumiyoshi no matsuri)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 7",
+    "commons_filename": "Hiroshige,_Sumiyoshi_festival,_Tsukudajima,_1857.jpg",
+    "depicted": "Tsukudajima Island",
+    "remarks": "The Sumiyoshi Festival is held on the 29th of the sixth month, i.e., in the month prior to publication of this print; writer of the inscription is identified on the banner as the creator of the table of contents of this series, Seikengū Gengyo"
+  },
+  {
+    "title": "Mannen Bridge in Fukagawa (深川萬年橋, Fukagawa Mannenbashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "100_views_edo_051.jpg",
+    "depicted": "Mannen Bridge, Mount Fuji",
+    "remarks": "A turtle hanging from tub's handle use for Life release."
+  },
+  {
+    "title": "Mitsumata Wakarenofuchi (みつまたわかれの淵)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_067.jpg",
+    "depicted": "Sumida River, Mount Fuji",
+    "remarks": "Reed-covered sandbank alludes to the artificial Nakazu island, location of a famous 18th-century pleasure district that was demolished in the course of the Kansei Reforms"
+  },
+  {
+    "title": "Sudden Shower over Shin-Ōhashi bridge and Atake (大はしあたけの夕立, Ōhashi atake no yūdachi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "Hiroshige_Atake_sous_une_averse_soudaine.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake",
+    "depicted": "Shin-Ōhashi bridge, Sumida River, Atake district",
+    "remarks": "Considered to be a masterpiece and possibly Hiroshige's most famous work; copied by Vincent van Gogh"
+  },
+  {
+    "title": "Ryōgoku Bridge and the Great Riverbank (両国橋大川ばた, Ryōgokubashi Ōkawabata)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 8",
+    "commons_filename": "Brooklyn_Museum_-_Ryogoku_Bridge_and_the_Great_Riverbank_No_59_from_One_Hundred_Views_of_Edo_-_Utagawa_Hiroshige_(Ando).jpg",
+    "depicted": "Sumida River, Ryōgoku Bridge",
+    "remarks": "At the time Japan's largest bridge"
+  },
+  {
+    "title": "Asakusa River, Miyato River, Great Riverbank (浅草川大川端宮戸川, Asakusagawa Ōkawabata Miyatogawa)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 7",
+    "commons_filename": "100_views_edo_068.jpg",
+    "depicted": "Sumida River, Mount Tsukuba",
+    "remarks": "Depicts pilgrimage to Mount Ōyama, the pilgrim's return from the mountain is shown in no. 76; names in title are synonymous names for the depicted section of the Sumida River; in later prints, the title was simplified to: In Boats at Ryōgoku with a distant View of Asakusa"
+  },
+  {
+    "title": "The \"Pine of Success\" and Oumayagashi on the Asakusa River (浅草川首尾の松御厩河岸, Asakusagawa shubi no matsu Oumayagashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 8",
+    "commons_filename": "100_views_edo_oumaya.jpg",
+    "depicted": "Sumida River, Oumayagashi ferry",
+    "remarks": "Hiroshige's \"Illustrated Souvenirs of Edo\" contains a mirror image of this view with  a woman standing upright in the boat"
+  },
+  {
+    "title": "Komakata Hall and Azuma Bridge (駒形堂吾嬬橋, Komakatadō Azumabashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 1",
+    "commons_filename": "100_views_edo_055.jpg",
+    "depicted": "Komakata Hall, Sumida River, Azuma Bridge, Asakusa district",
+    "remarks": "Lesser cuckoo (hototogisu) and Komakata Hall in the print allude to a 17th-century love poem attributed to Takao II, courtesan and lover of Date Tsunamune: Are you now, my love, near Komakata? Cry of the cuckoo!\""
+  },
+  {
+    "title": "The Ayase River and Kanegafuchi (綾瀬川鐘か淵, Ayasegawa Kanegafuchi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 1",
+    "commons_filename": "100_views_edo_069.jpg",
+    "depicted": "Sumida River, Ayase River",
+    "remarks": "Northernmost point of the Sumida river depicted in this series"
+  },
+  {
+    "title": "Horikiri Iris Garden (堀切の花菖蒲, Horikiri no hanashōbu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / i5",
+    "commons_filename": "Hiroshige,_Horikiri_iris_garden,_1857.jpg",
+    "depicted": "Horikiri Iris Garden",
+    "remarks": "Influenced European Art Nouveau"
+  },
+  {
+    "title": "Inside Kameido Tenjin Shrine (亀戸天神境内, Kameidō Tenjin keidai)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_057.jpg",
+    "depicted": "Drum bridge and garden at Kameido Tenjin Shrine",
+    "remarks": "Flowering wisteria indicates summer season"
+  },
+  {
+    "title": "The Sazaidō Hall at the Five Hundred Rakan Temple (五百羅漢さゞゐ堂, Gohyaku Rakan Sazaidō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_070.jpg",
+    "depicted": "Sazaidō Hall",
+    "remarks": "—"
+  },
+  {
+    "title": "The Ferry at Sakasai (逆井のわたし, Sasakai no watashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_058.jpg",
+    "depicted": "Nakagawa River",
+    "remarks": "—"
+  },
+  {
+    "title": "Open Garden at the Hachiman Shrine in Fukagawa (深川八まん山ひらき, Fukagawa Hachiman yamahiraki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_059.jpg",
+    "depicted": "Garden at Hachiman Shrine",
+    "remarks": "Print shows both azaleas and cherry trees in blossom which is unnatural for Edo; hill in the back is one of many miniature Mount Fuji that were scattered all over Edo"
+  },
+  {
+    "title": "Sanjusangendō Hall in Fukagawa (深川三十三間堂, Fukagawa Sanjusangendō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_071.jpg",
+    "depicted": "Sanjusangendō, Kiba lumberyards (see no. 106)",
+    "remarks": "About half of the hall is depicted"
+  },
+  {
+    "title": "The mouth of the Nakagawa River (中川口, Nakagawaguchi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_060.jpg",
+    "depicted": "Onagigawa Canal, Nakagawa River, Shinkawa Canal",
+    "remarks": "Nakagawa River is the broad waterway in the middle running left-right"
+  },
+  {
+    "title": "Scattered Pines on the Tone River (利根川ばらばらまつ, Tonegawa barabara-matsu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 8",
+    "commons_filename": "100_views_edo_061.jpg",
+    "depicted": "Tone River",
+    "remarks": "—"
+  },
+  {
+    "title": "The Ferry at Haneda and the Benten Shrine (はねたのわたし弁天の社, Haneda no watashi Benten no yashiro)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 8",
+    "commons_filename": "100_views_edo_072.jpg",
+    "depicted": "Tama River, Benten Shrine, Edo Bay",
+    "remarks": "The ground of the Benten Shrine is now occupied by Haneda Airport"
+  },
+  {
+    "title": "The City Flourishing, the Tanabata Festival (市中繁栄七夕祭, Shichū han'ei Tanabata matsuri)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 7",
+    "commons_filename": "100_views_edo_073.jpg",
+    "depicted": "Edo Castle, Mount Fuji",
+    "remarks": "Arguably shows the view from Hiroshige's house; only print in series without a place name in the title"
+  },
+  {
+    "title": "Silk Shops in Ōdenma-chō (大伝馬町ごふく店, Ōdenma-chō gofukudana)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 7",
+    "commons_filename": "100_views_edo_074.jpg",
+    "depicted": "Daimaru silk merchant shops",
+    "remarks": "People depicted are carpenters"
+  },
+  {
+    "title": "The Dyers' Quarter in Kanda (神田紺屋町, Kanda konya-chō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "Hiroshige_Le_quartier_des_teinturiers_de_Kanda.jpg",
+    "depicted": "Kanda dye works, Edo Castle, Mount Fuji",
+    "remarks": "Kanji on first two white-blue fabrics reads \"sakana\" and is a reference to the publisher Sakanaya Eikichi, last two white-blue fabrics contain Hiroshige's monogram"
+  },
+  {
+    "title": "Bamboo Quay by Kyōbashi Bridge (京橋竹がし, Kyōbashi Takegashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 12",
+    "commons_filename": "100_views_edo_076.jpg",
+    "depicted": "Kyōbashi River, Kyōbashi Bridge",
+    "remarks": "—"
+  },
+  {
+    "title": "Inari Bridge and the Minato Shrine in Teppōzu (鉄砲洲稲荷橋湊神社, Teppōzu Inaribashi Minato jinja)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_077.jpg",
+    "depicted": "Hatchōbori Canal, Minato Shrine, Inari Bridge, Mount Fuji",
+    "remarks": "—"
+  },
+  {
+    "title": "Teppōzu and Tsukiji Monzeki Temple (鉄砲洲築地門跡, Teppōzu Tsukiji Monzeki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 7",
+    "commons_filename": "100_views_edo_078.jpg",
+    "depicted": "Sumida River, Tsukiji Hongan-ji Temple",
+    "remarks": "Like no. 79, this print has the changed series title: Entertaining Supplements to the One Hundred Famous Views of Edo, as likely Hiroshige wanted to end this series having produced 110 plates already at the time; he resumed the original title on the publisher insisting to do so"
+  },
+  {
+    "title": "Shiba Shinmei Shrine and Zōjōji Temple (芝神明増上寺, Shiba Shinmei Zōjōji)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 7",
+    "commons_filename": "100_views_edo_079.jpg",
+    "depicted": "Shiba Shinmei Shrine, Zōjōji",
+    "remarks": "—"
+  },
+  {
+    "title": "Kanasugi Bridge and Shibaura (金杉橋芝浦, Kanasugibashi Shibaura)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 7",
+    "commons_filename": "100_views_edo_080.jpg",
+    "depicted": "Kanasugi Bridge",
+    "remarks": "Print shows pilgrims of the Nichiren sect; brown and white cloths at bottom left contain abbreviation \"Uoei\" of the publisher's name Sakanaya Eikichi"
+  },
+  {
+    "title": "Ushimachi in Takanawa (高輪うしまち, Takanawa ushimachi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_081.jpg",
+    "depicted": "Tōkaidō, Edo Bay with daiba",
+    "remarks": "Place name Takanawa meaning \"high wheel\" is symbolized by the wheel on the right and the rainbow"
+  },
+  {
+    "title": "Moon Viewing (月の岬, Tsuki no Misaki)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_082.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tsuki_no_Misaki",
+    "depicted": "Edo Bay",
+    "remarks": "Approximately same view as no. 83"
+  },
+  {
+    "title": "Shinagawa Susaki (品川すさき)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_083.jpg",
+    "depicted": "Meguro River, Benten Shrine, Edo Bay with daiba",
+    "remarks": "Establishment depicted in no. 82 might be the one cropped in the bottom left of this print"
+  },
+  {
+    "title": "\"Grandpa's Teahouse\" in Meguro (目黒爺々が茶屋, Meguro jijigachaya)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_084.jpg",
+    "depicted": "Teahouse and teastall, Mount Fuji",
+    "remarks": "—"
+  },
+  {
+    "title": "Kinokuni Hill and Distant View of Akasaka and the Tameike Pond (紀ノ国坂赤坂溜池遠景, Kinokunizaka Akasaka Tameike enkei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "100_views_edo_085.jpg",
+    "depicted": "outer Benkeibori moat of Edo Castle",
+    "remarks": "People depicted are samurai"
+  },
+  {
+    "title": "Naitō Shinjuku in Yotsuya (四ッ谷内藤新宿, Yotsuya Naitō Shinjuku)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "100_views_edo_086.jpg",
+    "depicted": "Naitō Shinjuku (first station of the Kōshū Kaidō)",
+    "remarks": "Depiction of horse dung was criticized for being vulgar; Hiroshige likely alludes to the quote: \"flowers thriving on the horse dung of Yotsuya\" from the 1775 book Master Flashgold's Splendiferous Dream referring to the prostitutes of Shinjuku"
+  },
+  {
+    "title": "Benten Shrine at the Inokashira Pond (井の頭の池弁天の社, Inokashira no ike Benten no yashiro)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_087.jpg",
+    "depicted": "Benten Shrine, Inokashira Pond",
+    "remarks": "Depicts most western point of the series and location furthest away from central Edo"
+  },
+  {
+    "title": "Takinogawa in Ōji (王子滝の川, Ōji Takinogawa)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_088.jpg",
+    "depicted": "Takinogawa, Matsubashi Benten Shrine, Kongo-ji Temple",
+    "remarks": "Original orange color of autumn color has turned brownish-black due to oxidation over time"
+  },
+  {
+    "title": "\"Moon Pine\" in Ueno (上野山内月のまつ, Ueno sannai Tsuki no matsu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_089.jpg",
+    "depicted": "Moon Pine, Shinobazu Pond, Benten Shrine",
+    "remarks": "—"
+  },
+  {
+    "title": "Night View of Saruwaka-machi (猿わか町よるの景, Saruwaka-machi yoru no kei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 9",
+    "commons_filename": "Hiroshige,_Night_View_of_Saruwaka-machi.jpg",
+    "depicted": "Saruwaka-chō street with theatres",
+    "remarks": "Notable for the use of peoples' shadows giving the impression of puppets on a stage; the street was home to the Kabuki and marionette theatres"
+  },
+  {
+    "title": "In the Akiba Shrine at Ukeji (請地秋葉の境内, Ukechi Akiba no keinai)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 8",
+    "commons_filename": "100_views_edo_091.jpg",
+    "depicted": "Garden of Akiba Shrine",
+    "remarks": "People depicted in the bottom left might be Hiroshige as a monk with painting utensils, his wife Yasu and their adopted daughter Tatsu according to Henry D. Smith"
+  },
+  {
+    "title": "Mokuboji Temple and Vegetable Fields on Uchigawa Inlet (木母寺内川御前栽畑, Mokubōji Uchigawa Gozensaibata)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 12",
+    "commons_filename": "100_views_edo_092.jpg",
+    "depicted": "Uchigawa inlet of Sumida River, Uekiya Han'emon restaurant",
+    "remarks": "The Mokuboji temple mentioned in the title is close but not depicted in this print; Tokugawa Iesada had visited the restaurant one month before publication of the print"
+  },
+  {
+    "title": "Niijuku Ferry (にい宿のわたし, Niijuku no watashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_093.jpg",
+    "depicted": "Nakagawa River",
+    "remarks": "Northeasternmost scene of the series confirmed by detailed depiction of the Edo side of the river and vagueness on the opposite bank"
+  },
+  {
+    "title": "The Maple Trees at Mama, the Tekona Shrine and Tsugihashi Bridge (真間の紅葉手古那の社継はし, Mama no momiji Tekona no yashiro Tsugihashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 1",
+    "commons_filename": "100_views_edo_094.jpg",
+    "depicted": "Edogawa River, Tekona Shrine, Tsugihashi Bridge",
+    "remarks": "Original orange color of autumn color has turned brownish-black due to oxidation over time"
+  },
+  {
+    "title": "View of Kōnodai and the Tone River (鴻の台とね川風景, Kōnodai Tonegawa Fūkei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 5",
+    "commons_filename": "100_views_edo_095.jpg",
+    "depicted": "Tone River (today Edogawa), Mount Fuji",
+    "remarks": "—"
+  },
+  {
+    "title": "Horie and Nekozane (堀江ねこざね, Horie Nekozane)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 2",
+    "commons_filename": "100_views_edo_096.jpg",
+    "depicted": "branch of the Edogawa River, Horie and Nekozane villages, Edo Bay, Mount Fuji",
+    "remarks": "One of the first five prints sanctioned by the censors"
+  },
+  {
+    "title": "\"Five Pines\" and the Onagi Canal (小奈木川五本まつ, Ongagigawa Gohonmatsu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_097.jpg",
+    "depicted": "Onagi Canal",
+    "remarks": "Tree depicted is the only surviving of five pines and was at the time of Hiroshige known as \"Five Pines\"; Onagi Canal was in fact straight"
+  },
+  {
+    "title": "Fireworks by Ryōgoku Bridge (両国花火, Ryōgoku hanabi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 8",
+    "commons_filename": "100_views_edo_098.jpg",
+    "depicted": "Sumida River, Ryōgoku Bridge",
+    "remarks": "—"
+  },
+  {
+    "title": "Kinryūzan Temple in Asakusa (浅草金龍山, Asakusa Kinryūzan)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 7",
+    "commons_filename": "100_views_edo_099.jpg",
+    "depicted": "Kaminarimon, Hōzōmon and pagoda of Sensō-ji",
+    "remarks": "Thought to commemorate the restoration of the pagoda two month prior to the publication of the print after damage suffered in the 1855 earthquake"
+  },
+  {
+    "title": "Nihon Embankment and Yoshiwara (よし原日本堤, Yoshiwara Nihondzutsumi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_100.jpg",
+    "depicted": "Nihon Embankment, Yoshiwara",
+    "remarks": "—"
+  },
+  {
+    "title": "Asakusa Ricefields and Torinomachi Festival (浅草田甫酉の町詣, Asakusa tanbo Torinomachi mōde)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "100_views_edo_101.jpg",
+    "depicted": "Yoshiwara teahouse, Chōkoku-ji temple (Ōtori Shrine), Mount Fuji",
+    "remarks": "White cat represents courtesan who just finished her work; the festival of the rooster is hinted at by bear's paw hairpins resembling the good luck rakes carried by pilgrims in the background"
+  },
+  {
+    "title": "Minowa, Kanasugi and Mikawashima (蓑輪金杉三河しま, Minowa Kanasugi Mikawashima)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / i5",
+    "commons_filename": "Hiroshige,_Minowa,_Kanasugi,_Mikawashima,_1857.jpg",
+    "depicted": "Minowa, Kanasugi and Mikawashima villages",
+    "remarks": "—"
+  },
+  {
+    "title": "Senju Great Bridge (千住の大はし, Senju no ōhashi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 2",
+    "commons_filename": "100_views_edo_103.jpg",
+    "depicted": "Arakawa River, Senju Great Bridge",
+    "remarks": "One of the first five prints sanctioned by the censors"
+  },
+  {
+    "title": "Koume Embankment (小梅堤, Koumetsutsumi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_104.jpg",
+    "depicted": "Yotsugi dōri Canal (see no. 33)",
+    "remarks": "—"
+  },
+  {
+    "title": "Oumayagashi (御厩河岸)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 12",
+    "commons_filename": "100_views_edo_105.jpg",
+    "depicted": "Sumida River",
+    "remarks": "The two women are yotaka (night hawks), the lowest class of prostitutes whose faces were often disfigured forcing them to apply very thick make-up"
+  },
+  {
+    "title": "The Fukagawa Lumberyards (深川木場, Fukagawa kiba)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 8",
+    "commons_filename": "100_views_edo_106.jpg",
+    "depicted": "Fukagawa Lumberyards",
+    "remarks": "Character for \"sakana\" on the umbrella refers to Sakanaya Eikichi, the publisher of the series"
+  },
+  {
+    "title": "Fukagawa Susaki and Jūmantsubo (深川州崎十万坪, Fukagawa Susaki Jūmantsubo)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / i5",
+    "commons_filename": "100_views_edo_107.jpg",
+    "depicted": "Mount Tsukuba",
+    "remarks": "—"
+  },
+  {
+    "title": "View of Shiba Coast (芝うらの風景, Shibaura no fūkei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 2",
+    "commons_filename": "100_views_edo_108.jpg",
+    "depicted": "Hamarikyu Gardens, daiba, Edo Bay",
+    "remarks": "One of the first five prints sanctioned by the censors"
+  },
+  {
+    "title": "Minami Shinagawa and Samezu Coast (南品川鮫洲海岸, Minamishinagawa Samezu kaigan)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_109.jpg",
+    "depicted": "Edo Bay, Kaian-ji temple, Mount Tsukuba",
+    "remarks": "Fishermen gather seaweed from submerged tree trunks"
+  },
+  {
+    "title": "\"Robe-Hanging Pine\" at Senzoku no ike (千束の池袈裟懸松, Senzoku no ike Kesakakematsu)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 2",
+    "commons_filename": "100_views_edo_110.jpg",
+    "depicted": "Senzoku no ike, \"Robe-Hanging Pine\", Hachiman Shrine",
+    "remarks": "One of the first five prints sanctioned by the censors; Nichiren is said to have hung his monk's robe on this pine while resting"
+  },
+  {
+    "title": "Meguro Drum Bridge and Sunset Hill (目黒太鼓橋夕日の岡, Meguro taikobashi Yūhi no oka)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 4",
+    "commons_filename": "100_views_edo_111.jpg",
+    "depicted": "Drum Bridge, Meguro River",
+    "remarks": "Publication date of this and three other prints (no. 24, 25, 84) depicting Meguro coincides with the exhibition of a Fudō Myōō icon"
+  },
+  {
+    "title": "Atagoshita and Yabu Lane (愛宕下薮小路, Atagoshita Yabukōji)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 12",
+    "commons_filename": "100_views_edo_112.jpg",
+    "depicted": "Yabu Lane, residences of the daimyōs Katō from Minakuchi and Hijikata from Komono, gate of Atago Shrine",
+    "remarks": "Yabu Lane is to the far right beyond the bamboo thicket lining it"
+  },
+  {
+    "title": "Aoi Slope outside Toranomon gate (虎の門外あふひ坂, Toranomon soto Aoizaka)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 11",
+    "commons_filename": "100_views_edo_113.jpg",
+    "depicted": "Aoi Slope, moat",
+    "remarks": "—"
+  },
+  {
+    "title": "Bikuni Bridge in Snow (びくにはし雪中, Bikunihashi setchū)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1858 / 10",
+    "commons_filename": "100_views_edo_114.jpg",
+    "depicted": "Bikuni Bridge, outer moat of Edo Castle",
+    "remarks": "Believed to be created by Hiroshige II based on empty foreground, depiction of wall and schematic arrangement of snowflakes. Sign on left advertises  \"mountain whale\" meat, referring to wild boar."
+  },
+  {
+    "title": "The Takata Riding Grounds (高田の馬場, Takada no baba)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 2",
+    "commons_filename": "100_views_edo_115.jpg",
+    "depicted": "Takata Riding Grounds",
+    "remarks": "—"
+  },
+  {
+    "title": "Sugatami Bridge, Omokage Bridge and Jariba at Takata (高田姿見のはし俤の橋砂利場, Takata Sugatami no hashi Omokage no hashi Jariba)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 1",
+    "commons_filename": "100_views_edo_116.jpg",
+    "depicted": "Kanda River, Omokage Bridge, Hikawa rice field, Hikawa Shrine, Sugatami Bridge",
+    "remarks": "Notable for striking colors; Tokugawa Iesada crossed the Omokage Bridge in the publication month"
+  },
+  {
+    "title": "View from the Hilltop of Yushima Tenjin Shrine (湯しま天神坂上眺望, Yushima Tenjin sakaue chōbō)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1856 / 4",
+    "commons_filename": "100_views_edo_117.jpg",
+    "depicted": "Yushima Tenjin Shrine, Shinobazu Pond, Kan'ei-ji",
+    "remarks": "—"
+  },
+  {
+    "title": "Kitsunebi on New Year's Night under the Enoki Tree near Ōji (王子装束ゑの木大晦日の狐火, Ōji shōzoku wenoki ōtsugomorihi no kitsunebi)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1857 / 9",
+    "commons_filename": "Hiroshige,_New_Year's_Eve_foxfires_at_the_changing_tree,_Oji,_1857.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kitsunebi",
+    "depicted": "Enoki tree",
+    "remarks": "—"
+  },
+  {
+    "title": "View of the Paulownia Imperiales Trees at Akasaka on a Rainy Evening (赤坂桐畑雨中夕けい, Akasaka kiribatake uchū yūkei)",
+    "series": "One Hundred Famous Views of Edo",
+    "date": "1859 / 4",
+    "commons_filename": "Brooklyn_Museum_-_View_of_the_Kiribata_(Paulownia_Imperiales)_Trees_at_Akasaka_on_a_Rainy_Evening_-_Utagawa_Hiroshige_II.jpg",
+    "depicted": "Tameike Pond",
+    "remarks": "Work by Hiroshige II; not always included in collections of One Hundred Famous Views of Edo; variously thought to be replacement print for no. 52, The Paulownia Garden at Akasaka, although its woodblock prints show significant wear indicating age. Alternatively a work on commission by Sakanaya Eikichi, celebrating Hiroshige II's adoption of his name and Hiroshige's seal"
+  },
+  {
+    "title": "Shinmachi",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido11_Shinmachi.jpg",
+    "japanese_title": "新町宿",
+    "transliteration": "Shinmachi"
+  },
+  {
+    "title": "Takasaki",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido13_Takasaki.jpg",
+    "japanese_title": "高崎宿",
+    "transliteration": "Takasaki"
+  },
+  {
+    "title": "Annaka",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido15_Annaka.jpg",
+    "japanese_title": "安中宿",
+    "transliteration": "Annaka"
+  },
+  {
+    "title": "Matsuida",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido16_Matsuida.jpg",
+    "japanese_title": "松井田宿",
+    "transliteration": "Matsuida"
+  },
+  {
+    "title": "Karuizawa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido18_Karuisawa.jpg",
+    "japanese_title": "軽井沢宿",
+    "transliteration": "Karuisawa"
+  },
+  {
+    "title": "Odai",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido21_Otai.jpg",
+    "japanese_title": "小田井宿",
+    "transliteration": "Otai"
+  },
+  {
+    "title": "Shionata",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido23_Shionada.jpg",
+    "japanese_title": "塩名田宿",
+    "transliteration": "Shionada"
+  },
+  {
+    "title": "Yawata",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido24_Yawata.jpg",
+    "japanese_title": "八幡宿",
+    "transliteration": "Yawata"
+  },
+  {
+    "title": "Mochizuki",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Hiroshige_Travellers_in_the_Moonlight.jpg",
+    "japanese_title": "望月宿",
+    "transliteration": "Mochizuki"
+  },
+  {
+    "title": "Ashida",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido26_Ashida.jpg",
+    "japanese_title": "芦田宿",
+    "transliteration": "Ashida"
+  },
+  {
+    "title": "Nagakubo",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido27_Nagakubo.jpg",
+    "japanese_title": "長久保宿",
+    "transliteration": "Nagakubo"
+  },
+  {
+    "title": "Wada",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido28_Wada.jpg",
+    "japanese_title": "和田宿",
+    "transliteration": "Wada"
+  },
+  {
+    "title": "Shimosuwa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido29_Shimosuwa.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shimosuwa",
+    "japanese_title": "下諏訪宿",
+    "transliteration": "Shimosuwa"
+  },
+  {
+    "title": "Seba",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido31_Seba.jpg",
+    "japanese_title": "洗馬宿",
+    "transliteration": "Seba"
+  },
+  {
+    "title": "Motoyama",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido32_Motoyama.jpg",
+    "japanese_title": "本山宿",
+    "transliteration": "Motoyama"
+  },
+  {
+    "title": "Niikawa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido33_Niekawa.jpg",
+    "japanese_title": "贄川宿",
+    "transliteration": "Niekawa"
+  },
+  {
+    "title": "Miyanokoshi",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido36_Miyanokoshi.jpg",
+    "japanese_title": "宮ノ越宿",
+    "transliteration": "Miyanokoshi"
+  },
+  {
+    "title": "Fukushima",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido37_Fukushima.jpg",
+    "japanese_title": "福島宿",
+    "transliteration": "Fukushima"
+  },
+  {
+    "title": "Agematsu",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido38_Agematsu.jpg",
+    "japanese_title": "上松宿",
+    "transliteration": "Agematsu"
+  },
+  {
+    "title": "Suhara",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido39_Suhara.jpg",
+    "japanese_title": "須原宿",
+    "transliteration": "Suhara"
+  },
+  {
+    "title": "Mitono",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido41_Midono.jpg",
+    "japanese_title": "三留野宿",
+    "transliteration": "Midono"
+  },
+  {
+    "title": "Tsumagome",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido42_Tsumago.jpg",
+    "japanese_title": "妻籠宿",
+    "transliteration": "Tsumago"
+  },
+  {
+    "title": "Ochiai",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido44_Ochiai.jpg",
+    "japanese_title": "落合宿",
+    "transliteration": "Ochiai"
+  },
+  {
+    "title": "Nakatsugawa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido45a_Nakatsugawa.jpg",
+    "japanese_title": "中津川宿",
+    "transliteration": "Nakatsugawa I"
+  },
+  {
+    "title": "Nakatsugawa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido45b_Nakatsugawa.jpg",
+    "japanese_title": "中津川宿",
+    "transliteration": "Nakatsugawa II"
+  },
+  {
+    "title": "Oi",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido46_Oi.jpg",
+    "japanese_title": "大井宿",
+    "transliteration": "Ōi"
+  },
+  {
+    "title": "Okute",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido47_Okute.jpg",
+    "japanese_title": "大湫宿",
+    "transliteration": "Ōkute"
+  },
+  {
+    "title": "Hosokute",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido48_Hosokute.jpg",
+    "japanese_title": "細久手宿",
+    "transliteration": "Hosokute"
+  },
+  {
+    "title": "Mitake",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido49_Mitake.jpg",
+    "japanese_title": "御嶽宿",
+    "transliteration": "Mitake"
+  },
+  {
+    "title": "Fushimi",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido50_Fushimi.jpg",
+    "japanese_title": "伏見宿",
+    "transliteration": "Fushimi"
+  },
+  {
+    "title": "Ota",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido51_Ota.jpg",
+    "japanese_title": "太田宿",
+    "transliteration": "Ōta"
+  },
+  {
+    "title": "Kano",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido53_Kano.jpg",
+    "japanese_title": "加納宿",
+    "transliteration": "Kanō"
+  },
+  {
+    "title": "Miyeji",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido55_Mieji.jpg",
+    "japanese_title": "美江寺宿",
+    "transliteration": "Mieji"
+  },
+  {
+    "title": "Akasaka",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido56_Akasaka.jpg",
+    "japanese_title": "赤坂宿",
+    "transliteration": "Akasaka"
+  },
+  {
+    "title": "Tarui",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido57_Tarui.jpg",
+    "japanese_title": "垂井宿",
+    "transliteration": "Tarui"
+  },
+  {
+    "title": "Sekigahara",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido58_Sekigahara.jpg",
+    "japanese_title": "関ヶ原宿",
+    "transliteration": "Sekigahara"
+  },
+  {
+    "title": "Imasu",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido59_Imasu.jpg",
+    "japanese_title": "今須宿",
+    "transliteration": "Imasu"
+  },
+  {
+    "title": "Kashiwabara",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido60_Kashiwabara.jpg",
+    "japanese_title": "柏原宿",
+    "transliteration": "Kashiwabara"
+  },
+  {
+    "title": "Samegai",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido61_Samegai.jpg",
+    "japanese_title": "醒井宿",
+    "transliteration": "Samegai"
+  },
+  {
+    "title": "Banba",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido62_Banba.jpg",
+    "japanese_title": "番場宿",
+    "transliteration": "Banba"
+  },
+  {
+    "title": "Toriimoto",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido63_Toriimoto.jpg",
+    "japanese_title": "鳥居本宿",
+    "transliteration": "Toriimoto"
+  },
+  {
+    "title": "Takamiya",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido64_Takamiya.jpg",
+    "japanese_title": "高宮宿",
+    "transliteration": "Takamiya"
+  },
+  {
+    "title": "Echigawa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido65_Echigawa.jpg",
+    "japanese_title": "愛知川宿",
+    "transliteration": "Echigawa"
+  },
+  {
+    "title": "Musa",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido66_Musa.jpg",
+    "japanese_title": "武佐宿",
+    "transliteration": "Musa"
+  },
+  {
+    "title": "Moriyama",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido67_Moriyama.jpg",
+    "japanese_title": "守山宿",
+    "transliteration": "Moriyama"
+  },
+  {
+    "title": "Kusatsu",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido68_Kusatsu.jpg",
+    "japanese_title": "草津宿",
+    "transliteration": "Kusatsu"
+  },
+  {
+    "title": "Otsu",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido69_Otsu.jpg",
+    "japanese_title": "大津宿",
+    "transliteration": "Ōtsu"
+  },
+  {
+    "title": "Title page",
+    "series": "The Sixty-nine Stations of the Kiso Kaido",
+    "date": "1834-1842",
+    "commons_filename": "Kisokaido_title.jpg"
+  },
+  {
+    "title": "Yamashiro (山城): The Togetsu Bridge in Arashiyama (あらし山 渡月橋, Arasiyama Togetsukyou)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "Hiroshige_Yamashiro_Arashiyama.jpg"
+  },
+  {
+    "title": "Yamato (大和): Tatsuta Mountain and Tatsuta River (立田山 龍田川, Tatsuta-san Tatsuta-gawa)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "Yamato_Province,_Tatsuta_Mountain_and_Tatsuta_River_(5765346137).jpg"
+  },
+  {
+    "title": "Kawachi (河内): Mount Otoko in Hirakata (枚方 男山)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 07",
+    "commons_filename": "Kawachi_Province,_Mount_Otoko_in_Hirakata_(5765347007).jpg"
+  },
+  {
+    "title": "Izumi (和泉): Takashi Beach (高師のはま)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "Izumi_Province,_Takashi_Beach.jpg"
+  },
+  {
+    "title": "Settsu (摂津): Sumiyoshi, Idemi Beach (住よし 出見のはま, Sumiyoshi, Idemi no hama)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "Settsu_Province,_Sumiyoshi,_Idemi_Beach.jpg"
+  },
+  {
+    "title": "Iga (伊賀): Ueno (上野)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "Hiroshige_Igaueno.jpg"
+  },
+  {
+    "title": "Ise (伊勢): Mount Asama, Teahouses on the Mountain Pass (朝熊山 峠の茶屋, Asamasan-tōge no chaya)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "07_Ise.jpg"
+  },
+  {
+    "title": "Shima (志摩): Mount Hiyori and Toba Harbor (日和山 鳥羽湊, Hiyoriyama Toba minato)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_08_Shima.jpg"
+  },
+  {
+    "title": "Owari (尾張): Tsushima, Tenno Festival (津嶋 天王祭り, Tsushima Ten'nō matsuri)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "Owari_Province,_Tsushima,_Tenno_Festival_(5765896728).jpg"
+  },
+  {
+    "title": "Mikawa (三河): Horai Temple Mountains (鳳来寺山巌, Hōraijisan Iwao)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "10_Mikawa.jpg"
+  },
+  {
+    "title": "Totomi (遠江): Lake Hamana, Kanzan Temple in Horie and the Inasa-Horie Inlet (濱名之湖 堀江館山寺 引佐之細江, Hamana no mizuumi Horie Kanzanji Inasa no Hosoe)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8 34°46'05.4\"N 137°36'46.8\"E",
+    "commons_filename": "Hiroshige_Tōtōmi_Kanzanji.jpg"
+  },
+  {
+    "title": "Suruga (駿河): Miho Pine Grove (三保のまつ原, Miho no Matsubara)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_12_Suruga.jpg"
+  },
+  {
+    "title": "Kai (甲斐): Monkey Bridge (さるはし, Saruhashi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "Hiroshige_Kai_Saruhashi.jpg"
+  },
+  {
+    "title": "Izu (伊豆): The Hot Springs of the Shuzen Temple (修禅寺 湯治場, Shuzenji tōji-ba)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "14_Izu_n.jpg"
+  },
+  {
+    "title": "Sagami (相模): Enoshima, The Entrance to the Caves (江之嶋 岩屋ノ口, Kō no Shima iwaya nokuchi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "15_Sagami_n.jpg"
+  },
+  {
+    "title": "Musashi (武蔵): Sumida River, Snowy Morning (隅田川 雪の朝, Sumidagawa yukinoashita)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_16_Musashi.jpg"
+  },
+  {
+    "title": "Edo (江戸): Asakusa Fair (浅草市, Asakusa-shi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 10",
+    "commons_filename": "17_Edo.jpg"
+  },
+  {
+    "title": "Awa (安房): Kominato, Uchiura (小湊 内浦, Kominato Uchiura)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_18_Awa_Province,_Kominato,_Uchiura.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Awa_Province_(Chiba)"
+  },
+  {
+    "title": "Kazusa (上総): Yasashi Bay, Common name: Kujukuri (矢さしが浦 通名九十九里, Ya sashi ga Ura tōrina Kujūkuri)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "19_Kazusa.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kazusa_Province"
+  },
+  {
+    "title": "Shimosa (下総): Choshi Beach, Toura (Byōbugaura) (銚子の濱 外浦, Chōshi no hama Sotoura)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_20_Shimosa.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shimosa_Province"
+  },
+  {
+    "title": "Hitachi (常陸): Daijingu Shrine in Kashima (鹿嶋大神宮, Kashima daijingū)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_21_Hitachi.jpg"
+  },
+  {
+    "title": "Omi (近江): Lake Biwa, Ishiyama Temple (琵琶湖 石山寺, Biwako Ishiyamadera)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 7",
+    "commons_filename": "22_Omi.jpg"
+  },
+  {
+    "title": "Mino (美濃): Yoro Waterfall (養老ノ瀧, Yōrōnotaki)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_23_Mino.jpg"
+  },
+  {
+    "title": "Hida (飛弾): Basket Ferry (籠わたし, Kagowatashi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "Hiroshige_Hida.jpg"
+  },
+  {
+    "title": "Shinano (信濃): The Moon Reflected in the Sarashina Paddy-fields, Mount Kyodai (更科田毎月 鏡臺山, Sarashina tagoto no tsuki, Kyôdaisan)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "25_Shinano.jpg"
+  },
+  {
+    "title": "Kozuke (上野): Mount Haruna Under Snow (榛名山 雪中, Harunasan setchū)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "26_Kozuke.jpg"
+  },
+  {
+    "title": "Shimotsuke (下野): Mount Nikko, Urami Waterfall (日光山 裏見ノ瀧, Nikkōyama uraminotaki)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_27_Shimotsuke.jpg"
+  },
+  {
+    "title": "Mutsu (陸奥): View of Matsushima, Sight Map from Mount Tomi (松島風景 富山眺望之略図, Matsushima fūkei Toyama chōbō no ryakuzu)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "Mutsu_Province,_View_of_Matsushima,_Sight_Map_from_Mount_Tomi.jpg"
+  },
+  {
+    "title": "Dewa (出羽): Mogami River, A Perspective View of Mount Gassan (最上川 月山遠望, Mogamigawa Gassan enbō)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 8",
+    "commons_filename": "Dewa_Province,_Mogami_River,_A_Perspective_View_of_Mount_Gassan_(5765349263).jpg"
+  },
+  {
+    "title": "Wakasa (若狭): A Fishing Boat Catching Flat Fish in a Net (漁船 鰈網, Gyosen karei-mō)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 9",
+    "commons_filename": "30_Wakasa.jpg"
+  },
+  {
+    "title": "Echizen (越前): Tsuruga, Kehi Pine Grove (敦賀 気比ノ松原, Tsuruga kihinomatsubara)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_31_Echizen.jpg"
+  },
+  {
+    "title": "Kaga (加賀): The Eight Wonders of Kanazawa, The Fishing Fires on Lake Renko (金沢八勝之内 蓮湖之漁火, Kanazawa hasshô no uchi, Renko no isaribi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 (Ansei 2), 9th month",
+    "commons_filename": "32_Kaga.jpg"
+  },
+  {
+    "title": "Noto (能登): Waterfall Bay (瀧之浦, Takiyuki Ura)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 9",
+    "commons_filename": "Hiroshige_Noto_Takinoura.jpg"
+  },
+  {
+    "title": "Etchu (越中): Toyama, Pontoon (冨山 船橋, Tomiyama Funabashi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 9",
+    "commons_filename": "34_Etchu.jpg"
+  },
+  {
+    "title": "Echigo (越後): Oyashirazu (親しらず)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 9",
+    "commons_filename": "35_Echigo.jpg"
+  },
+  {
+    "title": "Sado (佐渡): The Goldmines (金やま, Kin ya ma)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 9",
+    "commons_filename": "Hiroshige,_Gold_mine_in_Sado_province,_1853.jpg"
+  },
+  {
+    "title": "Tanba (丹波): Kanegasaka (鐘坂)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "37_Tamba_n.jpg"
+  },
+  {
+    "title": "Tango (丹後): Ama no hashidate (天の橋立)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_38_Tango.jpg"
+  },
+  {
+    "title": "Tajima (但馬): Iwai Valley, Kannon Cave (岩井谷 窟観音, Iwaidani iwayakan'non)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "39_Tajiima.jpg"
+  },
+  {
+    "title": "Inaba (因幡): Karo, Koyama (加路 小山)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "40_Inaba.jpg"
+  },
+  {
+    "title": "Hoki (伯耆): Ono, Distant View of Mount Daisen (大野 大山遠望, Ōno Ōyama enbō)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_41_Hoki.jpg"
+  },
+  {
+    "title": "Izumo (出雲): Taisha, Depiction of Hotohoto (大社 ほとほとの図, Taisha hotohoto no zu)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_42_Izumo.jpg"
+  },
+  {
+    "title": "Iwami (石見): Mount Takazuno, Salt Beach (高津山 汐濱, Kō Tsuyama Shiohama)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "43_Iwami.jpg"
+  },
+  {
+    "title": "Oki (隠岐): Takuhi Shrine (焚火の社, Takibi no sha)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "Hiroshige_Oki_Takuhinoyashiro.jpg"
+  },
+  {
+    "title": "Harima (播磨): Maiko Beach (舞子の濱, Maiko no hama)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_45_Harima.jpg"
+  },
+  {
+    "title": "Mimasaka (美作): Yamabushi Valley (山伏谷, Yamabushidani)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "Hiroshige_Mimasaka_Yamabushidani.jpg"
+  },
+  {
+    "title": "Bizen (備前): Tanokuchi Coast, Yugasan torii (田の口海浜 瑜賀山鳥居)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "Hiroshige_Bizen_Tanokuchi.jpg"
+  },
+  {
+    "title": "Bitchu (備中): Gokei (豪渓)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_48_Bitchu.jpg"
+  },
+  {
+    "title": "Bingo (備後): Abuto, Kannon Temple (阿武門観音堂, Abu-mon Kan'nondō)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_49_Bingo.jpg"
+  },
+  {
+    "title": "Aki (安藝): Itsukushima, Depiction of a Festival (巌島 祭礼之図, Iwao-jima sairei no zu)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1853 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_50_Aki.jpg"
+  },
+  {
+    "title": "Suo (周防): Iwakuni, Kintai Bridge (岩國 錦帯橋, Iwakuni Kintaikyō)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 12",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_51_Suo.jpg"
+  },
+  {
+    "title": "Nagato (長門): Shimonoseki (下の関)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_52_Nagato.jpg"
+  },
+  {
+    "title": "Kii (紀伊): Waka no ura (和哥之浦)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_53_Kii.jpg"
+  },
+  {
+    "title": "Awaji (淡路): Goshiki Beach (五色濱, Goshiki hama)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_54_Awaji.jpg"
+  },
+  {
+    "title": "Awa (阿波): Naruto Whirlpools (鳴門の風波, Naruto no fūha)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_55_Awa.jpg"
+  },
+  {
+    "title": "Sanuki (讃岐): Distant View of Mount Zozu (象頭山遠望, Zōzusan enbō)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_56_Sanuki.jpg"
+  },
+  {
+    "title": "Iyo (伊豫): Saijo (西條)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_57_Iyo.jpg"
+  },
+  {
+    "title": "Tosa (土佐): Bonito Fishing at Sea (海上松魚釣, Umi Agematsu Uotsuri)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "58_Tosa.jpg"
+  },
+  {
+    "title": "Chikuzen (筑前): Hakozaki, Umi no Nakamichi (筥崎 海中道みち)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "59_Chikuzen.jpg"
+  },
+  {
+    "title": "Chikugo (筑後): The Currents Around the Weir (簗瀬, Yanaze)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1855 / 9",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_60_Chikugo.jpg"
+  },
+  {
+    "title": "Buzen (豊前): The Passage Under the Rakan Monastery (羅漢寺 下道, Rakanji Shitamichi)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1854 / 11",
+    "commons_filename": "Hiroshige_Buzen_Rakanji.jpg"
+  },
+  {
+    "title": "Bungo (豊後): Minosaki (簑崎)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 4",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_62_Bungo.jpg"
+  },
+  {
+    "title": "Hizen (肥前): Nagasaki, Mount Inasa (長嵜 稲佐山)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 5",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_63_Hizen.jpg"
+  },
+  {
+    "title": "Higo (肥後): Gokanosho (五ヶの庄)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_64_Higo.jpg"
+  },
+  {
+    "title": "Hyuga (日向): Aburatsu Port, Obi Oshima (油津ノ湊 飫肥大嶌, Aburatsu no minato, Obi Ôshima)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_65_Hyuga.jpg"
+  },
+  {
+    "title": "Osumi (大隅): Sakurajima (桜島)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_66_Osumi.jpg"
+  },
+  {
+    "title": "Satsuma (薩摩): Bo Bay, The Two-sword Rocks (坊ノ浦 雙剣石, Bô no ura, Sôkenseki)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_67_Satsuma.jpg"
+  },
+  {
+    "title": "Iki (壱岐): Shisa (志作)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_68_Iki.jpg"
+  },
+  {
+    "title": "Tsushima (対馬): A Fine Evening on the Coast, Tsushima Province (海岸 夕晴)",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "1856 / 3",
+    "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_69_Tsushima.jpg"
+  },
+  {
+    "title": "Table of Contents: —",
+    "series": "Famous Views of the Sixty-odd Provinces",
+    "date": "—",
+    "commons_filename": "Title_Page_for_the_series_Famous_Places_in_the_Sixty-odd_Provinces_of_Japan.jpg"
+  },
+  {
+    "title": "Chiyo Promontory at Meguro in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Chiyo_Promentory_at_Meguro_in_Eastern_Capital_(Hiroshige,_1852).jpg",
+    "japanese_title": "東都目黒千代が崎 | Tōto meguro chiyogasaki",
+    "current_location": "東京都目黒区 | Meguro, Tokyo"
+  },
+  {
+    "title": "Rough Sea at Shichirigahama (\"Seven Ri Beach\") in Sagami Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige,_Rough_Sea_at_Shichirigahama_in_Sagami_Province,_1852.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Li_(unit)",
+    "japanese_title": "相模七里か濱風波 | Sagami shichirigahama fūha",
+    "current_location": "神奈川県鎌倉市 | Kamakura, Kanagawa"
+  },
+  {
+    "title": "Tanabata Festival in Edo",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Tanabata_Festival_in_Edo_(Hiroshige,_1852).jpg",
+    "japanese_title": "大江戸市中七夕祭 | Ōedo shichū tanabata matsuri",
+    "current_location": "東京都千代田区 | Chiyoda, Tokyo"
+  },
+  {
+    "title": "Below Ryōgoku Bridge in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Below_Ryogoku_Bridge_in_Eastern_Capital_(Hiroshige,_1852).jpg",
+    "japanese_title": "東都両国橋下 | Tōto ryōgokubashi shita",
+    "current_location": "東京都墨田区・台東区 | Sumida/Taitō, Tokyo"
+  },
+  {
+    "title": "Aoyama in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Aoyama_in_Eastern_Capital_(Hiroshige,_1852).jpg",
+    "japanese_title": "東都青山 | Tōto aoyama",
+    "current_location": "東京都港区・渋谷区 | Minato/Shibuya, Tokyo"
+  },
+  {
+    "title": "Tama River in Musashi Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Tama_River_in_Musashi_Province_(Hiroshige,_1852).jpg",
+    "japanese_title": "武蔵多満川 | Musashi tamagawa",
+    "current_location": "東京都日野市 | Hino, Tokyo"
+  },
+  {
+    "title": "Sagami River",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Sagami_River_(Hiroshige,_1852).jpg",
+    "japanese_title": "相模川 | Sagamigawa",
+    "current_location": "神奈川県海老名市・厚木市 | Ebina/Atsugi, Kanagawa"
+  },
+  {
+    "title": "Field in Kinegawa",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Mount_Fuji_seen_from_Kinegawa,_a_village_on_the_far_east_sid_Wellcome_V0047279.jpg",
+    "japanese_title": "東都木下川田甫 | Tōto Kinegawa tanbo",
+    "current_location": "東京都葛飾区・墨田区 | Katsushika/Sumida, Tokyo"
+  },
+  {
+    "title": "Path through Rice Fields at Ōmori (or Ōiso) on the Tōkaidō Road",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Path_Through_Rice_Fields_at_Omori_(Hiroshige,_1852).jpg",
+    "japanese_title": "東海道大森縄手 | Tōkaidō Ōmori Nawate",
+    "current_location": "東京都大田区大森 | Ōmori, Ōta, Tokyo"
+  },
+  {
+    "title": "Valley of Approach at Ōyama in Sagami Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Valley_of_Approach_at_Oyama_in_Sagami_Province_(Hiroshige,_1852).jpg",
+    "japanese_title": "相模大山来迎谷 | Sagami ōyama raigōdani",
+    "current_location": "神奈川県伊勢原市 | Isehara, Kanagawa"
+  },
+  {
+    "title": "Inume (\"Dog Eye\") Pass in Kai Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Dog_Eye_Pass_in_Kai_Province_(Hiroshige,_1852).jpg",
+    "japanese_title": "甲斐犬目峠 | Kai inume tōge",
+    "current_location": "山梨県上野原市 | Uenohara, Yamanashi"
+  },
+  {
+    "title": "Back View of Fuji from Dream Mountain in Kai Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Back_View_of_Fuji_from_Dream_Mtn_in_Kai_Province_(Hiroshige,_1852).jpg",
+    "japanese_title": "甲斐夢山裏富士 | Kai yumeyama urafuji",
+    "current_location": "山梨県甲府市 | Kōfu, Yamanashi"
+  },
+  {
+    "title": "Table of contents",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "00_-_Contents.jpg",
+    "japanese_title": "表紙目録"
+  },
+  {
+    "title": "Ichikoku Bridge in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "01_-_Ichikobu_Bridge.jpg",
+    "japanese_title": "東都一石ばし | Tōto ichikokubashi",
+    "current_location": "東京都中央区八重洲・中央区日本橋本石町 | Yaesu/Hongoku, Nihonbashi, Chūō, Tokyo"
+  },
+  {
+    "title": "The Suruga District in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_The_Suruga_District.jpg",
+    "japanese_title": "東都駿河町 | Tōto Surugachō",
+    "current_location": "東京都千代田区駿河台 | Surugadai, Chiyoda, Tokyo"
+  },
+  {
+    "title": "Sukiyagashi in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "03_-_Sukiyagahsi.jpg",
+    "japanese_title": "東都数奇屋河岸 | Tōto sukiyagashi",
+    "current_location": "東京都中央区 | Chūō, Tokyo"
+  },
+  {
+    "title": "Off Tsukuda Island in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "04_-_Off_Tsukuda_Island.jpg",
+    "japanese_title": "東都佃沖 | Tōto tsukuda oki",
+    "current_location": "東京都中央区佃 | Tsukuda, Chūō, Tokyo"
+  },
+  {
+    "title": "Ochanomizu in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "05_-_Ochanomizu.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ochanomizu",
+    "japanese_title": "東都御茶の水 | Tōto ochanomizu",
+    "current_location": "東京都千代田区駿河台・文京区湯島 | Surugadai, Chiyoda/Yushima, Bunkyō, Tokyo"
+  },
+  {
+    "title": "Ryōgoku in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "06_-_Ryogoku.jpg",
+    "japanese_title": "東都両ごく | Tōto ryōgoku",
+    "current_location": "東京都墨田区両国 | Ryōgoku, Sumida, Tokyo"
+  },
+  {
+    "title": "The Sumida Embankment in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Cherry-Blossom-Utagawa-Hiroshige-36-Views-of-Mount_Fuji-Series-7.jpg",
+    "japanese_title": "東都墨田堤 | Tōto sumida tsutsumi",
+    "current_location": "東京都墨田区向島 | Mukōjima, Sumida, Tokyo"
+  },
+  {
+    "title": "Mt. Asuka in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_Asukayama.jpg",
+    "japanese_title": "東都あすか山 | Tōto asukayama",
+    "current_location": "東京都北区王子 | Ōji, Kita, Tokyo"
+  },
+  {
+    "title": "The Teahouse with the View of Mt. Fuji at Zōshigaya",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "09_-_The_Teahouse_with_the_View_of_Mt._Fuji.jpg",
+    "japanese_title": "雑司かや不二見茶や | Zōshigaya fujimi chaya",
+    "current_location": "東京都豊島区雑司が谷 | Zōshigaya, Toshima, Tokyo"
+  },
+  {
+    "title": "Twilight Hill at Meguro in the Eastern Capital",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige,_Sunset_Hill,_Meguro_in_the_eastern_capital,_1858.jpg",
+    "japanese_title": "東都目黒夕日か岡 | Tōto Meguro Yūhi-ga-oka",
+    "current_location": "東京都目黒区目黒 | Meguro, Tokyo"
+  },
+  {
+    "title": "Wild Goose Hill and the Tone River",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "11_-_Wild_Goose_Hill_and_the_Tone_River.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tone_River",
+    "japanese_title": "鴻之臺戸根川 | Kōnodai tonegawa",
+    "current_location": "千葉県市川市国府台 | Kōnodai, Ichikawa, Chiba"
+  },
+  {
+    "title": "Koganei in Musashi Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_Koganei.jpg",
+    "japanese_title": "武蔵小金井 | Musashi koganei",
+    "current_location": "東京都小金井市 | Koganei, Tokyo"
+  },
+  {
+    "title": "The Tama River in Musashi Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "13_-_The_Tama_River.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tama_River",
+    "japanese_title": "武蔵玉川 | Musashi tamagawa",
+    "current_location": "東京都日野市 | Hino, Tokyo"
+  },
+  {
+    "title": "Koshigaya in Musashi Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_Koshigaya.jpg",
+    "japanese_title": "武蔵越が谷在 | Musashi koshigaya zai",
+    "current_location": "埼玉県越谷市 | Koshigaya, Saitama"
+  },
+  {
+    "title": "Noge and Yokohama in Musashi Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "15_-_Noge_and_Yokohama.jpg",
+    "japanese_title": "武蔵野毛横濱 | Musashi noge yokohama",
+    "current_location": "神奈川県横浜市 | Yokohama, Kanagawa"
+  },
+  {
+    "title": "Cherry Blossoms at Honmoku in Musashi Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "16_-_Cherry_Blossoms_at_Hommoku.jpg",
+    "japanese_title": "武蔵本牧のはな | Musashi honmoku no hana",
+    "current_location": "神奈川県横浜市中区本牧 | Honmoku, Naka-ku, Yokohama"
+  },
+  {
+    "title": "The Sea off the Miura Peninsula in Sagami Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "17_-_The_Sea_off_the_Miura_Peninsula.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miura_Peninsula",
+    "japanese_title": "相州三浦之海上 | Sōshū miura no kaijō",
+    "current_location": "神奈川県三浦市 | Miura-shi, Kanagawa-ken"
+  },
+  {
+    "title": "The Sagami River",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "18_-_The_Sagami_River.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sagami_River",
+    "japanese_title": "さがみ川 | Sagamigawa",
+    "current_location": "神奈川県海老名市・厚木市 | Ebina/Atsugi, Kanagawa"
+  },
+  {
+    "title": "The Seven Ri Beach in Sagami Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "19_-_The_Seven_Ri_Beach.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shichirigahama",
+    "japanese_title": "相摸七里か濱 | Sagami shichirigahama",
+    "current_location": "神奈川県鎌倉市 |  Kamakura, Kanagawa"
+  },
+  {
+    "title": "The Entrance gate at Enoshima in Sagami Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "20_-_The_Entrance_Gate_at_Enoshima.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Enoshima",
+    "japanese_title": "相摸江之島入口 | Sagami enoshima iriguchi",
+    "current_location": "神奈川県藤沢市 | Fujisawa, Kanagawa"
+  },
+  {
+    "title": "Lake at Hakone",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "21_-_Lake_at_Hakone.jpg",
+    "japanese_title": "はこ根の湖すい | Hakone no kosui",
+    "current_location": "神奈川県箱根町 | Hakone, Kanagawa"
+  },
+  {
+    "title": "The Izu Mountains",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_The_Izu_Mountains.jpg",
+    "japanese_title": "伊豆の山中 | Izu no sanchū",
+    "current_location": "静岡県伊豆市 | Izu, Shizuoka"
+  },
+  {
+    "title": "The Sea off Satta in Suruga Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "23_-_The_Sea_off_Satta.jpg",
+    "japanese_title": "駿河薩タ之海上 | Suruga satta no kaijō",
+    "current_location": "静岡県静岡市清水区 | Shimizu-ku, Shizuoka"
+  },
+  {
+    "title": "The Pine Forest of Miho in Suruga Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "24_-_The_Pine_Forest_of_Mio.jpg",
+    "japanese_title": "駿河三保之松原 | Suruga miho no matsubara",
+    "current_location": "静岡県静岡市清水区 | Shimizu-ku, Shizuoka"
+  },
+  {
+    "title": "Fuji on the left of the Tōkaidō Road",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "25_-_Fuji_on_the_Left_of_Tokaido_Road.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/T%C5%8Dkaid%C5%8D_(road)",
+    "japanese_title": "東海堂左り不二 | Tōkaidō hidari fuji",
+    "current_location": "静岡県富士市依田橋 | Yodabashi, Fuji, Shizuoka"
+  },
+  {
+    "title": "The Ōi River between Suruga and Totomi Provinces",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "26_-_The_Oi_River_Between_Suruga_and_Totomi_Provinces.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%8Ci_River",
+    "japanese_title": "駿遠大井川 | Sun'en ōigawa",
+    "current_location": "静岡県島田市 | Shimada, Shizuoka"
+  },
+  {
+    "title": "Futami Bay in Ise Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige,_Futamigaura_in_Ise_Province,_1858.jpg",
+    "japanese_title": "伊勢二見か浦 | Ise futamigaura",
+    "current_location": "三重県伊勢市 | Ise, Mie"
+  },
+  {
+    "title": "Lake Suwa in Shinano Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_36_Views_of_Fuji-san_-_28._Lake_Suwa.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Suwa",
+    "japanese_title": "信州諏訪之湖 | Shinshū suwa no mizuumi",
+    "current_location": "長野県諏訪市 | Suwa, Nagano"
+  },
+  {
+    "title": "Shiojiri Pass in Shinano Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_-_36_Views_of_Fuji-san_-_29._Shiojiri_Pass.jpg",
+    "japanese_title": "信濃塩尻峠 | Shinano shiojiritōge",
+    "current_location": "長野県岡谷市・塩尻市 | Okaya/Shiojiri, Nagano"
+  },
+  {
+    "title": "Misaka Pass in Kai Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "Hiroshige_Mt_fuji_4.jpg",
+    "japanese_title": "甲斐御坂越 | Kai misikagoshi",
+    "current_location": "山梨県富士河口湖町 | Fujikawaguchiko, Yamanashi"
+  },
+  {
+    "title": "The Ōtsuki Plain in Kai Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "31-_The_Otsuki_Plain.jpg",
+    "japanese_title": "甲斐大月の原 | Kai ōtsukinohara",
+    "current_location": "山梨県大月市 | Ōtsuki, Yamanashi"
+  },
+  {
+    "title": "Dog Eye Pass in Kai Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "32_-_Dog_Eye_Pass.jpg",
+    "japanese_title": "甲斐犬目峠 | Kai inumetōge",
+    "current_location": "山梨県上野原市 | Uenohara, Yamanashi"
+  },
+  {
+    "title": "Kogane Plain in Shimōsa Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "33_-_Kogane_Plain.jpg",
+    "japanese_title": "下総小金原 | Shimōsa koganehara",
+    "current_location": "千葉県松戸市 | Matsudo, Chiba"
+  },
+  {
+    "title": "Kuroto Bay in Kazusa Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "34_-_Kuroto_Bay.jpg",
+    "japanese_title": "上総黒戸の浦 | Kazusa kuroto no ura",
+    "current_location": "千葉県木更津市 | Kisarazu, Chiba"
+  },
+  {
+    "title": "Mt. Kanō in Kazusa Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "35_Mt._Rokusu.jpg",
+    "japanese_title": "上総鹿埜山 | Kazusa kanōzan",
+    "current_location": "千葉県君津市 | Kimitsu, Chiba"
+  },
+  {
+    "title": "The Hota Coast in Awa Province",
+    "series": "Thirty-six Views of Mount Fuji",
+    "date": "1852-1858",
+    "commons_filename": "36_-_The_Hoda_Coast.jpg",
+    "japanese_title": "房州保田ノ海岸 | Bōshū hota no kaigan",
+    "current_location": "千葉県鋸南町 | Kyonan, Chiba"
+  },
+  {
+    "title": "Print 11: Hakone",
+    "commons_filename": "Hiroshige11_hakone.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Print 16: Kanbara",
+    "commons_filename": "Hiroshige16_kanbara.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Print 46: Rain Shower at Shōno",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sh%C5%8Dno-juku",
+    "commons_filename": "Hiroshige,_Travellers_surprised_by_sudden_rain.jpg",
+    "series": "Other works"
+  },
+  {
+    "date": "1859",
+    "title": "Suō Iwakuni, Hiroshige II",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hiroshige_II",
+    "commons_filename": "Hiroshige_II_Suō_Iwakuni.jpg",
+    "series": "Other works"
+  },
+  {
+    "date": "c. 1870",
+    "title": "Teppōzu Akashi-bashi, Hiroshige III",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hiroshige_III",
+    "commons_filename": "Hiroshige_III_-_Teppōzu_Akashi-bashi.jpg",
+    "series": "Other works"
+  },
+  {
+    "date": "c. 1855–56",
+    "title": "Dog stealing a workman's meal from a snow Daruma, Hirokage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Daruma_doll",
+    "commons_filename": "Hirokage_-_Comic_Incidents_at_Famous_Places_in_Edo_(Edo_meisho_dôke_zukushi),_No._22,_dog_stealing_a_workman's_meal_from_a_snow_Daruma.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Moonlight View of Tsukuda with Lady on a Balcony",
+    "commons_filename": "Brooklyn_Museum_-_Moonlight_View_of_Tsukuda_with_Lady_on_a_Balcony_-_Utagawa_Hiroshige_(Ando).jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Sumida River, the Wood of the Water god",
+    "commons_filename": "Sumida_River,_the_Wood_of_the_Water_God,_at_Masaki_LACMA_M.66.35.5.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Moon over Ships Moored at Tsukuda Island from Eitai Bridge",
+    "commons_filename": "Ando_Hiroshige_-_Moon_over_Ships_Moored_at_Tsukuda_Island_from_Eitai_Bridge_-_Google_Art_Project.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Evening on the Sumida river",
+    "commons_filename": "Utagawa_Hiroshige_-_Evening_on_the_Sumida_river_-_Google_Art_Project.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Enjoying the fireworks and the cool of the evening at Ryogoku bridge",
+    "commons_filename": "Utagawa_Hiroshige_-_Enjoying_the_fireworks_and_the_cool_of_the_evening_at_Ryogoku_bridge_in_the_Eastern_Capital_-_Google_Art_Project.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "The Sea at Satta, Suruga Province, from Thirty-six Views of Mount Fuji",
+    "commons_filename": "Ando_Hiroshige_-_The_Sea_at_Satta,_Suruga_Province,_from_the_series_\"Thirty-six_Views_of_Mount_Fuji\"_-_Google_Art_Project.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Horikiri Iris Garden (Horikiri no hanashōbu), from One Hundred Famous Views of Edo",
+    "commons_filename": "Utagawa_Hiroshige_I,_published_by_Uoya_Eikichi_-_Horikiri_Iris_Garden_(Horikiri_no_hanashōbu),_from_the_series_One_Hundred_Famous_Views_of_Edo_(Meish..._-_Google_Art_Project.jpg",
+    "series": "Other works"
+  },
+  {
+    "date": "1857",
+    "title": "Fudo Falls, Oji",
+    "current_location": "from One Hundred Famous Views of Edo",
+    "commons_filename": "100_views_edo_047.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Dragon in clouds",
+    "commons_filename": "Dragon_in_clouds_by_Utagawa_Hiroshige.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Heavy rain on a pine tree, from Eight Views of Ōmi",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eight_Views_of_%C5%8Cmi",
+    "commons_filename": "Hiroshige_Heavy_rain_on_a_pine_tree_2.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Fishing boats on a lake, from Eight Views of Ōmi",
+    "commons_filename": "Hiroshige_Fishing_boats_on_a_lake.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Full moon over a mountain landscape, from Eight Views of Ōmi",
+    "commons_filename": "Hiroshige_Full_moon_over_a_mountain_landscape.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "Sokokura, from Seven Hot Springs of Hakone",
+    "commons_filename": "Sokokura_by_Hiroshige1.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "View of a long bridge across a lake, from Eight Views of Ōmi",
+    "commons_filename": "Hiroshige_View_of_a_long_bridge_across_a_lake.jpg",
+    "series": "Other works"
+  },
+  {
+    "title": "A shrine among trees on a moor",
+    "commons_filename": "Hiroshige_A_shrine_among_trees_on_a_moor.jpg",
+    "series": "Other works"
+  }
+]

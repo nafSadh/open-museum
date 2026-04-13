@@ -26,7 +26,7 @@
 - [x] Claude Monet collection (1,774 works, series filter)
 - [x] Rembrandt collection (806 works: 348 paintings, 289 etchings, 169 drawings)
 - [x] Vermeer collection (37 paintings, flow layout default)
-- [ ] Edgar Degas collection
+- [x] Edgar Degas collection (51 works, custom gallery parser)
 - [ ] Paul Cézanne collection
 - [ ] Leonardo da Vinci collection
 - [ ] Michelangelo collection
@@ -48,17 +48,17 @@
 - [ ] Gustav Klimt collection
 - [ ] Egon Schiele collection
 - [ ] Amedeo Modigliani collection
-- [ ] Katsushika Hokusai collection
-- [ ] Utagawa Hiroshige collection
-- [ ] Raja Ravi Varma collection
-- [ ] Amrita Sher-Gil collection
+- [x] Katsushika Hokusai collection (86 works)
+- [x] Utagawa Hiroshige collection (363 works)
+- [x] Raja Ravi Varma collection (241 works)
+- [x] Amrita Sher-Gil collection (169 works)
 - [ ] Abanindranath Tagore collection
-- [ ] Xu Beihong collection
+- [x] Xu Beihong collection (40 works)
 - [ ] Shitao collection
 - [ ] Bada Shanren collection
 - [ ] Shen Zhou collection
 - [ ] Tang Yin collection
-- [ ] Kitagawa Utamaro collection
-- [ ] Utagawa Kuniyoshi collection
+- [x] Kitagawa Utamaro collection (367 works)
+- [x] Utagawa Kuniyoshi collection (29 works)
 - [ ] Kuroda Seiki collection
-- [ ] Kamāl ud-Dīn Behzād collection
+- [x] Kamāl ud-Dīn Behzād collection (125 works)

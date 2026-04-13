@@ -38,3 +38,15 @@
 | 23 | 2026-04-09 | vermeer-commons-resolver | Resolve Commons URLs for Vermeer | done | 37/37 resolved → vermeer/catalog.json |
 | 24 | 2026-04-09 | vermeer-enrich | Enrich catalog with era/subject/famous | done | early 8 / middle 15 / late 14; genre 25 / religious 3 / allegory 2 / portrait 2 / landscape 2; 28 famous |
 | 25 | 2026-04-09 | vermeer-web-init | Create vermeer/index.html gallery + root listing | done | Lapis/pearl palette, flow layout default, 3 layout modes |
+| 26 | 2026-04-09 | degas-wiki-scraper | Scrape Degas gallery from main article (no list page) | done | 51 works → degas/wiki_works_raw.json (custom gallery parser) |
+| 27 | 2026-04-09 | degas-commons-resolver | Resolve Commons URLs for Degas | done | 51/51 resolved → degas/catalog.json |
+| 28 | 2026-04-09 | degas-enrich | Enrich catalog with era/subject/famous | done | early 11 / impressionist 31 / late 9; dance 15 / nude 8 / portrait 8; 22 famous |
+| 29 | 2026-04-09 | degas-web-init | Create degas/index.html gallery + root listing | done | Rose/blush/sage palette, flow default, dance/nude/portrait/racing filters |
+| 30 | 2026-04-09 | hokusai-full | Scrape + resolve + enrich + gallery for Hokusai | done | 86 works, indigo/wave palette, 36 Views of Fuji series |
+| 31 | 2026-04-09 | hiroshige-full | Scrape 6 series pages + resolve + enrich + gallery for Hiroshige | done | 363 works, misty landscape palette |
+| 32 | 2026-04-09 | utamaro-full | Scrape + resolve + enrich + gallery for Utamaro | done | 367 works, pale pink/woodblock red palette |
+| 33 | 2026-04-09 | kuniyoshi-full | Scrape + resolve + enrich + gallery for Kuniyoshi | done | 29 works, indigo/crimson/gold palette |
+| 34 | 2026-04-09 | raja-ravi-varma-full | Scrape Wikipedia + 11 Commons categories + resolve + enrich + gallery | done | 241 works, saffron/gold/peacock palette |
+| 35 | 2026-04-09 | amrita-sher-gil-full | Scrape 12 year-tables + resolve + enrich + gallery | done | 169 works, terracotta/ochre/green palette |
+| 36 | 2026-04-09 | xu-beihong-full | Scrape Commons categories + Wikipedia + resolve + enrich + gallery | done | 40 works, ink wash palette |
+| 37 | 2026-04-09 | behzad-full | Scrape Wikipedia + 7 Commons subcategories + resolve + enrich + gallery | done | 125 works, lapis/gold/turquoise palette |
