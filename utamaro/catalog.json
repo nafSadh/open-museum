@@ -467,7 +467,14 @@
     "harvest_method": "wikipedia_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "commons_filename": "Utamaro (c. 1788–91) Fukagawa no Yuki.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Utamaro_%28c._1788%E2%80%9391%29_Fukagawa_no_Yuki.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Utamaro_%28c._1788%E2%80%9391%29_Fukagawa_no_Yuki.jpg/960px-Utamaro_%28c._1788%E2%80%9391%29_Fukagawa_no_Yuki.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1788%E2%80%9391)_Fukagawa_no_Yuki.jpg",
+    "image_width": 1914,
+    "image_height": 1147,
+    "mime": "image/jpeg"
   },
   {
     "title": "Utamakura",

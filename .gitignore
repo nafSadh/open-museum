@@ -1,0 +1,17 @@
+# Runtime files from Claude Code / scheduled tasks
+.claude/scheduled_tasks.lock
+.claude/scheduled_tasks.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
