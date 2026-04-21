@@ -585,6 +585,7 @@ async function init() {
   const resp = await fetch('catalog.json');
   works = await resp.json();
   applyFilters();
+  openFromHash();
 }
 
 function applyFilters() {
@@ -649,11 +650,13 @@ function openLb(idx) {
   renderLb();
   document.getElementById('lb').classList.add('open');
   document.body.style.overflow = 'hidden';
+  if (filtered[idx]) history.replaceState(null, '', '#' + filtered[idx].id);
 }
 function closeLb() {
   document.getElementById('lb').classList.remove('open');
   document.body.style.overflow = '';
   lbIdx = -1;
+  history.replaceState(null, '', location.pathname + location.search);
 }
 function navLb(d) {
   if (lbIdx < 0) return;
@@ -683,6 +686,15 @@ function renderLb() {
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+function openFromHash() {
+  const m = (location.hash || '').match(/^#(?:id=)?(\d+)$/);
+  if (!m) return;
+  const id = parseInt(m[1]);
+  const idx = filtered.findIndex(w => w.id === id);
+  if (idx >= 0) openLb(idx);
+}
+window.addEventListener('hashchange', openFromHash);
 
 document.getElementById('search').addEventListener('input', e => {
   query = e.target.value;

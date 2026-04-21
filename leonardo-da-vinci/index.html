@@ -388,6 +388,41 @@
       letter-spacing: 0.08em;
       line-height: 1.8;
     }
+    .lb-see-also {
+      margin-top: 1.2rem;
+      display: flex; flex-wrap: wrap; justify-content: center;
+      gap: 0.8rem;
+    }
+    .lb-see-also:empty { display: none; }
+    .lb-see-also-label {
+      width: 100%; text-align: center;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.6rem; letter-spacing: 0.14em;
+      color: rgba(240,236,228,0.4);
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+    }
+    .lb-recon {
+      display: flex; flex-direction: column; align-items: center;
+      width: 120px; gap: 0.3rem;
+      text-decoration: none; color: inherit;
+      transition: transform 0.2s;
+    }
+    .lb-recon:hover { transform: translateY(-3px); }
+    .lb-recon img {
+      width: 120px; height: 80px; object-fit: cover;
+      border: 1px solid rgba(240,236,228,0.15);
+      border-radius: 2px;
+    }
+    .lb-recon:hover img { border-color: var(--cerulean); }
+    .lb-recon-label {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.68rem; font-style: italic;
+      color: rgba(240,236,228,0.75);
+      line-height: 1.2; max-width: 120px;
+      overflow-wrap: break-word;
+    }
+
     .lb-ext-links {
       display: inline-flex; gap: 1.2rem;
       margin-top: 0.5rem;
@@ -504,7 +539,7 @@
     <h1 class="hero-name">Leonardo</h1>
     <div class="hero-sub">italian &middot; 1452 &ndash; 1519 &middot; public domain</div>
     <p class="hero-desc">
-      Fewer than twenty universally accepted paintings, plus the <em>Vitruvian Man</em> and a handful of his most studied drawings. Several canonical works are unfinished &mdash; which is part of the canon.
+      Seventeen accepted paintings &mdash; including <em>Mona Lisa</em>, <em>The Last Supper</em>, <em>Lady with an Ermine</em> &mdash; plus ~1,650 drawings, anatomical studies, and manuscript folios from Windsor, the Louvre, the British Museum, and the Biblioteca Ambrosiana. Filter <em>of kind</em> to browse by medium.
     </p>
     <div class="scroll-cue" aria-hidden="true">scroll</div>
   </section>
@@ -584,6 +619,7 @@
       <div class="lb-painting-title" id="lb-title"></div>
       <div class="lb-painting-sub" id="lb-sub"></div>
       <div class="lb-ext-links" id="lb-links"></div>
+      <div class="lb-see-also" id="lb-see-also"></div>
     </div>
   </div>
 
@@ -606,6 +642,7 @@ async function init() {
   const resp = await fetch('catalog.json');
   works = await resp.json();
   applyFilters();
+  openFromHash();
 }
 
 function applyFilters() {
@@ -680,11 +717,13 @@ function openLb(idx) {
   renderLb();
   document.getElementById('lb').classList.add('open');
   document.body.style.overflow = 'hidden';
+  if (filtered[idx]) history.replaceState(null, '', '#' + filtered[idx].id);
 }
 function closeLb() {
   document.getElementById('lb').classList.remove('open');
   document.body.style.overflow = '';
   lbIdx = -1;
+  history.replaceState(null, '', location.pathname + location.search);
 }
 function navLb(d) {
   if (lbIdx < 0) return;
@@ -711,9 +750,34 @@ function renderLb() {
   if (w.image_url) lk += `<a href="${w.image_url}" target="_blank">full resolution</a>`;
   if (w.provenance_url) lk += `<a href="${w.provenance_url}" target="_blank">wikipedia</a>`;
   document.getElementById('lb-links').innerHTML = lk;
+
+  const seeAlso = document.getElementById('lb-see-also');
+  if (w.see_also && w.see_also.length) {
+    const items = w.see_also.map(s => {
+      const href = s.commons_page || s.image_url || '#';
+      const thumb = s.thumb_url || s.image_url || '';
+      const tooltip = [s.attribution, s.location, s.note].filter(Boolean).join(' \u2014 ');
+      return `<a class="lb-recon" href="${href}" target="_blank" title="${esc(tooltip)}">
+        <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy">
+        <span class="lb-recon-label">${esc(s.label || '')}</span>
+      </a>`;
+    }).join('');
+    seeAlso.innerHTML = `<div class="lb-see-also-label">see also — better reconstructions</div>${items}`;
+  } else {
+    seeAlso.innerHTML = '';
+  }
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+function openFromHash() {
+  const m = (location.hash || '').match(/^#(?:id=)?(\d+)$/);
+  if (!m) return;
+  const id = parseInt(m[1]);
+  const idx = filtered.findIndex(w => w.id === id);
+  if (idx >= 0) openLb(idx);
+}
+window.addEventListener('hashchange', openFromHash);
 
 document.getElementById('search').addEventListener('input', e => {
   query = e.target.value;
