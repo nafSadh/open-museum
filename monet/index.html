@@ -652,7 +652,7 @@ const PG = 80;
 let works = [], filtered = [], shown = 0, lbIdx = -1;
 
 // Filter state
-let activeSeries = new Set(), activeEra = 'any', activeSubject = 'any', famousOnly = false, query = '';
+let activeSeries = new Set(), activeEra = 'any', activeSubject = 'any', scopeFilter = 'all', query = '';
 
 const eraNames    = { early: 'early', impressionist: 'impressionist', series: 'series era' };
 const subjNames   = { water: 'water', landscape: 'landscape', garden: 'garden', urban: 'urban', portrait: 'portrait', still_life: 'still life' };
@@ -822,8 +822,8 @@ function joinNatural(items) {
 function updateSummaries() {
   // Scope
   const scEl = document.getElementById('scope-summary');
-  scEl.textContent = famousOnly ? 'famous works' : 'works';
-  scEl.classList.toggle('has-value', famousOnly);
+  scEl.textContent = scopeFilter === 'famous' ? 'famous works' : scopeFilter === 'well_known' ? 'famous + well-known' : 'works';
+  scEl.classList.toggle('has-value', scopeFilter !== 'all');
 
   // Series
   const sEl = document.getElementById('series-summary');
@@ -852,7 +852,7 @@ document.querySelectorAll('.pick').forEach(btn => {
     const g = btn.dataset.g, v = btn.dataset.v;
 
     if (g === 'scope') {
-      famousOnly = (v === 'famous');
+      scopeFilter = v;
       document.querySelectorAll('.pick[data-g="scope"]').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
     } else if (g === 'era') {

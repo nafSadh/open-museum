@@ -577,6 +577,7 @@
       <span class="exp" id="exp-scope">
         <span class="exp-summary has-value" id="scope-summary">famous</span>
         <span class="exp-picks"><span class="exp-brace">{</span><button class="pick active" id="pick-famous" data-g="scope" data-v="famous">famous</button>
+          <button class="pick" id="pick-well-known" data-g="scope" data-v="well_known">well known</button>
           <button class="pick" id="pick-all" data-g="scope" data-v="all">all</button><span class="exp-brace">}</span></span>
       </span>
 
@@ -658,7 +659,7 @@ const PG = 80;
 let works = [], filtered = [], shown = 0, lbIdx = -1;
 
 // Filter state — default to famous
-let activeTypes = new Set(), activeEras = new Set(), activeSubjects = new Set(), famousOnly = true, query = '';
+let activeTypes = new Set(), activeEras = new Set(), activeSubjects = new Set(), scopeFilter = 'famous', query = '';
 
 async function init() {
   const all = await (await fetch('catalog.json')).json();
@@ -682,7 +683,7 @@ function applyFilters() {
     return true;
   });
   // Sort famous works by fame rank (most iconic first)
-  if (famousOnly) {
+  if (scopeFilter === 'famous') {
     filtered.sort((a, b) => (a.fame_rank ?? 9999) - (b.fame_rank ?? 9999));
   }
   shown = 0;
@@ -854,15 +855,17 @@ document.querySelectorAll('.pick').forEach(btn => {
     const g = btn.dataset.g;
     const v = btn.dataset.v;
 
-    // Scope is single-select toggle (famous / all)
+    // Scope is single-select (famous / well known / all)
     if (g === 'scope') {
-      famousOnly = (v === 'famous');
-      document.getElementById('pick-famous').classList.toggle('active', famousOnly);
-      document.getElementById('pick-all').classList.toggle('active', !famousOnly);
+      scopeFilter = v;
+      document.getElementById('pick-famous').classList.toggle('active', v === 'famous');
+      document.getElementById('pick-well-known').classList.toggle('active', v === 'well_known');
+      document.getElementById('pick-all').classList.toggle('active', v === 'all');
       const summary = document.getElementById('scope-summary');
-      summary.textContent = famousOnly ? 'famous' : '';
-      summary.style.display = famousOnly ? '' : 'none';
-      summary.classList.toggle('has-value', famousOnly);
+      const label = v === 'famous' ? 'famous' : v === 'well_known' ? 'famous + well-known' : '';
+      summary.textContent = label;
+      summary.style.display = label ? '' : 'none';
+      summary.classList.toggle('has-value', v !== 'all');
       applyFilters();
       return;
     }
@@ -915,7 +918,7 @@ topbarTitle.addEventListener('click', () => {
 });
 
 function updateTopbarCount() {
-  const scope = famousOnly ? 'famous' : '';
+  const scope = scopeFilter === 'famous' ? 'famous' : scopeFilter === 'well_known' ? 'famous + well-known' : '';
   const type = activeTypes.size > 0 ? joinNatural([...activeTypes].map(t => typeNames[t])) : 'works';
   topbarCount.textContent = scope ? `${filtered.length} ${scope} ${type}` : `${filtered.length} ${type}`;
 }

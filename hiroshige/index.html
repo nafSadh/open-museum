@@ -671,7 +671,7 @@ function applyFilters() {
 
 function updateSummaries() {
   const sc = document.getElementById('scope-summary');
-  sc.textContent = famousOnly ? 'famous prints' : 'prints';
+  sc.textContent = scopeFilter === 'famous' ? 'famous prints' : scopeFilter === 'well_known' ? 'famous + well-known prints' : 'prints';
   sc.classList.toggle('has-value', scopeFilter !== 'all');
 
   const ec = document.getElementById('era-summary');
