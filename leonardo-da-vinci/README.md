@@ -2,13 +2,14 @@
 
 ## Scope
 
-20 works by **Leonardo da Vinci** (1452–1519) — the Tuscan polymath whose painted output is famously small but whose influence is outsized. The collection is a **curated list**, not an exhaustive scrape: fewer than 20 paintings are universally accepted as fully autograph, the rest are disputed or partly workshop. Trying to scrape Wikipedia lists of "works" produces far too much attribution noise.
+~1,700 works by **Leonardo da Vinci** (1452–1519) — the Tuscan polymath whose painted output is famously small (around 20 accepted panels) but whose drawings number in the thousands. The collection uses a **hybrid strategy**:
 
-This collection includes:
-- The 15–16 widely accepted paintings (Mona Lisa, Last Supper, Virgin of the Rocks in both Louvre and London versions, Lady with an Ermine, Ginevra de' Benci, Annunciation, Benois Madonna, Saint John the Baptist, Virgin and Child with Saint Anne, Madonna of the Carnation, La Belle Ferronnière, Portrait of a Musician, Saint Jerome, Adoration of the Magi, Madonna Litta).
-- Famous drawings / studies (Vitruvian Man, La Scapigliata, Portrait of a Man in Red Chalk, the 1473 Arno Valley landscape).
+1. **Curated paintings** — the 17 universally accepted panels (Mona Lisa, Last Supper, the two Virgin of the Rocks, Lady with an Ermine, Ginevra de' Benci, Annunciation, Benois Madonna, Saint John the Baptist, Virgin and Child with Saint Anne, Madonna of the Carnation, La Belle Ferronnière, Portrait of a Musician, Saint Jerome, Adoration of the Magi, Madonna Litta, La Scapigliata) plus three famous drawings (Vitruvian Man, Portrait of a Man in Red Chalk, Study of a Tuscan Landscape) with hand-entered medium / dimensions / location.
+2. **Commons category crawl** of drawings, studies, and manuscript folios from Leonardo's holdings at the **Royal Collection (Windsor)**, **Louvre**, **British Museum**, **Biblioteca Ambrosiana** (Milan), **Biblioteca Reale** (Turin), and **Gallerie dell'Accademia** (Venice). Plus the *Codex on the Flight of Birds* and Leonardo's manuscript pages held at the Institut de France.
 
-**Not included**: *Salvator Mundi* (2017 auction provenance remains disputed), the 5000+ notebook sketches (too many to meaningfully catalog here), and workshop pieces.
+**Not included**: *Salvator Mundi* (2017 auction provenance remains contested), modern 3D reconstructions of Leonardo's machine designs, copies-after-Leonardo and school-of-Leonardo works, and gallery-installation photos. Commons is dense with these — they're filtered out at both category and filename level (see [scripts/fetch_commons.py](scripts/fetch_commons.py)).
+
+The painting category on Commons itself is almost entirely noise (multiple high-res scans of the same canvas, plus school-of / studio-of pieces), so paintings come from the curated list only.
 
 ## Copyright Status
 
@@ -16,11 +17,12 @@ This collection includes:
 
 ## Collection specifics
 
-- **Attribution classifications**: each entry carries an `attribution` field — `accepted`, `accepted (unfinished)`, `accepted (partly workshop)`, or `attributed`. Follows Zöllner, *Leonardo da Vinci: Complete Paintings and Drawings* (2019) as a standard.
-- **Unfinished works are canon**: *Saint Jerome* and *Adoration of the Magi* are canonically Leonardo despite being incomplete — this reflects scholarly consensus, not data error.
-- **`type` field**: splits paintings from drawings. Useful because Leonardo's drawings are substantive independent works, not just preparatory sketches.
-- **Two versions of Virgin of the Rocks**: both the Louvre (c.1483–1486) and National Gallery, London (c.1495–1508) versions are in the collection. They're sufficiently different that scholars treat them as two autonomous works.
-- **Hand-curated, not scraped**: unusual among the collections in this repo. The source script lives at [scripts/fetch_commons.py](scripts/fetch_commons.py). Re-running it resolves all Commons URLs / metadata freshly but the list of works is hard-coded.
+- **Attribution field**: `accepted`, `accepted (unfinished)`, `accepted (partly workshop)`, or `attributed`. The curated paintings follow Zöllner, *Leonardo da Vinci: Complete Paintings and Drawings* (2019). Crawled drawings are marked `accepted` because Commons categories under "... by Leonardo da Vinci" are already filtered for him; `after-Leonardo` / `school-of` subcategories are excluded at crawl time.
+- **`type` field**: `painting`, `drawing`, `study`, or `codex_folio`. Useful because Leonardo's drawings and codex folios are substantive independent works, not just preparatory sketches — the Royal Collection at Windsor alone has ~600 of them.
+- **Unfinished works are canon**: *Saint Jerome*, *Adoration of the Magi*, *Last Supper* (deteriorated) are canonically Leonardo despite being incomplete or degraded.
+- **Two versions of Virgin of the Rocks**: both the Louvre (c.1483–1486) and National Gallery, London (c.1495–1508) versions are separate entries. They're sufficiently different that scholars treat them as autonomous works.
+- **Dates are sparse on drawings**: only ~24% of drawings carry a parsable date. Leonardo rarely dated folios; most dates in the literature are inferred from ink type, handwriting, and referenced events. Where the field is blank, `year_start` / `year_end` are null.
+- **Hand-curated + scripted hybrid**: script at [scripts/fetch_commons.py](scripts/fetch_commons.py). Re-running it re-resolves all Commons URLs, re-crawls the source categories, and re-applies the filters. Curated entries always win on dedupe.
 
 ## Sources
 

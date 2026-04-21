@@ -522,6 +522,17 @@
           <button class="pick" data-g="scope" data-v="famous">famous</button><span class="exp-brace">}</span></span>
       </span>
 
+      <span class="static exp-hide-on-hover">of kind</span>
+
+      <span class="exp" id="exp-type">
+        <span class="exp-summary" id="type-summary">any kind</span>
+        <span class="exp-picks"><span class="exp-label">of kind</span> <span class="exp-brace">{</span> <button class="pick active" data-g="type" data-v="any">any</button>
+          <button class="pick" data-g="type" data-v="painting">painting</button>
+          <button class="pick" data-g="type" data-v="drawing">drawing</button>
+          <button class="pick" data-g="type" data-v="study">study</button>
+          <button class="pick" data-g="type" data-v="codex_folio">codex folio</button> <span class="exp-brace">}</span></span>
+      </span>
+
       <span class="static exp-hide-on-hover">from</span>
 
       <span class="exp" id="exp-era">
@@ -584,11 +595,12 @@
 
 <script>
 let works = [], filtered = [], lbIdx = -1, query = '';
-let famousOnly = false, activeEra = 'any', activeSubject = 'any';
+let famousOnly = false, activeEra = 'any', activeSubject = 'any', activeType = 'any';
 let activeLayout = 'flow';
 
 const eraNames     = { early: 'early', middle: 'middle', late: 'late' };
-const subjectNames = { genre: 'genre', portrait: 'portrait', landscape: 'landscape', allegory: 'allegory', religious: 'religious' };
+const subjectNames = { portrait: 'portrait', religious: 'religious', study: 'study', landscape: 'landscape', codex: 'codex' };
+const typeNames    = { painting: 'painting', drawing: 'drawing', study: 'study', codex_folio: 'codex folio' };
 
 async function init() {
   const resp = await fetch('catalog.json');
@@ -600,9 +612,10 @@ function applyFilters() {
   const q = query.toLowerCase();
   filtered = works.filter(w => {
     if (famousOnly && !w.famous) return false;
+    if (activeType !== 'any' && w.type !== activeType) return false;
     if (activeEra !== 'any' && w.era !== activeEra) return false;
     if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
-    if (q) return [w.title, w.current_location, w.date, w.technique].filter(Boolean).join(' ').toLowerCase().includes(q);
+    if (q) return [w.title, w.current_location, w.date, w.medium, w.attribution].filter(Boolean).join(' ').toLowerCase().includes(q);
     return true;
   });
 
@@ -622,6 +635,10 @@ function updateSummaries() {
   const sc = document.getElementById('scope-summary');
   sc.textContent = famousOnly ? 'famous works' : 'works';
   sc.classList.toggle('has-value', famousOnly);
+
+  const tc = document.getElementById('type-summary');
+  tc.textContent = activeType === 'any' ? 'any kind' : typeNames[activeType];
+  tc.classList.toggle('has-value', activeType !== 'any');
 
   const ec = document.getElementById('era-summary');
   ec.textContent = activeEra === 'any' ? 'any era' : eraNames[activeEra];
@@ -686,7 +703,7 @@ function renderLb() {
   document.getElementById('lb-title').textContent = w.title + (w.title_disambig ? ' \u00b7 ' + w.title_disambig : '');
   document.getElementById('lb-pos').textContent = (lbIdx + 1) + ' / ' + filtered.length;
 
-  const parts = [w.date, w.technique, w.dimensions, w.current_location].filter(Boolean);
+  const parts = [w.date, w.medium || w.technique, w.dimensions, w.current_location, w.attribution].filter(Boolean);
   document.getElementById('lb-sub').textContent = parts.join(' \u00b7 ');
 
   let lk = '';
@@ -710,6 +727,7 @@ document.querySelectorAll('.pick').forEach(btn => {
     document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     if (g === 'scope') famousOnly = (v === 'famous');
+    else if (g === 'type') activeType = v;
     else if (g === 'era') activeEra = v;
     else if (g === 'subject') activeSubject = v;
     applyFilters();
