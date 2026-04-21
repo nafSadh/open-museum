@@ -673,7 +673,8 @@ function applyFilters() {
     if (activeTypes.size > 0 && !activeTypes.has(w.type)) return false;
     if (activeEras.size > 0 && !activeEras.has(w.era)) return false;
     if (activeSubjects.size > 0 && !(w.subjects || []).some(s => activeSubjects.has(s))) return false;
-    if (famousOnly && !w.famous) return false;
+    if (scopeFilter === 'famous' && w.tier !== 'famous') return false;
+    if (scopeFilter === 'well_known' && !w.tier) return false;
     if (q) {
       return [w.title, w.current_location, w.date, w.section, w.f_number, w.jh_number, w.era, ...(w.subjects||[])]
         .filter(Boolean).join(' ').toLowerCase().includes(q);

@@ -11,12 +11,13 @@
     "id": 1,
     "era": "early",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1852,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Degas_-_Self_Portrait,_c.1852.jpg",
-    "slug": "self-portrait"
+    "slug": "self-portrait",
+    "tier": "well_known"
   },
   {
     "date": "1853",
@@ -72,12 +73,13 @@
     "id": 4,
     "era": "early",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "year_start": 1857,
     "year_end": 1858,
     "circa": false,
-    "slug": "self-portrait-1857"
+    "slug": "self-portrait-1857",
+    "tier": "well_known"
   },
   {
     "date": "1858–1867",
@@ -97,7 +99,8 @@
     "year_start": 1858,
     "year_end": 1867,
     "circa": false,
-    "slug": "the-bellelli-family"
+    "slug": "the-bellelli-family",
+    "tier": "famous"
   },
   {
     "date": "1865",
@@ -178,7 +181,8 @@
     "year_start": 1869,
     "year_end": 1869,
     "circa": false,
-    "slug": "at-the-races-in-the-countryside"
+    "slug": "at-the-races-in-the-countryside",
+    "tier": "famous"
   },
   {
     "date": "1870",
@@ -193,12 +197,13 @@
     "id": 10,
     "era": "impressionist",
     "subject": "genre",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Orchestra_at_the_Opera",
     "year_start": 1870,
     "year_end": 1870,
     "circa": false,
-    "slug": "the-orchestra-at-the-opera"
+    "slug": "the-orchestra-at-the-opera",
+    "tier": "well_known"
   },
   {
     "date": "c. 1871",
@@ -218,7 +223,8 @@
     "year_start": 1871,
     "year_end": 1871,
     "circa": true,
-    "slug": "portrait-of-mlle-hortense-valpincon"
+    "slug": "portrait-of-mlle-hortense-valpincon",
+    "tier": "well_known"
   },
   {
     "date": "1871",
@@ -238,7 +244,8 @@
     "year_start": 1871,
     "year_end": 1871,
     "circa": false,
-    "slug": "the-dancing-class"
+    "slug": "the-dancing-class",
+    "tier": "well_known"
   },
   {
     "date": "1873",
@@ -253,12 +260,13 @@
     "id": 13,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Fogg_Art_Museum",
     "year_start": 1873,
     "year_end": 1873,
     "circa": false,
-    "slug": "ballet-rehearsal"
+    "slug": "ballet-rehearsal",
+    "tier": "well_known"
   },
   {
     "date": "1874",
@@ -278,7 +286,8 @@
     "year_end": 1874,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg",
-    "slug": "rehearsal-on-stage"
+    "slug": "rehearsal-on-stage",
+    "tier": "well_known"
   },
   {
     "date": "1875–1877",
@@ -374,7 +383,7 @@
     "id": 19,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Rosita_Mauri",
     "year_start": 1878,
     "year_end": 1878,
@@ -419,7 +428,8 @@
     "year_start": 1878,
     "year_end": 1879,
     "circa": false,
-    "slug": "stage-rehearsal"
+    "slug": "stage-rehearsal",
+    "tier": "well_known"
   },
   {
     "date": "1878",
@@ -454,12 +464,13 @@
     "id": 23,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Miss_La_La_at_the_Cirque_Fernando",
     "year_start": 1879,
     "year_end": 1879,
     "circa": false,
-    "slug": "miss-la-la-at-the-cirque-fernando"
+    "slug": "miss-la-la-at-the-cirque-fernando",
+    "tier": "well_known"
   },
   {
     "date": "1879",
@@ -516,7 +527,7 @@
     "id": 26,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "year_start": 1879,
     "year_end": 1879,
@@ -538,7 +549,7 @@
     "id": 27,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "year_start": 1880,
     "year_end": 1880,
@@ -622,12 +633,13 @@
     "id": 31,
     "era": "impressionist",
     "subject": "genre",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Millinery_Shop",
     "year_start": 1885,
     "year_end": 1885,
     "circa": false,
-    "slug": "the-millinery-shop"
+    "slug": "the-millinery-shop",
+    "tier": "well_known"
   },
   {
     "date": "1888",
@@ -642,12 +654,13 @@
     "id": 32,
     "era": "late",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Phillips_Collection",
     "year_start": 1888,
     "year_end": 1888,
     "circa": false,
-    "slug": "dancers-at-the-bar"
+    "slug": "dancers-at-the-bar",
+    "tier": "well_known"
   },
   {
     "date": "c. 1891",
@@ -662,7 +675,7 @@
     "id": 33,
     "era": "late",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Detroit_Institute_of_Arts",
     "year_start": 1891,
     "year_end": 1891,
@@ -703,12 +716,13 @@
     "id": 35,
     "era": "late",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Blue_Dancers",
     "year_start": 1897,
     "year_end": 1897,
     "circa": false,
-    "slug": "blue-dancers"
+    "slug": "blue-dancers",
+    "tier": "well_known"
   },
   {
     "date": "c. 1899",
@@ -725,12 +739,13 @@
     "id": 36,
     "era": "late",
     "subject": "dance",
-    "famous": true,
+    "famous": false,
     "year_start": 1899,
     "year_end": 1899,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ukrainian_Dancers_-_c._1899.png",
-    "slug": "ukrainian-dancers"
+    "slug": "ukrainian-dancers",
+    "tier": "well_known"
   },
   {
     "date": "c. 1906",
@@ -791,7 +806,8 @@
     "year_start": 1860,
     "year_end": 1862,
     "circa": true,
-    "slug": "young-spartans-exercising"
+    "slug": "young-spartans-exercising",
+    "tier": "well_known"
   },
   {
     "date": "1877",
@@ -806,7 +822,7 @@
     "id": 40,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Norton_Simon_Museum",
     "year_start": 1877,
     "year_end": 1877,
@@ -828,12 +844,13 @@
     "id": 41,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Malraux",
     "year_start": 1884,
     "year_end": 1900,
     "circa": true,
-    "slug": "after-the-bath-woman-drying-herself"
+    "slug": "after-the-bath-woman-drying-herself",
+    "tier": "well_known"
   },
   {
     "date": "1884",
@@ -868,12 +885,13 @@
     "id": 43,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_in_a_Tub_(Degas)",
     "year_start": 1886,
     "year_end": 1886,
     "circa": false,
-    "slug": "woman-in-a-tub"
+    "slug": "woman-in-a-tub",
+    "tier": "well_known"
   },
   {
     "date": "1886",
@@ -893,7 +911,8 @@
     "year_start": 1886,
     "year_end": 1886,
     "circa": false,
-    "slug": "the-tub"
+    "slug": "the-tub",
+    "tier": "famous"
   },
   {
     "date": "c. 1887",
@@ -909,7 +928,7 @@
     "id": 45,
     "era": "late",
     "subject": "nude",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art",
     "year_start": 1887,
     "year_end": 1887,
@@ -929,12 +948,13 @@
     "id": 46,
     "era": "late",
     "subject": "nude",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
     "year_start": 1898,
     "year_end": 1898,
     "circa": false,
-    "slug": "after-the-bath-woman-drying-her-nape-pastel-on-paper"
+    "slug": "after-the-bath-woman-drying-her-nape-pastel-on-paper",
+    "tier": "well_known"
   },
   {
     "date": "c. 1885",
@@ -954,7 +974,8 @@
     "year_start": 1885,
     "year_end": 1885,
     "circa": true,
-    "slug": "woman-having-her-hair-combed-pastel"
+    "slug": "woman-having-her-hair-combed-pastel",
+    "tier": "well_known"
   },
   {
     "date": "c. 1879–1880",
@@ -975,7 +996,8 @@
     "year_start": 1879,
     "year_end": 1880,
     "circa": true,
-    "slug": "little-dancer-of-fourteen-years-cast-posthumously-in-1922-fr"
+    "slug": "little-dancer-of-fourteen-years-cast-posthumously-in-1922-fr",
+    "tier": "famous"
   },
   {
     "date": "c. 1882–1895",

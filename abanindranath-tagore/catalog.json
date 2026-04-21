@@ -18,9 +18,10 @@
     "year_start": 1913,
     "year_end": 1913,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "journeys-end"
+    "slug": "journeys-end",
+    "tier": "famous"
   },
   {
     "id": 2,
@@ -41,9 +42,10 @@
     "year_start": 1912,
     "year_end": 1913,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "my-mother"
+    "slug": "my-mother",
+    "tier": "famous"
   },
   {
     "id": 3,
@@ -112,7 +114,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "sindbad-the-sailor"
+    "slug": "sindbad-the-sailor",
+    "tier": "well_known"
   },
   {
     "id": 6,
@@ -158,7 +161,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "white-peacock"
+    "slug": "white-peacock",
+    "tier": "well_known"
   },
   {
     "id": 8,
@@ -181,7 +185,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "tissarakshita-queen-of-asoka"
+    "slug": "tissarakshita-queen-of-asoka",
+    "tier": "well_known"
   },
   {
     "id": 9,
@@ -202,9 +207,10 @@
     "year_start": 1905,
     "year_end": 1905,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "bharat-mata"
+    "slug": "bharat-mata",
+    "tier": "famous"
   },
   {
     "id": 10,
@@ -227,7 +233,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "dewali-or-the-feast-of-lamps"
+    "slug": "dewali-or-the-feast-of-lamps",
+    "tier": "well_known"
   },
   {
     "id": 11,
@@ -250,7 +257,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "fairyland-illustration"
+    "slug": "fairyland-illustration",
+    "tier": "well_known"
   },
   {
     "id": 12,
@@ -296,7 +304,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "in-quest-of-the-beloved-in-a-dark-night"
+    "slug": "in-quest-of-the-beloved-in-a-dark-night",
+    "tier": "well_known"
   },
   {
     "id": 14,
@@ -480,7 +489,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "shah-jahan-dreams-of-the-taj-from-the-modern-review-vol-7-ja"
+    "slug": "shah-jahan-dreams-of-the-taj-from-the-modern-review-vol-7-ja",
+    "tier": "well_known"
   },
   {
     "id": 22,
@@ -503,7 +513,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "siddhas-of-the-upper-air"
+    "slug": "siddhas-of-the-upper-air",
+    "tier": "well_known"
   },
   {
     "id": 23,
@@ -572,7 +583,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
-    "slug": "the-banished-yaksha"
+    "slug": "the-banished-yaksha",
+    "tier": "well_known"
   },
   {
     "id": 26,
@@ -664,7 +676,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
-    "slug": "the-victory-of-buddha-1914"
+    "slug": "the-victory-of-buddha-1914",
+    "tier": "well_known"
   },
   {
     "id": 30,
@@ -802,7 +815,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
-    "slug": "departure-of-prince-siddhartha"
+    "slug": "departure-of-prince-siddhartha",
+    "tier": "well_known"
   },
   {
     "id": 36,
@@ -848,7 +862,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
-    "slug": "kaliya-damana"
+    "slug": "kaliya-damana",
+    "tier": "well_known"
   },
   {
     "id": 38,

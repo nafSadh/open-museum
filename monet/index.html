@@ -563,8 +563,7 @@
 
       <span class="exp" id="exp-scope">
         <span class="exp-summary" id="scope-summary">works</span>
-        <span class="exp-picks"><span class="exp-brace">{</span><button class="pick active" data-g="scope" data-v="all">all</button>
-          <button class="pick" data-g="scope" data-v="famous">famous</button><span class="exp-brace">}</span></span>
+        <span class="exp-picks"><span class="exp-brace">{</span><button class="pick" data-g="scope" data-v="famous">famous</button> <button class="pick" data-g="scope" data-v="well_known">well known</button> <button class="pick active" data-g="scope" data-v="all">all</button><span class="exp-brace">}</span></span>
       </span>
 
       <span class="static exp-hide-on-hover">from</span>
@@ -668,7 +667,8 @@ async function init() {
 function applyFilters() {
   const q = query.toLowerCase();
   filtered = works.filter(w => {
-    if (famousOnly && !w.famous) return false;
+    if (scopeFilter === 'famous' && w.tier !== 'famous') return false;
+    if (scopeFilter === 'well_known' && !w.tier) return false;
     if (activeSeries.size > 0 && !activeSeries.has(w.series)) return false;
     if (activeEra !== 'any' && w.era !== activeEra) return false;
     if (activeSubject !== 'any' && w.subject !== activeSubject) return false;

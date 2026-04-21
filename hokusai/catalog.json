@@ -20,7 +20,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "the-great-wave-off-kanagawa"
+    "slug": "the-great-wave-off-kanagawa",
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -43,7 +44,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "fine-wind-clear-morning-also-known-as-south-wind-clear-sky-o"
+    "slug": "fine-wind-clear-morning-also-known-as-south-wind-clear-sky-o",
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -66,7 +68,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "thunderstorm-beneath-the-summit"
+    "slug": "thunderstorm-beneath-the-summit",
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -89,7 +92,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "under-mannen-bridge-ja-at-fukagawa"
+    "slug": "under-mannen-bridge-ja-at-fukagawa",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -112,7 +116,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "sundai-edo"
+    "slug": "sundai-edo",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -204,7 +209,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "inume-ja-pass-in-kai-province"
+    "slug": "inume-ja-pass-in-kai-province",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -250,7 +256,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "asakusa-hongan-temple-ja-in-edo"
+    "slug": "asakusa-hongan-temple-ja-in-edo",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -273,7 +280,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "tsukuda-island-ja-in-edo"
+    "slug": "tsukuda-island-ja-in-edo",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -296,7 +304,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "shichirigahama-in-sagami-province"
+    "slug": "shichirigahama-in-sagami-province",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -337,12 +346,13 @@
     "id": 15,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kajikazawa_in_Kai_Province",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "kajikazawa-in-kai-province"
+    "slug": "kajikazawa-in-kai-province",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -360,12 +370,13 @@
     "id": 16,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kai_Province",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "mishima-pass-in-kai-province-near-present-day-kagosaka-pass"
+    "slug": "mishima-pass-in-kai-province-near-present-day-kagosaka-pass",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -383,7 +394,7 @@
     "id": 17,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/A_View_of_Mount_Fuji_Across_Lake_Suwa",
     "year_start": 1830,
     "year_end": 1832,
@@ -406,12 +417,13 @@
     "id": 18,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Ejiri-juku",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "ejiri-in-suruga-province"
+    "slug": "ejiri-in-suruga-province",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -480,7 +492,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "a-sketch-of-the-mitsui-shop-in-suruga-in-edo-present-day-mur"
+    "slug": "a-sketch-of-the-mitsui-shop-in-suruga-in-edo-present-day-mur",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -503,7 +516,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "sunset-across-ryogoku-bridge-from-ommayagashi-present-day-ku"
+    "slug": "sunset-across-ryogoku-bridge-from-ommayagashi-present-day-ku",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -526,7 +540,8 @@
     "year_end": 1832,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E4%BA%94%E7%99%BE%E3%82%89%E3%81%8B%E3%82%93%E5%AF%BA%E3%81%95%E3%81%96%E3%82%90%E3%81%A9%E3%81%86-Sazai_Hall_at_the_Temple_of_the_Five_Hundred_Arhats_(Gohyaku_Rakanji_Sazaid%C5%8D),_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141020.jpg",
-    "slug": "sazaido-ja-at-gohyakurakan-temple-ja"
+    "slug": "sazaido-ja-at-gohyakurakan-temple-ja",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -549,7 +564,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "morning-after-a-snowfall-at-koishikawa"
+    "slug": "morning-after-a-snowfall-at-koishikawa",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -595,7 +611,8 @@
     "year_end": 1832,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E9%9A%A0%E7%94%B0%E3%81%AE%E6%B0%B4%E8%BB%8A-The_Waterwheel_at_Onden_(Onden_no_suisha),_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141021.jpg",
-    "slug": "watermill-at-onden-ja"
+    "slug": "watermill-at-onden-ja",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -710,7 +727,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "nihonbashi-in-edo"
+    "slug": "nihonbashi-in-edo",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -802,7 +820,8 @@
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "reflection-from-misaka-pass-in-kai-province-in-lake-kawaguch"
+    "slug": "reflection-from-misaka-pass-in-kai-province-in-lake-kawaguch",
+    "tier": "well_known"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -1071,7 +1090,7 @@
     "id": 47,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1833,
     "circa": true,
@@ -1097,7 +1116,8 @@
     "year_end": 1833,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_(1760-1849),_De_Roben_waterval_(1835).jpg",
-    "slug": "roben-waterfall-at-oyama-in-sagami-province-soshu-oyama-robe"
+    "slug": "roben-waterfall-at-oyama-in-sagami-province-soshu-oyama-robe",
+    "tier": "well_known"
   },
   {
     "title": "Kirifuri Waterfall at Kurokami Mountain in Shimotsuke (Shimotsuke Kurokamiyama Kirifuri no taki)",
@@ -1113,12 +1133,13 @@
     "id": 49,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1833,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_(1760-1849),_Kirifuri_waterval_bij_de_Kurokami_berg_(1835).jpg",
-    "slug": "kirifuri-waterfall-at-kurokami-mountain-in-shimotsuke-shimot"
+    "slug": "kirifuri-waterfall-at-kurokami-mountain-in-shimotsuke-shimot",
+    "tier": "well_known"
   },
   {
     "title": "The Amida Falls in the Far Reaches of the Kisokaidō Road (Kisoji no oku Amida-ga-taki)",
@@ -1134,12 +1155,13 @@
     "id": 50,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1833,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_(1760-1849),_Veld_in_de_Owari_provincie_(1829-33).jpg",
-    "slug": "the-amida-falls-in-the-far-reaches-of-the-kisokaido-road-kis"
+    "slug": "the-amida-falls-in-the-far-reaches-of-the-kisokaido-road-kis",
+    "tier": "well_known"
   },
   {
     "title": "Aoigaoka Falls in the Eastern Capital (Toto Aoigaoka no taki)",
@@ -1223,7 +1245,8 @@
     "year_end": 1833,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E8%AB%B8%E5%9C%8B%E7%80%A7%E5%BB%BB%E3%83%AA_%E7%BE%8E%E6%BF%83%E3%83%8E%E5%9B%BD%E9%A4%8A%E8%80%81%E3%81%AE%E6%BB%9D-Y%C5%8Dr%C5%8D_Waterfall_in_Mino_Province_(Mino_no_Y%C5%8Dr%C5%8D_no_taki),_from_the_series_A_Tour_of_Waterfalls_in_Various_Provinces_(Shokoku_taki_meguri)_MET_DP141263.jpg",
-    "slug": "yoro-waterfall-in-mino-province-mino-no-yoro-no-taki"
+    "slug": "yoro-waterfall-in-mino-province-mino-no-yoro-no-taki",
+    "tier": "well_known"
   },
   {
     "title": "Fishing by Torchlight in Kai Province (甲州火振 Kōshū hiburi)",
@@ -1615,7 +1638,7 @@
     "id": 73,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/A_Tour_of_the_Waterfalls_of_the_Provinces",
     "year_start": 1615,
     "year_end": 1868,
@@ -1637,12 +1660,13 @@
     "id": 74,
     "era": "middle",
     "subject": "erotica",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Dream_of_the_Fisherman%27s_Wife",
     "year_start": 1814,
     "year_end": 1814,
     "circa": false,
-    "slug": "the-dream-of-the-fishermans-wife"
+    "slug": "the-dream-of-the-fishermans-wife",
+    "tier": "famous"
   },
   {
     "date": "1834",
@@ -1658,7 +1682,7 @@
     "id": 75,
     "era": "late",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "year_start": 1834,
     "year_end": 1834,
     "circa": false,
@@ -1697,13 +1721,14 @@
     "id": 77,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Carp_leaping_up_a_cascade.jpg",
     "date": "",
-    "slug": "carp-leaping-up-a-cascade"
+    "slug": "carp-leaping-up-a-cascade",
+    "tier": "well_known"
   },
   {
     "title": "The Ghost of Oiwa, , from One Hundred Ghost Stories",
@@ -1717,13 +1742,14 @@
     "id": 78,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/One_Hundred_Ghost_Stories",
     "year_start": 1826,
     "year_end": 1837,
     "circa": false,
     "date": "1826/1837",
-    "slug": "the-ghost-of-oiwa-from-one-hundred-ghost-stories"
+    "slug": "the-ghost-of-oiwa-from-one-hundred-ghost-stories",
+    "tier": "well_known"
   },
   {
     "title": "Still Life, surimono print",
@@ -1757,7 +1783,7 @@
     "id": 80,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kajikazawa_in_Kai_Province",
     "year_start": 1830,
     "year_end": 1830,
@@ -1838,7 +1864,7 @@
     "id": 84,
     "era": "late",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Obuse,_Nagano",
     "year_start": 1845,
     "year_end": 1845,
@@ -1858,7 +1884,7 @@
     "id": 85,
     "era": "late",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "year_start": 1849,
     "year_end": 1849,
     "circa": false,
@@ -1878,7 +1904,7 @@
     "id": 86,
     "era": "late",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Tiger_in_the_Snow",
     "year_start": 1849,
     "year_end": 1849,

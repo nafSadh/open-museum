@@ -14,12 +14,13 @@
     "id": 1,
     "era": "middle",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige01_nihonbashi.jpg",
-    "slug": "leaving-edo-nihonbashi-the-bridge-of-japan"
+    "slug": "leaving-edo-nihonbashi-the-bridge-of-japan",
+    "tier": "well_known"
   },
   {
     "title": "1st station : Shinagawa.",
@@ -239,7 +240,8 @@
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-11-Hakone-MFA-01.jpg",
-    "slug": "10th-station-hakone-high-rocks-by-a-lake"
+    "slug": "10th-station-hakone-high-rocks-by-a-lake",
+    "tier": "famous"
   },
   {
     "title": "11th station : Mishima (Travellers passing a shrine in the mist)",
@@ -256,12 +258,13 @@
     "id": 12,
     "era": "middle",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-12-Mishima-MET-01.jpg",
-    "slug": "11th-station-mishima-travellers-passing-a-shrine-in-the-mist"
+    "slug": "11th-station-mishima-travellers-passing-a-shrine-in-the-mist",
+    "tier": "well_known"
   },
   {
     "title": "12th station : Numazu",
@@ -278,7 +281,7 @@
     "id": 13,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
@@ -300,12 +303,13 @@
     "id": 14,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-14-Hara-MFA-01.jpg",
-    "slug": "13th-station-hara-travellers-passing-mount-fuji"
+    "slug": "13th-station-hara-travellers-passing-mount-fuji",
+    "tier": "well_known"
   },
   {
     "title": "14th station : Yoshiwara",
@@ -349,7 +353,8 @@
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-16-Kanbara-MFA-02.jpg",
-    "slug": "15th-station-kanbara-a-village-in-the-snow"
+    "slug": "15th-station-kanbara-a-village-in-the-snow",
+    "tier": "famous"
   },
   {
     "title": "16th station : Yui (Travellers on a high cliff by the sea)",
@@ -371,7 +376,8 @@
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-17-Yui-ETM-01.jpg",
-    "slug": "16th-station-yui-travellers-on-a-high-cliff-by-the-sea"
+    "slug": "16th-station-yui-travellers-on-a-high-cliff-by-the-sea",
+    "tier": "well_known"
   },
   {
     "title": "17th station : Okitsu",
@@ -454,12 +460,13 @@
     "id": 21,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-21-Mariko-MFA-03.jpg",
-    "slug": "20th-station-mariko-a-roadside-restaurant"
+    "slug": "20th-station-mariko-a-roadside-restaurant",
+    "tier": "famous"
   },
   {
     "title": "21st station : Okabe",
@@ -547,7 +554,8 @@
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige25_kanaya.jpg",
-    "slug": "24th-station-kanaya-crossing-a-wide-river"
+    "slug": "24th-station-kanaya-crossing-a-wide-river",
+    "tier": "well_known"
   },
   {
     "title": "25th station : Nissaka",
@@ -701,7 +709,8 @@
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-31-32-Arai-MFA-01.jpg",
-    "slug": "31st-station-arai"
+    "slug": "31st-station-arai",
+    "tier": "well_known"
   },
   {
     "title": "32nd station : Shirasuka",
@@ -850,7 +859,7 @@
     "id": 39,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
@@ -1004,12 +1013,13 @@
     "id": 46,
     "era": "middle",
     "subject": "nature",
-    "famous": false,
+    "famous": true,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Tokaido45_Shono.jpg",
-    "slug": "45th-station-shono-travellers-surprised-by-sudden-rain"
+    "slug": "45th-station-shono-travellers-surprised-by-sudden-rain",
+    "tier": "famous"
   },
   {
     "title": "46th station : Kameyama (A castle on a snow-covered slope)",
@@ -1026,12 +1036,13 @@
     "id": 47,
     "era": "middle",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige47_kameyama.jpg",
-    "slug": "46th-station-kameyama-a-castle-on-a-snow-covered-slope"
+    "slug": "46th-station-kameyama-a-castle-on-a-snow-covered-slope",
+    "tier": "well_known"
   },
   {
     "title": "47th station : Seki (Departure from the inn)",
@@ -1053,7 +1064,8 @@
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige48_seki.jpg",
-    "slug": "47th-station-seki-departure-from-the-inn"
+    "slug": "47th-station-seki-departure-from-the-inn",
+    "tier": "well_known"
   },
   {
     "title": "48th station : Sakashita",
@@ -1202,12 +1214,13 @@
     "id": 55,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige55_kyoto.jpg",
-    "slug": "the-end-of-the-tokaido-arriving-at-kyoto"
+    "slug": "the-end-of-the-tokaido-arriving-at-kyoto",
+    "tier": "well_known"
   },
   {
     "title": "Table of Contents",
@@ -1246,12 +1259,13 @@
     "id": 57,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_001.jpg",
-    "slug": "nihonbashi-clearing-after-snow-nihonbashi-yukibare"
+    "slug": "nihonbashi-clearing-after-snow-nihonbashi-yukibare",
+    "tier": "well_known"
   },
   {
     "title": "Kasumigaseki (霞がせき)",
@@ -1400,7 +1414,7 @@
     "id": 64,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
@@ -1818,7 +1832,7 @@
     "id": 83,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -1889,7 +1903,8 @@
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
-    "slug": "plum-park-in-kameido-kameido-umeyashiki"
+    "slug": "plum-park-in-kameido-kameido-umeyashiki",
+    "tier": "famous"
   },
   {
     "title": "Azuma no mori Shrine and the Entwined Camphor (吾嬬の森連理の梓, Azuma no mori Renri no azusa)",
@@ -1994,7 +2009,7 @@
     "id": 91,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
@@ -2016,7 +2031,7 @@
     "id": 92,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -2038,7 +2053,7 @@
     "id": 93,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -2170,7 +2185,7 @@
     "id": 99,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -2192,7 +2207,7 @@
     "id": 100,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1858,
     "year_end": 1858,
     "circa": false,
@@ -2280,12 +2295,13 @@
     "id": 104,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_063.jpg",
-    "slug": "suido-bridge-and-the-surugadai-quarter-suidobashi-surugadai"
+    "slug": "suido-bridge-and-the-surugadai-quarter-suidobashi-surugadai",
+    "tier": "well_known"
   },
   {
     "title": "Fudō Falls in Ōji (王子不動之滝, Ōji Fudō no taki)",
@@ -2461,7 +2477,8 @@
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_051.jpg",
-    "slug": "mannen-bridge-in-fukagawa-fukagawa-mannenbashi"
+    "slug": "mannen-bridge-in-fukagawa-fukagawa-mannenbashi",
+    "tier": "well_known"
   },
   {
     "title": "Mitsumata Wakarenofuchi (みつまたわかれの淵)",
@@ -2500,12 +2517,13 @@
     "id": 114,
     "era": "late",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake",
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
-    "slug": "sudden-shower-over-shin-ohashi-bridge-and-atake-ohashi-atake"
+    "slug": "sudden-shower-over-shin-ohashi-bridge-and-atake-ohashi-atake",
+    "tier": "famous"
   },
   {
     "title": "Ryōgoku Bridge and the Great Riverbank (両国橋大川ばた, Ryōgokubashi Ōkawabata)",
@@ -2527,7 +2545,8 @@
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Ryogoku_Bridge_and_the_Great_Riverbank_No_59_from_One_Hundred_Views_of_Edo_-_Utagawa_Hiroshige_(Ando).jpg",
-    "slug": "ryogoku-bridge-and-the-great-riverbank-ryogokubashi-okawabat"
+    "slug": "ryogoku-bridge-and-the-great-riverbank-ryogokubashi-okawabat",
+    "tier": "well_known"
   },
   {
     "title": "Asakusa River, Miyato River, Great Riverbank (浅草川大川端宮戸川, Asakusagawa Ōkawabata Miyatogawa)",
@@ -2544,7 +2563,7 @@
     "id": 116,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -2566,7 +2585,7 @@
     "id": 117,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
@@ -2637,7 +2656,8 @@
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige,_Horikiri_iris_garden,_1857.jpg",
-    "slug": "horikiri-iris-garden-horikiri-no-hanashobu"
+    "slug": "horikiri-iris-garden-horikiri-no-hanashobu",
+    "tier": "well_known"
   },
   {
     "title": "Inside Kameido Tenjin Shrine (亀戸天神境内, Kameidō Tenjin keidai)",
@@ -2659,7 +2679,8 @@
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_057.jpg",
-    "slug": "inside-kameido-tenjin-shrine-kameido-tenjin-keidai"
+    "slug": "inside-kameido-tenjin-shrine-kameido-tenjin-keidai",
+    "tier": "famous"
   },
   {
     "title": "The Sazaidō Hall at the Five Hundred Rakan Temple (五百羅漢さゞゐ堂, Gohyaku Rakan Sazaidō)",
@@ -2830,7 +2851,7 @@
     "id": 129,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -3050,7 +3071,7 @@
     "id": 139,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
@@ -3187,7 +3208,8 @@
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_089.jpg",
-    "slug": "moon-pine-in-ueno-ueno-sannai-tsuki-no-matsu"
+    "slug": "moon-pine-in-ueno-ueno-sannai-tsuki-no-matsu",
+    "tier": "well_known"
   },
   {
     "title": "Night View of Saruwaka-machi (猿わか町よるの景, Saruwaka-machi yoru no kei)",
@@ -3209,7 +3231,8 @@
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige,_Night_View_of_Saruwaka-machi.jpg",
-    "slug": "night-view-of-saruwaka-machi-saruwaka-machi-yoru-no-kei"
+    "slug": "night-view-of-saruwaka-machi-saruwaka-machi-yoru-no-kei",
+    "tier": "well_known"
   },
   {
     "title": "In the Akiba Shrine at Ukeji (請地秋葉の境内, Ukechi Akiba no keinai)",
@@ -3292,7 +3315,7 @@
     "id": 150,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
@@ -3380,12 +3403,13 @@
     "id": 154,
     "era": "late",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "year_start": 1858,
     "year_end": 1858,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_098.jpg",
-    "slug": "fireworks-by-ryogoku-bridge-ryogoku-hanabi"
+    "slug": "fireworks-by-ryogoku-bridge-ryogoku-hanabi",
+    "tier": "famous"
   },
   {
     "title": "Kinryūzan Temple in Asakusa (浅草金龍山, Asakusa Kinryūzan)",
@@ -3402,12 +3426,13 @@
     "id": 155,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_099.jpg",
-    "slug": "kinryuzan-temple-in-asakusa-asakusa-kinryuzan"
+    "slug": "kinryuzan-temple-in-asakusa-asakusa-kinryuzan",
+    "tier": "well_known"
   },
   {
     "title": "Nihon Embankment and Yoshiwara (よし原日本堤, Yoshiwara Nihondzutsumi)",
@@ -3446,12 +3471,13 @@
     "id": 157,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_101.jpg",
-    "slug": "asakusa-ricefields-and-torinomachi-festival-asakusa-tanbo-to"
+    "slug": "asakusa-ricefields-and-torinomachi-festival-asakusa-tanbo-to",
+    "tier": "well_known"
   },
   {
     "title": "Minowa, Kanasugi and Mikawashima (蓑輪金杉三河しま, Minowa Kanasugi Mikawashima)",
@@ -3495,7 +3521,8 @@
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_103.jpg",
-    "slug": "senju-great-bridge-senju-no-ohashi"
+    "slug": "senju-great-bridge-senju-no-ohashi",
+    "tier": "well_known"
   },
   {
     "title": "Koume Embankment (小梅堤, Koumetsutsumi)",
@@ -3578,12 +3605,13 @@
     "id": 163,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_107.jpg",
-    "slug": "fukagawa-susaki-and-jumantsubo-fukagawa-susaki-jumantsubo"
+    "slug": "fukagawa-susaki-and-jumantsubo-fukagawa-susaki-jumantsubo",
+    "tier": "well_known"
   },
   {
     "title": "View of Shiba Coast (芝うらの風景, Shibaura no fūkei)",
@@ -3666,12 +3694,13 @@
     "id": 167,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_111.jpg",
-    "slug": "meguro-drum-bridge-and-sunset-hill-meguro-taikobashi-yuhi-no"
+    "slug": "meguro-drum-bridge-and-sunset-hill-meguro-taikobashi-yuhi-no",
+    "tier": "well_known"
   },
   {
     "title": "Atagoshita and Yabu Lane (愛宕下薮小路, Atagoshita Yabukōji)",
@@ -3737,7 +3766,8 @@
     "year_end": 1858,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_114.jpg",
-    "slug": "bikuni-bridge-in-snow-bikunihashi-setchu"
+    "slug": "bikuni-bridge-in-snow-bikunihashi-setchu",
+    "tier": "well_known"
   },
   {
     "title": "The Takata Riding Grounds (高田の馬場, Takada no baba)",
@@ -3825,7 +3855,8 @@
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
-    "slug": "kitsunebi-on-new-years-night-under-the-enoki-tree-near-oji-o"
+    "slug": "kitsunebi-on-new-years-night-under-the-enoki-tree-near-oji-o",
+    "tier": "well_known"
   },
   {
     "title": "View of the Paulownia Imperiales Trees at Akasaka on a Rainy Evening (赤坂桐畑雨中夕けい, Akasaka kiribatake uchū yūkei)",
@@ -3957,7 +3988,8 @@
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kisokaido18_Karuisawa.jpg",
-    "slug": "karuizawa"
+    "slug": "karuizawa",
+    "tier": "well_known"
   },
   {
     "title": "Odai",
@@ -4045,7 +4077,8 @@
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige_Travellers_in_the_Moonlight.jpg",
-    "slug": "mochizuki"
+    "slug": "mochizuki",
+    "tier": "well_known"
   },
   {
     "title": "Ashida",
@@ -4089,7 +4122,8 @@
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kisokaido27_Nagakubo.jpg",
-    "slug": "nagakubo"
+    "slug": "nagakubo",
+    "tier": "well_known"
   },
   {
     "title": "Wada",
@@ -4155,7 +4189,8 @@
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kisokaido31_Seba.jpg",
-    "slug": "seba"
+    "slug": "seba",
+    "tier": "well_known"
   },
   {
     "title": "Motoyama",
@@ -4282,7 +4317,7 @@
     "id": 195,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1834,
     "year_end": 1842,
     "circa": false,
@@ -4326,12 +4361,13 @@
     "id": 197,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1834,
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kisokaido42_Tsumago.jpg",
-    "slug": "tsumagome"
+    "slug": "tsumagome",
+    "tier": "well_known"
   },
   {
     "title": "Ochiai",
@@ -4353,7 +4389,8 @@
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kisokaido44_Ochiai.jpg",
-    "slug": "ochiai"
+    "slug": "ochiai",
+    "tier": "well_known"
   },
   {
     "title": "Nakatsugawa",
@@ -4421,7 +4458,8 @@
     "year_end": 1842,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kisokaido46_Oi.jpg",
-    "slug": "oi"
+    "slug": "oi",
+    "tier": "well_known"
   },
   {
     "title": "Okute",
@@ -4636,7 +4674,7 @@
     "id": 211,
     "era": "middle",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1834,
     "year_end": 1842,
     "circa": false,
@@ -5998,7 +6036,7 @@
     "id": 278,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1855,
     "year_end": 1855,
     "circa": false,
@@ -6364,7 +6402,7 @@
     "id": 296,
     "era": "late",
     "subject": "urban",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1858,
     "circa": false,
@@ -7046,7 +7084,7 @@
     "id": 327,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1858,
     "circa": false,
@@ -7090,7 +7128,7 @@
     "id": 329,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1858,
     "circa": false,
@@ -7200,7 +7238,7 @@
     "id": 334,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Lake_Suwa",
     "year_start": 1852,
     "year_end": 1858,
@@ -7222,7 +7260,7 @@
     "id": 335,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1858,
     "circa": false,
@@ -7376,7 +7414,7 @@
     "id": 342,
     "era": "late",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1858,
     "circa": false,
@@ -7395,7 +7433,7 @@
     "id": 343,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1833,
     "circa": false,
@@ -7415,7 +7453,7 @@
     "id": 344,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1833,
     "year_end": 1833,
     "circa": false,
@@ -7615,7 +7653,7 @@
     "id": 354,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": 1858,
     "year_end": 1858,
     "circa": false,
@@ -7756,7 +7794,7 @@
     "id": 361,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,

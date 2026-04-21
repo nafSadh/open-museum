@@ -144,7 +144,8 @@
     "year_end": 1930,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Self_Portrait_6_1930.jpg",
-    "slug": "self-portrait-6"
+    "slug": "self-portrait-6",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait.jpg",
@@ -276,7 +277,8 @@
     "year_end": 1930,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_-_Self_Portrait_with_Easel.jpg",
-    "slug": "self-portrait-with-easel"
+    "slug": "self-portrait-with-easel",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Self-portrait_with_Red_Background_c._1930.jpg",
@@ -315,7 +317,7 @@
     "id": 15,
     "era": "paris",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
@@ -372,11 +374,12 @@
     "id": 18,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "slug": "self-portrait-1"
+    "slug": "self-portrait-1",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Self-portrait_(2)_1931.jpg",
@@ -393,12 +396,13 @@
     "id": 19,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_(2)_1931.jpg",
-    "slug": "self-portrait-2"
+    "slug": "self-portrait-2",
+    "tier": "well_known"
   },
   {
     "title": "Self-Portrait 3",
@@ -413,7 +417,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "slug": "self-portrait-3"
+    "slug": "self-portrait-3",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Self-portrait_(4)_c._1931.jpg",
@@ -435,7 +440,8 @@
     "year_end": 1931,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_(4)_c._1931.jpg",
-    "slug": "self-portrait-4"
+    "slug": "self-portrait-4",
+    "tier": "well_known"
   },
   {
     "title": "Self-Portrait with Red Flower",
@@ -624,7 +630,7 @@
     "id": 32,
     "era": "paris",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
@@ -707,7 +713,8 @@
     "year_end": 1932,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Self-Portrait_5_1932_Paris.jpg",
-    "slug": "self-portrait-5"
+    "slug": "self-portrait-5",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Adam_and_Eve_c._1932.jpg",
@@ -860,12 +867,13 @@
     "id": 44,
     "era": "paris",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
-    "slug": "hungarian-gypsy-girl"
+    "slug": "hungarian-gypsy-girl",
+    "tier": "well_known"
   },
   {
     "title": "Gypsy Girl from Zebegény",
@@ -1047,12 +1055,13 @@
     "id": 54,
     "era": "paris",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Young_Girls_(painting)",
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "slug": "young-girls"
+    "slug": "young-girls",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Marie-Louise_Chassany_1932.jpg",
@@ -1321,12 +1330,13 @@
     "id": 67,
     "era": "paris",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Sleep_(Sher-Gil)",
     "year_start": 1933,
     "year_end": 1933,
     "circa": false,
-    "slug": "sleep"
+    "slug": "sleep",
+    "tier": "well_known"
   },
   {
     "title": "Professional Model",
@@ -1337,7 +1347,7 @@
     "id": 68,
     "era": "paris",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Professional_Model",
     "year_start": 1933,
     "year_end": 1933,
@@ -1427,12 +1437,13 @@
     "id": 73,
     "era": "india",
     "subject": "self-portrait",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Tahitian",
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
-    "slug": "self-portrait-as-a-tahitian"
+    "slug": "self-portrait-as-a-tahitian",
+    "tier": "famous"
   },
   {
     "title": "Boat",
@@ -1479,7 +1490,8 @@
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
-    "slug": "the-little-girl-in-blue"
+    "slug": "the-little-girl-in-blue",
+    "tier": "well_known"
   },
   {
     "commons_filename": "View_from_Majithia_House_1934.jpg",
@@ -1523,7 +1535,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "slug": "group-of-young-girls"
+    "slug": "group-of-young-girls",
+    "tier": "famous"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Woman_on_Terrace_1935_Amritsar.jpg",
@@ -1560,7 +1573,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "slug": "beggars"
+    "slug": "beggars",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Woman_with_SUnflower_1935.jpg",
@@ -1640,12 +1654,13 @@
     "id": 84,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Mother_India_(painting)",
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "slug": "mother-india"
+    "slug": "mother-india",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Portrait_of_Malcolm_Muggeridge_1935.jpg",
@@ -1779,7 +1794,7 @@
     "id": 91,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
@@ -1801,7 +1816,7 @@
     "id": 92,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
@@ -1822,7 +1837,7 @@
     "id": 93,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
@@ -1849,7 +1864,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "slug": "hill-women"
+    "slug": "hill-women",
+    "tier": "famous"
   },
   {
     "commons_filename": "Raja_Surat_Singh_1936.jpg",
@@ -1866,7 +1882,7 @@
     "id": 95,
     "era": "india",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
@@ -2001,7 +2017,8 @@
     "year_end": 1936,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sumair_1936.png",
-    "slug": "sumair"
+    "slug": "sumair",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Portrait_of_Sister_1936.jpg",
@@ -2084,7 +2101,7 @@
     "id": 105,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
@@ -2109,7 +2126,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "slug": "the-vina-player"
+    "slug": "the-vina-player",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Raja_of_Kollengode_1937.jpg",
@@ -2175,7 +2193,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "slug": "brides-toilet"
+    "slug": "brides-toilet",
+    "tier": "famous"
   },
   {
     "commons_filename": "Brahmacharis_1937.jpg",
@@ -2197,7 +2216,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "slug": "brahmacharis"
+    "slug": "brahmacharis",
+    "tier": "famous"
   },
   {
     "commons_filename": "Village_Girl_c._1937.jpg",
@@ -2214,7 +2234,7 @@
     "id": 111,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
@@ -2263,7 +2283,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "slug": "south-indian-villagers-going-to-market"
+    "slug": "south-indian-villagers-going-to-market",
+    "tier": "famous"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait_October_1937.jpg",
@@ -2280,7 +2301,7 @@
     "id": 114,
     "era": "india",
     "subject": "self-portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
@@ -2303,7 +2324,7 @@
     "id": 115,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
@@ -2428,7 +2449,7 @@
     "id": 122,
     "era": "india",
     "subject": "self-portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
@@ -2503,12 +2524,13 @@
     "id": 126,
     "era": "india",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Story_Teller_(painting)",
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "slug": "the-story-teller"
+    "slug": "the-story-teller",
+    "tier": "well_known"
   },
   {
     "title": "Portrait of a Stout Lady",
@@ -2731,7 +2753,7 @@
     "id": 138,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Village_Scene",
     "year_start": 1938,
     "year_end": 1938,
@@ -2753,7 +2775,7 @@
     "id": 139,
     "era": "india",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
@@ -2775,7 +2797,7 @@
     "id": 140,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
@@ -3044,7 +3066,8 @@
     "year_end": 1939,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Girls_by_Amrita_Sher-Gil_1939_Budapest.jpg",
-    "slug": "two-girls"
+    "slug": "two-girls",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Resting_1939_Saraya.jpg",
@@ -3061,12 +3084,13 @@
     "id": 154,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Resting_1939_Saraya.jpg",
-    "slug": "resting"
+    "slug": "resting",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
@@ -3083,12 +3107,13 @@
     "id": 155,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
-    "slug": "ancient-story-teller"
+    "slug": "ancient-story-teller",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Swing_1940_Saraya.jpg",
@@ -3105,12 +3130,13 @@
     "id": 156,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_The_Swing_1940_Saraya.jpg",
-    "slug": "the-swing"
+    "slug": "the-swing",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Woman_on_Charpoy_1940.jpg",
@@ -3132,7 +3158,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "slug": "woman-on-charpoy"
+    "slug": "woman-on-charpoy",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Bride_1940.jpg",
@@ -3149,7 +3176,7 @@
     "id": 158,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
@@ -3171,7 +3198,7 @@
     "id": 159,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
@@ -3193,7 +3220,7 @@
     "id": 160,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
@@ -3215,7 +3242,7 @@
     "id": 161,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
@@ -3237,7 +3264,7 @@
     "id": 162,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
@@ -3259,12 +3286,13 @@
     "id": 163,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Haldi_Grinders_1940.jpg",
-    "slug": "haldi-grinders"
+    "slug": "haldi-grinders",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Mucisicians_1940.jpg",
@@ -3338,7 +3366,7 @@
     "id": 167,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1941,
     "year_end": 1941,
     "circa": false,
@@ -3360,12 +3388,13 @@
     "id": 168,
     "era": "india",
     "subject": "village",
-    "famous": true,
+    "famous": false,
     "year_start": 1941,
     "year_end": 1941,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Camels_1941.jpg",
-    "slug": "camels"
+    "slug": "camels",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Last_Unfinished_Painting_1941_Lahore.jpg",

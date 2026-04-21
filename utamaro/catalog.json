@@ -37,7 +37,8 @@
     "year_end": 1802,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1802%E2%80%9304)_Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABzan_no_zu.jpg",
-    "slug": "hideyoshi-and-his-five-wives-viewing-the-cherry-blossoms-at"
+    "slug": "hideyoshi-and-his-five-wives-viewing-the-cherry-blossoms-at",
+    "tier": "well_known"
   },
   {
     "date": "1797",
@@ -51,7 +52,7 @@
     "id": 3,
     "era": "mature",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1797,
     "year_end": 1797,
@@ -77,7 +78,8 @@
     "year_start": 1793,
     "year_end": 1793,
     "circa": true,
-    "slug": "three-beauties-of-the-present-day"
+    "slug": "three-beauties-of-the-present-day",
+    "tier": "famous"
   },
   {
     "title": "Hairdresser from the series Twelve types of women's handicraft",
@@ -97,7 +99,8 @@
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Hairdresser_(Kamiyui)_-_from_the_series_%27Twelve_types_of_women%27s_handicraft_(Fujin_tewaza_juniko)%27_-_Google_Art_Project.jpg",
     "date": "c.1797-98",
-    "slug": "hairdresser-from-the-series-twelve-types-of-womens-handicraf"
+    "slug": "hairdresser-from-the-series-twelve-types-of-womens-handicraf",
+    "tier": "famous"
   },
   {
     "title": "Sugatami Shichinin Keshō",
@@ -110,7 +113,7 @@
     "id": 6,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Sugatami_Shichinin_Kesh%C5%8D",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1790,
@@ -130,7 +133,7 @@
     "id": 7,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1802,
     "year_end": 1802,
@@ -151,7 +154,7 @@
     "id": 8,
     "era": "mature",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Hari-shigoto",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1794,
@@ -170,7 +173,7 @@
     "id": 9,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1796,
     "year_end": 1808,
@@ -230,7 +233,7 @@
     "id": 12,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
@@ -270,7 +273,7 @@
     "id": 14,
     "era": "mature",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "date": "1790",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1790,
@@ -284,7 +287,7 @@
     "id": 15,
     "era": "unknown",
     "subject": "bijin",
-    "famous": false,
+    "famous": true,
     "commons_filename": "Utamaro - two rebuses from Fujin Sōgaku Jittai and Fujo Ninsō Juppin.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Utamaro_-_two_rebuses_from_Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Utamaro_-_two_rebuses_from_Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin.jpg/960px-Utamaro_-_two_rebuses_from_Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin.jpg",
@@ -298,7 +301,8 @@
     "year_end": 1793,
     "circa": true,
     "date": "circa 1792–93",
-    "slug": "fujin-sogaku-jittai-and-fujo-ninso-juppin"
+    "slug": "fujin-sogaku-jittai-and-fujo-ninso-juppin",
+    "tier": "famous"
   },
   {
     "title": "Fujin Tomari-kyaku no Zu",
@@ -319,14 +323,15 @@
     "year_end": 1794,
     "circa": true,
     "date": "circa 1794",
-    "slug": "fujin-tomari-kyaku-no-zu"
+    "slug": "fujin-tomari-kyaku-no-zu",
+    "tier": "well_known"
   },
   {
     "title": "Hokkoku Goshiki-zumi",
     "id": 17,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "commons_filename": "Utamaro (c. 1794–95) Hokkoku Goshiki-zumi - Teppō (AIC).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Utamaro_%28c._1794%E2%80%9395%29_Hokkoku_Goshiki-zumi_-_Tepp%C5%8D_%28AIC%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Utamaro_%28c._1794%E2%80%9395%29_Hokkoku_Goshiki-zumi_-_Tepp%C5%8D_%28AIC%29.jpg",
@@ -340,7 +345,8 @@
     "year_end": 1794,
     "circa": true,
     "date": "circa 1794",
-    "slug": "hokkoku-goshiki-zumi"
+    "slug": "hokkoku-goshiki-zumi",
+    "tier": "well_known"
   },
   {
     "title": "Kasen Koi no Bu",
@@ -361,7 +367,8 @@
     "year_end": 1793,
     "circa": true,
     "date": "circa 1793",
-    "slug": "kasen-koi-no-bu"
+    "slug": "kasen-koi-no-bu",
+    "tier": "famous"
   },
   {
     "title": "Kasumi-ori Musume Hinagata",
@@ -382,7 +389,8 @@
     "year_end": 1794,
     "circa": true,
     "date": "circa 1794",
-    "slug": "kasumi-ori-musume-hinagata"
+    "slug": "kasumi-ori-musume-hinagata",
+    "tier": "well_known"
   },
   {
     "title": "Kōmei Bijin Rokkasen",
@@ -403,27 +411,29 @@
     "year_end": null,
     "circa": false,
     "date": "寛政6年-7年頃",
-    "slug": "komei-bijin-rokkasen"
+    "slug": "komei-bijin-rokkasen",
+    "tier": "well_known"
   },
   {
     "title": "Kushi",
     "id": 21,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kushi_%28Utamaro%29",
     "harvest_method": "wikipedia_category",
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "kushi"
+    "slug": "kushi",
+    "tier": "well_known"
   },
   {
     "title": "Musashino",
     "id": 22,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "commons_filename": "Utamaro (c. 1798–99) Musashino (right of 3, MET).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Utamaro_%28c._1798%E2%80%9399%29_Musashino_%28right_of_3%2C_MET%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Utamaro_%28c._1798%E2%80%9399%29_Musashino_%28right_of_3%2C_MET%29.jpg/960px-Utamaro_%28c._1798%E2%80%9399%29_Musashino_%28right_of_3%2C_MET%29.jpg",
@@ -437,7 +447,8 @@
     "year_end": 1798,
     "circa": true,
     "date": "circa 1798",
-    "slug": "musashino"
+    "slug": "musashino",
+    "tier": "well_known"
   },
   {
     "title": "On Top and Beneath Ryōgoku Bridge",
@@ -458,7 +469,8 @@
     "year_end": 1794,
     "circa": true,
     "date": "circa 1794",
-    "slug": "on-top-and-beneath-ryogoku-bridge"
+    "slug": "on-top-and-beneath-ryogoku-bridge",
+    "tier": "well_known"
   },
   {
     "title": "Seirō Jūnitoki",
@@ -479,14 +491,15 @@
     "year_end": 1794,
     "circa": true,
     "date": "circa 1794",
-    "slug": "seiro-junitoki"
+    "slug": "seiro-junitoki",
+    "tier": "well_known"
   },
   {
     "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
     "id": 25,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Shinagawa_no_Tsuki%2C_Yoshiwara_no_Hana%2C_and_Fukagawa_no_Yuki",
     "harvest_method": "wikipedia_category",
     "year_start": null,
@@ -499,7 +512,8 @@
     "image_width": 1914,
     "image_height": 1147,
     "mime": "image/jpeg",
-    "slug": "shinagawa-no-tsuki-yoshiwara-no-hana-and-fukagawa-no-yuki"
+    "slug": "shinagawa-no-tsuki-yoshiwara-no-hana-and-fukagawa-no-yuki",
+    "tier": "well_known"
   },
   {
     "title": "Utamakura",
@@ -512,7 +526,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "utamakura"
+    "slug": "utamakura",
+    "tier": "famous"
   },
   {
     "title": "Utamaro's pictures of abalone divers",
@@ -525,7 +540,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "utamaros-pictures-of-abalone-divers"
+    "slug": "utamaros-pictures-of-abalone-divers",
+    "tier": "well_known"
   },
   {
     "title": "Geisha Utamaro01",
@@ -578,7 +594,7 @@
     "id": 30,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1799,
     "year_end": 1799,
@@ -818,14 +834,15 @@
     "id": 42,
     "era": "late",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "date": "1801–04",
     "harvest_method": "commons_category",
     "year_start": 1801,
     "year_end": 1804,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1801%E2%80%9304)_Fukagawa_no_yuki_(detail,_kumaizasa).jpg",
-    "slug": "180104-fukagawa-no-yuki"
+    "slug": "180104-fukagawa-no-yuki",
+    "tier": "well_known"
   },
   {
     "title": "四睡之圖 喜多川歌麿",
@@ -838,7 +855,7 @@
     "id": 43,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1798,
     "year_end": 1800,
@@ -885,7 +902,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Courtesan_Hanao_gi_of_the_O_giya_House_-_Google_Art_Project.jpg",
     "date": "1793/1794",
-    "slug": "courtesan-hanao-gi-of-the-o-giya-house"
+    "slug": "courtesan-hanao-gi-of-the-o-giya-house",
+    "tier": "well_known"
   },
   {
     "title": "Ehon Mushi Erami",
@@ -898,7 +916,7 @@
     "id": 46,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1788,
     "year_end": 1788,
@@ -918,7 +936,7 @@
     "id": 47,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1789,
     "year_end": 1791,
@@ -938,7 +956,7 @@
     "id": 48,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1795,
     "year_end": 1795,
@@ -958,14 +976,15 @@
     "id": 49,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Moonlight_Revelry_at_Dozo_Sagami_-_Google_Art_Project.jpg",
     "date": "18th century",
-    "slug": "moonlight-revelry-at-dozo-sagami"
+    "slug": "moonlight-revelry-at-dozo-sagami",
+    "tier": "well_known"
   },
   {
     "title": "Ten physiognomic types of women, Coquettish type",
@@ -978,14 +997,15 @@
     "id": 50,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Ten_physiognomic_types_of_women,_Coquettish_type_-_Google_Art_Project.jpg",
     "date": "Edo period, 18th century",
-    "slug": "ten-physiognomic-types-of-women-coquettish-type"
+    "slug": "ten-physiognomic-types-of-women-coquettish-type",
+    "tier": "well_known"
   },
   {
     "title": "Two Beauties with Bamboo",
@@ -998,7 +1018,7 @@
     "id": 51,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1795,
     "year_end": 1795,
@@ -1038,7 +1058,7 @@
     "id": 53,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1615,
     "year_end": 1868,
@@ -1058,7 +1078,7 @@
     "id": 54,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1797,
     "year_end": 1797,
@@ -1085,7 +1105,8 @@
     "year_end": 1793,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1793)_Naniwaya_O-Kita.jpg",
-    "slug": "1793-naniwaya-o-kita"
+    "slug": "1793-naniwaya-o-kita",
+    "tier": "famous"
   },
   {
     "title": "Cherry Blossom Viewing at Mimeguri",
@@ -1098,7 +1119,7 @@
     "id": 56,
     "era": "mature",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "date": "1799",
     "harvest_method": "commons_category",
     "year_start": 1799,
@@ -1305,7 +1326,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Renowned_beauties_likened_to_the_six_immortal_poets_Ogiya_Hanaogi.jpg",
     "date": "",
-    "slug": "renowned-beauties-likened-to-the-six-immortal-poets-ogiya-ha"
+    "slug": "renowned-beauties-likened-to-the-six-immortal-poets-ogiya-ha",
+    "tier": "well_known"
   },
   {
     "title": "Shizuuta de Tamaya",
@@ -1385,7 +1407,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A9%A6%E4%BA%BA%E7%9B%B8%E5%AD%B8%E5%8D%81%E8%BA%B0%E3%83%BB%E6%B0%B4%E6%80%A7%E4%B9%8B%E7%9B%B8.jpg",
     "date": "",
-    "slug": "untitled-3"
+    "slug": "untitled-3",
+    "tier": "famous"
   },
   {
     "title": "Five Fanciful Relationships",
@@ -2418,14 +2441,15 @@
     "id": 122,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1798,
     "year_end": 1798,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ase_o_fuku_onna_LCCN2008660689.jpg",
     "date": "1798",
-    "slug": "ase-o-fuku-onna-lccn2008660689"
+    "slug": "ase-o-fuku-onna-lccn2008660689",
+    "tier": "well_known"
   },
   {
     "title": "Ase o fuku onna2",
@@ -2438,14 +2462,15 @@
     "id": 123,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1798,
     "year_end": 1923,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ase_o_fuku_onna2.jpg",
     "date": "1798, printed between 1918 and 1923",
-    "slug": "ase-o-fuku-onna2"
+    "slug": "ase-o-fuku-onna2",
+    "tier": "well_known"
   },
   {
     "title": "Avondscene in een theehuis, RP-P-1960-13-4",
@@ -3198,14 +3223,15 @@
     "id": 161,
     "era": "early",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "date": "1785",
     "harvest_method": "commons_category",
     "year_start": 1785,
     "year_end": 1785,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Utamaro,_Kushi_(Comb),_ca._1785.jpg",
-    "slug": "flickr-trialsanderrors-utamaro-kushi-comb-ca-1785"
+    "slug": "flickr-trialsanderrors-utamaro-kushi-comb-ca-1785",
+    "tier": "well_known"
   },
   {
     "title": "Fujin tomarikyaku no zu LCCN2008660697",
@@ -3225,7 +3251,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Fujin_tomarikyaku_no_zu_LCCN2008660697.jpg",
     "date": "1797",
-    "slug": "fujin-tomarikyaku-no-zu-lccn2008660697"
+    "slug": "fujin-tomarikyaku-no-zu-lccn2008660697",
+    "tier": "well_known"
   },
   {
     "title": "Fukubiki LCCN2008660108",
@@ -3478,14 +3505,15 @@
     "id": 175,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1793,
     "year_end": 1793,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kagiya_osen_to_takashima_ohisa_LCCN2009615449.jpg",
     "date": "1793",
-    "slug": "kagiya-osen-to-takashima-ohisa-lccn2009615449"
+    "slug": "kagiya-osen-to-takashima-ohisa-lccn2009615449",
+    "tier": "well_known"
   },
   {
     "title": "Kashidori fukurō LCCN2008661068",
@@ -3558,7 +3586,7 @@
     "id": 179,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1800,
     "year_end": 1805,
@@ -3585,7 +3613,8 @@
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_One_Hundred_Stories_of_Demons_and_Spirits.jpg",
     "date": "c. early 19th century.",
-    "slug": "one-hundred-stories-of-demons-and-spirits"
+    "slug": "one-hundred-stories-of-demons-and-spirits",
+    "tier": "well_known"
   },
   {
     "title": "Abalone Divers - MFA Boston 21.7353-5",
@@ -3605,7 +3634,8 @@
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Abalone_Divers_-_MFA_Boston_21.7353-5.jpg",
     "date": "between circa ? and circa 1806",
-    "slug": "abalone-divers-mfa-boston-21-7353-5"
+    "slug": "abalone-divers-mfa-boston-21-7353-5",
+    "tier": "well_known"
   },
   {
     "title": "An Attractive Woman Who Looks Like the Actor Iwai Hanshiro V - 1943.28 - Cleveland Museum of Art",
@@ -4198,14 +4228,15 @@
     "id": 211,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1795,
     "year_end": 1795,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Takashima_Ohisa_Using_Two_Mirrors_to_Observe_Her_Coiffure_Night_of_the_Asakusa_Marketing_Festival_-_MFA_Boston_21.6410.jpg",
     "date": "circa 1795",
-    "slug": "takashima-ohisa-using-two-mirrors-to-observe-her-coiffure-ni"
+    "slug": "takashima-ohisa-using-two-mirrors-to-observe-her-coiffure-ni",
+    "tier": "well_known"
   },
   {
     "title": "The Courtesan Hinazuru of Chojiya with her Attendants Tsuruji and Tsuruno - 1956.756 - Cleveland Museum of Art",
@@ -4258,14 +4289,15 @@
     "id": 214,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1794,
     "year_end": 1794,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Tomimoto_Toyohina,_Takashimaya_Ohisa,_and_Naniwaya_Okita_-_1916.1158_-_Cleveland_Museum_of_Art.tif",
     "date": "circa 1794",
-    "slug": "tomimoto-toyohina-takashimaya-ohisa-and-naniwaya-okita-1916"
+    "slug": "tomimoto-toyohina-takashimaya-ohisa-and-naniwaya-okita-1916",
+    "tier": "well_known"
   },
   {
     "title": "Two Women by a Bamboo Blind - 1916.1136 - Cleveland Museum of Art",
@@ -4838,14 +4870,15 @@
     "id": 243,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1780,
     "year_end": 1780,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kushi_LCCN2008660667.jpg",
     "date": "1780",
-    "slug": "kushi-lccn2008660667"
+    "slug": "kushi-lccn2008660667",
+    "tier": "well_known"
   },
   {
     "title": "Leeuwendans Waka Ebisu (serietitel), RP-P-1960-11-3",
@@ -5105,7 +5138,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Naniwaya_okita_LCCN2008660684.jpg",
     "date": "1793",
-    "slug": "naniwaya-okita-lccn2008660684"
+    "slug": "naniwaya-okita-lccn2008660684",
+    "tier": "famous"
   },
   {
     "title": "NDL-DC 1307950-Kitagawa Utamaro-（無題）-crd",
@@ -5765,7 +5799,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABkan_no_zu.jpg",
     "date": "between 1804 and 1806",
-    "slug": "taiko-gosai-rakuto-yukan-no-zu"
+    "slug": "taiko-gosai-rakuto-yukan-no-zu",
+    "tier": "well_known"
   },
   {
     "title": "Tetsukuri no Tamagawa, from the series Six Tama Rivers, Utamaro, MET JP2814",
@@ -5838,7 +5873,7 @@
     "id": 293,
     "era": "unknown",
     "subject": "bijin",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -6205,7 +6240,8 @@
     "year_end": 1793,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1792%E2%80%931793)_Three_Beauties%E2%80%94Okita,_Ohisa,_and_Toyohina.jpg",
-    "slug": "17921793-three-beautiesokita-ohisa-and-toyohina"
+    "slug": "17921793-three-beautiesokita-ohisa-and-toyohina",
+    "tier": "famous"
   },
   {
     "title": "(1792–96) Tomimoto Toyohisa reading a letter (Rijksmuseum)",
@@ -7105,7 +7141,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg",
     "date": "1804",
-    "slug": "a-view-of-the-pleasures-of-the-taiko-and-his-five-wives-at-r"
+    "slug": "a-view-of-the-pleasures-of-the-taiko-and-his-five-wives-at-r",
+    "tier": "well_known"
   },
   {
     "title": "契情三人酔 三幅之内 腹立上戸 泣上戸 笑上戸-Three Intoxicated Courtesans MET DP144602",
@@ -7125,7 +7162,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A5%91%E6%83%85%E4%B8%89%E4%BA%BA%E9%85%94_%E4%B8%89%E5%B9%85%E4%B9%8B%E5%86%85_%E8%85%B9%E7%AB%8B%E4%B8%8A%E6%88%B8_%E6%B3%A3%E4%B8%8A%E6%88%B8_%E7%AC%91%E4%B8%8A%E6%88%B8-Three_Intoxicated_Courtesans_MET_DP144602.jpg",
     "date": "1790s",
-    "slug": "three-intoxicated-courtesans-met-dp144602"
+    "slug": "three-intoxicated-courtesans-met-dp144602",
+    "tier": "well_known"
   },
   {
     "title": "扇屋内春日野-The Oiran Kasugano of Ogiya on Parade under Blossoming Cherry Trees MET DP135653",
@@ -7218,7 +7256,7 @@
     "id": 362,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,

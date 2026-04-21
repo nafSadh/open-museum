@@ -23,7 +23,8 @@
     "year_start": 1503,
     "year_end": 1519,
     "circa": true,
-    "slug": "mona-lisa"
+    "slug": "mona-lisa",
+    "tier": "famous"
   },
   {
     "title": "The Last Supper",
@@ -83,7 +84,8 @@
         "image_height": 4518
       }
     ],
-    "slug": "the-last-supper"
+    "slug": "the-last-supper",
+    "tier": "famous"
   },
   {
     "title": "Virgin of the Rocks (Louvre version)",
@@ -109,7 +111,8 @@
     "year_start": 1483,
     "year_end": 1486,
     "circa": true,
-    "slug": "virgin-of-the-rocks-louvre-version"
+    "slug": "virgin-of-the-rocks-louvre-version",
+    "tier": "famous"
   },
   {
     "title": "Virgin of the Rocks (London version)",
@@ -134,7 +137,8 @@
     "year_start": 1495,
     "year_end": 1508,
     "circa": true,
-    "slug": "virgin-of-the-rocks-london-version"
+    "slug": "virgin-of-the-rocks-london-version",
+    "tier": "famous"
   },
   {
     "title": "Lady with an Ermine",
@@ -160,7 +164,8 @@
     "year_start": 1489,
     "year_end": 1491,
     "circa": true,
-    "slug": "lady-with-an-ermine"
+    "slug": "lady-with-an-ermine",
+    "tier": "famous"
   },
   {
     "title": "Ginevra de' Benci",
@@ -185,7 +190,8 @@
     "year_start": 1474,
     "year_end": 1478,
     "circa": true,
-    "slug": "ginevra-de-benci"
+    "slug": "ginevra-de-benci",
+    "tier": "famous"
   },
   {
     "title": "Annunciation",
@@ -199,7 +205,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "L'Annonciation,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
-    "famous": true,
+    "famous": false,
     "id": 7,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
@@ -211,7 +217,8 @@
     "year_start": 1472,
     "year_end": 1475,
     "circa": true,
-    "slug": "annunciation"
+    "slug": "annunciation",
+    "tier": "well_known"
   },
   {
     "title": "Benois Madonna",
@@ -224,7 +231,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg",
-    "famous": true,
+    "famous": false,
     "id": 8,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg/960px-Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg",
@@ -236,7 +243,8 @@
     "year_start": 1478,
     "year_end": 1480,
     "circa": true,
-    "slug": "benois-madonna"
+    "slug": "benois-madonna",
+    "tier": "well_known"
   },
   {
     "title": "Saint John the Baptist",
@@ -249,7 +257,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
-    "famous": true,
+    "famous": false,
     "id": 9,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/960px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
@@ -261,7 +269,8 @@
     "year_start": 1513,
     "year_end": 1516,
     "circa": true,
-    "slug": "saint-john-the-baptist"
+    "slug": "saint-john-the-baptist",
+    "tier": "well_known"
   },
   {
     "title": "Virgin and Child with Saint Anne",
@@ -274,7 +283,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
-    "famous": true,
+    "famous": false,
     "id": 10,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg/960px-Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
@@ -286,7 +295,8 @@
     "year_start": 1503,
     "year_end": 1519,
     "circa": true,
-    "slug": "virgin-and-child-with-saint-anne"
+    "slug": "virgin-and-child-with-saint-anne",
+    "tier": "well_known"
   },
   {
     "title": "Madonna of the Carnation",
@@ -299,7 +309,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg",
-    "famous": true,
+    "famous": false,
     "id": 11,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/960px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg",
@@ -311,7 +321,8 @@
     "year_start": 1478,
     "year_end": 1480,
     "circa": true,
-    "slug": "madonna-of-the-carnation"
+    "slug": "madonna-of-the-carnation",
+    "tier": "well_known"
   },
   {
     "title": "La Belle Ferronnière",
@@ -324,7 +335,7 @@
     "subject": "portrait",
     "attribution": "accepted",
     "commons_filename": "La_Belle_Ferronière_-_Google_Arts.jpg",
-    "famous": true,
+    "famous": false,
     "id": 12,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg/960px-La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
@@ -336,7 +347,8 @@
     "year_start": 1490,
     "year_end": 1497,
     "circa": true,
-    "slug": "la-belle-ferronniere"
+    "slug": "la-belle-ferronniere",
+    "tier": "well_known"
   },
   {
     "title": "Portrait of a Musician",
@@ -349,7 +361,7 @@
     "subject": "portrait",
     "attribution": "accepted (partly workshop)",
     "commons_filename": "Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
-    "famous": true,
+    "famous": false,
     "id": 13,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg/960px-Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
@@ -361,7 +373,8 @@
     "year_start": 1483,
     "year_end": 1487,
     "circa": true,
-    "slug": "portrait-of-a-musician"
+    "slug": "portrait-of-a-musician",
+    "tier": "well_known"
   },
   {
     "title": "Saint Jerome in the Wilderness",
@@ -374,7 +387,7 @@
     "subject": "religious",
     "attribution": "accepted (unfinished)",
     "commons_filename": "Saint_Jerome_Leonardo_-_image_only_(Q972196).jpg",
-    "famous": true,
+    "famous": false,
     "id": 14,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saint_Jerome_Leonardo_-_image_only_%28Q972196%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Saint_Jerome_Leonardo_-_image_only_%28Q972196%29.jpg/960px-Saint_Jerome_Leonardo_-_image_only_%28Q972196%29.jpg",
@@ -386,7 +399,8 @@
     "year_start": 1480,
     "year_end": 1490,
     "circa": true,
-    "slug": "saint-jerome-in-the-wilderness"
+    "slug": "saint-jerome-in-the-wilderness",
+    "tier": "well_known"
   },
   {
     "title": "Adoration of the Magi",
@@ -399,7 +413,7 @@
     "subject": "religious",
     "attribution": "accepted (unfinished)",
     "commons_filename": "Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
-    "famous": true,
+    "famous": false,
     "id": 15,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/960px-Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
@@ -411,7 +425,8 @@
     "year_start": 1481,
     "year_end": 1482,
     "circa": true,
-    "slug": "adoration-of-the-magi"
+    "slug": "adoration-of-the-magi",
+    "tier": "well_known"
   },
   {
     "title": "Madonna Litta",
@@ -424,7 +439,7 @@
     "subject": "religious",
     "attribution": "attributed (partly workshop)",
     "commons_filename": "Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
-    "famous": true,
+    "famous": false,
     "id": 16,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg/960px-Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
@@ -436,7 +451,8 @@
     "year_start": 1490,
     "year_end": 1490,
     "circa": true,
-    "slug": "madonna-litta"
+    "slug": "madonna-litta",
+    "tier": "well_known"
   },
   {
     "title": "Vitruvian Man",
@@ -462,7 +478,8 @@
     "year_start": 1490,
     "year_end": 1490,
     "circa": true,
-    "slug": "vitruvian-man"
+    "slug": "vitruvian-man",
+    "tier": "famous"
   },
   {
     "title": "Head of a Woman (La Scapigliata)",
@@ -475,7 +492,7 @@
     "subject": "study",
     "attribution": "accepted",
     "commons_filename": "Leonardo_da_vinci_-_La_scapigliata.jpg",
-    "famous": true,
+    "famous": false,
     "id": 18,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg/960px-Leonardo_da_vinci_-_La_scapigliata.jpg",
@@ -487,7 +504,8 @@
     "year_start": 1500,
     "year_end": 1510,
     "circa": true,
-    "slug": "head-of-a-woman-la-scapigliata"
+    "slug": "head-of-a-woman-la-scapigliata",
+    "tier": "well_known"
   },
   {
     "title": "Portrait of a Man in Red Chalk",
@@ -512,7 +530,8 @@
     "year_start": 1512,
     "year_end": 1512,
     "circa": true,
-    "slug": "portrait-of-a-man-in-red-chalk"
+    "slug": "portrait-of-a-man-in-red-chalk",
+    "tier": "famous"
   },
   {
     "title": "Study of a Tuscan Landscape",
@@ -525,7 +544,7 @@
     "subject": "landscape",
     "attribution": "accepted",
     "commons_filename": "Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg",
-    "famous": true,
+    "famous": false,
     "id": 20,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg",
@@ -537,7 +556,8 @@
     "year_start": 1473,
     "year_end": 1473,
     "circa": false,
-    "slug": "study-of-a-tuscan-landscape"
+    "slug": "study-of-a-tuscan-landscape",
+    "tier": "well_known"
   },
   {
     "id": 21,
@@ -2720,7 +2740,7 @@
     "year_start": 1503,
     "year_end": 1504,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:1500s drawings by Leonardo da Vinci",
     "slug": "the-battle-of-anghiari-study-of-battles-on-horseback-and-on",
     "see_also": [
@@ -2735,7 +2755,8 @@
         "image_width": 1030,
         "image_height": 708
       }
-    ]
+    ],
+    "tier": "well_known"
   },
   {
     "id": 116,
@@ -2850,7 +2871,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Leda by Leonardo da Vinci",
-    "slug": "leda-and-the-swan"
+    "slug": "leda-and-the-swan",
+    "tier": "well_known"
   },
   {
     "id": 121,
@@ -2894,7 +2916,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:Leda by Leonardo da Vinci",
     "slug": "the-head-of-leda-c-1505-6"
   },
@@ -4895,7 +4917,7 @@
     "year_start": 1481,
     "year_end": 1481,
     "circa": true,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:Studies of horses by Leonardo da Vinci",
     "slug": "horse-and-rider"
   },
@@ -5056,9 +5078,10 @@
     "year_start": 1493,
     "year_end": 1493,
     "circa": true,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:Studies of horses by Leonardo da Vinci",
-    "slug": "manuscript-page-on-the-sforza-monument"
+    "slug": "manuscript-page-on-the-sforza-monument",
+    "tier": "well_known"
   },
   {
     "id": 217,
@@ -5424,7 +5447,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:A deluge (RCIN 912380)",
     "slug": "a-deluge-c-1517-18"
   },
@@ -5564,7 +5587,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:A map of Imola (RCIN 912284)",
-    "slug": "plan-of-imolatitle"
+    "slug": "plan-of-imolatitle",
+    "tier": "well_known"
   },
   {
     "id": 239,
@@ -5608,7 +5632,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:A map of Imola (RCIN 912284)",
     "slug": "a-map-of-imola-1502"
   },
@@ -5631,7 +5655,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:A map of Imola (RCIN 912284)",
     "slug": "a-map-of-imola-1502-2"
   },
@@ -6275,7 +6299,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:Caricatures by Leonardo da Vinci",
     "slug": "a-grotesque-head-by-leonardo-da-vinci"
   },
@@ -26400,9 +26424,10 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:Drawings by Leonardo da Vinci in the Royal Collection of the United Kingdom",
-    "slug": "the-rotation-of-the-arm-and-the-foetus-in-the-womb-c-1511"
+    "slug": "the-rotation-of-the-arm-and-the-foetus-in-the-womb-c-1511",
+    "tier": "well_known"
   },
   {
     "id": 1145,
@@ -29666,7 +29691,7 @@
     "year_start": 1499,
     "year_end": 1500,
     "circa": true,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:Portrait of Isabella d'Este by Leonardo da Vinci",
     "slug": "portrait-of-isabella-deste"
   },
@@ -30197,7 +30222,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Study for the Head of a Soldier in the Battle of Anghiari (1774)",
-    "slug": "the-battle-of-anghiari-detail-head-of-a-warrior-the-red-head"
+    "slug": "the-battle-of-anghiari-detail-head-of-a-warrior-the-red-head",
+    "tier": "well_known"
   },
   {
     "id": 1310,
@@ -30312,7 +30338,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Study of Two Warriors’ Heads for the Battle of Anghiari (1775)",
-    "slug": "study-of-two-warriors-heads-for-the-battle-of-anghiari"
+    "slug": "study-of-two-warriors-heads-for-the-battle-of-anghiari",
+    "tier": "well_known"
   },
   {
     "id": 1315,
@@ -31828,7 +31855,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:The bones and muscles of the shoulder (RCIN 919001)",
     "slug": "the-bones-and-muscles-of-the-shoulder"
   },
@@ -32035,7 +32062,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category:The cardiovascular system and principal organs of a woman (Leonardo da Vinci)",
     "slug": "the-cardiovascular-system-and-principal-organs-of-a-woman-c"
   },
@@ -34958,7 +34985,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:A rearing horse, and heads of horses, a lion and a man (RCIN 912326)",
-    "slug": "study-of-horses-for-the-battle-of-anghiari"
+    "slug": "study-of-horses-for-the-battle-of-anghiari",
+    "tier": "well_known"
   },
   {
     "id": 1517,
@@ -39098,7 +39126,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Mirror writings by Leonardo da Vinci",
-    "slug": "views-of-a-foetus-in-the-womb"
+    "slug": "views-of-a-foetus-in-the-womb",
+    "tier": "well_known"
   },
   {
     "id": 1697,

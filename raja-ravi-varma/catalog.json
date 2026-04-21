@@ -17,7 +17,8 @@
     "year_end": 1898,
     "circa": false,
     "date": "1898",
-    "slug": "shakuntala-looking-for-dushyanta"
+    "slug": "shakuntala-looking-for-dushyanta",
+    "tier": "famous"
   },
   {
     "title": "Galaxy of Musicians",
@@ -37,7 +38,8 @@
     "year_end": 1889,
     "circa": false,
     "date": "1889",
-    "slug": "galaxy-of-musicians"
+    "slug": "galaxy-of-musicians",
+    "tier": "famous"
   },
   {
     "title": "Shakuntala Patra-lekhan",
@@ -50,14 +52,15 @@
     "id": 3,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Shakuntala_Patra-lekhan",
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "date": "",
-    "slug": "shakuntala-patra-lekhan"
+    "slug": "shakuntala-patra-lekhan",
+    "tier": "well_known"
   },
   {
     "title": "Nair Lady Adorning Her Hair",
@@ -70,14 +73,15 @@
     "id": 4,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1873,
     "year_end": 1873,
     "circa": false,
     "date": "1873",
-    "slug": "nair-lady-adorning-her-hair"
+    "slug": "nair-lady-adorning-her-hair",
+    "tier": "well_known"
   },
   {
     "title": "Expectation",
@@ -90,7 +94,7 @@
     "id": 5,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1893,
     "year_end": 1893,
@@ -110,7 +114,7 @@
     "id": 6,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1890,
     "year_end": 1890,
@@ -170,14 +174,15 @@
     "id": 11,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Saraswati",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1896,
     "year_end": 1896,
     "circa": false,
     "date": "1896",
-    "slug": "saraswati"
+    "slug": "saraswati",
+    "tier": "well_known"
   },
   {
     "title": "Geevarghese Mar Gregorios of Parumala",
@@ -210,14 +215,15 @@
     "id": 13,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1910,
     "year_end": 1910,
     "circa": true,
     "date": "circa 1910",
-    "slug": "descent-of-ganga"
+    "slug": "descent-of-ganga",
+    "tier": "well_known"
   },
   {
     "title": "Sri Krishna as Envoy",
@@ -230,14 +236,15 @@
     "id": 14,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_as_Envoy.jpg",
     "date": "",
-    "slug": "sri-krishna-as-envoy"
+    "slug": "sri-krishna-as-envoy",
+    "tier": "well_known"
   },
   {
     "title": "Jatayu fights Ravana",
@@ -257,7 +264,8 @@
     "year_end": 1895,
     "circa": false,
     "date": "1895",
-    "slug": "jatayu-fights-ravana"
+    "slug": "jatayu-fights-ravana",
+    "tier": "well_known"
   },
   {
     "title": "Lady giving alms in a temple",
@@ -350,14 +358,15 @@
     "id": 20,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Mohini",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1894,
     "year_end": 1894,
     "circa": false,
     "date": "January 1894",
-    "slug": "mohini-on-a-swing"
+    "slug": "mohini-on-a-swing",
+    "tier": "well_known"
   },
   {
     "title": "Disrobing of Draupadi",
@@ -377,7 +386,8 @@
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma.jpg",
     "date": "Circa 1888 -1890",
-    "slug": "disrobing-of-draupadi"
+    "slug": "disrobing-of-draupadi",
+    "tier": "well_known"
   },
   {
     "title": "Sita Bhumi Pravesh",
@@ -417,7 +427,8 @@
     "year_end": null,
     "circa": false,
     "date": "Unknown date",
-    "slug": "draupadi-being-humiliated-in-the-court-of-virata"
+    "slug": "draupadi-being-humiliated-in-the-court-of-virata",
+    "tier": "well_known"
   },
   {
     "title": "Krishna with Yashoda",
@@ -437,7 +448,8 @@
     "year_end": 1911,
     "circa": false,
     "date": "before 1911",
-    "slug": "krishna-with-yashoda"
+    "slug": "krishna-with-yashoda",
+    "tier": "well_known"
   },
   {
     "title": "Village Belle",
@@ -450,7 +462,7 @@
     "id": 25,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
@@ -477,7 +489,8 @@
     "year_end": 1905,
     "circa": false,
     "date": "1905",
-    "slug": "victory-of-meghanada"
+    "slug": "victory-of-meghanada",
+    "tier": "well_known"
   },
   {
     "title": "Malabar Lady or Swarbat Player",
@@ -497,7 +510,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Malabar_Lady.jpg",
     "date": "Unknown date",
-    "slug": "malabar-lady-or-swarbat-player"
+    "slug": "malabar-lady-or-swarbat-player",
+    "tier": "well_known"
   },
   {
     "title": "Keechaka and Sairandhri",
@@ -510,14 +524,15 @@
     "id": 28,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_1890.jpg",
     "date": "1890",
-    "slug": "keechaka-and-sairandhri"
+    "slug": "keechaka-and-sairandhri",
+    "tier": "well_known"
   },
   {
     "title": "Shantanu and Matsyagandha",
@@ -537,7 +552,8 @@
     "year_end": 1890,
     "circa": false,
     "date": "1890",
-    "slug": "shantanu-and-matsyagandha"
+    "slug": "shantanu-and-matsyagandha",
+    "tier": "well_known"
   },
   {
     "title": "Arjuna and Subhadra",
@@ -550,14 +566,15 @@
     "id": 30,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Arjuna",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
     "date": "1890",
-    "slug": "arjuna-and-subhadra"
+    "slug": "arjuna-and-subhadra",
+    "tier": "well_known"
   },
   {
     "title": "Woman holding a fan",
@@ -590,7 +607,7 @@
     "id": 32,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
@@ -610,7 +627,7 @@
     "id": 33,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1901,
     "year_end": 1901,
@@ -630,7 +647,7 @@
     "id": 34,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
@@ -669,7 +686,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "mohini-playing-with-a-ball"
+    "slug": "mohini-playing-with-a-ball",
+    "tier": "well_known"
   },
   {
     "title": "Yashoda and Krishna",
@@ -688,7 +706,8 @@
     "image_width": 972,
     "image_height": 1200,
     "mime": "image/jpeg",
-    "slug": "yashoda-and-krishna"
+    "slug": "yashoda-and-krishna",
+    "tier": "well_known"
   },
   {
     "title": "Lady Lost in Thought",
@@ -713,7 +732,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "damayanti-talking-to-a-swan"
+    "slug": "damayanti-talking-to-a-swan",
+    "tier": "famous"
   },
   {
     "title": "The Orchestra",
@@ -777,33 +797,36 @@
     "year_end": null,
     "circa": false,
     "date": "Date not mentioned",
-    "slug": "shakuntala"
+    "slug": "shakuntala",
+    "tier": "famous"
   },
   {
     "title": "Lord Krishna as Ambassador",
     "id": 44,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Krishna",
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "lord-krishna-as-ambassador"
+    "slug": "lord-krishna-as-ambassador",
+    "tier": "famous"
   },
   {
     "title": "Jatayu, a bird devotee of Lord Rama is mauled by Ravana",
     "id": 45,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Jatayu_(Ramayana)",
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "jatayu-a-bird-devotee-of-lord-rama-is-mauled-by-ravana"
+    "slug": "jatayu-a-bird-devotee-of-lord-rama-is-mauled-by-ravana",
+    "tier": "famous"
   },
   {
     "title": "Victory of Indrajit",
@@ -816,7 +839,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "victory-of-indrajit"
+    "slug": "victory-of-indrajit",
+    "tier": "well_known"
   },
   {
     "title": "The gypsies[attribution needed]",
@@ -842,7 +866,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "a-lady-playing-swarbat"
+    "slug": "a-lady-playing-swarbat",
+    "tier": "well_known"
   },
   {
     "title": "Lord Rama Conquers Varuna",
@@ -908,7 +933,7 @@
     "id": 54,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Dushyanta",
     "harvest_method": "wikipedia_list",
     "year_start": null,
@@ -927,7 +952,7 @@
     "id": 55,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
@@ -941,7 +966,7 @@
     "id": 56,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "commons_filename": "Bharani Thirunal Lakshmi Bayi 1885.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bharani_Thirunal_Lakshmi_Bayi_1885.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bharani_Thirunal_Lakshmi_Bayi_1885.jpg/960px-Bharani_Thirunal_Lakshmi_Bayi_1885.jpg",
@@ -955,7 +980,8 @@
     "year_end": 1885,
     "circa": true,
     "date": "circa 1885",
-    "slug": "bharani-thirunal-lakshmi-bayi-of-travancore"
+    "slug": "bharani-thirunal-lakshmi-bayi-of-travancore",
+    "tier": "well_known"
   },
   {
     "title": "3D painting of the Mysore king on a horse (now on display at the Mysore Palace)",
@@ -1261,14 +1287,15 @@
     "id": 72,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1906,
     "year_end": 1948,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Mohini_bhasmasura.jpg",
     "date": "between 1948 and 1906",
-    "slug": "mohini-bhasmasura"
+    "slug": "mohini-bhasmasura",
+    "tier": "well_known"
   },
   {
     "title": "National Gallery of Modern Art, Mumbai, India (20575179683)",
@@ -1461,7 +1488,7 @@
     "id": 83,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -1521,7 +1548,7 @@
     "id": 86,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -1561,7 +1588,7 @@
     "id": 88,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -1661,7 +1688,7 @@
     "id": 93,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1880,
     "year_end": 1880,
@@ -1881,7 +1908,7 @@
     "id": 104,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -1901,14 +1928,15 @@
     "id": 106,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1888,
     "year_end": 1890,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma_(crop_3).jpg",
     "date": "between circa 1888 and circa 1890",
-    "slug": "draupadi-vastraharan"
+    "slug": "draupadi-vastraharan",
+    "tier": "well_known"
   },
   {
     "title": "Duryodhana",
@@ -1981,14 +2009,15 @@
     "id": 110,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Harishchandra_by_RRV.jpg",
     "date": "Unknown date",
-    "slug": "harishchandra"
+    "slug": "harishchandra",
+    "tier": "well_known"
   },
   {
     "title": "Jaydrath abduct Draupadi",
@@ -2041,7 +2070,7 @@
     "id": 113,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1905,
     "year_end": 1905,
@@ -2101,7 +2130,7 @@
     "id": 116,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -2181,7 +2210,7 @@
     "id": 120,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1890,
     "year_end": 1890,
@@ -2221,7 +2250,7 @@
     "id": 122,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -2242,13 +2271,14 @@
     "id": 123,
     "era": "mature",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Birth_of_Krishna_(1890).jpg",
-    "slug": "birth-of-krishna-1890"
+    "slug": "birth-of-krishna-1890",
+    "tier": "well_known"
   },
   {
     "title": "Damayanthi",
@@ -2261,7 +2291,7 @@
     "id": 124,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -2281,7 +2311,7 @@
     "id": 125,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1910,
     "year_end": 1910,
@@ -2321,7 +2351,7 @@
     "id": 127,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1890,
     "year_end": 1890,
@@ -2381,7 +2411,7 @@
     "id": 130,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1848,
     "year_end": 1906,
@@ -2448,7 +2478,8 @@
     "year_end": 1899,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mohini_and_Rugmangada_(1899).jpg",
-    "slug": "mohini-and-rugmangada-1899"
+    "slug": "mohini-and-rugmangada-1899",
+    "tier": "well_known"
   },
   {
     "title": "Radha and Sakhi (Oleographic print)",
@@ -2581,7 +2612,7 @@
     "id": 140,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -2661,7 +2692,7 @@
     "id": 144,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -2681,14 +2712,15 @@
     "id": 145,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Damayanti_and_the_Swan.jpg",
     "date": "Unknown date",
-    "slug": "damayanti-and-the-swan"
+    "slug": "damayanti-and-the-swan",
+    "tier": "well_known"
   },
   {
     "title": "Hansa Damayanthi",
@@ -2701,14 +2733,15 @@
     "id": 146,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1910,
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hansa_Damayanthi.jpg",
     "date": "circa 1910",
-    "slug": "hansa-damayanthi"
+    "slug": "hansa-damayanthi",
+    "tier": "well_known"
   },
   {
     "title": "Hansa damayanti",
@@ -2721,7 +2754,7 @@
     "id": 147,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1848,
     "year_end": 1906,
@@ -3001,7 +3034,7 @@
     "id": 162,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -3088,7 +3121,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rama_breaking_the_bow.jpg",
     "date": "early 20th century",
-    "slug": "rama-breaking-the-bow"
+    "slug": "rama-breaking-the-bow",
+    "tier": "well_known"
   },
   {
     "title": "Rama crossing Sarayu in Ivory",
@@ -3148,7 +3182,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ramapanchayan,_Raja_Ravi_Varma_(Lithograph).jpg",
     "date": "before 1906",
-    "slug": "ramapanchayan"
+    "slug": "ramapanchayan",
+    "tier": "well_known"
   },
   {
     "title": "Rama-breaking-bow",
@@ -3208,7 +3243,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Urvashi-Pururavas_by_RRV.jpg",
     "date": "1890",
-    "slug": "urvashi-pururavas"
+    "slug": "urvashi-pururavas",
+    "tier": "well_known"
   },
   {
     "title": "Chinmabai",
@@ -3341,7 +3377,7 @@
     "id": 183,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1906,
     "year_end": 1906,
@@ -3461,7 +3497,7 @@
     "id": 189,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1880,
     "year_end": 1885,
@@ -3581,7 +3617,7 @@
     "id": 195,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -3622,13 +3658,14 @@
     "id": 197,
     "era": "mature",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category",
     "year_start": 1889,
     "year_end": 1889,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_in_the_Moon_Light_(1889).jpg",
-    "slug": "lady-in-the-moon-light-1889"
+    "slug": "lady-in-the-moon-light-1889",
+    "tier": "famous"
   },
   {
     "title": "Lady Juggler",
@@ -3701,7 +3738,7 @@
     "id": 201,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -3782,7 +3819,7 @@
     "id": 205,
     "era": "mature",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1894,
     "year_end": 1894,
@@ -3802,7 +3839,7 @@
     "id": 206,
     "era": "late",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1904,
     "year_end": 1904,
@@ -3941,7 +3978,7 @@
     "id": 213,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1848,
     "year_end": 1906,
@@ -3981,7 +4018,7 @@
     "id": 215,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1906,
     "year_end": 1906,
@@ -4001,7 +4038,7 @@
     "id": 216,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1893,
     "year_end": 1893,
@@ -4028,7 +4065,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:There_Comes_Papa,_by_Raja_Ravi_Varma.jpg",
     "date": "1893-05",
-    "slug": "there-comes-papa"
+    "slug": "there-comes-papa",
+    "tier": "famous"
   },
   {
     "title": "Water carrier",
@@ -4081,7 +4119,7 @@
     "id": 220,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1880,
     "year_end": 1880,
@@ -4481,13 +4519,14 @@
     "id": 241,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": 1883,
     "year_end": 1883,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_(1848%E2%80%931901).jpg",
     "date": "1883",
-    "slug": "rani-bharani-thirunal-lakshmi-bayi-of-travancore-18481901"
+    "slug": "rani-bharani-thirunal-lakshmi-bayi-of-travancore-18481901",
+    "tier": "well_known"
   }
 ]

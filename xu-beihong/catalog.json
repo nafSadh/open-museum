@@ -10,7 +10,7 @@
     "id": 1,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1920,
     "year_end": 1940,
     "circa": false,
@@ -30,7 +30,7 @@
     "id": 2,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
@@ -50,7 +50,7 @@
     "id": 3,
     "era": "unknown",
     "subject": "animals",
-    "famous": true,
+    "famous": false,
     "year_start": 1943,
     "year_end": 1943,
     "circa": false,
@@ -69,13 +69,14 @@
     "id": 4,
     "era": "unknown",
     "subject": "animals",
-    "famous": true,
+    "famous": false,
     "year_start": 1895,
     "year_end": 1953,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Cat_on_rock_scroll_by_Xu_Beihong.jpg",
     "date": "between 1895 and 1953",
-    "slug": "cat-on-rock-scroll"
+    "slug": "cat-on-rock-scroll",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Horse Standing by Xu Beihong, 1940.jpg",
@@ -94,7 +95,8 @@
     "year_end": 1940,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Horse_Standing_by_Xu_Beihong,_1940.jpg",
-    "slug": "horse-standing"
+    "slug": "horse-standing",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Liao Jingwen.jpg",
@@ -110,7 +112,7 @@
     "id": 6,
     "era": "mature",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Liao_Jingwen",
     "year_start": 1943,
     "year_end": 1943,
@@ -134,7 +136,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Paimai_(6).jpg",
     "date": "",
-    "slug": "galloping-horse"
+    "slug": "galloping-horse",
+    "tier": "famous"
   },
   {
     "commons_filename": "Put Down Your Whip by Xu Beihong.jpg",
@@ -147,13 +150,14 @@
     "id": 8,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Put_Down_Your_Whip_by_Xu_Beihong.jpg",
     "date": "October 1939",
-    "slug": "put-down-your-whip"
+    "slug": "put-down-your-whip",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Sketch of a Man from the Front and the Side.jpg",
@@ -185,7 +189,7 @@
     "id": 10,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1930,
     "year_end": 1939,
     "circa": false,
@@ -204,13 +208,14 @@
     "id": 11,
     "era": "unknown",
     "subject": "horses",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_eight_horses_(Xu_Beihong).jpg",
     "date": "Unknown date",
-    "slug": "the-eight-horses"
+    "slug": "the-eight-horses",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Tree and man(selfportrait) Xu Beihong. Guimet.jpg",
@@ -242,13 +247,14 @@
     "id": 13,
     "era": "unknown",
     "subject": "animals",
-    "famous": true,
+    "famous": false,
     "year_start": 1942,
     "year_end": 1942,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu_Beihong_Banana_Trees_and_Sparrows.jpg",
     "date": "1942",
-    "slug": "banana-trees-and-sparrows"
+    "slug": "banana-trees-and-sparrows",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Xu Beihong yugongyishan.jpg",
@@ -267,7 +273,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu_Beihong_yugongyishan.jpg",
     "date": "1939",
-    "slug": "yugongyishan"
+    "slug": "yugongyishan",
+    "tier": "famous"
   },
   {
     "commons_filename": "Xu beihong Painting Tianheng's five hundreds heroes.jpg",
@@ -286,7 +293,8 @@
     "year_end": 1930,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu_beihong_Painting_Tianheng%27s_five_hundreds_heroes.jpg",
-    "slug": "dian-heng-and-five-hundreds-heroes"
+    "slug": "dian-heng-and-five-hundreds-heroes",
+    "tier": "famous"
   },
   {
     "commons_filename": "Xu-Beihong-1925-Painting-Jiang-Biwei-by-a-table.jpg",
@@ -484,7 +492,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:XuBeihong.jpg",
     "date": "",
-    "slug": "galloping-horse-ink-painting"
+    "slug": "galloping-horse-ink-painting",
+    "tier": "famous"
   },
   {
     "commons_filename": "Xubeihong 2 cats.jpg",
@@ -503,7 +512,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_2_cats.jpg",
     "date": "",
-    "slug": "2-cats"
+    "slug": "2-cats",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Xubeihong Jiuju.jpg",
@@ -516,13 +526,14 @@
     "id": 27,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_Jiuju.jpg",
     "date": "",
-    "slug": "jiuju-nine-steeds"
+    "slug": "jiuju-nine-steeds",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Xubeihong bamboo woman.jpg",
@@ -560,7 +571,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_chicken_stands.jpg",
     "date": "",
-    "slug": "chicken-stands"
+    "slug": "chicken-stands",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Xubeihong liyinquan.jpg",
@@ -592,13 +604,14 @@
     "id": 31,
     "era": "unknown",
     "subject": "horses",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_warhorse.jpg",
     "date": "",
-    "slug": "warhorse"
+    "slug": "warhorse",
+    "tier": "well_known"
   },
   {
     "commons_filename": "Yan Jici sketch by Xu Beihong.jpg",
@@ -630,7 +643,7 @@
     "id": 33,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -649,7 +662,7 @@
     "id": 34,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -669,12 +682,13 @@
     "id": 35,
     "era": "mature",
     "subject": "horses",
-    "famous": true,
+    "famous": false,
     "year_start": 1941,
     "year_end": 1941,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E4%B8%89%E9%A7%BF%E5%9C%96_1941.jpg",
-    "slug": "three-steeds"
+    "slug": "three-steeds",
+    "tier": "well_known"
   },
   {
     "commons_filename": "徐悲鴻 貓 1934.jpg",
@@ -693,7 +707,8 @@
     "year_end": 1934,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E8%B2%93_1934.jpg",
-    "slug": "cat"
+    "slug": "cat",
+    "tier": "well_known"
   },
   {
     "commons_filename": "徐悲鴻 馬 1943.jpg",
@@ -712,7 +727,8 @@
     "year_end": 1943,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E9%A6%AC_1943.jpg",
-    "slug": "horse"
+    "slug": "horse",
+    "tier": "well_known"
   },
   {
     "commons_filename": "徐悲鸿 康有为像.jpg",
@@ -725,7 +741,7 @@
     "id": 38,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1926,
     "year_end": 1926,
     "circa": false,
@@ -744,7 +760,7 @@
     "id": 39,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1916,
     "year_end": 1916,
     "circa": false,
@@ -764,7 +780,7 @@
     "id": 40,
     "era": "early",
     "subject": "animals",
-    "famous": true,
+    "famous": false,
     "year_start": 1918,
     "year_end": 1918,
     "circa": false,

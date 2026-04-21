@@ -110,9 +110,10 @@
     "year_start": 1894,
     "year_end": 1894,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Mary Cassatt",
-    "slug": "summertime"
+    "slug": "summertime",
+    "tier": "famous"
   },
   {
     "id": 6,
@@ -480,7 +481,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Mary Cassatt",
-    "slug": "augusta-reading-to-her-daughter-1910"
+    "slug": "augusta-reading-to-her-daughter-1910",
+    "tier": "well_known"
   },
   {
     "id": 22,
@@ -756,7 +758,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
-    "slug": "children-playing-on-the-beach"
+    "slug": "children-playing-on-the-beach",
+    "tier": "well_known"
   },
   {
     "id": 34,
@@ -1078,7 +1081,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
-    "slug": "ellen-mary-in-a-white-coat"
+    "slug": "ellen-mary-in-a-white-coat",
+    "tier": "well_known"
   },
   {
     "id": 48,
@@ -1378,7 +1382,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "automne-portrait-de-lydia-1880-ppp706-petit-palais"
+    "slug": "automne-portrait-de-lydia-1880-ppp706-petit-palais",
+    "tier": "well_known"
   },
   {
     "id": 61,
@@ -1445,10 +1450,11 @@
     "year_start": 1883,
     "year_end": 1885,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
     "title_disambig": "1883–1885 · #109",
-    "slug": "lady-at-the-tea-table"
+    "slug": "lady-at-the-tea-table",
+    "tier": "famous"
   },
   {
     "id": 64,
@@ -1517,7 +1523,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "lydia-at-the-tapestry-loom"
+    "slug": "lydia-at-the-tapestry-loom",
+    "tier": "well_known"
   },
   {
     "id": 67,
@@ -1794,7 +1801,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "lydia-at-a-tapestry-frame"
+    "slug": "lydia-at-a-tapestry-frame",
+    "tier": "well_known"
   },
   {
     "id": 79,
@@ -1815,9 +1823,10 @@
     "year_start": 1878,
     "year_end": 1879,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "in-the-loge"
+    "slug": "in-the-loge",
+    "tier": "famous"
   },
   {
     "id": 80,
@@ -1840,7 +1849,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "denise-at-her-dressing-table"
+    "slug": "denise-at-her-dressing-table",
+    "tier": "well_known"
   },
   {
     "id": 81,
@@ -2001,9 +2011,10 @@
     "year_start": 1889,
     "year_end": 1889,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "mrs-robert-s-the-artists-mother"
+    "slug": "mrs-robert-s-the-artists-mother",
+    "tier": "famous"
   },
   {
     "id": 88,
@@ -2165,7 +2176,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "woman-with-a-fan"
+    "slug": "woman-with-a-fan",
+    "tier": "well_known"
   },
   {
     "id": 95,
@@ -2255,9 +2267,10 @@
     "year_start": 1878,
     "year_end": 1878,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "mary-cassatt-reading-le-figaro"
+    "slug": "mary-cassatt-reading-le-figaro",
+    "tier": "famous"
   },
   {
     "id": 99,
@@ -2671,7 +2684,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "slug": "young-girl-at-a-window"
+    "slug": "young-girl-at-a-window",
+    "tier": "well_known"
   },
   {
     "id": 117,
@@ -3723,7 +3737,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "slug": "la-tasse-de-the"
+    "slug": "la-tasse-de-the",
+    "tier": "well_known"
   },
   {
     "id": 162,
@@ -3863,7 +3878,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "slug": "louisine-havemeyer"
+    "slug": "louisine-havemeyer",
+    "tier": "well_known"
   },
   {
     "id": 168,
@@ -3959,7 +3975,8 @@
     "famous": false,
     "harvest_method": "commons_category:The Coiffure by Mary Cassatt",
     "title_disambig": "1891 · #48",
-    "slug": "the-coiffure"
+    "slug": "the-coiffure",
+    "tier": "well_known"
   },
   {
     "id": 172,
@@ -3983,7 +4000,8 @@
     "famous": false,
     "harvest_method": "commons_category:Afternoon tea by Mary Cassatt",
     "title_disambig": "1890–1891 · #167",
-    "slug": "afternoon-tea"
+    "slug": "afternoon-tea",
+    "tier": "well_known"
   },
   {
     "id": 173,
@@ -4050,10 +4068,11 @@
     "year_start": 1878,
     "year_end": 1878,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Little Girl in a Blue Armchair by Mary Cassatt",
     "title_disambig": "1878 · #512",
-    "slug": "little-girl-in-a-blue-armchair"
+    "slug": "little-girl-in-a-blue-armchair",
+    "tier": "famous"
   },
   {
     "id": 176,
@@ -4077,7 +4096,8 @@
     "famous": false,
     "harvest_method": "commons_category:On a Balcony by Mary Cassatt",
     "title_disambig": "1878 · #517",
-    "slug": "on-a-balcony"
+    "slug": "on-a-balcony",
+    "tier": "well_known"
   },
   {
     "id": 177,
@@ -4215,6 +4235,7 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Women by Mary Cassatt",
-    "slug": "women"
+    "slug": "women",
+    "tier": "well_known"
   }
 ]

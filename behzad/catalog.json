@@ -9,7 +9,7 @@
     "image_height": 2090,
     "id": 1,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Timur",
     "year_start": 1515,
     "year_end": 1515,
@@ -29,12 +29,13 @@
     "image_height": 4906,
     "id": 2,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Khawarnaq",
     "year_start": 1494,
     "year_end": 1495,
     "circa": true,
-    "slug": "the-construction-of-khawarnaq-castle-arabic-in-al-hira"
+    "slug": "the-construction-of-khawarnaq-castle-arabic-in-al-hira",
+    "tier": "well_known"
   },
   {
     "title": "A miniature painting by Bihzad illustrating the funeral of the elderly Attar of Nishapur after he was held captive and killed by a Mongol invader.",
@@ -46,13 +47,14 @@
     "image_height": 2111,
     "id": 3,
     "subject": "religious",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Attar_of_Nishapur",
     "year_start": 1486,
     "year_end": 1486,
     "circa": false,
     "date": "1486",
-    "slug": "a-miniature-painting-by-bihzad-illustrating-the-funeral-of-t"
+    "slug": "a-miniature-painting-by-bihzad-illustrating-the-funeral-of-t",
+    "tier": "well_known"
   },
   {
     "title": "Yusef and Zuleykha",
@@ -64,7 +66,7 @@
     "image_height": 2370,
     "id": 4,
     "subject": "literary",
-    "famous": true,
+    "famous": false,
     "year_start": 1488,
     "year_end": 1488,
     "circa": false,
@@ -118,7 +120,7 @@
     "image_height": 900,
     "id": 7,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Hunting",
     "year_start": null,
     "year_end": null,
@@ -136,7 +138,7 @@
     "image_height": 599,
     "id": 8,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -172,7 +174,7 @@
     "image_height": 2944,
     "id": 10,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -190,13 +192,14 @@
     "image_height": 2326,
     "id": 11,
     "subject": "literary",
-    "famous": true,
+    "famous": false,
     "year_start": 1480,
     "year_end": 1480,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Dance_of_Sufi_Dervishes.jpg",
     "date": "circa 1480",
-    "slug": "dancing-dervishes-c-1480-1490"
+    "slug": "dancing-dervishes-c-1480-1490",
+    "tier": "well_known"
   },
   {
     "title": "Portrait of a dervish",
@@ -208,7 +211,7 @@
     "image_height": 1522,
     "id": 12,
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1500,
     "year_end": 1500,
     "circa": true,
@@ -228,12 +231,13 @@
     "image_height": 2325,
     "id": 13,
     "subject": "court",
-    "famous": false,
+    "famous": true,
     "year_start": 1442,
     "year_end": 1442,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:1_Majnun_Watching_the_Battle_of_the_Tribes_Ni%E1%BA%93%C4%81m%C4%AB_Ganjav%C4%AB,_Khamsah_1442-3,_Add_MS_25900,_fol.121v,_British_Library.jpg",
-    "slug": "1-majnun-watching-the-battle-of-the-tribes-nizami-ganjavi-kh"
+    "slug": "1-majnun-watching-the-battle-of-the-tribes-nizami-ganjavi-kh",
+    "tier": "famous"
   },
   {
     "title": "A servant laying a carpet before Khusraw's horse as he arrives at Shīrīn's castle",
@@ -270,7 +274,8 @@
     "year_end": 1495,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Alexander_and_the_Hermit,_from_Nizami%27s_Iskandarnama,_1494-95,_by_Behzad._British_Library_OR.6810_Folio_273R.jpg",
-    "slug": "alexander-and-the-hermit-from-nizamis-iskandarnama-1494-95-b"
+    "slug": "alexander-and-the-hermit-from-nizamis-iskandarnama-1494-95-b",
+    "tier": "well_known"
   },
   {
     "title": "Assault on a castle. From a lost manuscript. Iran, circa 1500",
@@ -336,7 +341,7 @@
     "image_height": 3288,
     "id": 19,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": 1528,
     "year_end": 1528,
     "circa": false,
@@ -390,7 +395,7 @@
     "image_height": 900,
     "id": 22,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -426,7 +431,7 @@
     "image_height": 1522,
     "id": 24,
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1500,
     "year_end": 1500,
     "circa": true,
@@ -589,7 +594,7 @@
     "image_height": 860,
     "id": 33,
     "subject": "literary",
-    "famous": true,
+    "famous": false,
     "year_start": 1524,
     "year_end": 1524,
     "circa": false,
@@ -715,7 +720,7 @@
     "image_height": 1000,
     "id": 40,
     "subject": "religious",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -757,7 +762,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Iskandar_and_the_Hermit.jpg",
     "date": "1494",
-    "slug": "iskandar-and-the-hermit"
+    "slug": "iskandar-and-the-hermit",
+    "tier": "well_known"
   },
   {
     "title": "Iskandar",
@@ -805,13 +811,14 @@
     "image_height": 4906,
     "id": 45,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": 1494,
     "year_end": 1495,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
     "date": "circa 1494–1495",
-    "slug": "construction-of-the-fort-of-kharnaq"
+    "slug": "construction-of-the-fort-of-kharnaq",
+    "tier": "well_known"
   },
   {
     "title": "Muhammad Shaybani",
@@ -829,7 +836,8 @@
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Muhammad_Shaybani.jpg",
     "date": "circa 1507",
-    "slug": "muhammad-shaybani"
+    "slug": "muhammad-shaybani",
+    "tier": "well_known"
   },
   {
     "title": "Muraqqa-e Golshan (Page 055, left part)",
@@ -991,7 +999,8 @@
     "year_end": 1525,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sultan_Husayn_Mirza_Bayqara_at_the_age_of_about_50_years._1500%E2%80%9325_copy_from_Behz%C4%81d%27s_original_of_about_1490.jpg",
-    "slug": "portrait-of-sultan-husayn-mirza-bayqara-at-the-age-of-about"
+    "slug": "portrait-of-sultan-husayn-mirza-bayqara-at-the-age-of-about",
+    "tier": "well_known"
   },
   {
     "title": "Sad'i and the Youth of Kashgar, Ascribed to Bihzad, From a copy of the Gulistan (Rosegarden) by Sa'di",
@@ -1009,7 +1018,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sad%27i_and_the_Youth_of_Kashgar,_Ascribed_to_Bihzad,_From_a_copy_of_the_Gulistan_(Rosegarden)_by_Sa%27di.jpg",
     "date": "1486",
-    "slug": "sadi-and-the-youth-of-kashgar-ascribed-to-bihzad-from-a-copy"
+    "slug": "sadi-and-the-youth-of-kashgar-ascribed-to-bihzad-from-a-copy",
+    "tier": "well_known"
   },
   {
     "title": "Shah Ismail I Safavid, Behzad",
@@ -1021,7 +1031,7 @@
     "image_height": 1088,
     "id": 57,
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -1057,7 +1067,7 @@
     "image_height": 1600,
     "id": 59,
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -1099,7 +1109,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_building_of_the_palace_of_Khavarnaq.png",
     "date": "between 1490 and 1499",
-    "slug": "the-building-of-the-palace-of-khavarnaq"
+    "slug": "the-building-of-the-palace-of-khavarnaq",
+    "tier": "famous"
   },
   {
     "title": "The Old Man Encounters a Youth (CBL Per 163.38)",
@@ -1112,7 +1123,7 @@
     "image_height": 6404,
     "id": 62,
     "subject": "literary",
-    "famous": true,
+    "famous": false,
     "year_start": 1485,
     "year_end": 1485,
     "circa": false,
@@ -1241,12 +1252,13 @@
     "image_height": 1760,
     "id": 69,
     "subject": "court",
-    "famous": false,
+    "famous": true,
     "year_start": 1488,
     "year_end": 1488,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_and_Zulaykha,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_52b.jpg",
-    "slug": "yusuf-and-zulaykha-from-the-cairo-bustan-herat-december-1488"
+    "slug": "yusuf-and-zulaykha-from-the-cairo-bustan-herat-december-1488",
+    "tier": "famous"
   },
   {
     "title": "Yusuf fleeing the Advances of Zulaikha",
@@ -1264,7 +1276,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_fleeing_the_Advances_of_Zulaikha.jpg",
     "date": "1488",
-    "slug": "yusuf-fleeing-the-advances-of-zulaikha"
+    "slug": "yusuf-fleeing-the-advances-of-zulaikha",
+    "tier": "famous"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET 35802(2)",
@@ -1447,7 +1460,7 @@
     "image_height": 2326,
     "id": 80,
     "subject": "literary",
-    "famous": true,
+    "famous": false,
     "year_start": 1480,
     "year_end": 1480,
     "circa": true,
@@ -1466,12 +1479,13 @@
     "image_height": 4108,
     "id": 81,
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": 1480,
     "year_end": 1480,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Battle_on_the_River_Oxus,_Zafarnama_of_Sultan_Husayn_or_%E2%80%98Garrett_Zafarnama%E2%80%99,_c.1480_painting.jpg",
-    "slug": "battle-on-the-river-oxus-zafarnama-of-sultan-husayn-or-garre"
+    "slug": "battle-on-the-river-oxus-zafarnama-of-sultan-husayn-or-garre",
+    "tier": "well_known"
   },
   {
     "title": "Building Samarkand Mosque",
@@ -1489,7 +1503,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Building_Samarkand_Mosque.jpg",
     "date": "",
-    "slug": "building-samarkand-mosque"
+    "slug": "building-samarkand-mosque",
+    "tier": "famous"
   },
   {
     "title": "Depiction of Timur granting audience on the occasion of his accession, in the near contemporary Zafarnama (1424-1428), 1467 edition",
@@ -1502,7 +1517,7 @@
     "image_height": 2944,
     "id": 83,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": 1424,
     "year_end": 1428,
     "circa": true,
@@ -1753,7 +1768,7 @@
     "image_height": 2190,
     "id": 97,
     "subject": "portrait",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -1771,7 +1786,7 @@
     "image_height": 1424,
     "id": 98,
     "subject": "religious",
-    "famous": true,
+    "famous": false,
     "year_start": 1488,
     "year_end": 1488,
     "circa": false,
@@ -1829,12 +1844,13 @@
     "image_height": 1756,
     "id": 101,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": 1488,
     "year_end": 1488,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Darius_and_the_Herdsman,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_10a.jpg",
-    "slug": "darius-and-the-herdsman-from-the-cairo-bustan-herat-december"
+    "slug": "darius-and-the-herdsman-from-the-cairo-bustan-herat-december",
+    "tier": "well_known"
   },
   {
     "title": "Frontispiece from the Cairo Bustan. Herat, c. 1488, for Sultan Husayn Bayqara. Cairo, Dar al-kutub, Adab farisi 22, folio 1b-2a",
@@ -1867,12 +1883,13 @@
     "image_height": 1766,
     "id": 103,
     "subject": "religious",
-    "famous": true,
+    "famous": false,
     "year_start": 1488,
     "year_end": 1488,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Beggar_at_the_Mosque,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_26a.jpg",
-    "slug": "the-beggar-at-the-mosque-from-the-cairo-bustan-herat-decembe"
+    "slug": "the-beggar-at-the-mosque-from-the-cairo-bustan-herat-decembe",
+    "tier": "well_known"
   },
   {
     "title": "The Poet at the Judge’s Court, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 30b",
@@ -1891,7 +1908,8 @@
     "year_end": 1488,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Poet_at_the_Judge%E2%80%99s_Court,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg",
-    "slug": "the-poet-at-the-judges-court-from-the-cairo-bustan-herat-dec"
+    "slug": "the-poet-at-the-judges-court-from-the-cairo-bustan-herat-dec",
+    "tier": "well_known"
   },
   {
     "title": "Frontispiece from a Hasht bihisht of Amir Khusraw Dihwali, dated 1496-97, probably Herat, Topkapi Sarayi Library, H.676, folios 1b-2a",

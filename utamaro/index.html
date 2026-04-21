@@ -550,8 +550,7 @@
 
       <span class="exp" id="exp-scope">
         <span class="exp-summary" id="scope-summary">works</span>
-        <span class="exp-picks"><span class="exp-brace">{</span><button class="pick active" data-g="scope" data-v="all">all</button>
-          <button class="pick" data-g="scope" data-v="famous">famous</button><span class="exp-brace">}</span></span>
+        <span class="exp-picks"><span class="exp-brace">{</span><button class="pick" data-g="scope" data-v="famous">famous</button> <button class="pick" data-g="scope" data-v="well_known">well known</button> <button class="pick active" data-g="scope" data-v="all">all</button><span class="exp-brace">}</span></span>
       </span>
 
       <span class="static exp-hide-on-hover">from</span>
@@ -617,7 +616,7 @@
 
 <script>
 let works = [], filtered = [], lbIdx = -1, query = '';
-let famousOnly = false, activeEra = 'any', activeSubject = 'any';
+let scopeFilter = 'all', activeEra = 'any', activeSubject = 'any';
 let activeLayout = 'tall';
 
 const eraNames     = { early: 'early', mature: 'mature', late: 'late' };
@@ -634,7 +633,8 @@ async function init() {
 function applyFilters() {
   const q = query.toLowerCase();
   filtered = works.filter(w => {
-    if (famousOnly && !w.famous) return false;
+    if (scopeFilter === 'famous' && w.tier !== 'famous') return false;
+    if (scopeFilter === 'well_known' && !w.tier) return false;
     if (activeEra !== 'any' && w.era !== activeEra) return false;
     if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
     if (q) return [w.title, w.current_location, w.date, w.technique].filter(Boolean).join(' ').toLowerCase().includes(q);
@@ -655,8 +655,8 @@ function applyFilters() {
 
 function updateSummaries() {
   const sc = document.getElementById('scope-summary');
-  sc.textContent = famousOnly ? 'famous works' : 'works';
-  sc.classList.toggle('has-value', famousOnly);
+  sc.textContent = scopeFilter === 'famous' ? 'famous works' : scopeFilter === 'well_known' ? 'famous + well-known' : 'works';
+  sc.classList.toggle('has-value', scopeFilter !== 'all');
 
   const ec = document.getElementById('era-summary');
   ec.textContent = activeEra === 'any' ? 'any era' : eraNames[activeEra];
@@ -790,7 +790,7 @@ document.querySelectorAll('.pick').forEach(btn => {
     const g = btn.dataset.g, v = btn.dataset.v;
     document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    if (g === 'scope') famousOnly = (v === 'famous');
+    if (g === 'scope') scopeFilter = v;
     else if (g === 'era') activeEra = v;
     else if (g === 'subject') activeSubject = v;
     applyFilters();

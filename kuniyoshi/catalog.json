@@ -17,7 +17,8 @@
     "year_start": 1844,
     "year_end": 1844,
     "circa": true,
-    "slug": "takiyasha-the-witch-and-the-skeleton-spectre"
+    "slug": "takiyasha-the-witch-and-the-skeleton-spectre",
+    "tier": "famous"
   },
   {
     "title": "Kajiwara Kagesue, Sasaki Takatsuna, and Hatakeyama Shigetada racing to cross the Uji River before the second battle of Uji during the Genpei War",
@@ -31,7 +32,7 @@
     "id": 2,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kajiwara_Kagesue",
     "year_start": 1849,
     "year_end": 1849,
@@ -52,7 +53,7 @@
     "id": 3,
     "era": "mature",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "year_start": 1843,
     "year_end": 1843,
     "circa": true,
@@ -71,7 +72,7 @@
     "id": 4,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -91,7 +92,7 @@
     "id": 5,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -111,7 +112,7 @@
     "id": 6,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -131,7 +132,7 @@
     "id": 7,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -151,7 +152,7 @@
     "id": 8,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
@@ -171,7 +172,7 @@
     "id": 9,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Takeda_Nobushige",
     "year_start": 1853,
     "year_end": 1853,
@@ -191,13 +192,14 @@
     "id": 10,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "year_start": 1827,
     "year_end": 1830,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Suikoden.jpg",
     "date": "between 1827 and 1830",
-    "slug": "from-the-series-one-hundred-and-eight-heroes-of-the-popular"
+    "slug": "from-the-series-one-hundred-and-eight-heroes-of-the-popular",
+    "tier": "well_known"
   },
   {
     "title": "from the series Heroes of Our Country's Suikoden",
@@ -211,13 +213,14 @@
     "id": 11,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "year_start": 1830,
     "year_end": 1830,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg",
     "date": "circa 1830",
-    "slug": "from-the-series-heroes-of-our-countrys-suikoden"
+    "slug": "from-the-series-heroes-of-our-countrys-suikoden",
+    "tier": "well_known"
   },
   {
     "title": "Hanagami Danjo no jo Arakage fighting a giant salamander",
@@ -231,7 +234,7 @@
     "id": 12,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "year_start": 1834,
     "year_end": 1835,
     "circa": true,
@@ -251,13 +254,14 @@
     "id": 13,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
     "year_start": 1861,
     "year_end": 1861,
     "circa": false,
     "date": "before 1861",
-    "slug": "miyamoto-musashi-killing-a-giant-lizard"
+    "slug": "miyamoto-musashi-killing-a-giant-lizard",
+    "tier": "well_known"
   },
   {
     "title": "Saito Oniwakamaru, the young Benkei, fights the giant carp at the Bishimon waterfall",
@@ -271,13 +275,14 @@
     "id": 14,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Benkei",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "date": "",
-    "slug": "saito-oniwakamaru-the-young-benkei-fights-the-giant-carp-at"
+    "slug": "saito-oniwakamaru-the-young-benkei-fights-the-giant-carp-at",
+    "tier": "well_known"
   },
   {
     "title": "Hatsuhana doing penance under the Tonosawa waterfall",
@@ -291,7 +296,7 @@
     "id": 15,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "year_start": 1841,
     "year_end": 1842,
     "circa": true,
@@ -311,7 +316,7 @@
     "id": 16,
     "era": "unknown",
     "subject": "nature",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Keyamura_Rokusuke",
     "year_start": null,
     "year_end": null,
@@ -331,7 +336,7 @@
     "id": 17,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro",
     "year_start": 1844,
     "year_end": 1854,
@@ -352,12 +357,13 @@
     "id": 18,
     "era": "early",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Water_Margin",
     "year_start": 1827,
     "year_end": 1830,
     "circa": false,
-    "slug": "portrait-of-chicasei-goyo-wu-yong-from-water-margin"
+    "slug": "portrait-of-chicasei-goyo-wu-yong-from-water-margin",
+    "tier": "well_known"
   },
   {
     "title": "Ukiyo-e of Oda Nobunaga",
@@ -371,7 +377,7 @@
     "id": 19,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Ukiyo-e",
     "year_start": 1830,
     "year_end": 1830,
@@ -391,13 +397,14 @@
     "id": 20,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
     "year_start": 1853,
     "year_end": 1853,
     "circa": true,
     "date": "C.E.1853",
-    "slug": "yoshitsune-and-benkei-defending-themselves-in-their-boat-dur"
+    "slug": "yoshitsune-and-benkei-defending-themselves-in-their-boat-dur",
+    "tier": "well_known"
   },
   {
     "title": "Minamoto no Tametomo with a gunsen fan",
@@ -411,13 +418,14 @@
     "id": 21,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo",
     "year_start": 1851,
     "year_end": 1851,
     "circa": false,
     "date": "1851",
-    "slug": "minamoto-no-tametomo-with-a-gunsen-fan"
+    "slug": "minamoto-no-tametomo-with-a-gunsen-fan",
+    "tier": "well_known"
   },
   {
     "title": "Cats forming the characters for catfish",
@@ -437,7 +445,8 @@
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Cats_forming_the_caracters_for_catfish.jpg",
     "date": "between circa 1841 and circa 1843",
-    "slug": "cats-forming-the-characters-for-catfish"
+    "slug": "cats-forming-the-characters-for-catfish",
+    "tier": "famous"
   },
   {
     "title": "Four cats in different poses illustrating Japanese proverbs",
@@ -451,13 +460,14 @@
     "id": 23,
     "era": "unknown",
     "subject": "cats",
-    "famous": true,
+    "famous": false,
     "year_start": 1852,
     "year_end": 1852,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_For_cats_in_different_poses.jpg",
     "date": "1852 4th lunar month",
-    "slug": "four-cats-in-different-poses-illustrating-japanese-proverbs"
+    "slug": "four-cats-in-different-poses-illustrating-japanese-proverbs",
+    "tier": "well_known"
   },
   {
     "title": "Cats suggested as The Fifty-three Stations of the Tōkaidō",
@@ -471,13 +481,14 @@
     "id": 24,
     "era": "unknown",
     "subject": "cats",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D",
     "year_start": 1850,
     "year_end": 1850,
     "circa": false,
     "date": "1850",
-    "slug": "cats-suggested-as-the-fifty-three-stations-of-the-tokaido"
+    "slug": "cats-suggested-as-the-fifty-three-stations-of-the-tokaido",
+    "tier": "well_known"
   },
   {
     "title": "Scribbling on the storehouse wall",
@@ -491,13 +502,14 @@
     "id": 25,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Scrbbling_on_the_storehouse_wall.jpg",
     "date": "",
-    "slug": "scribbling-on-the-storehouse-wall"
+    "slug": "scribbling-on-the-storehouse-wall",
+    "tier": "well_known"
   },
   {
     "title": "At first glance he looks very fierce, but he is actually a kind person",
@@ -511,7 +523,7 @@
     "id": 26,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "year_start": 1847,
     "year_end": 1848,
     "circa": true,
@@ -537,7 +549,8 @@
     "year_end": 1842,
     "circa": false,
     "date": "between 1839 and 1842",
-    "slug": "acts-9-11-of-the-kanadehon-chushingura-with-act-nine-at-top"
+    "slug": "acts-9-11-of-the-kanadehon-chushingura-with-act-nine-at-top",
+    "tier": "well_known"
   },
   {
     "title": "Acts 5-8 of the Kanadehon Chūshingura with act five at top right, act six at bottom right, act seven at top left, act eight at bottom left",
@@ -557,7 +570,8 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi,_Utagawa,_The_Monster%27s_Ch%C5%ABshingura_(Bakemono_Ch%C5%ABshingura),_ca._1836_(b).jpg",
     "date": "between 1839 and 1842",
-    "slug": "acts-5-8-of-the-kanadehon-chushingura-with-act-five-at-top-r"
+    "slug": "acts-5-8-of-the-kanadehon-chushingura-with-act-five-at-top-r",
+    "tier": "well_known"
   },
   {
     "title": "Acts 1-4 of the Kanadehon Chūshingura with act one at top right, act two at bottom right, act three at top left, act four at bottom left",
@@ -577,6 +591,7 @@
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi,_Utagawa,_The_Monster%27s_Ch%C5%ABshingura_(Bakemono_Ch%C5%ABshingura),_ca._1836_(c).jpg",
     "date": "between 1839 and 1842",
-    "slug": "acts-1-4-of-the-kanadehon-chushingura-with-act-one-at-top-ri"
+    "slug": "acts-1-4-of-the-kanadehon-chushingura-with-act-one-at-top-ri",
+    "tier": "well_known"
   }
 ]
