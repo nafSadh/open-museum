@@ -408,6 +408,42 @@
       letter-spacing: 0.08em;
       line-height: 1.8;
     }
+
+    .lb-see-also {
+      margin-top: 1.2rem;
+      display: flex; flex-wrap: wrap; justify-content: center;
+      gap: 0.8rem;
+    }
+    .lb-see-also:empty { display: none; }
+    .lb-see-also-label {
+      width: 100%; text-align: center;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.6rem; letter-spacing: 0.14em;
+      color: rgba(240,236,228,0.4);
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+    }
+    .lb-recon {
+      display: flex; flex-direction: column; align-items: center;
+      width: 120px; gap: 0.3rem;
+      text-decoration: none; color: inherit;
+      transition: transform 0.2s;
+    }
+    .lb-recon:hover { transform: translateY(-3px); }
+    .lb-recon img {
+      width: 120px; height: 80px; object-fit: cover;
+      border: 1px solid rgba(240,236,228,0.15);
+      border-radius: 2px;
+    }
+    .lb-recon:hover img { border-color: var(--cerulean); }
+    .lb-recon-label {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.68rem; font-style: italic;
+      color: rgba(240,236,228,0.75);
+      line-height: 1.2; max-width: 120px;
+      overflow-wrap: break-word;
+    }
+
     .lb-ext-links {
       display: inline-flex; gap: 1.2rem;
       margin-top: 0.5rem;
@@ -593,6 +629,7 @@
       <div class="lb-painting-title" id="lb-title"></div>
       <div class="lb-painting-sub" id="lb-sub"></div>
       <div class="lb-ext-links" id="lb-links"></div>
+      <div class="lb-see-also" id="lb-see-also"></div>
     </div>
   </div>
 
@@ -726,6 +763,36 @@ function renderLb() {
   if (w.image_url) lk += `<a href="${w.image_url}" target="_blank">full resolution</a>`;
   if (w.provenance_url) lk += `<a href="${w.provenance_url}" target="_blank">wikipedia</a>`;
   document.getElementById('lb-links').innerHTML = lk;
+
+  const seeAlso = document.getElementById('lb-see-also');
+  if (seeAlso) {
+    if (w.see_also && w.see_also.length) {
+      const items = w.see_also.map(s => {
+        const href = s.commons_page || s.image_url || '#';
+        const thumb = s.thumb_url || s.image_url || '';
+        const tooltip = [s.attribution, s.location, s.note].filter(Boolean).join(' \u2014 ');
+        return `<a class="lb-recon" href="${href}" target="_blank" title="${esc(tooltip)}">
+          <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy">
+          <span class="lb-recon-label">${esc(s.label || '')}</span>
+        </a>`;
+      }).join('');
+      seeAlso.innerHTML = `<div class="lb-see-also-label">see also \u2014 better reconstructions</div>${items}`;
+    } else {
+      seeAlso.innerHTML = '';
+    }
+  }
+}
+
+function cleanAttribution(a) {
+  if (!a) return '';
+  const map = {
+    'accepted': '',
+    'accepted (unfinished)': 'unfinished',
+    'accepted (partly workshop)': 'workshop assisted',
+    'attributed': 'attribution debated',
+    'attributed (partly workshop)': 'attribution debated, workshop assisted',
+  };
+  return map[a] !== undefined ? map[a] : a;
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }

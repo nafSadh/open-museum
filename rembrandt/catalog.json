@@ -4839,7 +4839,20 @@
     "year_start": 1642,
     "year_end": 1642,
     "circa": false,
-    "slug": "the-company-of-captain-frans-banning-cocq-and-lieutenant-wil"
+    "slug": "the-company-of-captain-frans-banning-cocq-and-lieutenant-wil",
+    "see_also": [
+      {
+        "label": "Lundens copy (c. 1649)",
+        "attribution": "by Gerrit Lundens, contemporary copy",
+        "location": "National Gallery, London (on loan from Rijksmuseum)",
+        "note": "Miniature oil copy (66×85 cm) made while Rembrandt's original was still intact. Crucial record of what was cut away in 1715 when the canvas was trimmed to fit a new location — shows the full composition with two figures on the left and more space overhead.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Lundens_-_Nachtwache-Kopie.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lundens_-_Nachtwache-Kopie.jpg/500px-Lundens_-_Nachtwache-Kopie.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Lundens_-_Nachtwache-Kopie.jpg",
+        "image_width": 6000,
+        "image_height": 4701
+      }
+    ]
   },
   {
     "medium": "painting",

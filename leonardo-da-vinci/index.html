@@ -743,7 +743,7 @@ function renderLb() {
   document.getElementById('lb-title').textContent = w.title + (w.title_disambig ? ' \u00b7 ' + w.title_disambig : '');
   document.getElementById('lb-pos').textContent = (lbIdx + 1) + ' / ' + filtered.length;
 
-  const parts = [w.date, w.medium || w.technique, w.dimensions, w.current_location, w.attribution].filter(Boolean);
+  const parts = [w.date, w.medium || w.technique, w.dimensions, w.current_location, cleanAttribution(w.attribution)].filter(Boolean);
   document.getElementById('lb-sub').textContent = parts.join(' \u00b7 ');
 
   let lk = '';
@@ -767,6 +767,18 @@ function renderLb() {
   } else {
     seeAlso.innerHTML = '';
   }
+}
+
+function cleanAttribution(a) {
+  if (!a) return '';
+  const map = {
+    'accepted': '',
+    'accepted (unfinished)': 'unfinished',
+    'accepted (partly workshop)': 'workshop assisted',
+    'attributed': 'attribution debated',
+    'attributed (partly workshop)': 'attribution debated, workshop assisted',
+  };
+  return map[a] !== undefined ? map[a] : a;
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }

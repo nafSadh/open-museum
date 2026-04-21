@@ -2722,7 +2722,20 @@
     "circa": false,
     "famous": true,
     "harvest_method": "commons_category:1500s drawings by Leonardo da Vinci",
-    "slug": "the-battle-of-anghiari-study-of-battles-on-horseback-and-on"
+    "slug": "the-battle-of-anghiari-study-of-battles-on-horseback-and-on",
+    "see_also": [
+      {
+        "label": "Rubens copy (c. 1603)",
+        "attribution": "by Peter Paul Rubens, after Leonardo",
+        "location": "Louvre, Paris",
+        "note": "Rubens's drawing of Leonardo's lost central group (the \"Fight for the Standard\"). The original wall painting in the Palazzo Vecchio was abandoned by Leonardo in 1506 and painted over by Vasari in 1563; this copy preserves the composition.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/After_leonardo_da_vinci%2C_The_Battle_of_Anghiari_by_Rubens%2C_Louvre.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/After_leonardo_da_vinci%2C_The_Battle_of_Anghiari_by_Rubens%2C_Louvre.jpg/500px-After_leonardo_da_vinci%2C_The_Battle_of_Anghiari_by_Rubens%2C_Louvre.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:After_leonardo_da_vinci,_The_Battle_of_Anghiari_by_Rubens,_Louvre.jpg",
+        "image_width": 1030,
+        "image_height": 708
+      }
+    ]
   },
   {
     "id": 116,
