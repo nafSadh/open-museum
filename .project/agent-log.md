@@ -51,3 +51,4 @@
 | 36 | 2026-04-09 | xu-beihong-full | Scrape Commons categories + Wikipedia + resolve + enrich + gallery | done | 40 works, ink wash palette |
 | 37 | 2026-04-09 | behzad-full | Scrape Wikipedia + 7 Commons subcategories + resolve + enrich + gallery | done | 125 works, lapis/gold/turquoise palette |
 | 38 | 2026-04-20 | audit-2026-04-20 | Comprehensive read-only audit: data quality, structure, PD compliance, URL liveness across all 14 collections | done | .project/audit-2026-04-20.md — 7 cross-cutting findings, 5 policy questions, prioritized backlog |
+| 39 | 2026-04-21 | leonardo-curated | Build curated leonardo-da-vinci collection: 20 works (16 paintings + 4 drawings), README, umber/sienna palette, added to root | done | leonardo-da-vinci/ — all 20 Commons URLs resolved |
