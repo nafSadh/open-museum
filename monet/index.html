@@ -400,38 +400,33 @@
     }
 
     .lb-see-also {
-      margin-top: 1.2rem;
-      display: flex; flex-wrap: wrap; justify-content: center;
-      gap: 0.8rem;
+      margin-top: 0.6rem;
+      display: flex; flex-wrap: wrap; justify-content: center; align-items: center;
+      gap: 0.4rem 0.9rem;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.62rem; letter-spacing: 0.06em;
+      color: rgba(240,236,228,0.55);
     }
     .lb-see-also:empty { display: none; }
     .lb-see-also-label {
-      width: 100%; text-align: center;
-      font-family: 'Fira Code', monospace;
-      font-size: 0.6rem; letter-spacing: 0.14em;
-      color: rgba(240,236,228,0.4);
       text-transform: uppercase;
-      margin-bottom: 0.4rem;
+      letter-spacing: 0.14em;
+      color: rgba(240,236,228,0.4);
     }
     .lb-recon {
-      display: flex; flex-direction: column; align-items: center;
-      width: 120px; gap: 0.3rem;
+      display: inline-flex; align-items: center; gap: 0.35rem;
       text-decoration: none; color: inherit;
-      transition: transform 0.2s;
+      transition: color 0.2s;
     }
-    .lb-recon:hover { transform: translateY(-3px); }
+    .lb-recon:hover { color: var(--cerulean); }
     .lb-recon img {
-      width: 120px; height: 80px; object-fit: cover;
-      border: 1px solid rgba(240,236,228,0.15);
+      width: 22px; height: 22px; object-fit: cover;
+      border: 1px solid rgba(240,236,228,0.18);
       border-radius: 2px;
     }
-    .lb-recon:hover img { border-color: var(--cerulean); }
     .lb-recon-label {
-      font-family: 'Fraunces', Georgia, serif;
-      font-size: 0.68rem; font-style: italic;
-      color: rgba(240,236,228,0.75);
-      line-height: 1.2; max-width: 120px;
-      overflow-wrap: break-word;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.62rem;
     }
 
     .lb-ext-links {
@@ -774,7 +769,7 @@ function renderLb() {
           <span class="lb-recon-label">${esc(s.label || '')}</span>
         </a>`;
       }).join('');
-      seeAlso.innerHTML = `<div class="lb-see-also-label">see also \u2014 better reconstructions</div>${items}`;
+      seeAlso.innerHTML = `<span class="lb-see-also-label">see also \u2014</span>${items}`;
     } else {
       seeAlso.innerHTML = '';
     }
