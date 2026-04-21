@@ -34,7 +34,8 @@
     "harvest_method": "wikipedia_gallery",
     "year_start": 1802,
     "year_end": 1802,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1802%E2%80%9304)_Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABzan_no_zu.jpg"
   },
   {
     "date": "1797",
@@ -52,10 +53,11 @@
     "harvest_method": "wikipedia_gallery",
     "year_start": 1797,
     "year_end": 1797,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Japan_Ukiyo-%C3%A9_Painting_Jeux_de_miroir_1797-Kitagawa_Utamaro_(4801276901).jpg"
   },
   {
-    "date": "c. 1793",
+    "date": "c. 1793",
     "title": "Three Beauties of the Present Day",
     "commons_filename": "Kitagawa_Utamaro_-_Toji_san_bijin_(Three_Beauties_of_the_Present_Day)From_Bijin-ga_(Pictures_of_Beautiful_Women),_published_by_Tsutaya_Juzaburo_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kitagawa_Utamaro_-_Toji_san_bijin_%28Three_Beauties_of_the_Present_Day%29From_Bijin-ga_%28Pictures_of_Beautiful_Women%29%2C_published_by_Tsutaya_Juzaburo_-_Google_Art_Project.jpg",
@@ -86,9 +88,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "wikipedia_gallery",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Hairdresser_(Kamiyui)_-_from_the_series_%27Twelve_types_of_women%27s_handicraft_(Fujin_tewaza_juniko)%27_-_Google_Art_Project.jpg",
+    "date": "c.1797-98"
   },
   {
     "title": "Sugatami Shichinin Keshō",
@@ -104,9 +108,10 @@
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Sugatami_Shichinin_Kesh%C5%8D",
     "harvest_method": "wikipedia_gallery",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "date": "circa 1790"
   },
   {
     "title": "Woman drinking wine",
@@ -121,12 +126,14 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "wikipedia_gallery",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1802,
+    "year_end": 1802,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_002.jpg",
+    "date": "circa 1802"
   },
   {
-    "date": "c. 1794–95",
+    "date": "c. 1794–95",
     "title": "Hari-shigoto (\"Needlework\")",
     "commons_filename": "Kitagawa_Utamaro_Ararekomon.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kitagawa_Utamaro_Ararekomon.jpg",
@@ -157,9 +164,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "wikipedia_gallery",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1808,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_The_Courtesan_Ichikawa_of_the_Matsuba_Establishment_-_Google_Art_Project.jpg",
+    "date": "1796-08-06/1799-12-31"
   },
   {
     "title": "Karagoto of the House of Chojiya in Edo-cho Nichome from the series A Comparison of Courtesan Flowers",
@@ -174,12 +183,14 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "wikipedia_gallery",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%27Karagoto_of_the_Brothel_House_Chojiya%27_by_Utamaro,_Honolulu_Museum_of_Art.jpg",
+    "date": "1801"
   },
   {
-    "date": "c. 1797",
+    "date": "c. 1797",
     "title": "Tsuitate no Danjo",
     "commons_filename": "Utamaro_(c._1797)_Tsuitate_no_Danjo.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Utamaro_%28c._1797%29_Tsuitate_no_Danjo.jpg",
@@ -212,7 +223,9 @@
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_Mother_and_Child.png",
+    "date": ""
   },
   {
     "title": "Man lubricating a male prostitute while someone in the background peeks through the curtains and watches",
@@ -230,7 +243,8 @@
     "harvest_method": "wikipedia_gallery",
     "year_start": 1790,
     "year_end": 1790,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Client_Lubricating_a_Male_Prostitute_Shunga_by_Kitagawa_Utamaro_1790s.png"
   },
   {
     "title": "Young lady blowing on a poppin",
@@ -248,7 +262,8 @@
     "harvest_method": "wikipedia_gallery",
     "year_start": 1790,
     "year_end": 1790,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Utamaro,_Young_lady_blowing_on_a_poppin,_1790.jpg"
   },
   {
     "title": "Fujin Sōgaku Jittai and Fujo Ninsō Juppin",
@@ -265,9 +280,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Fujin_S%C5%8Dgaku_Jittai_and_Fujo_Nins%C5%8D_Juppin",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1792,
+    "year_end": 1793,
+    "circa": true,
+    "date": "circa 1792–93"
   },
   {
     "title": "Fujin Tomari-kyaku no Zu",
@@ -284,9 +300,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Fujin_Tomari-kyaku_no_Zu",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "date": "circa 1794"
   },
   {
     "title": "Hokkoku Goshiki-zumi",
@@ -303,9 +320,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Hokkoku_Goshiki-zumi",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "date": "circa 1794"
   },
   {
     "title": "Kasen Koi no Bu",
@@ -322,9 +340,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Kasen_Koi_no_Bu",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1793,
+    "circa": true,
+    "date": "circa 1793"
   },
   {
     "title": "Kasumi-ori Musume Hinagata",
@@ -341,9 +360,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Kasumi-ori_Musume_Hinagata",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "date": "circa 1794"
   },
   {
     "title": "Kōmei Bijin Rokkasen",
@@ -362,7 +382,8 @@
     "harvest_method": "wikipedia_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "date": "寛政6年-7年頃"
   },
   {
     "title": "Kushi",
@@ -391,9 +412,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Musashino_%28Utamaro%29",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": true,
+    "date": "circa 1798"
   },
   {
     "title": "On Top and Beneath Ryōgoku Bridge",
@@ -410,9 +432,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/On_Top_and_Beneath_Ry%C5%8Dgoku_Bridge",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "date": "circa 1794"
   },
   {
     "title": "Seirō Jūnitoki",
@@ -429,9 +452,10 @@
     "mime": "image/jpeg",
     "provenance_url": "https://en.wikipedia.org/wiki/Seir%C5%8D_J%C5%ABnitoki",
     "harvest_method": "wikipedia_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "date": "circa 1794"
   },
   {
     "title": "Shinagawa no Tsuki, Yoshiwara no Hana, and Fukagawa no Yuki",
@@ -482,9 +506,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Geisha_Utamaro01.jpg",
+    "date": "circa 1800"
   },
   {
     "title": "Geisha Utamaro02",
@@ -499,9 +525,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Geisha_Utamaro02.jpg",
+    "date": "circa 1800"
   },
   {
     "title": "BATHING IN COLD WATER",
@@ -516,9 +544,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1799,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_BATHING_IN_COLD_WATER_-_Google_Art_Project.jpg",
+    "date": "江戸時代 寛政11年（1799）頃"
   },
   {
     "title": "Courtesan in Procession",
@@ -533,9 +563,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1698,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Courtesan_in_Procession_-_Google_Art_Project.jpg",
+    "date": "1698/1798"
   },
   {
     "title": "Female Figure",
@@ -550,9 +582,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Female_Figure_-_29.100.516_-_Metropolitan_Museum_of_Art.jpg",
+    "date": "between 1754 and 1806"
   },
   {
     "title": "Female Immortal",
@@ -567,9 +601,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Female_Immortal_-_1967.64.222_-_Yale_University_Art_Gallery.jpg",
+    "date": "1790s"
   },
   {
     "title": "Standing Prostitute",
@@ -586,7 +622,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Standing_Prostitute_-_81.2.12_-_Minneapolis_Institute_of_Art.jpg",
+    "date": ""
   },
   {
     "title": "Two Beauties - 14.76.70b - Metropolitan Museum of Art",
@@ -601,9 +639,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1791,
+    "year_end": 1814,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Two_Beauties_-_14.76.70b_-_Metropolitan_Museum_of_Art.jpg",
+    "date": "between 1791 and 1814"
   },
   {
     "title": "Woman Making a Flower Arrangement",
@@ -618,9 +658,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1802,
+    "year_end": 1802,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Making_a_Flower_Arrangement_-_74.1.158_-_Minneapolis_Institute_of_Art.jpg",
+    "date": "1802"
   },
   {
     "title": "喜多川歌麿 - Seated Beauty - TL42147.16 - Harvard Art Museums",
@@ -635,9 +677,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1802,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF_-_Seated_Beauty_-_TL42147.16_-_Harvard_Art_Museums.jpg",
+    "date": "between circa 1800 and circa 1802"
   },
   {
     "title": "MET 29 100 516 76311",
@@ -652,9 +696,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:MET_29_100_516_76311.jpg",
+    "date": "between 1754 and 1806"
   },
   {
     "title": "Nieuwjaar De Vijf Festivals van het jaar (serietitel), AK-MAK-1620",
@@ -669,9 +715,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nieuwjaar_De_Vijf_Festivals_van_het_jaar_(serietitel),_AK-MAK-1620.jpg",
+    "date": "circa 1804"
   },
   {
     "title": "Painting, hanging scroll, forgery, panel (BM 1962,0512,0.1)",
@@ -688,7 +736,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Painting,_hanging_scroll,_forgery,_panel_(BM_1962,0512,0.1).jpg",
+    "date": "19thC (c.)"
   },
   {
     "title": "Ukiyo-e illustration",
@@ -705,7 +755,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ukiyo-e_illustration_by_Utamaro_Kitagawa,_digitally_enhanced_by_rawpixel-com_5.jpg",
+    "date": ""
   },
   {
     "title": "(1801–04) Fukagawa no yuki",
@@ -723,7 +775,8 @@
     "harvest_method": "commons_category",
     "year_start": 1801,
     "year_end": 1804,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1801%E2%80%9304)_Fukagawa_no_yuki_(detail,_kumaizasa).jpg"
   },
   {
     "title": "四睡之圖 喜多川歌麿",
@@ -738,9 +791,11 @@
     "subject": "other",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E7%9D%A1%E4%B9%8B%E5%9C%96_%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF.jpg",
+    "date": "between 1798 and 1800"
   },
   {
     "title": "Drying clothes. Woodblock print",
@@ -755,9 +810,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Drying_clothes._Woodblock_print_by_Kitagawa_Utamaro_(CBL_J_2538).jpg",
+    "date": "1790"
   },
   {
     "title": "Courtesan Hanao gi of the O giya House",
@@ -772,9 +829,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1794,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Courtesan_Hanao_gi_of_the_O_giya_House_-_Google_Art_Project.jpg",
+    "date": "1793/1794"
   },
   {
     "title": "Ehon Mushi Erami",
@@ -789,9 +848,11 @@
     "subject": "nature",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Ehon_Mushi_Erami_-_Google_Art_Project.jpg",
+    "date": "1788"
   },
   {
     "title": "Gin sekai (The Silver World)",
@@ -806,9 +867,11 @@
     "subject": "other",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1789,
+    "year_end": 1791,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Gin_sekai_(The_Silver_World)_-_Google_Art_Project.jpg",
+    "date": "1789/1791"
   },
   {
     "title": "Hinakoto the courtesan",
@@ -823,9 +886,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Hinakoto_the_courtesan_-_Google_Art_Project.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "Moonlight Revelry at Dozo Sagami",
@@ -842,7 +907,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Moonlight_Revelry_at_Dozo_Sagami_-_Google_Art_Project.jpg",
+    "date": "18th century"
   },
   {
     "title": "Ten physiognomic types of women, Coquettish type",
@@ -859,7 +926,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Ten_physiognomic_types_of_women,_Coquettish_type_-_Google_Art_Project.jpg",
+    "date": "Edo period, 18th century"
   },
   {
     "title": "Two Beauties with Bamboo",
@@ -874,9 +943,11 @@
     "subject": "nature",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Two_Beauties_with_Bamboo_-_Google_Art_Project.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "Untitled",
@@ -893,7 +964,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Untitled_-_Google_Art_Project_(805367).jpg",
+    "date": "Last third of 18th century-early 19th century"
   },
   {
     "title": "Japanese - Two Geishas and a Tipsy Client",
@@ -908,9 +981,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1615,
+    "year_end": 1868,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_I,_Japanese_-_Two_Geishas_and_a_Tipsy_Client_-_Google_Art_Project.jpg",
+    "date": "c. 1805; Edo Period (1615-1868)"
   },
   {
     "title": "Couple with a Standing Screen",
@@ -925,9 +1000,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1797,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_I,_published_by_Moriya_Jihei_-_Couple_with_a_Standing_Screen_-_Google_Art_Project.jpg",
+    "date": "about 1797 (Kansei 9)"
   },
   {
     "title": "(1793) Naniwaya O-Kita",
@@ -945,7 +1022,8 @@
     "harvest_method": "commons_category",
     "year_start": 1793,
     "year_end": 1793,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1793)_Naniwaya_O-Kita.jpg"
   },
   {
     "title": "Cherry Blossom Viewing at Mimeguri",
@@ -963,7 +1041,8 @@
     "harvest_method": "commons_category",
     "year_start": 1799,
     "year_end": 1799,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_Viewing_at_Mimeguri_by_Kitagawa_Utamaro,_1799.JPG"
   },
   {
     "title": "Courtesans in the Four Seasons (Takihashi of the Ogiya, Summer)",
@@ -981,7 +1060,8 @@
     "harvest_method": "commons_category",
     "year_start": 1800,
     "year_end": 1800,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtesans_in_the_Four_Seasons_(Takihashi_of_the_Ogiya,_Summer),_by_Kitagawa_Utamaro,_Japan,_Edo_period,_1800s_AD,_woodblock_print_on_paper_-_Tokyo_National_Museum_-_Tokyo,_Japan_-_DSC09273.jpg"
   },
   {
     "title": "Deux femmes préparant le Sashimi",
@@ -998,7 +1078,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Deux_femmes_pr%C3%A9parant_le_Sashimi_de_K._Utamaro_(mus%C3%A9e_national_de_Tokyo)_(42290107082).jpg",
+    "date": ""
   },
   {
     "title": "Entertainment at the Niwaka Festival (Kashima Fortune-telling by Beauties...)",
@@ -1016,7 +1098,8 @@
     "harvest_method": "commons_category",
     "year_start": 1798,
     "year_end": 1798,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Entertainment_at_the_Niwaka_Festival_(Kashima_Fortune-telling_by_Beauties...),_by_Kitagawa_Utamaro,_Japan,_Edo_period,_dated_1798_AD,_print_on_paper_-_Tokyo_National_Museum_-_Tokyo,_Japan_-_DSC09271.jpg"
   },
   {
     "title": "Entertainment at the Niwaka Festival (Rice Planting Dance in the Pleasure District)",
@@ -1034,7 +1117,8 @@
     "harvest_method": "commons_category",
     "year_start": 1798,
     "year_end": 1798,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Entertainment_at_the_Niwaka_Festival_(Rice_Planting_Dance_in_the_Pleasure_District),_by_Kitagawa_Utamaro,_Japan,_Edo_period,_dated_1798_AD,_print_on_paper_-_Tokyo_National_Museum_-_Tokyo,_Japan_-_DSC09269.jpg"
   },
   {
     "title": "utamaro, guardando in due specchi, XIX sec",
@@ -1051,7 +1135,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_guardando_in_due_specchi,_XIX_sec.JPG",
+    "date": ""
   },
   {
     "title": "utamaro, guida agli stili femminili contemporanei, signora di un cittadino, XIX sec",
@@ -1066,9 +1152,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_guida_agli_stili_femminili_contemporanei,_signora_di_un_cittadino,_XIX_sec.JPG",
+    "date": "circa February 1801"
   },
   {
     "title": "utamaro, pesca da una barca coperta, XVIII sec",
@@ -1085,7 +1173,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_pesca_da_una_barca_coperta,_XVIII_sec.JPG",
+    "date": ""
   },
   {
     "title": "utamaro, piaceri eleganti, tarda estate a takanawa, XVIII sec 2",
@@ -1102,7 +1192,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_piaceri_eleganti,_tarda_estate_a_takanawa,_XVIII_sec_2.JPG",
+    "date": ""
   },
   {
     "title": "utamaro, ritratti di cortigiane di oggi, yosooi di mastubaya, XIX sec",
@@ -1119,7 +1211,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_ritratti_di_cortigiane_di_oggi,_yosooi_di_mastubaya,_XIX_sec.JPG",
+    "date": ""
   },
   {
     "title": "Renowned beauties likened to the six immortal poets Ogiya Hanaogi",
@@ -1136,7 +1230,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Renowned_beauties_likened_to_the_six_immortal_poets_Ogiya_Hanaogi.jpg",
+    "date": ""
   },
   {
     "title": "Shizuuta de Tamaya",
@@ -1153,7 +1249,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Shizuuta_de_Tamaya_de_K._Utamaro_(mus%C3%A9e_national_de_Tokyo)_(41461652265).jpg",
+    "date": ""
   },
   {
     "title": "The Sundial of Summer in the Floating World (Elegance in the Morning)",
@@ -1171,7 +1269,8 @@
     "harvest_method": "commons_category",
     "year_start": 1800,
     "year_end": 1800,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Sundial_of_Summer_in_the_Floating_World_(Elegance_in_the_Morning),_by_Kitagawa_Utamaro,_Japan,_Edo_period,_1800s_AD,_woodblock_print_on_paper_-_Tokyo_National_Museum_-_Tokyo,_Japan_-_DSC09275.jpg"
   },
   {
     "title": "Two beauties under wisteria",
@@ -1188,7 +1287,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_beauties_under_wisteria.jpg",
+    "date": ""
   },
   {
     "title": "婦人相學十躰・水性之相",
@@ -1205,7 +1306,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A9%A6%E4%BA%BA%E7%9B%B8%E5%AD%B8%E5%8D%81%E8%BA%B0%E3%83%BB%E6%B0%B4%E6%80%A7%E4%B9%8B%E7%9B%B8.jpg",
+    "date": ""
   },
   {
     "title": "Five Fanciful Relationships",
@@ -1223,7 +1326,8 @@
     "harvest_method": "commons_category",
     "year_start": 1797,
     "year_end": 1797,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Five_Fanciful_Relationships,_by_Kitagawa_Utamaro,_1797-1798,_from_the_Hood_Museum_of_Art_-_2010.62.6.tif"
   },
   {
     "title": "Furyo Shiki No Asobi-Uzuki No (Fashionable Pastimes of the Four Seasons, June (facsimile)) - Vanderbilt Fine Arts Gallery - 1997.003",
@@ -1238,9 +1342,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Furyo_Shiki_No_Asobi-Uzuki_No_(Fashionable_Pastimes_of_the_Four_Seasons,_June_(facsimile))_-_Vanderbilt_Fine_Arts_Gallery_-_1997.003.tif",
+    "date": "1795"
   },
   {
     "title": "Courtesan Hanaōgi of the House of Ōgiya in Edo - Muzeul Vasile Grigore",
@@ -1257,7 +1363,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Courtesan_Hana%C5%8Dgi_of_the_House_of_%C5%8Cgiya_in_Edo_-_Muzeul_Vasile_Grigore_(cropped_out_frame).jpg",
+    "date": ""
   },
   {
     "title": "Laval - MANAS, Riches de cultures 77",
@@ -1274,7 +1382,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Laval_-_MANAS,_Riches_de_cultures_77.jpg",
+    "date": ""
   },
   {
     "title": "Weaving Kitagawa Utamaro Guimet EO1848",
@@ -1291,7 +1401,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Weaving_Kitagawa_Utamaro_Guimet_EO1848.jpg",
+    "date": ""
   },
   {
     "title": "Advertenties en colofon, RP-P-1960-9-9",
@@ -1306,9 +1418,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Advertenties_en_colofon,_RP-P-1960-9-9.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Blindemannetje spelen op een vrije dag, RP-P-1960-12B-13",
@@ -1323,9 +1437,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Blindemannetje_spelen_op_een_vrije_dag,_RP-P-1960-12B-13.jpg",
+    "date": "1804"
   },
   {
     "title": "Courtisanes achter de ramen, RP-P-1960-12B-11",
@@ -1340,9 +1456,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisanes_achter_de_ramen,_RP-P-1960-12B-11.jpg",
+    "date": "1804"
   },
   {
     "title": "Courtisanes en gast tijdens winterochtend, RP-P-1960-12A-6",
@@ -1357,9 +1475,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisanes_en_gast_tijdens_winterochtend,_RP-P-1960-12A-6.jpg",
+    "date": "1804"
   },
   {
     "title": "Courtisanes en toeschouwers tijdens een Nieuwjaarsparade, RP-P-1960-12B-7",
@@ -1374,9 +1494,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisanes_en_toeschouwers_tijdens_een_Nieuwjaarsparade,_RP-P-1960-12B-7.jpg",
+    "date": "1804"
   },
   {
     "title": "Courtisanes in een kamer, RP-P-1960-12A-2",
@@ -1391,9 +1513,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisanes_in_een_kamer,_RP-P-1960-12A-2.jpg",
+    "date": "1804"
   },
   {
     "title": "Courtisanes met twee mannelijke gasten, RP-P-1960-12A-5",
@@ -1408,9 +1532,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisanes_met_twee_mannelijke_gasten,_RP-P-1960-12A-5.jpg",
+    "date": "1804"
   },
   {
     "title": "Dames vanaf een balkon kijkend naar kersenbloesem, RP-P-1970-65-2",
@@ -1425,9 +1551,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Dames_vanaf_een_balkon_kijkend_naar_kersenbloesem,_RP-P-1970-65-2.jpg",
+    "date": "1790"
   },
   {
     "title": "De tweede verdieping van een bordeel, RP-P-1960-12B-10",
@@ -1442,9 +1570,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:De_tweede_verdieping_van_een_bordeel,_RP-P-1960-12B-10.jpg",
+    "date": "1804"
   },
   {
     "title": "Eerste parade van de nieuwe shinzo`s, RP-P-1960-12B-9",
@@ -1459,9 +1589,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Eerste_parade_van_de_nieuwe_shinzo%60s,_RP-P-1960-12B-9.jpg",
+    "date": "1804"
   },
   {
     "title": "Gedicht met herfstbloemen, RP-P-1960-12A-1",
@@ -1476,9 +1608,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gedicht_met_herfstbloemen,_RP-P-1960-12A-1.jpg",
+    "date": "1804"
   },
   {
     "title": "Gedicht met voorjaarsbloemen, RP-P-1960-12B-5",
@@ -1493,9 +1627,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gedicht_met_voorjaarsbloemen,_RP-P-1960-12B-5.jpg",
+    "date": "1804"
   },
   {
     "title": "Haan, hen en vogel bij bloeiende winde, RP-P-1960-9-5",
@@ -1510,9 +1646,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Haan,_hen_en_vogel_bij_bloeiende_winde,_RP-P-1960-9-5.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "nhoudsopgave, RP-P-1960-12B-6",
@@ -1527,9 +1665,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Inhoudsopgave,_RP-P-1960-12B-6.jpg",
+    "date": "1804"
   },
   {
     "title": "Kijkend naar de volle maan vanaf een balkon, RP-P-1960-12A-3",
@@ -1544,9 +1684,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kijkend_naar_de_volle_maan_vanaf_een_balkon,_RP-P-1960-12A-3.jpg",
+    "date": "1804"
   },
   {
     "title": "Kinderen spelend in de sneeuw, RP-P-1960-13-6",
@@ -1561,9 +1703,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kinderen_spelend_in_de_sneeuw,_RP-P-1960-13-6.jpg",
+    "date": "1790"
   },
   {
     "title": "utamaro, fiori di parole, fine del XVIII sec",
@@ -1580,7 +1724,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_fiori_di_parole,_fine_del_XVIII_sec.JPG",
+    "date": ""
   },
   {
     "title": "Lachende courtisanes, RP-P-1960-12A-8",
@@ -1595,9 +1741,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Lachende_courtisanes,_RP-P-1960-12A-8.jpg",
+    "date": "1804"
   },
   {
     "title": "Mannen zittend in een kamer, RP-P-1960-12A-4",
@@ -1612,9 +1760,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mannen_zittend_in_een_kamer,_RP-P-1960-12A-4.jpg",
+    "date": "1804"
   },
   {
     "title": "Mees en zangvogel op tak met roze bloesem, RP-P-1960-9-7",
@@ -1629,9 +1779,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mees_en_zangvogel_op_tak_met_roze_bloesem,_RP-P-1960-9-7.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Mimizuku uso LCCN2008661069",
@@ -1646,9 +1798,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mimizuku_uso_LCCN2008661069.jpg",
+    "date": "1790"
   },
   {
     "title": "Mochi maken, RP-P-1960-12A-9",
@@ -1663,9 +1817,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mochi_maken,_RP-P-1960-12A-9.jpg",
+    "date": "1804"
   },
   {
     "title": "Muurschildering maken, RP-P-1960-12A-10",
@@ -1680,9 +1836,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muurschildering_maken,_RP-P-1960-12A-10.jpg",
+    "date": "1804"
   },
   {
     "title": "Optocht met leeuwenkop en lantaarns, RP-P-1960-12B-16",
@@ -1697,9 +1855,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Optocht_met_leeuwenkop_en_lantaarns,_RP-P-1960-12B-16.jpg",
+    "date": "1804"
   },
   {
     "title": "Parade langs de kersenbloesem, RP-P-1960-12B-12",
@@ -1714,9 +1874,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Parade_langs_de_kersenbloesem,_RP-P-1960-12B-12.jpg",
+    "date": "1804"
   },
   {
     "title": "Prentenboek over gewillige vrouwen - deel drie-Rijksmuseum RP-P-1997-12C",
@@ -1731,9 +1893,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Prentenboek_over_gewillige_vrouwen_-_deel_drie-Rijksmuseum_RP-P-1997-12C.jpeg",
+    "date": "1798"
   },
   {
     "title": "Slang en salamander tussen gebladerte, RP-P-1960-10A-2",
@@ -1748,9 +1912,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Slang_en_salamander_tussen_gebladerte,_RP-P-1960-10A-2.jpg",
+    "date": "1788"
   },
   {
     "title": "Stoet mensen in een kamer naar binnen kijkend, RP-P-1960-12B-14",
@@ -1765,9 +1931,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Stoet_mensen_in_een_kamer_naar_binnen_kijkend,_RP-P-1960-12B-14.jpg",
+    "date": "1804"
   },
   {
     "title": "Sushi yatai (stall)",
@@ -1782,9 +1950,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1786,
+    "year_end": 1786,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sushi_yatai_(stall).png",
+    "date": "1786"
   },
   {
     "title": "Theater loge Een kijkje achter de schermen bij de toneelspelers (serietitel) Yakusha gakuya tsu (serietitel), RP-P-1956-800",
@@ -1799,9 +1969,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1799,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Theater_loge_Een_kijkje_achter_de_schermen_bij_de_toneelspelers_(serietitel)_Yakusha_gakuya_tsu_(serietitel),_RP-P-1956-800.jpg",
+    "date": "1799"
   },
   {
     "title": "Tsubakura kiji LCCN2008661063",
@@ -1816,9 +1988,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tsubakura_kiji_LCCN2008661063.jpg",
+    "date": "1790"
   },
   {
     "title": "Twee kwartels en een leeuwerik, RP-P-1960-9-6",
@@ -1833,9 +2007,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Twee_kwartels_en_een_leeuwerik,_RP-P-1960-9-6.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Uil en vlaamse gaai op boomtak, RP-P-1960-9-2",
@@ -1850,9 +2026,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Uil_en_vlaamse_gaai_op_boomtak,_RP-P-1960-9-2.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Uzura hibari LCCN2008661070",
@@ -1867,9 +2045,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Uzura_hibari_LCCN2008661070.jpg",
+    "date": "1790"
   },
   {
     "title": "Vertrekkende gasten, RP-P-1960-12A-7",
@@ -1884,9 +2064,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vertrekkende_gasten,_RP-P-1960-12A-7.jpg",
+    "date": "1804"
   },
   {
     "title": "Vier vogeltjes op een bamboe tak, RP-P-1960-9-8",
@@ -1901,9 +2083,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vier_vogeltjes_op_een_bamboe_tak,_RP-P-1960-9-8.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Vink en specht in dennenboom, RP-P-1960-9-1",
@@ -1918,9 +2102,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vink_en_specht_in_dennenboom,_RP-P-1960-9-1.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Vlinders en libelle bij klaprozen, RP-P-1960-10B-6",
@@ -1935,9 +2121,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vlinders_en_libelle_bij_klaprozen,_RP-P-1960-10B-6.jpg",
+    "date": "1788"
   },
   {
     "title": "Voorbereidingen van de feestelijkheden, RP-P-1960-12B-8",
@@ -1952,9 +2140,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Voorbereidingen_van_de_feestelijkheden,_RP-P-1960-12B-8.jpg",
+    "date": "1804"
   },
   {
     "title": "Voorbereidingen voor het lantaarn festival, RP-P-1960-12B-15",
@@ -1969,9 +2159,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Voorbereidingen_voor_het_lantaarn_festival,_RP-P-1960-12B-15.jpg",
+    "date": "1804"
   },
   {
     "title": "Wespen en rups op bloeiende pijlwortel, RP-P-1960-10B-3",
@@ -1986,9 +2178,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Wespen_en_rups_op_bloeiende_pijlwortel,_RP-P-1960-10B-3.jpg",
+    "date": "1788"
   },
   {
     "title": "Winterkoning en twee watersnippen, RP-P-1960-9-4",
@@ -2003,9 +2197,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Winterkoning_en_twee_watersnippen,_RP-P-1960-9-4.jpg",
+    "date": "between 1794 and 1798"
   },
   {
     "title": "Woman Holding a Cup on a Tray LACMA M.40.1.172 (1 of 2)",
@@ -2022,7 +2218,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_Holding_a_Cup_on_a_Tray_LACMA_M.40.1.172_(1_of_2).jpg",
+    "date": "18th century"
   },
   {
     "title": "A parody with four beauties (Kitagawa Utamaro)",
@@ -2037,9 +2235,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 2108,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:A_parody_with_four_beauties_(Kitagawa_Utamaro).jpg",
+    "date": "~1793 (Uploaded: 2018-08-30)"
   },
   {
     "title": "Afbeeldingen van Fugen Fugenzô (titel op object), RP-P-1970-65",
@@ -2054,9 +2254,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Afbeeldingen_van_Fugen_Fugenz%C3%B4_(titel_op_object),_RP-P-1970-65.jpg",
+    "date": "1790"
   },
   {
     "title": "Aikyo zumo LCCN2008660848",
@@ -2071,9 +2273,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Aikyo_zumo_LCCN2008660848.jpg",
+    "date": "1806"
   },
   {
     "title": "Ase o fuku onna LCCN2008660689",
@@ -2088,9 +2292,11 @@
     "subject": "other",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ase_o_fuku_onna_LCCN2008660689.jpg",
+    "date": "1798"
   },
   {
     "title": "Ase o fuku onna2",
@@ -2105,9 +2311,11 @@
     "subject": "other",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1923,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ase_o_fuku_onna2.jpg",
+    "date": "1798, printed between 1918 and 1923"
   },
   {
     "title": "Avondscene in een theehuis, RP-P-1960-13-4",
@@ -2122,9 +2330,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Avondscene_in_een_theehuis,_RP-P-1960-13-4.jpg",
+    "date": "1790"
   },
   {
     "title": "Beauty with a waitress holding a tray (5759527422)",
@@ -2141,7 +2351,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Beauty_with_a_waitress_holding_a_tray_(5759527422).jpg",
+    "date": ""
   },
   {
     "title": "Brooklyn Museum - Along the Shore of Yènoshim - Kitagawa Utamaro",
@@ -2156,9 +2368,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1783,
+    "year_end": 1793,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Along_the_Shore_of_Y%C3%A8noshim_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1783 and 1793"
   },
   {
     "title": "Brooklyn Museum - Courtesan's Entourage at New Year's Festival - Kitagawa Utamaro",
@@ -2173,9 +2387,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1782,
+    "year_end": 1788,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Courtesan%27s_Entourage_at_New_Year%27s_Festival_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1782 and 1788"
   },
   {
     "title": "Brooklyn Museum - Courtesans Strolling Beneath Cherry Trees Before the Daikokuya Teahouse - Kitagawa Utamaro",
@@ -2190,9 +2406,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1789,
+    "year_end": 1789,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Courtesans_Strolling_Beneath_Cherry_Trees_Before_the_Daikokuya_Teahouse_-_Kitagawa_Utamaro.jpg",
+    "date": "circa 1789"
   },
   {
     "title": "Brooklyn Museum - Large Head and Bust Portrait of Beauty - Kitagawa Utamaro",
@@ -2207,9 +2425,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1791,
+    "year_end": 1797,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Large_Head_and_Bust_Portrait_of_Beauty_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1791 and 1797"
   },
   {
     "title": "Brooklyn Museum - Midori of the Hinataka from The Hour of the Rat - Kitagawa Utamaro",
@@ -2226,7 +2446,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Midori_of_the_Hinataka_from_The_Hour_of_the_Rat_-_Kitagawa_Utamaro.jpg",
+    "date": "19th century"
   },
   {
     "title": "Brooklyn Museum - Page from an Album or Illustrated Book - Kitagawa Utamaro",
@@ -2241,9 +2463,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1735,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Page_from_an_Album_or_Illustrated_Book_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1735 and 1806"
   },
   {
     "title": "Brooklyn Museum - Pearl Divers - Kitagawa Utamaro",
@@ -2258,9 +2482,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1802,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Pearl_Divers_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1798 and 1802"
   },
   {
     "title": "Brooklyn Museum - Still Life Flowers - Kitagawa Utamaro",
@@ -2275,9 +2501,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1802,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Still_Life_Flowers_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1802 and 1806"
   },
   {
     "title": "Brooklyn Museum - Travels Looking at Mt. Fuji - Kitagawa Utamaro",
@@ -2292,9 +2520,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1825,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Travels_Looking_at_Mt._Fuji_-_Kitagawa_Utamaro.jpg",
+    "date": "between 1800 and 1825"
   },
   {
     "title": "Busteportret van jonge vrouw met waaier, RP-P-1962-130",
@@ -2309,9 +2539,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1797,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Busteportret_van_jonge_vrouw_met_waaier,_RP-P-1962-130.jpg",
+    "date": "between 1793 and 1797"
   },
   {
     "title": "Suited to Patterns Stocked by Izugura - Kitagawa Utamaro I - 1804-1806",
@@ -2329,7 +2561,8 @@
     "harvest_method": "commons_category",
     "year_start": 1804,
     "year_end": 1806,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Suited_to_Patterns_Stocked_by_Izugura_-_Kitagawa_Utamaro_I_-_1804-1806.jpg"
   },
   {
     "title": "Chrysanten in vaas, AK-MAK-1160",
@@ -2344,9 +2577,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1808,
+    "year_end": 1815,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Chrysanten_in_vaas,_AK-MAK-1160.jpg",
+    "date": "between 1808 and 1815"
   },
   {
     "title": "Chrysanten in vaas-Rijksmuseum AK-MAK-1160",
@@ -2361,9 +2596,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1808,
+    "year_end": 1815,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Chrysanten_in_vaas-Rijksmuseum_AK-MAK-1160.jpeg",
+    "date": "between 1808 and 1815"
   },
   {
     "title": "Chōfu no tamagawa LCCN2009615325",
@@ -2378,9 +2615,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1792,
+    "year_end": 1792,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ch%C5%8Dfu_no_tamagawa_LCCN2009615325.jpg",
+    "date": "1792"
   },
   {
     "title": "Cleaning of a Samurai house for New Year's festivities (5759527638)",
@@ -2397,7 +2636,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cleaning_of_a_Samurai_house_for_New_Year%27s_festivities_(5759527638).jpg",
+    "date": ""
   },
   {
     "title": "Cleaning of a Yoshiwara house for New Year's festivities (5759527582)",
@@ -2414,7 +2655,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cleaning_of_a_Yoshiwara_house_for_New_Year%27s_festivities_(5759527582).jpg",
+    "date": ""
   },
   {
     "title": "Courtesan Shinohara from the House of Tsuruya LACMA AC1997.254.2",
@@ -2429,9 +2672,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtesan_Shinohara_from_the_House_of_Tsuruya_LACMA_AC1997.254.2.jpg",
+    "date": "circa 1804"
   },
   {
     "title": "Courtesan, head-and-shoulders portrait, facing left, holding a scroll and chewing on the end of a brush LCCN2008661201",
@@ -2448,7 +2693,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtesan,_head-and-shoulders_portrait,_facing_left,_holding_a_scroll_and_chewing_on_the_end_of_a_brush_LCCN2008661201.jpg",
+    "date": ""
   },
   {
     "title": "Courtesans of the Greenhouse LACMA AC1997.254.3",
@@ -2463,9 +2710,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtesans_of_the_Greenhouse_LACMA_AC1997.254.3.jpg",
+    "date": "1806"
   },
   {
     "title": "Courtisane een hoveling imiterend., RP-P-1961-29",
@@ -2480,9 +2729,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_een_hoveling_imiterend.,_RP-P-1961-29.jpg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane een hoveling imiterend.-Rijksmuseum RP-P-1961-29",
@@ -2497,9 +2748,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_een_hoveling_imiterend.-Rijksmuseum_RP-P-1961-29.jpeg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane en de Ide Tama rivier De zes Tama rivieren (serietitel), RP-P-1956-598",
@@ -2514,9 +2767,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_en_de_Ide_Tama_rivier_De_zes_Tama_rivieren_(serietitel),_RP-P-1956-598.jpg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane en de Ide Tama rivier-Rijksmuseum RP-P-1956-598",
@@ -2531,9 +2786,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_en_de_Ide_Tama_rivier-Rijksmuseum_RP-P-1956-598.jpeg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane en de Toi Tama rivier De zes Tama rivieren (serietitel), RP-P-1956-603",
@@ -2548,9 +2805,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_en_de_Toi_Tama_rivier_De_zes_Tama_rivieren_(serietitel),_RP-P-1956-603.jpg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane en de Toi Tama rivier-Rijksmuseum RP-P-1956-603",
@@ -2565,9 +2824,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_en_de_Toi_Tama_rivier-Rijksmuseum_RP-P-1956-603.jpeg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane Hitomoto uit het Daimonjiya huis Daimonjiya uchi Hitomoto (titel op object), RP-P-1956-596",
@@ -2582,9 +2843,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_Hitomoto_uit_het_Daimonjiya_huis_Daimonjiya_uchi_Hitomoto_(titel_op_object),_RP-P-1956-596.jpg",
+    "date": "ca. 1795 - ca. 1800"
   },
   {
     "title": "Courtisane Hitomoto uit het Daimonjiya huis-Rijksmuseum RP-P-1956-596",
@@ -2599,9 +2862,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_Hitomoto_uit_het_Daimonjiya_huis-Rijksmuseum_RP-P-1956-596.jpeg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Courtisane Karagoto uit het Chojiya huis-Rijksmuseum RP-P-1952-192",
@@ -2616,9 +2881,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1805,
+    "year_end": 1805,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisane_Karagoto_uit_het_Chojiya_huis-Rijksmuseum_RP-P-1952-192.jpeg",
+    "date": "1805"
   },
   {
     "title": "Courtisanes de la maison Tamaya",
@@ -2635,7 +2902,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Courtisanes_de_la_maison_Tamaya_de_K._Utamaro_(Collection_Monet,_Giverny).jpg",
+    "date": ""
   },
   {
     "title": "Daikagura LCCN2009615596",
@@ -2650,9 +2919,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1789,
+    "year_end": 1789,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Daikagura_LCCN2009615596.jpg",
+    "date": "1789"
   },
   {
     "title": "Dessin préparatoire",
@@ -2667,9 +2938,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Dessin_pr%C3%A9paratoire_de_Utamaro.JPG",
+    "date": "between 1801 and 1804"
   },
   {
     "title": "Diptych print (BM 1937,0710,0.116)",
@@ -2684,9 +2957,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Diptych_print_(BM_1937,0710,0.116).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Drie paarden, RP-P-1956-608",
@@ -2701,9 +2976,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Drie_paarden,_RP-P-1956-608.jpg",
+    "date": "1800"
   },
   {
     "title": "Ebisuko LCCN2008661145",
@@ -2718,9 +2995,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ebisuko_LCCN2008661145.jpg",
+    "date": "1800"
   },
   {
     "title": "Enjoying the Cool in a Garden LACMA M.2006.136.70",
@@ -2735,9 +3014,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Enjoying_the_Cool_in_a_Garden_LACMA_M.2006.136.70.jpg",
+    "date": "circa 1790"
   },
   {
     "title": "Flickr - …trialsanderrors - Utamaro, Kushi (Comb), ca. 1785",
@@ -2755,7 +3036,8 @@
     "harvest_method": "commons_category",
     "year_start": 1785,
     "year_end": 1785,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Utamaro,_Kushi_(Comb),_ca._1785.jpg"
   },
   {
     "title": "Fujin tomarikyaku no zu LCCN2008660697",
@@ -2770,9 +3052,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1797,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Fujin_tomarikyaku_no_zu_LCCN2008660697.jpg",
+    "date": "1797"
   },
   {
     "title": "Fukubiki LCCN2008660108",
@@ -2787,9 +3071,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Fukubiki_LCCN2008660108.jpg",
+    "date": "1801"
   },
   {
     "title": "Futamigaura LCCN2009615459",
@@ -2804,9 +3090,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Futamigaura_LCCN2009615459.jpg",
+    "date": "1801"
   },
   {
     "title": "Geisha`s met sumo poppen, RP-P-2008-237",
@@ -2821,9 +3109,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1765,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Geisha%60s_met_sumo_poppen,_RP-P-2008-237.jpg",
+    "date": "na 1765 - in of voor 1806"
   },
   {
     "title": "Geisha`s met sumo poppen-Rijksmuseum RP-P-2008-237",
@@ -2838,9 +3128,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1765,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Geisha%60s_met_sumo_poppen-Rijksmuseum_RP-P-2008-237.jpeg",
+    "date": "between 1765 and 1806"
   },
   {
     "title": "Gotenyama no hanami hidari LCCN2008661206",
@@ -2855,9 +3147,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1805,
+    "year_end": 1805,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gotenyama_no_hanami_hidari_LCCN2008661206.jpg",
+    "date": "1805"
   },
   {
     "title": "Gotenyama no hanami LCCN2008661204",
@@ -2872,9 +3166,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1805,
+    "year_end": 1805,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gotenyama_no_hanami_LCCN2008661204.jpg",
+    "date": "1805"
   },
   {
     "title": "Gotenyama no hanami migi LCCN2008661207",
@@ -2889,9 +3185,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1805,
+    "year_end": 1805,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gotenyama_no_hanami_migi_LCCN2008661207.jpg",
+    "date": "1805"
   },
   {
     "title": "Hideyoshi and Mitsunari",
@@ -2906,9 +3204,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1803,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hideyoshi_and_Mitsunari.jpg",
+    "date": "between 1803 and 1804"
   },
   {
     "title": "Hinamatsuri LCCN2009615448",
@@ -2923,9 +3223,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hinamatsuri_LCCN2009615448.jpg",
+    "date": "1801"
   },
   {
     "title": "chi fuji ni taka san nasubi LCCN2008660461",
@@ -2940,9 +3242,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ichi_fuji_ni_taka_san_nasubi_LCCN2008660461.jpg",
+    "date": "1798"
   },
   {
     "title": "chi fuji ni taka san nasubi LCCN2008660485",
@@ -2957,9 +3261,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ichi_fuji_ni_taka_san_nasubi_LCCN2008660485.jpg",
+    "date": "1798"
   },
   {
     "title": "tsuzuke no satsuki LCCN2004676709",
@@ -2974,9 +3280,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Itsuzuke_no_satsuki_LCCN2004676709.jpg",
+    "date": "1804"
   },
   {
     "title": "Kagiya osen to takashima ohisa LCCN2009615449",
@@ -2991,9 +3299,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1793,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kagiya_osen_to_takashima_ohisa_LCCN2009615449.jpg",
+    "date": "1793"
   },
   {
     "title": "Kashidori fukurō LCCN2008661068",
@@ -3008,9 +3318,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kashidori_fukur%C5%8D_LCCN2008661068.jpg",
+    "date": "1790"
   },
   {
     "title": "Kiatagawa Utamaro. Daikokuten drawing himself",
@@ -3027,7 +3339,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kiatagawa_Utamaro._Daikokuten_drawing_himself.jpg",
+    "date": ""
   },
   {
     "title": "Kikuzuki LCCN2008660101",
@@ -3042,9 +3356,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kikuzuki_LCCN2008660101.jpg",
+    "date": "1798"
   },
   {
     "title": "Kintoki en Yamauba, RP-P-1969-7",
@@ -3059,9 +3375,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1805,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kintoki_en_Yamauba,_RP-P-1969-7.jpg",
+    "date": "between 1800 and 1805"
   },
   {
     "title": "One Hundred Stories of Demons and Spirits",
@@ -3078,7 +3396,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_One_Hundred_Stories_of_Demons_and_Spirits.jpg",
+    "date": "c. early 19th century."
   },
   {
     "title": "Abalone Divers - MFA Boston 21.7353-5",
@@ -3093,9 +3413,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Abalone_Divers_-_MFA_Boston_21.7353-5.jpg",
+    "date": "between circa ? and circa 1806"
   },
   {
     "title": "An Attractive Woman Who Looks Like the Actor Iwai Hanshiro V - 1943.28 - Cleveland Museum of Art",
@@ -3110,9 +3432,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_An_Attractive_Woman_Who_Looks_Like_the_Actor_Iwai_Hanshiro_V_-_1943.28_-_Cleveland_Museum_of_Art.tif",
+    "date": "1806"
   },
   {
     "title": "Catching Fireflies - 1975.98 - Cleveland Museum of Art",
@@ -3127,9 +3451,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1797,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Catching_Fireflies_-_1975.98_-_Cleveland_Museum_of_Art.tif",
+    "date": "between circa 1796 and circa 1797"
   },
   {
     "title": "Catching Fireflies Beneath a Willow Tree (center) - 1975.98.b - Cleveland Museum of Art",
@@ -3144,9 +3470,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1797,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Catching_Fireflies_Beneath_a_Willow_Tree_(center)_-_1975.98.b_-_Cleveland_Museum_of_Art.tif",
+    "date": "between circa 1796 and circa 1797"
   },
   {
     "title": "Catching Fireflies Beneath a Willow Tree (left) - 1975.98.c - Cleveland Museum of Art",
@@ -3161,9 +3489,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1797,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Catching_Fireflies_Beneath_a_Willow_Tree_(left)_-_1975.98.c_-_Cleveland_Museum_of_Art.tif",
+    "date": "between circa 1796 and circa 1797"
   },
   {
     "title": "Cleaning Combs - 1930.216 - Cleveland Museum of Art",
@@ -3178,9 +3508,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Cleaning_Combs_-_1930.216_-_Cleveland_Museum_of_Art.tif",
+    "date": "c. late 1790s"
   },
   {
     "title": "Contemporary Beauties Third - 1940.1040 - Cleveland Museum of Art",
@@ -3195,9 +3527,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Contemporary_Beauties_Third_-_1940.1040_-_Cleveland_Museum_of_Art.tif",
+    "date": "between 1753 and 1806"
   },
   {
     "title": "Couple in a Boat - 1940.1041 - Cleveland Museum of Art",
@@ -3212,9 +3546,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1799,
+    "year_end": 1799,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Couple_in_a_Boat_-_1940.1041_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1799"
   },
   {
     "title": "Courtesan - 1940.717 - Cleveland Museum of Art",
@@ -3229,9 +3565,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Courtesan_-_1940.717_-_Cleveland_Museum_of_Art.tif",
+    "date": "between 1753 and 1806"
   },
   {
     "title": "Courtesan Dreaming of a Marriage Procession - 1916.1130 - Cleveland Museum of Art",
@@ -3246,9 +3584,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1797,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Courtesan_Dreaming_of_a_Marriage_Procession_-_1916.1130_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1797"
   },
   {
     "title": "Daimio and his Retinue Crossing a Stream in Plain Near Fuji - 1943.13 - Cleveland Museum of Art",
@@ -3263,9 +3603,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Daimio_and_his_Retinue_Crossing_a_Stream_in_Plain_Near_Fuji_-_1943.13_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "Elegant Pleasures of the Four Seasons - 1930.196 - Cleveland Museum of Art",
@@ -3280,9 +3622,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1782,
+    "year_end": 1782,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Elegant_Pleasures_of_the_Four_Seasons_-_1930.196_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1782"
   },
   {
     "title": "Enjoying the Evening Cool Along the Sumida River - 1956.753 - Cleveland Museum of Art",
@@ -3297,9 +3641,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Enjoying_the_Evening_Cool_Along_the_Sumida_River_-_1956.753_-_Cleveland_Museum_of_Art.tif",
+    "date": "c. 1797-98"
   },
   {
     "title": "Figura feminina",
@@ -3314,9 +3660,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1797,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Figura_feminina.jpg",
+    "date": "circa 1797"
   },
   {
     "title": "Fishing on the Chopping Board Rock at Enoshima - 1921.407 - Cleveland Museum of Art",
@@ -3331,9 +3679,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Fishing_on_the_Chopping_Board_Rock_at_Enoshima_-_1921.407_-_Cleveland_Museum_of_Art.tif",
+    "date": "early 1790s"
   },
   {
     "title": "Hanaōgi of Ōgiya from the series Picture Puzzles - 1985.359 - Cleveland Museum of Art",
@@ -3348,9 +3698,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1797,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Hana%C5%8Dgi_of_%C5%8Cgiya_from_the_series_Picture_Puzzles_-_1985.359_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1797"
   },
   {
     "title": "Kin ki so ga",
@@ -3365,9 +3717,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Kin_ki_so_ga.jpg",
+    "date": "circa 1790"
   },
   {
     "title": "Moonrise Over the Nihon Embankment and the Yoshiwara - 1916.936 - Cleveland Museum of Art",
@@ -3382,9 +3736,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Moonrise_Over_the_Nihon_Embankment_and_the_Yoshiwara_-_1916.936_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1790"
   },
   {
     "title": "Mother Holding Child as He Plays with a Toy Fish in a Tub of Water - MFA Boston 11.22154",
@@ -3399,9 +3755,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1803,
+    "year_end": 1803,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Mother_Holding_Child_as_He_Plays_with_a_Toy_Fish_in_a_Tub_of_Water_-_MFA_Boston_11.22154.jpg",
+    "date": "circa 1803"
   },
   {
     "title": "Musashi, Omi, Yamashiro, and Settsu Provinces from the series Fashionable S - 1916.1104 - Cleveland Museum of Art",
@@ -3416,9 +3774,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Musashi,_Omi,_Yamashiro,_and_Settsu_Provinces_from_the_series_Fashionable_S_-_1916.1104_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1804"
   },
   {
     "title": "Net Fishing at Night on the Sumida River - 1916.1116 - Cleveland Museum of Art",
@@ -3433,9 +3793,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Net_Fishing_at_Night_on_the_Sumida_River_-_1916.1116_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1795"
   },
   {
     "title": "No Title - 1949.127 - Cleveland Museum of Art",
@@ -3450,9 +3812,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_No_Title_-_1949.127_-_Cleveland_Museum_of_Art.tif",
+    "date": "between 1753 and 1806"
   },
   {
     "title": "No Title - 1949.128 - Cleveland Museum of Art",
@@ -3467,9 +3831,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_No_Title_-_1949.128_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "No Title - 1949.129 - Cleveland Museum of Art",
@@ -3484,9 +3850,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_No_Title_-_1949.129_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "No Title - 1949.130 - Cleveland Museum of Art",
@@ -3501,9 +3869,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1789,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_No_Title_-_1949.130_-_Cleveland_Museum_of_Art.tif",
+    "date": "1789–1790"
   },
   {
     "title": "Parody of an Imperial Carriage Scene - 1992.74 - Cleveland Museum of Art",
@@ -3518,9 +3888,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Parody_of_an_Imperial_Carriage_Scene_-_1992.74_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1798"
   },
   {
     "title": "Procession at the Foot of Mount Fuji - 1921.340 - Cleveland Museum of Art",
@@ -3535,9 +3907,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1792,
+    "year_end": 1793,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Procession_at_the_Foot_of_Mount_Fuji_-_1921.340_-_Cleveland_Museum_of_Art.tif",
+    "date": "1792 or 1793"
   },
   {
     "title": "Scene Adapted from the play The Treasury of Loyal Retainers (Chushingura) - 1940.1043 - Cleveland Museum of Art",
@@ -3552,9 +3926,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Scene_Adapted_from_the_play_The_Treasury_of_Loyal_Retainers_(Chushingura)_-_1940.1043_-_Cleveland_Museum_of_Art.tif",
+    "date": "late 1790s"
   },
   {
     "title": "Serenade - 1943.16 - Cleveland Museum of Art",
@@ -3569,9 +3945,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Serenade_-_1943.16_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "Settsu Province from the series Fashionable Six Jewel Rivers (Furyu Mu Tama - 1916.1104.d - Cleveland Museum of Art",
@@ -3586,9 +3964,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Settsu_Province_from_the_series_Fashionable_Six_Jewel_Rivers_(Furyu_Mu_Tama_-_1916.1104.d_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1804"
   },
   {
     "title": "Takashima Ohisa Using Two Mirrors to Observe Her Coiffure Night of the Asakusa Marketing Festival - MFA Boston 21.6410",
@@ -3603,9 +3983,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Takashima_Ohisa_Using_Two_Mirrors_to_Observe_Her_Coiffure_Night_of_the_Asakusa_Marketing_Festival_-_MFA_Boston_21.6410.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "The Courtesan Hinazuru of Chojiya with her Attendants Tsuruji and Tsuruno - 1956.756 - Cleveland Museum of Art",
@@ -3620,9 +4002,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_The_Courtesan_Hinazuru_of_Chojiya_with_her_Attendants_Tsuruji_and_Tsuruno_-_1956.756_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1794"
   },
   {
     "title": "The Lovers Ohan and Choemon (from the series Joruri Ballads in the Tokiwazu - 1943.15 - Cleveland Museum of Art",
@@ -3637,9 +4021,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1809,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_The_Lovers_Ohan_and_Choemon_(from_the_series_Joruri_Ballads_in_the_Tokiwazu_-_1943.15_-_Cleveland_Museum_of_Art.tif",
+    "date": "early or mid 1800s"
   },
   {
     "title": "Tomimoto Toyohina, Takashimaya Ohisa, and Naniwaya Okita - 1916.1158 - Cleveland Museum of Art",
@@ -3654,9 +4040,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Tomimoto_Toyohina,_Takashimaya_Ohisa,_and_Naniwaya_Okita_-_1916.1158_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1794"
   },
   {
     "title": "Two Women by a Bamboo Blind - 1916.1136 - Cleveland Museum of Art",
@@ -3671,9 +4059,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Two_Women_by_a_Bamboo_Blind_-_1916.1136_-_Cleveland_Museum_of_Art.tif",
+    "date": "c. 1797 or 1798"
   },
   {
     "title": "Winter Scene from the Romance of the Three Kingdoms - 1916.943 - Cleveland Museum of Art",
@@ -3688,9 +4078,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Winter_Scene_from_the_Romance_of_the_Three_Kingdoms_-_1916.943_-_Cleveland_Museum_of_Art.tif",
+    "date": "circa 1790"
   },
   {
     "title": "Woman Measuring a Man's Gown (from the series Twelve Occupations of Women) - 1921.344 - Cleveland Museum of Art",
@@ -3705,9 +4097,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Measuring_a_Man%27s_Gown_(from_the_series_Twelve_Occupations_of_Women)_-_1921.344_-_Cleveland_Museum_of_Art.tif",
+    "date": "late 1790s"
   },
   {
     "title": "Woman of the Yoshiwara - 1940.1036 - Cleveland Museum of Art",
@@ -3722,9 +4116,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_of_the_Yoshiwara_-_1940.1036_-_Cleveland_Museum_of_Art.tif",
+    "date": "between 1753 and 1806"
   },
   {
     "title": "Woman of the Yoshiwara Reading Scroll - 1940.1038 - Cleveland Museum of Art",
@@ -3739,9 +4135,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_of_the_Yoshiwara_Reading_Scroll_-_1940.1038_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "Woman of the Yoshiwara with Girl - 1940.1039 - Cleveland Museum of Art",
@@ -3756,9 +4154,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_of_the_Yoshiwara_with_Girl_-_1940.1039_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "Woman Representing Good Fortune - 1940.1032 - Cleveland Museum of Art",
@@ -3773,9 +4173,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Representing_Good_Fortune_-_1940.1032_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "Woman Threading Needle - 1943.20 - Cleveland Museum of Art",
@@ -3792,7 +4194,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Woman_Threading_Needle_-_1943.20_-_Cleveland_Museum_of_Art.tif",
+    "date": ""
   },
   {
     "title": "Women Hanging Laundry to Dry on a Balcony - 1916.1119 - Cleveland Museum of Art",
@@ -3807,9 +4211,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Women_Hanging_Laundry_to_Dry_on_a_Balcony_-_1916.1119_-_Cleveland_Museum_of_Art.tif",
+    "date": "early 1790s"
   },
   {
     "title": "Yoshiwara Women Looking into the Street at Springtime - 1940.1037 - Cleveland Museum of Art",
@@ -3824,9 +4230,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1753,
+    "year_end": 1753,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Yoshiwara_Women_Looking_into_the_Street_at_Springtime_-_1940.1037_-_Cleveland_Museum_of_Art.jpg",
+    "date": "1753"
   },
   {
     "title": "Young Woman Reading as Older Woman Writes - MFA Boston 11.2158",
@@ -3841,9 +4249,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Young_Woman_Reading_as_Older_Woman_Writes_-_MFA_Boston_11.2158.jpg",
+    "date": "between circa ? and circa 1806"
   },
   {
     "title": "001",
@@ -3858,9 +4268,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_001.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "boys hawking party in front of mount fuji 010436 left",
@@ -3875,9 +4287,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1791,
+    "year_end": 1805,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro_boys_hawking_party_in_front_of_mount_fuji_010436_left.jpg",
+    "date": "Published by Maruya Jinpachi, circa 1791-1805"
   },
   {
     "title": "boys hawking party in front of mount fuji010436)",
@@ -3892,9 +4306,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1791,
+    "year_end": 1805,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro_boys_hawking_party_in_front_of_mount_fuji010436).jpg",
+    "date": "Published by Maruya Jinpachi, circa 1791-1805"
   },
   {
     "title": "I, due ragazze che leggono una lettera, 1808",
@@ -3912,7 +4328,8 @@
     "harvest_method": "commons_category",
     "year_start": 1808,
     "year_end": 1808,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro_II,_due_ragazze_che_leggono_una_lettera,_1808.jpg"
   },
   {
     "title": "Omigaya",
@@ -3929,7 +4346,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_Omigaya.jpg",
+    "date": "18th century"
   },
   {
     "title": "practicing calligraphy020232)",
@@ -3944,9 +4363,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1803,
+    "year_end": 1803,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro_practicing_calligraphy020232).jpg",
+    "date": "Published by Izumiya Ichibei (Kansendo), circa 1803"
   },
   {
     "title": "utamaro, donna con racchetta e bambino con aquilone, 1843-47",
@@ -3963,7 +4384,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_donna_con_racchetta_e_bambino_con_aquilone,_1843-47.JPG",
+    "date": ""
   },
   {
     "title": "Utamaro, Drying Clothes amarohitsu",
@@ -3980,7 +4403,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro,_Drying_Clothes_amarohitsu.jpg",
+    "date": ""
   },
   {
     "title": "utamaro, fiori di parole, 1790 circa",
@@ -3998,7 +4423,8 @@
     "harvest_method": "commons_category",
     "year_start": 1790,
     "year_end": 1790,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_fiori_di_parole,_1790_circa.JPG"
   },
   {
     "title": "utamaro, ohisa di takashima e okita di naniwaya, 1790-1800 circa",
@@ -4016,7 +4442,8 @@
     "harvest_method": "commons_category",
     "year_start": 1790,
     "year_end": 1800,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_ohisa_di_takashima_e_okita_di_naniwaya,_1790-1800_circa.JPG"
   },
   {
     "title": "utamaro, serie di enigmi figurati, hanaogi di ogiwa, 1797 ca. 01",
@@ -4034,7 +4461,8 @@
     "harvest_method": "commons_category",
     "year_start": 1797,
     "year_end": 1797,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_serie_di_enigmi_figurati,_hanaogi_di_ogiwa,_1797_ca._01.jpg"
   },
   {
     "title": "utamaro, serie di enigmi figurati, hanaogi di ogiwa, 1797 ca. 02 ventagli e farfalle",
@@ -4052,7 +4480,8 @@
     "harvest_method": "commons_category",
     "year_start": 1797,
     "year_end": 1797,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_utamaro,_serie_di_enigmi_figurati,_hanaogi_di_ogiwa,_1797_ca._02_ventagli_e_farfalle.jpg"
   },
   {
     "title": "Utamaro. Court woman admiring cherry blossoms",
@@ -4069,7 +4498,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro._Court_woman_admiring_cherry_blossoms_(detail).jpg",
+    "date": ""
   },
   {
     "title": "Utamaro. Fun on a summer evening in the garden",
@@ -4086,7 +4517,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro._Fun_on_a_summer_evening_in_the_garden.jpg",
+    "date": ""
   },
   {
     "title": "Kitagawa-Utamaro-Mashiba-Hisayoshi",
@@ -4103,7 +4536,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa-Utamaro-Mashiba-Hisayoshi.jpg",
+    "date": ""
   },
   {
     "title": "KITAGAWAUtamaro Hideyoshi& his servant Lady",
@@ -4120,7 +4555,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:KITAGAWAUtamaro_Hideyoshi%26_his_servant_Lady.jpg",
+    "date": ""
   },
   {
     "title": "Kobikichō arayashiki koiseya ochie LCCN2008660669",
@@ -4135,9 +4572,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1780,
+    "year_end": 1780,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kobikich%C5%8D_arayashiki_koiseya_ochie_LCCN2008660669.jpg",
+    "date": "1780"
   },
   {
     "title": "Kushi LCCN2008660667",
@@ -4152,9 +4591,11 @@
     "subject": "other",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1780,
+    "year_end": 1780,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kushi_LCCN2008660667.jpg",
+    "date": "1780"
   },
   {
     "title": "Leeuwendans Waka Ebisu (serietitel), RP-P-1960-11-3",
@@ -4169,9 +4610,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1795,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Leeuwendans_Waka_Ebisu_(serietitel),_RP-P-1960-11-3.jpg",
+    "date": "between 1790 and 1795"
   },
   {
     "title": "Lovers under a Futon LACMA 16.14.107",
@@ -4186,9 +4629,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Lovers_under_a_Futon_LACMA_16.14.107.jpg",
+    "date": "circa 1800"
   },
   {
     "title": "Mando-子供遊に和賀 万度-Lantern Float MET DP135604",
@@ -4203,9 +4648,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1809,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mando-%E5%AD%90%E4%BE%9B%E9%81%8A%E3%81%AB%E5%92%8C%E8%B3%80_%E4%B8%87%E5%BA%A6-Lantern_Float_MET_DP135604.jpg",
+    "date": "early 1800s (Edo period)"
   },
   {
     "title": "Maple Leaves Koyo and Shamisen",
@@ -4223,7 +4670,8 @@
     "harvest_method": "commons_category",
     "year_start": 1803,
     "year_end": 1803,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Maple_Leaves_Koyo_and_Shamisen_by_Kitagawa_Utamaro_c1803.png"
   },
   {
     "title": "Matsubaya uchi segawa LCCN2008660784",
@@ -4238,9 +4686,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Matsubaya_uchi_segawa_LCCN2008660784.jpg",
+    "date": "1801"
   },
   {
     "title": "Matsubaya uchi somenosuke LCCN2009615455",
@@ -4255,9 +4705,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Matsubaya_uchi_somenosuke_LCCN2009615455.jpg",
+    "date": "1794"
   },
   {
     "title": "Matsubaya uchi yosooi LCCN2008660569",
@@ -4272,9 +4724,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Matsubaya_uchi_yosooi_LCCN2008660569.jpg",
+    "date": "1806"
   },
   {
     "title": "Matsubaya uchi yoyotose yoyoginu LCCN2008661231",
@@ -4289,9 +4743,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Matsubaya_uchi_yoyotose_yoyoginu_LCCN2008661231.jpg",
+    "date": "1801"
   },
   {
     "title": "Mother nursing her child before a mirror stand (5758984227)",
@@ -4308,7 +4764,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mother_nursing_her_child_before_a_mirror_stand_(5758984227).jpg",
+    "date": ""
   },
   {
     "title": "Murasaki Shikibu with male court poets",
@@ -4323,9 +4781,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Murasaki_Shikibu_with_male_court_poets.png",
+    "date": "between 1795 and 1806"
   },
   {
     "title": "Nachtelijke visvangst, RP-P-1956-812",
@@ -4340,9 +4800,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nachtelijke_visvangst,_RP-P-1956-812.jpg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Nachtelijke visvangst-Rijksmuseum RP-P-1956-812",
@@ -4357,9 +4819,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nachtelijke_visvangst-Rijksmuseum_RP-P-1956-812.jpeg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Naniwaya okita LCCN2008660684",
@@ -4374,9 +4838,11 @@
     "subject": "bijin",
     "famous": true,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1793,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Naniwaya_okita_LCCN2008660684.jpg",
+    "date": "1793"
   },
   {
     "title": "NDL-DC 1307950-Kitagawa Utamaro-（無題）-crd",
@@ -4393,7 +4859,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:NDL-DC_1307950-Kitagawa_Utamaro-%EF%BC%88%E7%84%A1%E9%A1%8C%EF%BC%89-crd.jpg",
+    "date": ""
   },
   {
     "title": "New Years Gift LACMA M.79.152.564 (1 of 3)",
@@ -4410,7 +4878,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:New_Years_Gift_LACMA_M.79.152.564_(1_of_3).jpg",
+    "date": "Late 18th-early 19th century"
   },
   {
     "title": "Nidanme LCCN2008660782",
@@ -4425,9 +4895,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nidanme_LCCN2008660782.jpg",
+    "date": "1801"
   },
   {
     "title": "Nieuwjaar-Rijksmuseum AK-MAK-1620",
@@ -4442,9 +4914,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nieuwjaar-Rijksmuseum_AK-MAK-1620.jpeg",
+    "date": "1804"
   },
   {
     "title": "Osono rokusaburō LCCN2008661226",
@@ -4459,9 +4933,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Osono_rokusabur%C5%8D_LCCN2008661226.jpg",
+    "date": "1801"
   },
   {
     "title": "Oume en Kumenosuke Oume Kumenosuke (titel op object), RP-P-1964-804",
@@ -4476,9 +4952,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1805,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Oume_en_Kumenosuke_Oume_Kumenosuke_(titel_op_object),_RP-P-1964-804.jpg",
+    "date": "between 1800 and 1805"
   },
   {
     "title": "Oume kumenosuke LCCN2008660854",
@@ -4493,9 +4971,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1799,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Oume_kumenosuke_LCCN2008660854.jpg",
+    "date": "1799"
   },
   {
     "title": "Photographic print (BM 1887,1216,0.35)",
@@ -4512,7 +4992,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Photographic_print_(BM_1887,1216,0.35).jpg",
+    "date": ""
   },
   {
     "title": "Photographic print (BM 1887,1216,0.36)",
@@ -4529,7 +5011,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Photographic_print_(BM_1887,1216,0.36).jpg",
+    "date": ""
   },
   {
     "title": "Picture of the upper class",
@@ -4544,9 +5028,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Picture_of_the_upper_class.jpg",
+    "date": "1795-01-01"
   },
   {
     "title": "Pleasure boats on a summer evening near Ryogoku Bridge (5758984625)",
@@ -4563,7 +5049,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Pleasure_boats_on_a_summer_evening_near_Ryogoku_Bridge_(5758984625).jpg",
+    "date": ""
   },
   {
     "title": "Poet Sōjō Henjō LACMA M.2006.136.65",
@@ -4578,9 +5066,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Poet_S%C5%8Dj%C5%8D_Henj%C5%8D_LACMA_M.2006.136.65.jpg",
+    "date": "Early 1790s"
   },
   {
     "title": "Preparing Raw Fish LACMA M.81.91.3",
@@ -4597,7 +5087,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Preparing_Raw_Fish_LACMA_M.81.91.3.jpg",
+    "date": "18th century"
   },
   {
     "title": "Print (BM 1906,1220,0.324 1)",
@@ -4612,9 +5104,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1906,1220,0.324_1).jpg",
+    "date": "1795-1800 (circa)"
   },
   {
     "title": "Print (BM 1906,1220,0.325 1)",
@@ -4629,9 +5123,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1906,1220,0.325_1).jpg",
+    "date": "1794-1795 (ca.)"
   },
   {
     "title": "Print (BM 1906,1220,0.325 2)",
@@ -4646,9 +5142,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1906,1220,0.325_2).jpg",
+    "date": "1794-1795 (ca.)"
   },
   {
     "title": "Print (BM 1906,1220,0.332 1)",
@@ -4663,9 +5161,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1796,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1906,1220,0.332_1).jpg",
+    "date": "1795-1796 (ca.)"
   },
   {
     "title": "Print (BM 1909,0618,0.72 1)",
@@ -4680,9 +5180,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1909,0618,0.72_1).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Print (BM 1909,0618,0.82)",
@@ -4697,9 +5199,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1909,0618,0.82).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Print (BM 1909,0618,0.85.+)",
@@ -4714,9 +5218,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1808,
+    "year_end": 1808,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1909,0618,0.85.%2B).jpg",
+    "date": "1808"
   },
   {
     "title": "Print (BM 1910,0212,0.442)",
@@ -4731,9 +5237,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1910,0212,0.442).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Print (BM 1915,0601,0.7 1)",
@@ -4748,9 +5256,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1915,0601,0.7_1).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Print (BM 1923,1211,0.4 1)",
@@ -4765,9 +5275,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1793,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1923,1211,0.4_1).jpg",
+    "date": "1793"
   },
   {
     "title": "Print (BM 1937,0710,0.111)",
@@ -4782,9 +5294,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1937,0710,0.111).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Print (BM 1937,0710,0.115 1)",
@@ -4799,9 +5313,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1937,0710,0.115_1).jpg",
+    "date": "circa 1800"
   },
   {
     "title": "Print (BM 1937,0710,0.115 2)",
@@ -4816,9 +5332,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Print_(BM_1937,0710,0.115_2).jpg",
+    "date": "circa 1800"
   },
   {
     "title": "Printer's woodblock for a Kitagawa Utamaro print MET 33 76 1 O1 sf",
@@ -4835,7 +5353,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Printer%27s_woodblock_for_a_Kitagawa_Utamaro_print_MET_33_76_1_O1_sf.jpg",
+    "date": "early 19th century"
   },
   {
     "title": "Seiroka sannin (BM 1915,0601,0.9 1)",
@@ -4850,9 +5370,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1754,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Seiroka_sannin_(BM_1915,0601,0.9_1).jpg",
+    "date": "1754-1806 (artist)"
   },
   {
     "title": "Serveerster van het Matsu Higashiya theehuis, RP-P-1956-605",
@@ -4867,9 +5389,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Serveerster_van_het_Matsu_Higashiya_theehuis,_RP-P-1956-605.jpg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Serveerster van het Matsu Higashiya theehuis-Rijksmuseum RP-P-1956-605",
@@ -4884,9 +5408,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Serveerster_van_het_Matsu_Higashiya_theehuis-Rijksmuseum_RP-P-1956-605.jpeg",
+    "date": "between 1795 and 1800"
   },
   {
     "title": "Shibata Katsuie utamarol",
@@ -4903,7 +5429,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Shibata_Katsuie_utamarol.jpg",
+    "date": ""
   },
   {
     "title": "Susu harai LCCN2008661205",
@@ -4918,9 +5446,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Susu_harai_LCCN2008661205.jpg",
+    "date": "1798"
   },
   {
     "title": "Taikō gosai rakutō yūkan no zu",
@@ -4935,9 +5465,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABkan_no_zu.jpg",
+    "date": "between 1804 and 1806"
   },
   {
     "title": "Tetsukuri no Tamagawa, from the series Six Tama Rivers, Utamaro, MET JP2814",
@@ -4952,9 +5484,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tetsukuri_no_Tamagawa,_from_the_series_Six_Tama_Rivers,_Utamaro,_MET_JP2814.jpg",
+    "date": "circa 1798"
   },
   {
     "title": "The Bridge Tsutenkyo, Kyoto LACMA M.71.100.86 (1 of 2)",
@@ -4969,9 +5503,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Bridge_Tsutenkyo,_Kyoto_LACMA_M.71.100.86_(1_of_2).jpg",
+    "date": "before 1806"
   },
   {
     "title": "The Calligraphy Lesson LACMA M.80.219.43",
@@ -4988,7 +5524,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Calligraphy_Lesson_LACMA_M.80.219.43.jpg",
+    "date": "18th century"
   },
   {
     "title": "The courtesan Hanaogi strolling with her two young attendants (5759416592)",
@@ -5005,7 +5543,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_courtesan_Hanaogi_strolling_with_her_two_young_attendants_(5759416592).jpg",
+    "date": ""
   },
   {
     "title": "The Courtesan Shinahara of Tsuruya with the Kamuro Shinobu LACMA M.2006.136.68",
@@ -5020,9 +5560,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Courtesan_Shinahara_of_Tsuruya_with_the_Kamuro_Shinobu_LACMA_M.2006.136.68.jpg",
+    "date": "circa 1800"
   },
   {
     "title": "The lovers Shirai Gonpachi and Komurasaki (5765344577)",
@@ -5039,7 +5581,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_lovers_Shirai_Gonpachi_and_Komurasaki_(5765344577).jpg",
+    "date": "寛政12年出版"
   },
   {
     "title": "Three Courtesans, Utamaro, MET JP2810",
@@ -5054,9 +5598,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Three_Courtesans,_Utamaro,_MET_JP2810.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "Tochigi Utamaro Museum",
@@ -5073,7 +5619,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tochigi_Utamaro_Museum.jpg",
+    "date": ""
   },
   {
     "title": "Triptych print (BM 1909,0618,0.84.1-3 1)",
@@ -5088,9 +5636,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Triptych_print_(BM_1909,0618,0.84.1-3_1).jpg",
+    "date": "circa 1790"
   },
   {
     "title": "Triptych print (BM 1909,0618,0.84.1-3 2)",
@@ -5105,9 +5655,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Triptych_print_(BM_1909,0618,0.84.1-3_2).jpg",
+    "date": "circa 1790"
   },
   {
     "title": "Triptych print (BM 1909,0618,0.84.1-3 3)",
@@ -5122,9 +5674,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Triptych_print_(BM_1909,0618,0.84.1-3_3).jpg",
+    "date": "circa 1790"
   },
   {
     "title": "Twee courtisanes en een jongeman onder een muskietennet, RP-P-1956-606",
@@ -5139,9 +5693,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1793,
+    "year_end": 1997,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Twee_courtisanes_en_een_jongeman_onder_een_muskietennet,_RP-P-1956-606.jpg",
+    "date": "between 1793 and 1997"
   },
   {
     "title": "Twee vrouwen en drie mannen bij rivier, RP-P-1970-65-6",
@@ -5156,9 +5712,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Twee_vrouwen_en_drie_mannen_bij_rivier,_RP-P-1970-65-6.jpg",
+    "date": "1790"
   },
   {
     "title": "Twee vrouwen met brieven, RP-P-2008-189",
@@ -5173,9 +5731,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1725,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Twee_vrouwen_met_brieven,_RP-P-2008-189.jpg",
+    "date": "in of na 1725 - in of voor 1800"
   },
   {
     "title": "Twee vrouwen met brieven-Rijksmuseum RP-P-2008-189",
@@ -5190,9 +5750,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1725,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Twee_vrouwen_met_brieven-Rijksmuseum_RP-P-2008-189.jpeg",
+    "date": "between 1725 and 1800"
   },
   {
     "title": "Two Japanese women watching fish Wellcome V0046676",
@@ -5209,7 +5771,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Japanese_women_watching_fish_Wellcome_V0046676.jpg",
+    "date": ""
   },
   {
     "title": "U to shirasagi LCCN2008660765",
@@ -5224,9 +5788,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1789,
+    "year_end": 1789,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:U_to_shirasagi_LCCN2008660765.jpg",
+    "date": "1789"
   },
   {
     "title": "Ukiyo-e - ladies with sedan chair",
@@ -5243,7 +5809,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ukiyo-e_-_ladies_with_sedan_chair.jpg",
+    "date": "before 20 c."
   },
   {
     "title": "Umegawa chūbei LCCN2008661162",
@@ -5258,9 +5826,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1798,
+    "year_end": 1798,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Umegawa_ch%C5%ABbei_LCCN2008661162.jpg",
+    "date": "1798"
   },
   {
     "title": "Urashima tarō LCCN2008660783",
@@ -5275,9 +5845,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Urashima_tar%C5%8D_LCCN2008660783.jpg",
+    "date": "1801"
   },
   {
     "title": "Usuginu LCCN2008661200",
@@ -5292,9 +5864,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Usuginu_LCCN2008661200.jpg",
+    "date": "1795"
   },
   {
     "title": "(1792–1793) Three Beauties—Okita, Ohisa, and Toyohina",
@@ -5312,7 +5886,8 @@
     "harvest_method": "commons_category",
     "year_start": 1792,
     "year_end": 1793,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1792%E2%80%931793)_Three_Beauties%E2%80%94Okita,_Ohisa,_and_Toyohina.jpg"
   },
   {
     "title": "(1792–96) Tomimoto Toyohisa reading a letter (Rijksmuseum)",
@@ -5330,7 +5905,8 @@
     "harvest_method": "commons_category",
     "year_start": 1792,
     "year_end": 1796,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(1792%E2%80%9396)_Tomimoto_Toyohisa_reading_a_letter_(Rijksmuseum).jpg"
   },
   {
     "title": "(18th century) Enoshima Awabi-ryō no Zu",
@@ -5347,7 +5923,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(18th_century)_Enoshima_Awabi-ry%C5%8D_no_Zu.jpg",
+    "date": "18th century"
   },
   {
     "title": "(18th century) Enoshima Yūryō Awabi-tori no Zu",
@@ -5364,7 +5942,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(18th_century)_Enoshima_Y%C5%ABry%C5%8D_Awabi-tori_no_Zu.jpg",
+    "date": "18th century"
   },
   {
     "title": "(c. 1788–90) Awabi-tori (left of 3, MFA)",
@@ -5382,7 +5962,8 @@
     "harvest_method": "commons_category",
     "year_start": 1788,
     "year_end": 1790,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1788%E2%80%9390)_Awabi-tori_(left_of_3,_MFA).jpg"
   },
   {
     "title": "(c. 1788–90) Awabi-tori (The Art of Japan)",
@@ -5400,7 +5981,8 @@
     "harvest_method": "commons_category",
     "year_start": 1788,
     "year_end": 1790,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1788%E2%80%9390)_Awabi-tori_(The_Art_of_Japan).jpg"
   },
   {
     "title": "(c. 1797–98) Awabi-tori",
@@ -5418,7 +6000,8 @@
     "harvest_method": "commons_category",
     "year_start": 1797,
     "year_end": 1798,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1797%E2%80%9398)_Awabi-tori.jpg"
   },
   {
     "title": "(c. 1802–03) Giyaman Oshima",
@@ -5436,7 +6019,8 @@
     "harvest_method": "commons_category",
     "year_start": 1802,
     "year_end": 1803,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1802%E2%80%9303)_Giyaman_Oshima.jpg"
   },
   {
     "title": "(c. 1802–04) Taikō gosai rakutō yūzan no zuFXD",
@@ -5454,7 +6038,8 @@
     "harvest_method": "commons_category",
     "year_start": 1802,
     "year_end": 1804,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1802%E2%80%9304)_Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABzan_no_zuFXD.jpg"
   },
   {
     "title": "(c. 1804–06) Enoshima Awabi-ryō no Zu (2)",
@@ -5472,7 +6057,8 @@
     "harvest_method": "commons_category",
     "year_start": 1804,
     "year_end": 1806,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1804%E2%80%9306)_Enoshima_Awabi-ry%C5%8D_no_Zu_(2).jpg"
   },
   {
     "title": "(c. 1804–06) Enoshima Yūryō Awabi-tori no Zu (left 3 prints of 6, Met)",
@@ -5490,7 +6076,8 @@
     "harvest_method": "commons_category",
     "year_start": 1804,
     "year_end": 1806,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_(c._1804%E2%80%9306)_Enoshima_Y%C5%ABry%C5%8D_Awabi-tori_no_Zu_(left_3_prints_of_6,_Met).jpg"
   },
   {
     "title": "The Courtesan Takikawa of the Ogiya Brothel Accompanied by her Kamuro, 1801",
@@ -5508,7 +6095,8 @@
     "harvest_method": "commons_category",
     "year_start": 1801,
     "year_end": 1801,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_-_The_Courtesan_Takikawa_of_the_Ogiya_Brothel_Accompanied_by_her_Kamuro,_1801.jpg"
   },
   {
     "title": "The Courtesans Wakana and Wakano’ura of the Wakana Brothel, c. 1800",
@@ -5526,7 +6114,8 @@
     "harvest_method": "commons_category",
     "year_start": 1800,
     "year_end": 1800,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_-_The_Courtesans_Wakana_and_Wakano%E2%80%99ura_of_the_Wakana_Brothel,_c._1800.jpg"
   },
   {
     "title": "Femme se poudrant le cou",
@@ -5541,9 +6130,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1796,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro_Femme_se_poudrant_le_cou.JPG",
+    "date": "between 1795 and 1796"
   },
   {
     "title": "UTAMARO-Labios",
@@ -5558,9 +6149,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:UTAMARO-Labios.jpg",
+    "date": "1794"
   },
   {
     "title": "Utamaro-tokiwazu",
@@ -5577,7 +6170,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Utamaro-tokiwazu.jpg",
+    "date": ""
   },
   {
     "title": "Villa necchi campiglio, appartamento del principe enrico d'assia, stampe giapponesi 01",
@@ -5594,7 +6189,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Villa_necchi_campiglio,_appartamento_del_principe_enrico_d%27assia,_stampe_giapponesi_01.jpg",
+    "date": ""
   },
   {
     "title": "Villa necchi campiglio, appartamento del principe enrico d'assia, stampe giapponesi 02",
@@ -5611,7 +6208,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Villa_necchi_campiglio,_appartamento_del_principe_enrico_d%27assia,_stampe_giapponesi_02.jpg",
+    "date": ""
   },
   {
     "title": "Voorwoord, RP-P-1960-13-1",
@@ -5626,9 +6225,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Voorwoord,_RP-P-1960-13-1.jpg",
+    "date": "1790"
   },
   {
     "title": "Vrouw bij een vossenklem, RP-P-1991-458",
@@ -5645,7 +6246,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vrouw_bij_een_vossenklem,_RP-P-1991-458.jpg",
+    "date": ""
   },
   {
     "title": "Vrouw bij een vossenklem, RP-P-1991-510",
@@ -5662,7 +6265,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vrouw_bij_een_vossenklem,_RP-P-1991-510.jpg",
+    "date": ""
   },
   {
     "title": "Vrouw bij een vossenklem-Rijksmuseum RP-P-1991-510",
@@ -5679,7 +6284,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Vrouw_bij_een_vossenklem-Rijksmuseum_RP-P-1991-510.jpeg",
+    "date": ""
   },
   {
     "title": "Waaier op houten balk-Rijksmuseum RP-P-1967-1205",
@@ -5694,9 +6301,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1796,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Waaier_op_houten_balk-Rijksmuseum_RP-P-1967-1205.jpeg",
+    "date": "1796"
   },
   {
     "title": "Waaier op houten steun, RP-P-1967-1205",
@@ -5711,9 +6320,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1796,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Waaier_op_houten_steun,_RP-P-1967-1205.jpg",
+    "date": "1796"
   },
   {
     "title": "Wakamatsuya uchi midorigi LCCN2008661232",
@@ -5728,9 +6339,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Wakamatsuya_uchi_midorigi_LCCN2008661232.jpg",
+    "date": "1804"
   },
   {
     "title": "Woman and Child, Utamaro, MET JP2812",
@@ -5745,9 +6358,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_and_Child,_Utamaro,_MET_JP2812.jpg",
+    "date": "circa 1794–95"
   },
   {
     "title": "Woman Nursing a Baby LACMA 16.16.55",
@@ -5764,7 +6379,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_Nursing_a_Baby_LACMA_16.16.55.jpg",
+    "date": "18th century"
   },
   {
     "title": "Woman Relaxing after Her Bath, Utamaro, MET JP144",
@@ -5779,9 +6396,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_Relaxing_after_Her_Bath,_Utamaro,_MET_JP144.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "Women Stretching Silk LACMA M.2011.135.1.1-.3 (1 of 3)",
@@ -5796,9 +6415,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Women_Stretching_Silk_LACMA_M.2011.135.1.1-.3_(1_of_3).jpg",
+    "date": "between circa 1797 and circa 1798"
   },
   {
     "title": "Women Stretching Silk LACMA M.2011.135.1.1-.3 (2 of 3)",
@@ -5813,9 +6434,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Women_Stretching_Silk_LACMA_M.2011.135.1.1-.3_(2_of_3).jpg",
+    "date": "between circa 1797 and circa 1798"
   },
   {
     "title": "Women Stretching Silk LACMA M.2011.135.1.1-.3 (3 of 3)",
@@ -5830,9 +6453,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1797,
+    "year_end": 1798,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Women_Stretching_Silk_LACMA_M.2011.135.1.1-.3_(3_of_3).jpg",
+    "date": "between circa 1797 and circa 1798"
   },
   {
     "title": "Worstelaar en twee vrouwen, AK-MAK-922",
@@ -5847,9 +6472,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1785,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Worstelaar_en_twee_vrouwen,_AK-MAK-922.jpg",
+    "date": "between 1785 and 1790"
   },
   {
     "title": "Worstelaar en twee vrouwen-Rijksmuseum AK-MAK-922",
@@ -5864,9 +6491,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1785,
+    "year_end": 1790,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Worstelaar_en_twee_vrouwen-Rijksmuseum_AK-MAK-922.jpeg",
+    "date": "between 1785 and 1790"
   },
   {
     "title": "Yamabuki ōgiya uchi takigawa LCCN2009615458",
@@ -5881,9 +6510,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1806,
+    "year_end": 1806,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yamabuki_%C5%8Dgiya_uchi_takigawa_LCCN2009615458.jpg",
+    "date": "1806"
   },
   {
     "title": "Yamashita Restaurant LACMA M.2006.136.324a-b",
@@ -5898,9 +6529,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1803,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yamashita_Restaurant_LACMA_M.2006.136.324a-b.jpg",
+    "date": "between circa 1800 and circa 1803"
   },
   {
     "title": "Zōshigaya miyage LCCN2008661156",
@@ -5915,9 +6548,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Z%C5%8Dshigaya_miyage_LCCN2008661156.jpg",
+    "date": "1801"
   },
   {
     "title": "Ōgiya takihashi LCCN2008660886",
@@ -5932,9 +6567,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%C5%8Cgiya_takihashi_LCCN2008660886.jpg",
+    "date": "1800"
   },
   {
     "title": "Ōgiyauchi tsukasa LCCN2009615457",
@@ -5949,9 +6586,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%C5%8Cgiyauchi_tsukasa_LCCN2009615457.jpg",
+    "date": "1804"
   },
   {
     "title": "丁子屋内雛鶴-The Oiran Hinazuru of Chojiya Standing upon a Pile of Futon MET DP135645",
@@ -5966,9 +6605,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1794,
+    "year_end": 1794,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E4%B8%81%E5%AD%90%E5%B1%8B%E5%86%85%E9%9B%9B%E9%B6%B4-The_Oiran_Hinazuru_of_Chojiya_Standing_upon_a_Pile_of_Futon_MET_DP135645.jpg",
+    "date": "circa 1794"
   },
   {
     "title": "三勝と半七-Sankatsu and Hanshichi MET DP144603",
@@ -5983,9 +6624,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%8B%9D%E3%81%A8%E5%8D%8A%E4%B8%83-Sankatsu_and_Hanshichi_MET_DP144603.jpg",
+    "date": "circa 1800"
   },
   {
     "title": "三囲神社の御開帳-Display of Treasures at Mimeguri Shrine (Mimeguri jinja no onkaichō) MET DP144582",
@@ -6000,9 +6643,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1799,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%9B%B2%E7%A5%9E%E7%A4%BE%E3%81%AE%E5%BE%A1%E9%96%8B%E5%B8%B3-Display_of_Treasures_at_Mimeguri_Shrine_(Mimeguri_jinja_no_onkaich%C5%8D)_MET_DP144582.jpg",
+    "date": "1799"
   },
   {
     "title": "仮宅の後朝-Scene in the Yoshiwara MET DP144597",
@@ -6017,9 +6662,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E4%BB%AE%E5%AE%85%E3%81%AE%E5%BE%8C%E6%9C%9D-Scene_in_the_Yoshiwara_MET_DP144597.jpg",
+    "date": "circa 1800"
   },
   {
     "title": "八百屋お七 寺小姓吉三郎-O Shichi and Kichisaburo MET DP144608",
@@ -6034,9 +6681,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1780,
+    "year_end": 1780,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E7%99%BE%E5%B1%8B%E3%81%8A%E4%B8%83_%E5%AF%BA%E5%B0%8F%E5%A7%93%E5%90%89%E4%B8%89%E9%83%8E-O_Shichi_and_Kichisaburo_MET_DP144608.jpg",
+    "date": "circa 1780"
   },
   {
     "title": "名君 閨中の粧ひ-The Oiran Yoso-oi Seated at Her Toilet MET DP135641",
@@ -6051,9 +6700,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1799,
+    "year_end": 1799,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%90%8D%E5%90%9B_%E9%96%A8%E4%B8%AD%E3%81%AE%E7%B2%A7%E3%81%B2-The_Oiran_Yoso-oi_Seated_at_Her_Toilet_MET_DP135641.jpg",
+    "date": "circa 1799"
   },
   {
     "title": "喜多川歌麿の墓1",
@@ -6070,7 +6721,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%96%9C%E5%A4%9A%E5%B7%9D%E6%AD%8C%E9%BA%BF%E3%81%AE%E5%A2%931.jpg",
+    "date": ""
   },
   {
     "title": "太閤五妻洛東遊観之図-A View of the Pleasures of the Taiko and His Five Wives at Rakutō MET DP144589",
@@ -6085,9 +6738,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1804,
+    "year_end": 1804,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%96%A4%E4%BA%94%E5%A6%BB%E6%B4%9B%E6%9D%B1%E9%81%8A%E8%A6%B3%E4%B9%8B%E5%9B%B3-A_View_of_the_Pleasures_of_the_Taiko_and_His_Five_Wives_at_Rakut%C5%8D_MET_DP144589.jpg",
+    "date": "1804"
   },
   {
     "title": "契情三人酔 三幅之内 腹立上戸 泣上戸 笑上戸-Three Intoxicated Courtesans MET DP144602",
@@ -6102,9 +6757,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1790,
+    "year_end": 1799,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A5%91%E6%83%85%E4%B8%89%E4%BA%BA%E9%85%94_%E4%B8%89%E5%B9%85%E4%B9%8B%E5%86%85_%E8%85%B9%E7%AB%8B%E4%B8%8A%E6%88%B8_%E6%B3%A3%E4%B8%8A%E6%88%B8_%E7%AC%91%E4%B8%8A%E6%88%B8-Three_Intoxicated_Courtesans_MET_DP144602.jpg",
+    "date": "1790s"
   },
   {
     "title": "扇屋内春日野-The Oiran Kasugano of Ogiya on Parade under Blossoming Cherry Trees MET DP135653",
@@ -6119,9 +6776,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E6%89%87%E5%B1%8B%E5%86%85%E6%98%A5%E6%97%A5%E9%87%8E-The_Oiran_Kasugano_of_Ogiya_on_Parade_under_Blossoming_Cherry_Trees_MET_DP135653.jpg",
+    "date": "circa 1788"
   },
   {
     "title": "扇屋内春日野わかな こてう-The Oiran Kasugano of Ōgiya on Parade MET DP135643",
@@ -6136,9 +6795,11 @@
     "subject": "bijin",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E6%89%87%E5%B1%8B%E5%86%85%E6%98%A5%E6%97%A5%E9%87%8E%E3%82%8F%E3%81%8B%E3%81%AA_%E3%81%93%E3%81%A6%E3%81%86-The_Oiran_Kasugano_of_%C5%8Cgiya_on_Parade_MET_DP135643.jpg",
+    "date": "circa 1788"
   },
   {
     "title": "新吉原仮宅両国之図-Picture of the Temporary Lodgings of the New Yoshiwara Pleasure Quarter at Ryōgoku (Shin Yoshiwara Karitaku Ryogoku no zu) MET DP135642",
@@ -6153,9 +6814,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1784,
+    "year_end": 1784,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%90%89%E5%8E%9F%E4%BB%AE%E5%AE%85%E4%B8%A1%E5%9B%BD%E4%B9%8B%E5%9B%B3-Picture_of_the_Temporary_Lodgings_of_the_New_Yoshiwara_Pleasure_Quarter_at_Ry%C5%8Dgoku_(Shin_Yoshiwara_Karitaku_Ryogoku_no_zu)_MET_DP135642.jpg",
+    "date": "1784"
   },
   {
     "title": "柿もぎ-Picking Persimmons ((Kaki mogi)) MET DP144588",
@@ -6170,9 +6833,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1803,
+    "year_end": 1803,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E6%9F%BF%E3%82%82%E3%81%8E-Picking_Persimmons_((Kaki_mogi))_MET_DP144588.jpg",
+    "date": "circa 1803"
   },
   {
     "title": "歌麿 桃園結義",
@@ -6189,7 +6854,9 @@
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E6%AD%8C%E9%BA%BF_%E6%A1%83%E5%9C%92%E7%B5%90%E7%BE%A9.png",
+    "date": ""
   },
   {
     "title": "琴棋書画図-The Four Elegant Accomplishments (Kin ki sho ga) MET DP151593",
@@ -6204,9 +6871,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1788,
+    "year_end": 1788,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E7%90%B4%E6%A3%8B%E6%9B%B8%E7%94%BB%E5%9B%B3-The_Four_Elegant_Accomplishments_(Kin_ki_sho_ga)_MET_DP151593.jpg",
+    "date": "circa 1788"
   },
   {
     "title": "藤棚下の遊女たち-Courtesans Beneath a Wisteria Arbor (Fuji dana shita no yūjo tachi) MET DP135588",
@@ -6221,9 +6890,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1795,
+    "year_end": 1795,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E8%97%A4%E6%A3%9A%E4%B8%8B%E3%81%AE%E9%81%8A%E5%A5%B3%E3%81%9F%E3%81%A1-Courtesans_Beneath_a_Wisteria_Arbor_(Fuji_dana_shita_no_y%C5%ABjo_tachi)_MET_DP135588.jpg",
+    "date": "circa 1795"
   },
   {
     "title": "蛍狩-Catching fireflies (Hotaru gari) MET DP144584",
@@ -6238,9 +6909,11 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1796,
+    "year_end": 1797,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E8%9B%8D%E7%8B%A9-Catching_fireflies_(Hotaru_gari)_MET_DP144584.jpg",
+    "date": "circa 1796–97"
   },
   {
     "title": "行水-Bathtime (Gyōzui) MET DP135590",
@@ -6255,9 +6928,11 @@
     "subject": "other",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1801,
+    "year_end": 1801,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E8%A1%8C%E6%B0%B4-Bathtime_(Gy%C5%8Dzui)_MET_DP135590.jpg",
+    "date": "circa 1801"
   },
   {
     "title": "雪の桟橋-Landing-stage in the Snow (Yuki no sanbashi) MET DP144601",
@@ -6272,8 +6947,10 @@
     "subject": "nature",
     "famous": false,
     "harvest_method": "commons_category",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1800,
+    "year_end": 1800,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E3%81%AE%E6%A1%9F%E6%A9%8B-Landing-stage_in_the_Snow_(Yuki_no_sanbashi)_MET_DP144601.jpg",
+    "date": "1800"
   }
 ]

@@ -32,9 +32,10 @@
     "subject": "landscape",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Kajiwara_Kagesue",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1849,
+    "year_end": 1849,
+    "circa": false,
+    "date": "1849"
   },
   {
     "date": "c. 1843",
@@ -52,7 +53,8 @@
     "famous": true,
     "year_start": 1843,
     "year_end": 1843,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:La_expedici%C3%B3n_de_Xu_Fu,_por_Utagawa_Kuniyoshi.jpg"
   },
   {
     "title": "On the shore of the Sumida River",
@@ -69,7 +71,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_At_the_shore_of_the_Sumida_river.jpg",
+    "date": ""
   },
   {
     "title": "Mt Fuji from the Sumida",
@@ -86,7 +90,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_Mt_fuji_from_Sumida.jpg",
+    "date": ""
   },
   {
     "title": "Pilgrims in the waterfall",
@@ -103,7 +109,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_Pilgrims_in_the_waterfall.jpg",
+    "date": ""
   },
   {
     "title": "Banners for boys' day festival",
@@ -120,7 +128,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_Banners_for_the_boys_festival.jpg",
+    "date": ""
   },
   {
     "title": "Courtesan in training",
@@ -137,7 +147,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_Courtesan_in_training.jpg",
+    "date": ""
   },
   {
     "title": "Takeda Nobushige from the series 24 Generals of Kai Province",
@@ -153,9 +165,10 @@
     "subject": "warrior",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Takeda_Nobushige",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1853,
+    "year_end": 1853,
+    "circa": false,
+    "date": "1853"
   },
   {
     "title": "from the series One Hundred and Eight Heroes of the Popular Suikoden All Told",
@@ -170,9 +183,11 @@
     "era": "unknown",
     "subject": "warrior",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1827,
+    "year_end": 1830,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Suikoden.jpg",
+    "date": "between 1827 and 1830"
   },
   {
     "title": "from the series Heroes of Our Country's Suikoden",
@@ -187,9 +202,11 @@
     "era": "unknown",
     "subject": "warrior",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1830,
+    "year_end": 1830,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Eight_Hundred_Heroes_of_Our_Country_s_Suikoden_12.jpg",
+    "date": "circa 1830"
   },
   {
     "title": "Hanagami Danjo no jo Arakage fighting a giant salamander",
@@ -204,9 +221,11 @@
     "era": "unknown",
     "subject": "nature",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1834,
+    "year_end": 1835,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hanagami_Danjo_no_jo_Arakage_fighting_a_giant_salamander.jpg",
+    "date": "circa 1834-1835"
   },
   {
     "title": "Miyamoto Musashi killing a giant lizard",
@@ -222,9 +241,10 @@
     "subject": "nature",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1861,
+    "year_end": 1861,
+    "circa": false,
+    "date": "before 1861"
   },
   {
     "title": "Saito Oniwakamaru, the young Benkei, fights the giant carp at the Bishimon waterfall",
@@ -242,7 +262,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Benkei",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "date": ""
   },
   {
     "title": "Hatsuhana doing penance under the Tonosawa waterfall",
@@ -257,9 +278,11 @@
     "era": "unknown",
     "subject": "nature",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1841,
+    "year_end": 1842,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hatsuhana_doing_penance_under_the_Tonosawa_waterfall.jpg",
+    "date": "circa 1841-1842"
   },
   {
     "title": "Keyamura Rokusuke under the Hikosan Gongen waterfall",
@@ -277,7 +300,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Keyamura_Rokusuke",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "date": ""
   },
   {
     "title": "Kakinomoto no Hitomaro",
@@ -293,9 +317,10 @@
     "subject": "other",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1844,
+    "year_end": 1854,
+    "circa": false,
+    "date": "between 1844 and 1854"
   },
   {
     "date": "1827–1830",
@@ -330,9 +355,10 @@
     "subject": "warrior",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Ukiyo-e",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1830,
+    "year_end": 1830,
+    "circa": false,
+    "date": "1830-01-02"
   },
   {
     "title": "Utagawa Kuniyoshi, Yoshitsune and Benkei defending themselves in their boat during a storm created by the ghosts of conquered Taira clan warriors",
@@ -348,9 +374,10 @@
     "subject": "mythology",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1853,
+    "year_end": 1853,
+    "circa": true,
+    "date": "C.E.1853"
   },
   {
     "title": "Minamoto no Tametomo with a gunsen fan",
@@ -366,9 +393,10 @@
     "subject": "warrior",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1851,
+    "year_end": 1851,
+    "circa": false,
+    "date": "1851"
   },
   {
     "title": "Cats forming the characters for catfish",
@@ -383,9 +411,11 @@
     "era": "unknown",
     "subject": "cats",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1841,
+    "year_end": 1843,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cats_forming_the_caracters_for_catfish.jpg",
+    "date": "between circa 1841 and circa 1843"
   },
   {
     "title": "Four cats in different poses illustrating Japanese proverbs",
@@ -400,9 +430,11 @@
     "era": "unknown",
     "subject": "cats",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1852,
+    "year_end": 1852,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi_Utagawa,_For_cats_in_different_poses.jpg",
+    "date": "1852 4th lunar month"
   },
   {
     "title": "Cats suggested as The Fifty-three Stations of the Tōkaidō",
@@ -418,9 +450,10 @@
     "subject": "cats",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1850,
+    "year_end": 1850,
+    "circa": false,
+    "date": "1850"
   },
   {
     "title": "Scribbling on the storehouse wall",
@@ -437,7 +470,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Scrbbling_on_the_storehouse_wall.jpg",
+    "date": ""
   },
   {
     "title": "At first glance he looks very fierce, but he is actually a kind person",
@@ -452,9 +487,11 @@
     "era": "unknown",
     "subject": "other",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1847,
+    "year_end": 1848,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:At_first_glance_he_looks_very_fiarce,_but_he_s_really_a_nice_person.jpg",
+    "date": "circa 1847-1848"
   },
   {
     "title": "Acts 9-11 of the Kanadehon Chūshingura with act nine at top right, act ten at bottom right, act eleven, scene 1, at top left, act eleven, scene 2 at bottom left",
@@ -470,9 +507,10 @@
     "subject": "mythology",
     "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Kanadehon_Ch%C5%ABshingura",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1839,
+    "year_end": 1842,
+    "circa": false,
+    "date": "between 1839 and 1842"
   },
   {
     "title": "Acts 5-8 of the Kanadehon Chūshingura with act five at top right, act six at bottom right, act seven at top left, act eight at bottom left",
@@ -487,9 +525,11 @@
     "era": "unknown",
     "subject": "mythology",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1839,
+    "year_end": 1842,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi,_Utagawa,_The_Monster%27s_Ch%C5%ABshingura_(Bakemono_Ch%C5%ABshingura),_ca._1836_(b).jpg",
+    "date": "between 1839 and 1842"
   },
   {
     "title": "Acts 1-4 of the Kanadehon Chūshingura with act one at top right, act two at bottom right, act three at top left, act four at bottom left",
@@ -504,8 +544,10 @@
     "era": "unknown",
     "subject": "mythology",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1839,
+    "year_end": 1842,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kuniyoshi,_Utagawa,_The_Monster%27s_Ch%C5%ABshingura_(Bakemono_Ch%C5%ABshingura),_ca._1836_(c).jpg",
+    "date": "between 1839 and 1842"
   }
 ]

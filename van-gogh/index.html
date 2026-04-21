@@ -709,7 +709,7 @@ function renderLb() {
   img.offsetHeight; // reflow
   img.style.animation = '';
 
-  document.getElementById('lb-title').textContent = w.title;
+  document.getElementById('lb-title').textContent = w.title + (w.title_disambig ? ' \u00b7 ' + w.title_disambig : '');
   document.getElementById('lb-pos').textContent = (lbIdx + 1) + ' / ' + filtered.length;
 
   // Build subtitle: date · era · medium · dimensions · location

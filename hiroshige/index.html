@@ -711,7 +711,7 @@ function renderLb() {
   img.offsetHeight;
   img.style.animation = '';
 
-  document.getElementById('lb-title').textContent = w.title;
+  document.getElementById('lb-title').textContent = w.title + (w.title_disambig ? ' \u00b7 ' + w.title_disambig : '');
   document.getElementById('lb-pos').textContent = (lbIdx + 1) + ' / ' + filtered.length;
 
   const parts = [w.series, w.date, w.current_location].filter(Boolean);

@@ -11,9 +11,10 @@
     "subject": "court",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Timur",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": false,
+    "date": "1515"
   },
   {
     "date": "c. 1494-1495",
@@ -45,9 +46,10 @@
     "subject": "religious",
     "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Attar_of_Nishapur",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1486,
+    "year_end": 1486,
+    "circa": false,
+    "date": "1486"
   },
   {
     "title": "Yusef and Zuleykha",
@@ -60,9 +62,11 @@
     "id": 4,
     "subject": "literary",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_fleeing_the_Advances_of_Zulaikha.jpg",
+    "date": "1488"
   },
   {
     "title": "A miniature painting from the Iskandarnama of Nizami",
@@ -76,9 +80,10 @@
     "subject": "court",
     "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Iskandarnameh_of_Nizami",
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1495,
+    "year_end": 1495,
+    "circa": false,
+    "date": "1495-06"
   },
   {
     "title": "A miniature painting from the Iskandarnama",
@@ -91,9 +96,11 @@
     "id": 6,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1495,
+    "year_end": 1495,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihhzad_002.jpg",
+    "date": "1495-06"
   },
   {
     "title": "The hunting ground.",
@@ -109,7 +116,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Hunting",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "date": "First half of 16th century"
   },
   {
     "title": "Beheading of a King",
@@ -124,7 +132,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihzad-beheading.jpg",
+    "date": ""
   },
   {
     "title": "Sultan Hussein",
@@ -139,7 +149,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_soltan_hossein_right.jpg",
+    "date": "First half of 16th century"
   },
   {
     "title": "Timur granting audience on the occasion of his accession",
@@ -154,7 +166,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur_granting_audience_on_the_occasion_of_his_accession_(right).jpg",
+    "date": ""
   },
   {
     "title": "Dancing dervishes (c. 1480/1490)",
@@ -167,9 +181,11 @@
     "id": 11,
     "subject": "literary",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1480,
+    "year_end": 1480,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Dance_of_Sufi_Dervishes.jpg",
+    "date": "circa 1480"
   },
   {
     "title": "Portrait of a dervish",
@@ -182,9 +198,11 @@
     "id": 12,
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1500,
+    "year_end": 1500,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_portrait_of_a_dervish.jpg",
+    "date": "circa 1500"
   },
   {
     "title": "1 Majnun Watching the Battle of the Tribes Niẓāmī Ganjavī, Khamsah 1442-3, Add MS 25900, fol.121v, British Library",
@@ -201,7 +219,8 @@
     "famous": false,
     "year_start": 1442,
     "year_end": 1442,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:1_Majnun_Watching_the_Battle_of_the_Tribes_Ni%E1%BA%93%C4%81m%C4%AB_Ganjav%C4%AB,_Khamsah_1442-3,_Add_MS_25900,_fol.121v,_British_Library.jpg"
   },
   {
     "title": "A servant laying a carpet before Khusraw's horse as he arrives at Shīrīn's castle",
@@ -216,7 +235,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:A_servant_laying_a_carpet_before_Khusraw%27s_horse_as_he_arrives_at_Sh%C4%ABr%C4%ABn%27s_castle.png",
+    "date": ""
   },
   {
     "title": "Alexander and the Hermit, from Nizami's Iskandarnama, 1494-95, by Behzad. British Library OR.6810 Folio 273R",
@@ -233,7 +254,8 @@
     "famous": false,
     "year_start": 1494,
     "year_end": 1495,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Alexander_and_the_Hermit,_from_Nizami%27s_Iskandarnama,_1494-95,_by_Behzad._British_Library_OR.6810_Folio_273R.jpg"
   },
   {
     "title": "Assault on a castle. From a lost manuscript. Iran, circa 1500",
@@ -249,7 +271,8 @@
     "famous": false,
     "year_start": 1500,
     "year_end": 1500,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Assault_on_a_castle._From_a_lost_manuscript._Iran,_circa_1500.jpg"
   },
   {
     "title": "Bahram and dragon",
@@ -264,7 +287,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bahram_and_dragon.jpg",
+    "date": "End of the 15th century"
   },
   {
     "title": "Bahrām Gūr kills the dragon",
@@ -279,7 +304,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bahr%C4%81m_G%C5%ABr_kills_the_dragon.png",
+    "date": ""
   },
   {
     "title": "Battle of Timur and egypt",
@@ -292,9 +319,11 @@
     "id": 19,
     "subject": "court",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1528,
+    "year_end": 1528,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Battle_of_Timur_and_egypt.jpg",
+    "date": "1528 AD (935 AH)"
   },
   {
     "title": "Behhzad 001a",
@@ -309,7 +338,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behhzad_001a.jpg",
+    "date": ""
   },
   {
     "title": "Behzad advice ascetic",
@@ -324,7 +355,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_advice_ascetic.jpg",
+    "date": "First half of 16th century"
   },
   {
     "title": "Behzad hunting ground",
@@ -339,7 +372,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_hunting_ground.jpg",
+    "date": "First half of 16th century"
   },
   {
     "title": "Behzad Moraqqa-e Golshan",
@@ -354,7 +389,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_Moraqqa-e_Golshan.jpg",
+    "date": "first half of 16th century"
   },
   {
     "title": "Behzad portrait of a dervish",
@@ -367,9 +404,11 @@
     "id": 24,
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1500,
+    "year_end": 1500,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_portrait_of_a_dervish.jpg",
+    "date": "circa 1500"
   },
   {
     "title": "Behzad soltan hossein left",
@@ -384,7 +423,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_soltan_hossein_left.jpg",
+    "date": "First half of 16th century"
   },
   {
     "title": "Behzad soltan hossein right",
@@ -399,7 +440,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_soltan_hossein_right.jpg",
+    "date": "First half of 16th century"
   },
   {
     "title": "Behzad timur egyptian",
@@ -412,9 +455,11 @@
     "id": 27,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_timur_egyptian.jpg",
+    "date": "1515"
   },
   {
     "title": "Behzad. Kamelkampf. Golestan Palast",
@@ -428,9 +473,11 @@
     "id": 28,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1525,
+    "year_end": 1560,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad._Kamelkampf._Golestan_Palast.jpg",
+    "date": "Between 1525 and 1560"
   },
   {
     "title": "Bihhzad 001",
@@ -443,9 +490,11 @@
     "id": 29,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1495,
+    "year_end": 1495,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihhzad_001.jpg",
+    "date": "1495"
   },
   {
     "title": "Bihhzad 002",
@@ -458,9 +507,11 @@
     "id": 30,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1495,
+    "year_end": 1495,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihhzad_002.jpg",
+    "date": "1495-06"
   },
   {
     "title": "Bihhzad 003",
@@ -473,9 +524,11 @@
     "id": 31,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1495,
+    "year_end": 1495,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihhzad_003.jpg",
+    "date": "1495-06"
   },
   {
     "title": "Bihhzad 004",
@@ -488,9 +541,11 @@
     "id": 32,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1486,
+    "year_end": 1486,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihhzad_004.jpg",
+    "date": "1486"
   },
   {
     "title": "Bihzad The Old Man and the Youth",
@@ -503,9 +558,11 @@
     "id": 33,
     "subject": "literary",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1524,
+    "year_end": 1524,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihzad_The_Old_Man_and_the_Youth.jpg",
+    "date": "1524"
   },
   {
     "title": "Bihzad Two camels fighting colors",
@@ -518,9 +575,11 @@
     "id": 34,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1530,
+    "year_end": 1530,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihzad_Two_camels_fighting_colors.jpg",
+    "date": "circa 1530"
   },
   {
     "title": "Bihzad Two camels fighting",
@@ -533,9 +592,11 @@
     "id": 35,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1530,
+    "year_end": 1530,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihzad_Two_camels_fighting.jpg",
+    "date": "circa 1530"
   },
   {
     "title": "Bihzad",
@@ -550,7 +611,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bihzad.jpg",
+    "date": ""
   },
   {
     "title": "Double-page spread with Rostam Killing the White Div; by Kamal ud-Din Behzad, late 15th or early 16th century; and fragment of a Chinese-style drawing of a bird, a butterfly, and flowers, late 15th century. From the Bahram Mirza Album",
@@ -565,7 +628,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Double-page_spread_with_Rostam_Killing_the_White_Div;_by_Kamal_ud-Din_Behzad,_late_15th_or_early_16th_century;_and_fragment_of_a_Chinese-style_drawing_of_a_bird,_a_butterfly,_and_flowers,_late_15th_century._From_the_Bahram_Mirza_Album.jpg",
+    "date": "15th - 16th centuries"
   },
   {
     "title": "Dschami",
@@ -578,9 +643,11 @@
     "id": 38,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1494,
+    "year_end": 1494,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Dschami.jpg",
+    "date": "1494"
   },
   {
     "title": "Folio from a Khamsa (Quintet) by Amir Khusraw Dihlavi (d. 1325); The abduction by sea",
@@ -596,7 +663,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Folio_from_a_Khamsa_(Quintet)_by_Amir_Khusraw_Dihlavi_(d._1325);_The_abduction_by_sea_(FGA_F1937.27).jpg"
   },
   {
     "title": "Harun al-Rashid and the barber. Ascribed in notes to Bihzad and to Mirak",
@@ -611,7 +679,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Harun_al-Rashid_and_the_barber._Ascribed_in_notes_to_Bihzad_and_to_Mirak.png",
+    "date": ""
   },
   {
     "title": "Hatifi",
@@ -624,9 +694,11 @@
     "id": 41,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1511,
+    "year_end": 1511,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hatifi.jpg",
+    "date": "circa 1511"
   },
   {
     "title": "Iskandar and the Hermit",
@@ -639,9 +711,11 @@
     "id": 42,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1494,
+    "year_end": 1494,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Iskandar_and_the_Hermit.jpg",
+    "date": "1494"
   },
   {
     "title": "Iskandar",
@@ -656,7 +730,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Iskandar.JPG",
+    "date": "15th century"
   },
   {
     "title": "Jami poet",
@@ -671,7 +747,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Jami_poet.jpg",
+    "date": "XV век, копия XVII века, изготовлена для императора из династии Великих Моголов"
   },
   {
     "title": "Construction of the fort of Kharnaq",
@@ -684,9 +762,11 @@
     "id": 45,
     "subject": "court",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1494,
+    "year_end": 1495,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
+    "date": "circa 1494–1495"
   },
   {
     "title": "Muhammad Shaybani",
@@ -699,9 +779,11 @@
     "id": 46,
     "subject": "portrait",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1507,
+    "year_end": 1507,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muhammad_Shaybani.jpg",
+    "date": "circa 1507"
   },
   {
     "title": "Muraqqa-e Golshan (Page 055, left part)",
@@ -716,7 +798,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_(Page_055,_left_part).jpg",
+    "date": "second half of 15th century"
   },
   {
     "title": "Muraqqa-e Golshan (Page 062, right part)",
@@ -731,7 +815,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_(Page_062,_right_part).jpg",
+    "date": "second half of 15th century"
   },
   {
     "title": "Muraqqa-e Golshan (Page 147) v2",
@@ -746,7 +832,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_(Page_147)_v2.jpg",
+    "date": "first half of 17th century"
   },
   {
     "title": "Muraqqa-e Golshan (Page 147)",
@@ -761,7 +849,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_(Page_147).jpg",
+    "date": "first half of 17th century"
   },
   {
     "title": "Muraqqa-e Golshan 419",
@@ -776,7 +866,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_419.jpg",
+    "date": "first half of 16th century"
   },
   {
     "title": "Muraqqa-e Golshan 428",
@@ -791,7 +883,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_428.jpg",
+    "date": "16th century"
   },
   {
     "title": "Muraqqa-e Golshan 429",
@@ -806,7 +900,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muraqqa-e_Golshan_429.jpg",
+    "date": "16th century"
   },
   {
     "title": "Painting - Google Art Project ( wGkOiyV0ojtRA)",
@@ -821,7 +917,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Painting_-_Google_Art_Project_(_wGkOiyV0ojtRA).jpg",
+    "date": "17th century (11th-century AH)"
   },
   {
     "title": "Portrait of Sultan Husayn Mirza Bayqara at the age of about 50 years. 1500–25 copy from Behzād's original of about 1490",
@@ -837,7 +935,8 @@
     "famous": false,
     "year_start": 1500,
     "year_end": 1525,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sultan_Husayn_Mirza_Bayqara_at_the_age_of_about_50_years._1500%E2%80%9325_copy_from_Behz%C4%81d%27s_original_of_about_1490.jpg"
   },
   {
     "title": "Sad'i and the Youth of Kashgar, Ascribed to Bihzad, From a copy of the Gulistan (Rosegarden) by Sa'di",
@@ -850,9 +949,11 @@
     "id": 56,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1486,
+    "year_end": 1486,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sad%27i_and_the_Youth_of_Kashgar,_Ascribed_to_Bihzad,_From_a_copy_of_the_Gulistan_(Rosegarden)_by_Sa%27di.jpg",
+    "date": "1486"
   },
   {
     "title": "Shah Ismail I Safavid, Behzad",
@@ -867,7 +968,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Shah_Ismail_I_Safavid,_Behzad.jpg",
+    "date": "16th century"
   },
   {
     "title": "Shah Tahmasp in a Tree House",
@@ -880,9 +983,11 @@
     "id": 58,
     "subject": "portrait",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1530,
+    "year_end": 1530,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Shah_Tahmasp_in_a_Tree_House.png",
+    "date": "circa 1530"
   },
   {
     "title": "Sultan Husayn Mirza by Bihzad",
@@ -897,7 +1002,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sultan_Husayn_Mirza_by_Bihzad.jpg",
+    "date": "late 15th century"
   },
   {
     "title": "The Battle of Iskander and Dara",
@@ -910,9 +1017,11 @@
     "id": 60,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Battle_of_Iskander_and_Dara.jpg",
+    "date": "circa 1520"
   },
   {
     "title": "The building of the palace of Khavarnaq",
@@ -925,9 +1034,11 @@
     "id": 61,
     "subject": "court",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1490,
+    "year_end": 1499,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_building_of_the_palace_of_Khavarnaq.png",
+    "date": "between 1490 and 1499"
   },
   {
     "title": "The Old Man Encounters a Youth (CBL Per 163.38)",
@@ -941,9 +1052,11 @@
     "id": 62,
     "subject": "literary",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1485,
+    "year_end": 1485,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Old_Man_Encounters_a_Youth_(CBL_Per_163.38).jpg",
+    "date": "1485"
   },
   {
     "title": "Timurid troops with flag, in battle against Egytian Mamluks",
@@ -958,7 +1071,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timurid_troops_with_flag,_in_battle_against_Egytian_Mamluks.jpg",
+    "date": ""
   },
   {
     "title": "Turkmène retouché",
@@ -973,7 +1088,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Turkm%C3%A8ne_retouch%C3%A9.jpg",
+    "date": ""
   },
   {
     "title": "Folio 51r from MET Bustan of Sa`di, \"Yusuf and Zulaikha\" cropped",
@@ -987,9 +1104,11 @@
     "id": 65,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1525,
+    "year_end": 1525,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Folio_51r_from_MET_Bustan_of_Sa%60di,_%22Yusuf_and_Zulaikha%22_cropped.jpg",
+    "date": "circa 1525"
   },
   {
     "title": "Sa'di - Bostan - Yusuf and Zuleikha",
@@ -1004,7 +1123,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sa%27di_-_Bostan_-_Yusuf_and_Zuleikha.jpg",
+    "date": ""
   },
   {
     "title": "Signature of Bezhad, in Yusuf fleeing the Advances of Zulaikha",
@@ -1017,9 +1138,11 @@
     "id": 67,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1489,
+    "year_end": 1489,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Signature_of_Bezhad,_in_Yusuf_fleeing_the_Advances_of_Zulaikha.jpg",
+    "date": "1489"
   },
   {
     "title": "Yusef Zuleykha",
@@ -1032,9 +1155,11 @@
     "id": 68,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusef_Zuleykha.jpg",
+    "date": "1488"
   },
   {
     "title": "Yusuf and Zulaykha, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 52b",
@@ -1051,7 +1176,8 @@
     "famous": false,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_and_Zulaykha,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_52b.jpg"
   },
   {
     "title": "Yusuf fleeing the Advances of Zulaikha",
@@ -1064,9 +1190,11 @@
     "id": 70,
     "subject": "literary",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_fleeing_the_Advances_of_Zulaikha.jpg",
+    "date": "1488"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET 35802(2)",
@@ -1083,7 +1211,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_35802(2).jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET 35802",
@@ -1100,7 +1229,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_35802.jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DP231332",
@@ -1117,7 +1247,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_DP231332.jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT227704",
@@ -1134,7 +1265,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_DT227704.jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT227705",
@@ -1151,7 +1283,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_DT227705.jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT227706",
@@ -1168,7 +1301,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_DT227706.jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT4798",
@@ -1185,7 +1319,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_DT4798.jpg"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET sf17-81-4r",
@@ -1199,9 +1334,11 @@
     "id": 78,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1480,
+    "year_end": 1480,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_sf17-81-4r.jpg",
+    "date": "circa 1480"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET sf17-81-4v",
@@ -1215,9 +1352,11 @@
     "id": 79,
     "subject": "literary",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1480,
+    "year_end": 1480,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%22Dancing_Dervishes%22,_Folio_from_a_Divan_of_Hafiz_MET_sf17-81-4v.jpg",
+    "date": "circa 1480"
   },
   {
     "title": "Dance of Sufi Dervishes",
@@ -1230,9 +1369,11 @@
     "id": 80,
     "subject": "literary",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1480,
+    "year_end": 1480,
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Dance_of_Sufi_Dervishes.jpg",
+    "date": "circa 1480"
   },
   {
     "title": "Battle on the River Oxus, Zafarnama of Sultan Husayn or ‘Garrett Zafarnama’, c.1480 painting",
@@ -1248,7 +1389,8 @@
     "famous": true,
     "year_start": 1480,
     "year_end": 1480,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Battle_on_the_River_Oxus,_Zafarnama_of_Sultan_Husayn_or_%E2%80%98Garrett_Zafarnama%E2%80%99,_c.1480_painting.jpg"
   },
   {
     "title": "Building Samarkand Mosque",
@@ -1263,7 +1405,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Building_Samarkand_Mosque.jpg",
+    "date": ""
   },
   {
     "title": "Depiction of Timur granting audience on the occasion of his accession, in the near contemporary Zafarnama (1424-1428), 1467 edition",
@@ -1279,7 +1423,8 @@
     "famous": true,
     "year_start": 1424,
     "year_end": 1428,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Depiction_of_Timur_granting_audience_on_the_occasion_of_his_accession,_in_the_near_contemporary_Zafarnama_(1424-1428),_1467_edition.jpg"
   },
   {
     "title": "Garrett Zafarnama. Elimination of the last survivors of the town of Nerges, Georgia, in the spring of 1396. illumination ca. 1480s (double panels)",
@@ -1295,7 +1440,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Garrett_Zafarnama._Elimination_of_the_last_survivors_of_the_town_of_Nerges,_Georgia,_in_the_spring_of_1396._illumination_ca._1480s_(double_panels).jpg"
   },
   {
     "title": "Garrett Zafarnama. The last survivors of the town of Nerges, Georgia, being eliminated by Timur, Spring of 1396. Illumination ca. 1480s",
@@ -1311,7 +1457,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Garrett_Zafarnama._The_last_survivors_of_the_town_of_Nerges,_Georgia,_being_eliminated_by_Timur,_Spring_of_1396._Illumination_ca._1480s.jpg"
   },
   {
     "title": "Garrett Zafarnama. The last survivors of the town of Nerges, Georgia, being pursued by Timur, spring of 1396. Illumination ca. 1480s",
@@ -1327,7 +1474,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Garrett_Zafarnama._The_last_survivors_of_the_town_of_Nerges,_Georgia,_being_pursued_by_Timur,_spring_of_1396._Illumination_ca._1480s.jpg"
   },
   {
     "title": "Jahangir Mirza (Timurid prince)",
@@ -1340,9 +1488,11 @@
     "id": 87,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1480,
+    "year_end": 1489,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Jahangir_Mirza_(Timurid_prince).jpg",
+    "date": "1480s"
   },
   {
     "title": "Timur Holding an Audience in Balkh in 1370 from a copy of the Zafarnama of Sharaf al-Din ‘Ali Yazdi. Herat (probably), 1467–8 and c. 1480 Johns Hopkins University, folios 82b–83a",
@@ -1358,7 +1508,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur_Holding_an_Audience_in_Balkh_in_1370_from_a_copy_of_the_Zafarnama_of_Sharaf_al-Din_%E2%80%98Ali_Yazdi._Herat_(probably),_1467%E2%80%938_and_c._1480_Johns_Hopkins_University,_folios_82b%E2%80%9383a.jpg"
   },
   {
     "title": "Timur's army attacks Nerges, Georgia",
@@ -1373,7 +1524,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur%27s_army_attacks_Nerges,_Georgia.jpg",
+    "date": ""
   },
   {
     "title": "Timur's army, commanded by Umar Shaykh, attacks Urgench in 1379. Garrett Zafarnama, painted in 1480",
@@ -1389,7 +1542,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur%27s_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg"
   },
   {
     "title": "Timur, at the 1402 Siege of the fortress of Izmir (1480 painting)",
@@ -1405,7 +1559,8 @@
     "famous": false,
     "year_start": 1402,
     "year_end": 1402,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur,_at_the_1402_Siege_of_the_fortress_of_Izmir_(1480_painting).jpg"
   },
   {
     "title": "Timur, Garrett Zafarnama, painted circa 1480, Herat",
@@ -1421,7 +1576,8 @@
     "famous": false,
     "year_start": 1480,
     "year_end": 1480,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur,_Garrett_Zafarnama,_painted_circa_1480,_Herat.jpg"
   },
   {
     "title": "Umar Shaykh (portrait), in the attack on Urgench in 1379. Garrett Zafarnama, painted in 1480",
@@ -1437,7 +1593,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Umar_Shaykh_(portrait),_in_the_attack_on_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg"
   },
   {
     "title": "Umar Shaykh in a battle near the Syr Darya in 790 (1388). Garrett Zafarnama, ff. 174b–175a",
@@ -1453,7 +1610,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Umar_Shaykh_in_a_battle_near_the_Syr_Darya_in_790_(1388)._Garrett_Zafarnama,_ff._174b%E2%80%93175a.jpg"
   },
   {
     "title": "Umar Shaykh",
@@ -1466,9 +1624,11 @@
     "id": 95,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1480,
+    "year_end": 1489,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Umar_Shaykh.jpg",
+    "date": "1480s"
   },
   {
     "title": "Zafarnama of Sultan Husayn or Garrett Zafarnama. Assault on the Fortress of the Knights of St. John at Smyrna",
@@ -1483,7 +1643,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Zafarnama_of_Sultan_Husayn_or_Garrett_Zafarnama._Assault_on_the_Fortress_of_the_Knights_of_St._John_at_Smyrna.jpg",
+    "date": ""
   },
   {
     "title": "A Convivial Gathering at the Court of Sultan Husayn Bayqara in Herat",
@@ -1498,7 +1660,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:A_Convivial_Gathering_at_the_Court_of_Sultan_Husayn_Bayqara_in_Herat.jpg",
+    "date": ""
   },
   {
     "title": "Behzad beggar at a mosque",
@@ -1511,9 +1675,11 @@
     "id": 98,
     "subject": "religious",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Behzad_beggar_at_a_mosque.jpg",
+    "date": "1488"
   },
   {
     "title": "Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 2b",
@@ -1530,7 +1696,8 @@
     "famous": false,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_2b.jpg"
   },
   {
     "title": "Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 4a",
@@ -1547,7 +1714,8 @@
     "famous": false,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_4a.jpg"
   },
   {
     "title": "Darius and the Herdsman, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 10a",
@@ -1564,7 +1732,8 @@
     "famous": true,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Darius_and_the_Herdsman,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_10a.jpg"
   },
   {
     "title": "Frontispiece from the Cairo Bustan. Herat, c. 1488, for Sultan Husayn Bayqara. Cairo, Dar al-kutub, Adab farisi 22, folio 1b-2a",
@@ -1581,7 +1750,8 @@
     "famous": false,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Frontispiece_from_the_Cairo_Bustan._Herat,_c._1488,_for_Sultan_Husayn_Bayqara._Cairo,_Dar_al-kutub,_Adab_farisi_22,_folio_1b-2a.jpg"
   },
   {
     "title": "The Beggar at the Mosque, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 26a",
@@ -1598,7 +1768,8 @@
     "famous": true,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Beggar_at_the_Mosque,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_26a.jpg"
   },
   {
     "title": "The Poet at the Judge’s Court, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 30b",
@@ -1615,7 +1786,8 @@
     "famous": false,
     "year_start": 1488,
     "year_end": 1488,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Poet_at_the_Judge%E2%80%99s_Court,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg"
   },
   {
     "title": "Frontispiece from a Hasht bihisht of Amir Khusraw Dihwali, dated 1496-97, probably Herat, Topkapi Sarayi Library, H.676, folios 1b-2a",
@@ -1632,7 +1804,8 @@
     "famous": false,
     "year_start": 1496,
     "year_end": 1497,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Frontispiece_from_a_Hasht_bihisht_of_Amir_Khusraw_Dihwali,_dated_1496-97,_probably_Herat,_Topkapi_Sarayi_Library,_H.676,_folios_1b-2a.jpg"
   },
   {
     "title": "Horserider back",
@@ -1645,9 +1818,11 @@
     "id": 106,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Horserider_back_(H_676).jpg",
+    "date": "1496"
   },
   {
     "title": "Hunter (H.676)",
@@ -1660,9 +1835,11 @@
     "id": 107,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hunter_(H.676).jpg",
+    "date": "1496"
   },
   {
     "title": "Hunting party",
@@ -1675,9 +1852,11 @@
     "id": 108,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hunting_party_(H_676).jpg",
+    "date": "1496"
   },
   {
     "title": "Hunting scene from the Hast Bahist by Kamal al-Din Bihzad, Herat, 1496 (complete frontispiece)",
@@ -1693,7 +1872,8 @@
     "famous": false,
     "year_start": 1496,
     "year_end": 1496,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hunting_scene_from_the_Hast_Bahist_by_Kamal_al-Din_Bihzad,_Herat,_1496_(complete_frontispiece).jpg"
   },
   {
     "title": "Hunting scene from the Hast Bahist by Kamal al-Din Bihzad, Herat, 1496",
@@ -1709,7 +1889,8 @@
     "famous": false,
     "year_start": 1496,
     "year_end": 1496,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hunting_scene_from_the_Hast_Bahist_by_Kamal_al-Din_Bihzad,_Herat,_1496.jpg"
   },
   {
     "title": "Hunting scene. H 676",
@@ -1722,9 +1903,11 @@
     "id": 111,
     "subject": "court",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hunting_scene._H_676.jpg",
+    "date": "1496"
   },
   {
     "title": "Muhammad Muhsin equestrial portrait",
@@ -1737,9 +1920,11 @@
     "id": 112,
     "subject": "portrait",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muhammad_Muhsin_equestrial_portrait.jpg",
+    "date": "1496"
   },
   {
     "title": "Muhammad Muhsin on horse",
@@ -1752,9 +1937,11 @@
     "id": 113,
     "subject": "religious",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Muhammad_Muhsin_on_horse.jpg",
+    "date": "1496"
   },
   {
     "title": "Pastor",
@@ -1767,9 +1954,11 @@
     "id": 114,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Pastor_(H_676).jpg",
+    "date": "1496"
   },
   {
     "title": "Portrait of Muhammand Muhsin. Hunting scene from the Hast Bahist by Kamal al-Din Bihzad, Herat, 1496",
@@ -1785,7 +1974,8 @@
     "famous": false,
     "year_start": 1496,
     "year_end": 1496,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Muhammand_Muhsin._Hunting_scene_from_the_Hast_Bahist_by_Kamal_al-Din_Bihzad,_Herat,_1496.jpg"
   },
   {
     "title": "Scenery",
@@ -1798,9 +1988,11 @@
     "id": 116,
     "subject": "other",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Scenery_(H_676).jpg",
+    "date": "1496"
   },
   {
     "title": "A battle between Timur's army and Faraj ibn Barquq, Sultan of Egypt, for the possession of Damascus in 803 H 1401 CE. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1817,7 +2009,8 @@
     "famous": false,
     "year_start": 1401,
     "year_end": 1401,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:A_battle_between_Timur%27s_army_and_Faraj_ibn_Barquq,_Sultan_of_Egypt,_for_the_possession_of_Damascus_in_803_H_1401_CE._Zafarnama,_1528_(Golestan,_MS_708).jpg"
   },
   {
     "title": "Capture of Qotb od-din Qormi and bringing him to Atiq Jame’ Mosque in Shiraz. Attributed to Kamal od-din Behzad, Zafarnamah of Shah Tahmasp (Golestan, no.708, Herat or Tabriz,1528)",
@@ -1834,7 +2027,8 @@
     "famous": false,
     "year_start": 1528,
     "year_end": 1528,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Capture_of_Qotb_od-din_Qormi_and_bringing_him_to_Atiq_Jame%E2%80%99_Mosque_in_Shiraz._Attributed_to_Kamal_od-din_Behzad,_Zafarnamah_of_Shah_Tahmasp_(Golestan,_no.708,_Herat_or_Tabriz,1528).jpg"
   },
   {
     "title": "Death of Jahangir. Yazdi, Zafarnama of 1528. Tehran, Gulistan, MS 708, p. 147",
@@ -1850,7 +2044,8 @@
     "famous": false,
     "year_start": 1528,
     "year_end": 1528,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Death_of_Jahangir._Yazdi,_Zafarnama_of_1528._Tehran,_Gulistan,_MS_708,_p._147.jpg"
   },
   {
     "title": "Festivities with Bayezid as prisoner, after conquering Rum territories. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1867,7 +2062,8 @@
     "famous": false,
     "year_start": 1528,
     "year_end": 1528,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Festivities_with_Bayezid_as_prisoner,_after_conquering_Rum_territories._Zafarnama,_1528_(Golestan,_MS_708).jpg"
   },
   {
     "title": "Ill. 15. The Battle between Timur and Sultan Mahmud Indian Ruler in 801 H 1398 CE and the Victory of Timur's Forces. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1884,7 +2080,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ill._15._The_Battle_between_Timur_and_Sultan_Mahmud_Indian_Ruler_in_801_H_1398_CE_and_the_Victory_of_Timur%27s_Forces._Zafarnama,_1528_(Golestan,_MS_708).jpg"
   },
   {
     "title": "Night attack on Toqtamish Khan. 1528, Yazdi, Zafarnama (Gulistan, Ms 708)",
@@ -1900,7 +2097,8 @@
     "famous": false,
     "year_start": 1528,
     "year_end": 1528,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Night_attack_on_Toqtamish_Khan._1528,_Yazdi,_Zafarnama_(Gulistan,_Ms_708).jpg"
   },
   {
     "title": "The Army of Amir Shams al-Din with his Tugh returns to the battlefield of Leh and the Victory of the Moghul Army in 766 H 1364 CE. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1917,7 +2115,8 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Army_of_Amir_Shams_al-Din_with_his_Tugh_returns_to_the_battlefield_of_Leh_and_the_Victory_of_the_Moghul_Army_in_766_H_1364_CE._Zafarnama,_1528_(Golestan,_MS_708).jpg"
   },
   {
     "title": "The death of Timur. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1934,7 +2133,8 @@
     "famous": false,
     "year_start": 1528,
     "year_end": 1528,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_death_of_Timur._Zafarnama,_1528_(Golestan,_MS_708).jpg"
   },
   {
     "title": "Timur's battle with Shah Mansur, nephew of Shah Shoja', in Fars in 795 H 1393 CE and his slaying by 17-year-old prince Shahrukh. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1951,6 +2151,7 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Timur%27s_battle_with_Shah_Mansur,_nephew_of_Shah_Shoja%27,_in_Fars_in_795_H_1393_CE_and_his_slaying_by_17-year-old_prince_Shahrukh._Zafarnama,_1528_(Golestan,_MS_708).jpg"
   }
 ]

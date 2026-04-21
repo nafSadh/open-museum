@@ -74,6 +74,14 @@ UIs should sort/filter on `year_start`/`year_end` and display `date`.
 
 Fields like `dimensions`, `current_location`, `medium`, `technique`, `series`, `japanese_title`, `w_number`, `f_number` are collection-specific. Each collection's `README.md` documents which fields are required/optional for that collection. Do not retrofit fields into a collection if they don't fit the underlying art tradition (e.g. `current_location` is ill-defined for print editions that exist in many museums simultaneously).
 
+### Disambiguation
+
+When two or more entries in the same collection share a title (Monet's *Haystacks*, Van Gogh's *Sunflowers*, Rembrandt's self-portraits), populate `title_disambig` with a short string that distinguishes them — prefer catalogue-raisonné number + year (Monet `W.2 · 1859`, Van Gogh `F162 · 1884`), else year + range, else first-part of `current_location`. Leave the field absent when the title is already unique within the collection. UIs should append ` · {title_disambig}` to the display title.
+
+### UI templates
+
+Each collection's `index.html` is independent — no shared template file. Some collections (Monet, Van Gogh, Titian) carry themed canvas animations tied to the artist's aesthetic; others use a simpler static SVG grain. This divergence is intentional: the presentation can reflect the collection's character. Don't force consolidation; copy-paste between collections when adding a shared feature (like the `title_disambig` line in the lightbox) rather than extracting a central template.
+
 ## Scripts
 
 - All scraping/processing scripts go in `{collection}/scripts/`

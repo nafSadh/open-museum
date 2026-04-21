@@ -11,9 +11,12 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1920,
+    "year_end": 1940,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:A_Portrait-of_Sun_Duoci_by_Xu_Beihong.jpg",
+    "date": "between 1920 and 1940",
+    "title_disambig": "1920–1940"
   },
   {
     "commons_filename": "A portrait of Sun Duoci by Xu Beihong.jpg",
@@ -27,9 +30,12 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:A_portrait_of_Sun_Duoci_by_Xu_Beihong.jpg",
+    "date": "1935",
+    "title_disambig": "1935"
   },
   {
     "commons_filename": "Buffle et serpent.jpg",
@@ -43,9 +49,11 @@
     "era": "unknown",
     "subject": "animals",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1943,
+    "year_end": 1943,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Buffle_et_serpent.jpg",
+    "date": "1943"
   },
   {
     "commons_filename": "Cat on rock scroll by Xu Beihong.jpg",
@@ -59,9 +67,11 @@
     "era": "unknown",
     "subject": "animals",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1895,
+    "year_end": 1953,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Cat_on_rock_scroll_by_Xu_Beihong.jpg",
+    "date": "between 1895 and 1953"
   },
   {
     "commons_filename": "Horse Standing by Xu Beihong, 1940.jpg",
@@ -78,7 +88,8 @@
     "famous": false,
     "year_start": 1940,
     "year_end": 1940,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Horse_Standing_by_Xu_Beihong,_1940.jpg"
   },
   {
     "commons_filename": "Liao Jingwen.jpg",
@@ -114,7 +125,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Paimai_(6).jpg",
+    "date": ""
   },
   {
     "commons_filename": "Put Down Your Whip by Xu Beihong.jpg",
@@ -128,9 +141,11 @@
     "era": "unknown",
     "subject": "mythology",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Put_Down_Your_Whip_by_Xu_Beihong.jpg",
+    "date": "October 1939"
   },
   {
     "commons_filename": "Sketch of a Man from the Front and the Side.jpg",
@@ -144,9 +159,11 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1924,
+    "year_end": 1924,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sketch_of_a_Man_from_the_Front_and_the_Side.jpg",
+    "date": "1924"
   },
   {
     "commons_filename": "Sun Duoci by Xu Beihong.jpg",
@@ -160,9 +177,11 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1930,
+    "year_end": 1939,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sun_Duoci_by_Xu_Beihong.jpg",
+    "date": "1930s"
   },
   {
     "commons_filename": "The eight horses (Xu Beihong).jpg",
@@ -178,7 +197,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_eight_horses_(Xu_Beihong).jpg",
+    "date": "Unknown date"
   },
   {
     "commons_filename": "Tree and man(selfportrait) Xu Beihong. Guimet.jpg",
@@ -194,7 +215,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tree_and_man(selfportrait)_Xu_Beihong._Guimet.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xu Beihong Banana Trees and Sparrows.jpg",
@@ -208,9 +231,11 @@
     "era": "unknown",
     "subject": "animals",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1942,
+    "year_end": 1942,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu_Beihong_Banana_Trees_and_Sparrows.jpg",
+    "date": "1942"
   },
   {
     "commons_filename": "Xu Beihong yugongyishan.jpg",
@@ -224,9 +249,11 @@
     "era": "unknown",
     "subject": "mythology",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu_Beihong_yugongyishan.jpg",
+    "date": "1939"
   },
   {
     "commons_filename": "Xu beihong Painting Tianheng's five hundreds heroes.jpg",
@@ -243,7 +270,8 @@
     "famous": true,
     "year_start": 1930,
     "year_end": 1930,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu_beihong_Painting_Tianheng%27s_five_hundreds_heroes.jpg"
   },
   {
     "commons_filename": "Xu-Beihong-1925-Painting-Jiang-Biwei-by-a-table.jpg",
@@ -260,7 +288,8 @@
     "famous": false,
     "year_start": 1925,
     "year_end": 1925,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu-Beihong-1925-Painting-Jiang-Biwei-by-a-table.jpg"
   },
   {
     "commons_filename": "Xu-Beihong-Painting-Jiang-Biwei-in-cheongsam.jpg",
@@ -277,7 +306,8 @@
     "famous": false,
     "year_start": 1953,
     "year_end": 1953,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu-Beihong-Painting-Jiang-Biwei-in-cheongsam.jpg"
   },
   {
     "commons_filename": "Xu-Beihong-sketch-drawing-Jiang-Biwei.jpg",
@@ -294,7 +324,8 @@
     "famous": false,
     "year_start": 1953,
     "year_end": 1953,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xu-Beihong-sketch-drawing-Jiang-Biwei.jpg"
   },
   {
     "commons_filename": "XuBeiHongChristina.jpg",
@@ -333,7 +364,8 @@
     "famous": false,
     "year_start": 1939,
     "year_end": 1939,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:XuBeiHongJenny.jpg"
   },
   {
     "commons_filename": "XuBeiHongLimLoh.jpg",
@@ -350,7 +382,8 @@
     "famous": false,
     "year_start": 1927,
     "year_end": 1927,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:XuBeiHongLimLoh.jpg"
   },
   {
     "commons_filename": "XuBeiHongMalayDancers.jpg",
@@ -366,7 +399,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:XuBeiHongMalayDancers.jpg",
+    "date": ""
   },
   {
     "commons_filename": "XuBeiHongMalayOrchids.jpg",
@@ -422,7 +457,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:XuBeihong.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xubeihong 2 cats.jpg",
@@ -438,7 +475,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_2_cats.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xubeihong Jiuju.jpg",
@@ -454,7 +493,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_Jiuju.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xubeihong bamboo woman.jpg",
@@ -470,7 +511,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_bamboo_woman.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xubeihong chicken stands.jpg",
@@ -486,7 +529,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_chicken_stands.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xubeihong liyinquan.jpg",
@@ -502,7 +547,9 @@
     "famous": false,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_liyinquan.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Xubeihong warhorse.jpg",
@@ -518,7 +565,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_warhorse.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Yan Jici sketch by Xu Beihong.jpg",
@@ -532,9 +581,11 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": false,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1927,
+    "year_end": 1927,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yan_Jici_sketch_by_Xu_Beihong.jpg",
+    "date": "1927"
   },
   {
     "commons_filename": "Zhensanli bw.jpg",
@@ -550,7 +601,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Zhensanli_bw.jpg",
+    "date": ""
   },
   {
     "commons_filename": "Zhensanli.jpg",
@@ -566,7 +619,9 @@
     "famous": true,
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Zhensanli.jpg",
+    "date": ""
   },
   {
     "commons_filename": "徐悲鴻 三駿圖 1941.jpg",
@@ -583,7 +638,8 @@
     "famous": true,
     "year_start": 1941,
     "year_end": 1941,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E4%B8%89%E9%A7%BF%E5%9C%96_1941.jpg"
   },
   {
     "commons_filename": "徐悲鴻 貓 1934.jpg",
@@ -600,7 +656,8 @@
     "famous": false,
     "year_start": 1934,
     "year_end": 1934,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E8%B2%93_1934.jpg"
   },
   {
     "commons_filename": "徐悲鴻 馬 1943.jpg",
@@ -617,7 +674,8 @@
     "famous": false,
     "year_start": 1943,
     "year_end": 1943,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E9%A6%AC_1943.jpg"
   },
   {
     "commons_filename": "徐悲鸿 康有为像.jpg",
@@ -631,9 +689,11 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1926,
+    "year_end": 1926,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B8%BF_%E5%BA%B7%E6%9C%89%E4%B8%BA%E5%83%8F.jpg",
+    "date": "1926"
   },
   {
     "commons_filename": "徐悲鸿 康有为夫人像.jpg",
@@ -647,9 +707,11 @@
     "era": "unknown",
     "subject": "portrait",
     "famous": true,
-    "year_start": null,
-    "year_end": null,
-    "circa": false
+    "year_start": 1916,
+    "year_end": 1916,
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B8%BF_%E5%BA%B7%E6%9C%89%E4%B8%BA%E5%A4%AB%E4%BA%BA%E5%83%8F.jpg",
+    "date": "1916"
   },
   {
     "commons_filename": "徐悲鸿虎图轴.jpg",
@@ -666,6 +728,7 @@
     "famous": true,
     "year_start": 1918,
     "year_end": 1918,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B8%BF%E8%99%8E%E5%9B%BE%E8%BD%B4.jpg"
   }
 ]

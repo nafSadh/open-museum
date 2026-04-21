@@ -14,7 +14,8 @@
     "famous": true,
     "year_start": 1852,
     "year_end": 1852,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Degas_-_Self_Portrait,_c.1852.jpg"
   },
   {
     "date": "1853",
@@ -31,7 +32,8 @@
     "famous": false,
     "year_start": 1853,
     "year_end": 1853,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Marguerite_de_Gas_713.jpg"
   },
   {
     "date": "1856",
@@ -261,7 +263,8 @@
     "famous": false,
     "year_start": 1874,
     "year_end": 1874,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg"
   },
   {
     "date": "1875–1877",
@@ -279,7 +282,8 @@
     "famous": false,
     "year_start": 1875,
     "year_end": 1877,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Germain_Hilaire_Degas_037.jpg"
   },
   {
     "date": "1877–1879",
@@ -450,7 +454,8 @@
     "famous": false,
     "year_start": 1879,
     "year_end": 1879,
-    "circa": false
+    "circa": false,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Degas_-_Frau_mit_Stadtkost%C3%BCm.jpg"
   },
   {
     "date": "1879",
@@ -549,7 +554,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Before_the_Race_(painting)",
     "year_start": 1882,
     "year_end": 1884,
-    "circa": false
+    "circa": false,
+    "title_disambig": "1882–1884"
   },
   {
     "date": "1882",
@@ -570,7 +576,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "year_start": 1882,
     "year_end": 1882,
-    "circa": false
+    "circa": false,
+    "title_disambig": "1882"
   },
   {
     "date": "1885",
@@ -686,7 +693,8 @@
     "famous": true,
     "year_start": 1899,
     "year_end": 1899,
-    "circa": true
+    "circa": true,
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ukrainian_Dancers_-_c._1899.png"
   },
   {
     "date": "c. 1906",
@@ -728,7 +736,7 @@
     "circa": false
   },
   {
-    "date": "c. 1860–1862",
+    "date": "c. 1860–1862",
     "title": "Young Spartans Exercising",
     "current_location": "National Gallery, London",
     "commons_filename": "Young_Spartans_Exercising_National_Gallery_NG3860.jpg",
@@ -766,7 +774,7 @@
     "circa": false
   },
   {
-    "date": "c. 1884–1886, reworked between 1890 and 1900",
+    "date": "c. 1884–1886, reworked between 1890 and 1900",
     "title": "After the Bath, Woman Drying Herself",
     "technique": "pastel on wove paper",
     "dimensions": "40.5 × 32 cm",
