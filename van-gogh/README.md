@@ -30,7 +30,7 @@ Each entry in `catalog.json` follows this structure:
   "location": "Museum of Modern Art, New York",
   "f_number": "F612",
   "jh_number": "JH1731",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Starry_Night",
+  "provenance_url": "https://en.wikipedia.org/wiki/The_Starry_Night",
   "commons_url": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/...",
   "type": "painting"

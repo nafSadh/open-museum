@@ -12,7 +12,10 @@
     "id": 1,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Young_Girl_in_Profile_c._1930.jpg",
@@ -27,7 +30,10 @@
     "id": 2,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Male_Torso_c._1930.jpg",
@@ -44,7 +50,10 @@
     "id": 3,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Nude_Study_(1)_c._1930.jpg",
@@ -61,7 +70,10 @@
     "id": 4,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Old_Man_with_Beard_by_Amrita_Sher-Gil.jpg",
@@ -76,7 +88,10 @@
     "id": 5,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Brown_Girl_1930_Paris.jpg",
@@ -91,7 +106,10 @@
     "id": 6,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Gil_Self_Portrait_6_1930.jpg",
@@ -108,13 +126,15 @@
     "id": 7,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait.jpg",
     "title": "Amrita Sher-Gil Self-Portrait 7",
     "date": "1930",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil_Self-Portrait_7_(1930)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "47.4 × 70.2 cm",
     "technique": "Oil on canvas",
@@ -126,7 +146,11 @@
     "id": 8,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil_Self-Portrait_7_(1930)",
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Gil_Self_Portrait_8_1930.jpg",
@@ -143,7 +167,10 @@
     "id": 9,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Gile_self_portrait_9_1930.jpg",
@@ -160,7 +187,10 @@
     "id": 10,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Mother_1930.jpg",
@@ -177,7 +207,10 @@
     "id": 11,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_My_Sister_1930.jpg",
@@ -194,7 +227,10 @@
     "id": 12,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_-_Self_Portrait_with_Easel.jpg",
@@ -211,7 +247,10 @@
     "id": 13,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Self-portrait_with_Red_Background_c._1930.jpg",
@@ -228,7 +267,10 @@
     "id": 14,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_a_Young_Man_-_1930_by_Amrita_Sher-Gil.png",
@@ -245,7 +287,10 @@
     "id": 15,
     "era": "paris",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Boris_Taslitzky_c1930.jpg",
@@ -259,7 +304,10 @@
     "id": 16,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Mme_Taslitzky_c._1930.jpg",
@@ -276,7 +324,10 @@
     "id": 17,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "title": "Self-Portrait 1",
@@ -287,7 +338,10 @@
     "id": 18,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Self-portrait_(2)_1931.jpg",
@@ -304,7 +358,10 @@
     "id": 19,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Self-Portrait 3",
@@ -315,7 +372,10 @@
     "id": 20,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Self-portrait_(4)_c._1931.jpg",
@@ -332,7 +392,10 @@
     "id": 21,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Self-Portrait with Red Flower",
@@ -343,7 +406,10 @@
     "id": 22,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Woman's Back",
@@ -351,7 +417,10 @@
     "id": 23,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Yusuf_Ali_Khan_by_Amrita_Sher-Gil_1931.jpg",
@@ -368,13 +437,15 @@
     "id": 24,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait,_untitled.jpg",
     "title": "Amrita Sher-Gil Self-Portrait",
     "date": "1931",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil_self_portrait_(1931)",
     "current_location": "Private collection.",
     "dimensions": "65.1 × 54 cm",
     "technique": "Oil on canvas",
@@ -386,7 +457,11 @@
     "id": 25,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil_self_portrait_(1931)",
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Victor_Egan_1931.jpg",
@@ -400,7 +475,10 @@
     "id": 26,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Alfred Cortot",
@@ -411,7 +489,10 @@
     "id": 27,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Portrait of a Young Woman",
@@ -422,7 +503,10 @@
     "id": 28,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Violins",
@@ -433,7 +517,10 @@
     "id": 29,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Woman in Blue Coat",
@@ -444,7 +531,10 @@
     "id": 30,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Gil_Girl_in_Mauve_1931.jpg",
@@ -461,7 +551,10 @@
     "id": 31,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Village_Scene_in_Hungary_c._1931.jpg",
@@ -478,7 +571,10 @@
     "id": 32,
     "era": "paris",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "title": "Dressing Table",
@@ -489,7 +585,10 @@
     "id": 33,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1931,
+    "year_end": 1931,
+    "circa": false
   },
   {
     "commons_filename": "Portait_of_a_Parisian_Lady_c._1932.jpg",
@@ -502,7 +601,10 @@
     "id": 34,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Torso_1932.jpg",
@@ -519,7 +621,10 @@
     "id": 35,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-Portrait_5_1932_Paris.jpg",
@@ -536,7 +641,10 @@
     "id": 36,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Adam_and_Eve_c._1932.jpg",
@@ -553,7 +661,10 @@
     "id": 37,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "Still Life with Green Bottles and Apples",
@@ -564,7 +675,10 @@
     "id": 38,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Nude_Self-Portrait_with_Palette_1932.jpg",
@@ -579,7 +693,10 @@
     "id": 39,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self_Portrait_in_Green_Dress_1932_Paris.jpg",
@@ -596,7 +713,10 @@
     "id": 40,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Self-Portrait_in_Green_Amrita_Sher-Gil_1932.jpg",
@@ -613,7 +733,10 @@
     "id": 41,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Department_Store_c.1932.jpg",
@@ -630,7 +753,10 @@
     "id": 42,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "The Blue Danube",
@@ -639,7 +765,10 @@
     "id": 43,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
@@ -656,7 +785,10 @@
     "id": 44,
     "era": "paris",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "Gypsy Girl from Zebegény",
@@ -667,7 +799,10 @@
     "id": 45,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "Girls in conversation",
@@ -678,7 +813,10 @@
     "id": 46,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "Two Children on a Hillside",
@@ -686,7 +824,10 @@
     "id": 47,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sger-Gil_Klarra_Szepessy.jpg",
@@ -703,7 +844,10 @@
     "id": 48,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian_Village_Church_1932_Hungary.jpg",
@@ -720,7 +864,10 @@
     "id": 49,
     "era": "paris",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Denise_Prouteaux_1932_Paris.jpg",
@@ -737,7 +884,10 @@
     "id": 50,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "Portrait of Denise Prouteaux",
@@ -746,13 +896,15 @@
     "id": 51,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Young_Man_with_Apples.jpg",
     "title": "Young Man with Apples",
     "date": "1932",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Man_with_Apples",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "71 × 97 cm",
     "technique": "Oil on canvas",
@@ -764,7 +916,11 @@
     "id": 52,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Young_Man_with_Apples",
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Notre_Dame_1932.jpg",
@@ -781,13 +937,15 @@
     "id": 53,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Young_Girls.jpg",
     "title": "Young Girls",
     "date": "1932",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Girls_(painting)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "133 × 164 cm",
     "technique": "Oil on canvas",
@@ -799,7 +957,11 @@
     "id": 54,
     "era": "paris",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Young_Girls_(painting)",
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Marie-Louise_Chassany_1932.jpg",
@@ -816,7 +978,10 @@
     "id": 55,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Sitting_Nude_(2),_c.1932.jpg",
@@ -833,7 +998,10 @@
     "id": 56,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "title": "Potted Plant in Blossom",
@@ -844,13 +1012,15 @@
     "id": 57,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "My_Grandmother_1932.jpg",
     "title": "My Grandmother",
     "date": "1932",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/My_Grandmother",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "46 × 63.5 cm",
     "technique": "Oil on canvas",
@@ -862,7 +1032,11 @@
     "id": 58,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/My_Grandmother",
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Viola_Egan_c._1932.jpg",
@@ -877,7 +1051,10 @@
     "id": 59,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Gypsy_Woman_Wearing_Shawl_c._1932.jpg",
@@ -894,7 +1071,10 @@
     "id": 60,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Boat_c._1932.jpg",
@@ -908,7 +1088,10 @@
     "id": 61,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1932,
+    "year_end": 1932,
+    "circa": false
   },
   {
     "commons_filename": "Self-portrait_with_Smile_c._1932.jpg",
@@ -925,13 +1108,15 @@
     "id": 62,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "commons_filename": "Reclining_Nude_1933.jpg",
     "title": "Reclining Nude",
     "date": "1933",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Reclining_Nude_(1933)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "70.7 × 93.5 cm",
     "technique": "Oil on canvas",
@@ -943,7 +1128,11 @@
     "id": 63,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Reclining_Nude_(1933)",
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Open_Air_Painters_1933_Paris.jpg",
@@ -960,7 +1149,10 @@
     "id": 64,
     "era": "paris",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Girl_in_Black_1933.jpg",
@@ -975,7 +1167,10 @@
     "id": 65,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Spanish_Girl_1933_Paris.jpg",
@@ -992,13 +1187,15 @@
     "id": 66,
     "era": "paris",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "commons_filename": "Painting_Sleep_1932.jpg",
     "title": "Sleep",
     "date": "1933",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sleep_(Sher-Gil)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "112.5 × 79.1 cm",
     "technique": "Oil on canvas",
@@ -1010,19 +1207,26 @@
     "id": 67,
     "era": "paris",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Sleep_(Sher-Gil)",
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "title": "Professional Model",
     "date": "1933",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Professional_Model",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "72× 100 cm",
     "technique": "Oil on canvas",
     "id": 68,
     "era": "paris",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Professional_Model",
+    "year_start": 1933,
+    "year_end": 1933,
+    "circa": false
   },
   {
     "title": "Model in Green",
@@ -1030,7 +1234,10 @@
     "id": 69,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "Self-portrait_with_Long_hair_(2)_1934.jpg",
@@ -1047,7 +1254,10 @@
     "id": 70,
     "era": "india",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "title": "Model in Brown",
@@ -1055,7 +1265,10 @@
     "id": 71,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_View_from_Studio.jpg",
@@ -1072,13 +1285,15 @@
     "id": 72,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Standing_Nude.jpg",
     "title": "Self-Portrait as a Tahitian",
     "date": "1934",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Tahitian",
     "current_location": "Delhi, Kiran Nadar Museum of Art",
     "dimensions": "90 × 56 cm",
     "technique": "Oil on canvas",
@@ -1090,7 +1305,11 @@
     "id": 73,
     "era": "india",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Tahitian",
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "title": "Boat",
@@ -1098,7 +1317,10 @@
     "id": 74,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "title": "Vine",
@@ -1106,13 +1328,15 @@
     "id": 75,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "The_Little_Girl_in_Blue_by_Amrita_Sher-Gil.jpg",
     "title": "The Little Girl in Blue",
     "date": "1934",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Little_Girl_in_Blue",
     "current_location": "India, private collection",
     "dimensions": "48 × 40.6 cm",
     "technique": "Oil on canvas",
@@ -1124,7 +1348,11 @@
     "id": 76,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Little_Girl_in_Blue",
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "View_from_Majithia_House_1934.jpg",
@@ -1141,13 +1369,15 @@
     "id": 77,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "Group_of_Three_Girls_1935.jpg",
     "title": "Group of Young Girls",
     "date": "1935",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Girls_(painting)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "92.8 × 66.5 cm",
     "technique": "Oil on canvas",
@@ -1159,7 +1389,11 @@
     "id": 78,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Three_Girls_(painting)",
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Woman_on_Terrace_1935_Amritsar.jpg",
@@ -1176,7 +1410,10 @@
     "id": 79,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "title": "Beggars",
@@ -1187,7 +1424,10 @@
     "id": 80,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Woman_with_SUnflower_1935.jpg",
@@ -1201,7 +1441,10 @@
     "id": 81,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Woman_Holding_Fan_1935.jpg",
@@ -1218,7 +1461,10 @@
     "id": 82,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Boy_with_Lemons_1935.jpg",
@@ -1235,13 +1481,15 @@
     "id": 83,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Mother_India_1935.jpg",
     "title": "Mother India",
     "date": "1935",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mother_India_(painting)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "62 × 78 cm",
     "technique": "Oil on canvas",
@@ -1253,7 +1501,11 @@
     "id": 84,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mother_India_(painting)",
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Malcolm_Muggeridge_1935.jpg",
@@ -1268,13 +1520,15 @@
     "id": 85,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Malcolm_Muggeridge_1935.jpg",
     "title": "Malcolm Muggeridge",
     "date": "1935",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Malcolm_Muggeridge",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "59.5 × 94 cm",
     "technique": "Oil on canvas",
@@ -1286,7 +1540,11 @@
     "id": 86,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Malcolm_Muggeridge",
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Father_SherGil_1935_Simla.jpg",
@@ -1302,7 +1560,10 @@
     "id": 87,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Man_in_White_1935.jpg",
@@ -1316,7 +1577,10 @@
     "id": 88,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "title": "Portrait of Mr. F. M. Khan",
@@ -1325,7 +1589,10 @@
     "id": 89,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Nude_Group_1935.jpg",
@@ -1342,7 +1609,10 @@
     "id": 90,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Two_Women_1935.jpg",
@@ -1359,7 +1629,10 @@
     "id": 91,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Two_Women_in_White_1935_Simla.jpg",
@@ -1376,7 +1649,10 @@
     "id": 92,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Hill_Men_1935.jpg",
@@ -1392,13 +1668,15 @@
     "id": 93,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Women-Painting_of_Amrita_Sher_Girl_(cropped).jpeg",
     "title": "Hill Women",
     "date": "1935",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hill_Women",
     "current_location": "Private collection of Vivan Sundaram and Navina Sundaram, Delhi",
     "dimensions": "89 × 147.3 cm",
     "technique": "Oil on canvas",
@@ -1410,7 +1688,11 @@
     "id": 94,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Hill_Women",
+    "year_start": 1935,
+    "year_end": 1935,
+    "circa": false
   },
   {
     "commons_filename": "Raja_Surat_Singh_1936.jpg",
@@ -1427,7 +1709,10 @@
     "id": 95,
     "era": "india",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "The_Little_Untouchable_1936.jpg",
@@ -1442,7 +1727,10 @@
     "id": 96,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Girl_with_Flower_1936.jpg",
@@ -1459,13 +1747,15 @@
     "id": 97,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Child_Wife_1936.jpg",
     "title": "Child Wife",
     "date": "1936",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Child_Wife",
     "current_location": "Private collection",
     "dimensions": "53 × 76 cm",
     "technique": "Oil on canvas",
@@ -1477,7 +1767,11 @@
     "id": 98,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Child_Wife",
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Sunder_Singh_March_1936.jpg",
@@ -1494,7 +1788,10 @@
     "id": 99,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Joji_March_1936.jpg",
@@ -1511,7 +1808,10 @@
     "id": 100,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Sumair_1936.png",
@@ -1528,7 +1828,10 @@
     "id": 101,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Sister_1936.jpg",
@@ -1545,7 +1848,10 @@
     "id": 102,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Woman_in_Red_1936.jpg",
@@ -1562,7 +1868,10 @@
     "id": 103,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Composition_1936.jpg",
@@ -1579,7 +1888,10 @@
     "id": 104,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1936,
+    "year_end": 1936,
+    "circa": false
   },
   {
     "commons_filename": "Fruit_Vendors_1937.jpg",
@@ -1596,13 +1908,15 @@
     "id": 105,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "The_Vina_Player_(cropped).jpg",
     "title": "The Vina Player",
     "date": "1937",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Vina_Player",
     "current_location": "Lahore Museum, Lahore, Pakistan",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Vina_Player_%28cropped%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Vina_Player_%28cropped%29.jpg/960px-The_Vina_Player_%28cropped%29.jpg",
@@ -1612,7 +1926,11 @@
     "id": 106,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Vina_Player",
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Raja_of_Kollengode_1937.jpg",
@@ -1629,7 +1947,10 @@
     "id": 107,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Girl_with_Pitcher_1937.jpg",
@@ -1646,13 +1967,15 @@
     "id": 108,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sger-Gil_Bride's_Toilet.jpg",
     "title": "Bride's Toilet",
     "date": "1937",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bride%27s_Toilet",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "144.5 × 86 cm",
     "technique": "Oil on canvas",
@@ -1664,13 +1987,16 @@
     "id": 109,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Bride%27s_Toilet",
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Brahmacharis_1937.jpg",
     "title": "Brahmacharis",
     "date": "1937",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Brahmacharis_(painting)",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "144.5 × 86.5 cm",
     "technique": "Oil on canvas",
@@ -1682,7 +2008,11 @@
     "id": 110,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Brahmacharis_(painting)",
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Village_Girl_c._1937.jpg",
@@ -1699,7 +2029,10 @@
     "id": 111,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Namaskar_1937.jpg",
@@ -1716,18 +2049,31 @@
     "id": 112,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "South Indian Villagers going to Market",
     "date": "1937",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/South_Indian_Villagers_going_to_Market",
     "dimensions": "90 × 147.3 cm",
     "technique": "Oil on canvas",
     "id": 113,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "commons_filename": "Amrita Sher-Gil painting South Indian Villagers Going to Market 1937 Simla.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg/960px-Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg",
+    "image_width": 3024,
+    "image_height": 2618,
+    "mime": "image/jpeg",
+    "provenance_url": "https://en.wikipedia.org/wiki/South_Indian_Villagers_going_to_Market",
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait_October_1937.jpg",
@@ -1744,7 +2090,10 @@
     "id": 114,
     "era": "india",
     "subject": "self-portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Siesta_1937_Simla.jpg",
@@ -1761,7 +2110,10 @@
     "id": 115,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Dressing_the_Bride_1937_Simla.jpg",
@@ -1778,7 +2130,10 @@
     "id": 116,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Women_on_the_Beach_1937.jpg",
@@ -1795,7 +2150,10 @@
     "id": 117,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "Villagers in Winter",
@@ -1804,7 +2162,10 @@
     "id": 118,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "Mendicant",
@@ -1815,7 +2176,10 @@
     "id": 119,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "Two Mendicants",
@@ -1826,7 +2190,10 @@
     "id": 120,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Lady_Daljit_Singh_of_Kapurthala_1937_Simla.jpg",
@@ -1843,7 +2210,10 @@
     "id": 121,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "Self-Portrait",
@@ -1854,7 +2224,10 @@
     "id": 122,
     "era": "india",
     "subject": "self-portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "Self-Portrait in Blue Sari",
@@ -1865,7 +2238,10 @@
     "id": 123,
     "era": "india",
     "subject": "self-portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Head_of_Girl_1937_Simla.jpg",
@@ -1882,7 +2258,10 @@
     "id": 124,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "commons_filename": "Bullock_Cart_1937.jpg",
@@ -1899,19 +2278,25 @@
     "id": 125,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "The Story Teller",
     "date": "1937",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Story_Teller_(painting)",
     "current_location": "India, private collection",
     "dimensions": "59 × 79 cm",
     "technique": "Oil on canvas",
     "id": 126,
     "era": "india",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Story_Teller_(painting)",
+    "year_start": 1937,
+    "year_end": 1937,
+    "circa": false
   },
   {
     "title": "Portrait of a Stout Lady",
@@ -1920,7 +2305,10 @@
     "id": 127,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "title": "Portrait of Mrs Hirlalal",
@@ -1928,7 +2316,10 @@
     "id": 128,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Portrait_of_Shakuntala_Kapur_1938_Lahore.jpg",
@@ -1943,7 +2334,10 @@
     "id": 129,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Portrait_of_Helen_1938_Lahore.jpg",
@@ -1960,7 +2354,10 @@
     "id": 130,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "title": "Red Brick House",
@@ -1971,7 +2368,10 @@
     "id": 131,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Elephants_Bathing_in_a_Green_Pool_1938_Saraya.jpg",
@@ -1987,7 +2387,10 @@
     "id": 132,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Gil_Village-group-1938.jpg",
@@ -2004,7 +2407,10 @@
     "id": 133,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "title": "Women in Red",
@@ -2015,7 +2421,10 @@
     "id": 134,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Three_Bullock_Carts_1938_Saraya.jpg",
@@ -2032,7 +2441,10 @@
     "id": 135,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hill_Scene_1938_Simla.jpg",
@@ -2049,7 +2461,10 @@
     "id": 136,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hillside_1938_Simla.jpg",
@@ -2066,13 +2481,15 @@
     "id": 137,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Village_Scene_1938_Simla.jpg",
     "title": "Village Scene",
     "date": "1938",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Village_Scene",
     "current_location": "Indian businessman, Nand Khemka, private collection",
     "dimensions": "84 × 62 cm",
     "technique": "Oil on canvas",
@@ -2084,7 +2501,11 @@
     "id": 138,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Village_Scene",
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "In_the_Ladies_Enclosure_1938.jpg",
@@ -2101,7 +2522,10 @@
     "id": 139,
     "era": "india",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Red_Clay_Elephant_1938_Saraya.jpg",
@@ -2118,7 +2542,10 @@
     "id": 140,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Red_Verandah_1938_Simla.jpg",
@@ -2135,7 +2562,10 @@
     "id": 141,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Sardani_Kirpal_Singh_Majithia_1938_Saraya.jpg",
@@ -2152,7 +2582,10 @@
     "id": 142,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "title": "Potato Peeler",
@@ -2163,7 +2596,10 @@
     "id": 143,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "title": "In the Garden",
@@ -2173,7 +2609,10 @@
     "id": 144,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Hungarian_Church_Steeple_1938.jpg",
@@ -2190,7 +2629,10 @@
     "id": 145,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian_Village_Market_1938_Kiskunhalas.jpg",
@@ -2207,7 +2649,10 @@
     "id": 146,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "title": "Trees",
@@ -2218,7 +2663,10 @@
     "id": 147,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian_Peasant_1938_Kiskunhalas.jpg",
@@ -2235,7 +2683,10 @@
     "id": 148,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1938,
+    "year_end": 1938,
+    "circa": false
   },
   {
     "commons_filename": "Winter_1939.jpg",
@@ -2252,7 +2703,10 @@
     "id": 149,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false
   },
   {
     "commons_filename": "Amrita-sher-gil-the-merry-cemetery-1939-trivium-art-history.jpg",
@@ -2269,7 +2723,10 @@
     "id": 150,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Victor_Egan_by_Amrita_Sher-Gil_1939.jpg",
@@ -2286,7 +2743,10 @@
     "id": 151,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false
   },
   {
     "commons_filename": "Female_Torso_1939.jpg",
@@ -2303,7 +2763,10 @@
     "id": 152,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false
   },
   {
     "commons_filename": "Two_Girls_by_Amrita_Sher-Gil_1939_Budapest.jpg",
@@ -2320,7 +2783,10 @@
     "id": 153,
     "era": "india",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Resting_1939_Saraya.jpg",
@@ -2337,7 +2803,10 @@
     "id": 154,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
@@ -2354,7 +2823,10 @@
     "id": 155,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Swing_1940_Saraya.jpg",
@@ -2371,13 +2843,15 @@
     "id": 156,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Woman_on_Charpoy_1940.jpg",
     "title": "Woman on Charpoy",
     "date": "1940",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_on_Charpoy",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "85 × 72.4 cm",
     "technique": "Oil on canvas",
@@ -2389,7 +2863,11 @@
     "id": 157,
     "era": "india",
     "subject": "village",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Woman_on_Charpoy",
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Bride_1940.jpg",
@@ -2406,7 +2884,10 @@
     "id": 158,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Restimg_Mother_1940.jpg",
@@ -2423,7 +2904,10 @@
     "id": 159,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Elephant_promenade_1940.jpg",
@@ -2440,7 +2924,10 @@
     "id": 160,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Elephants_1940.jpg",
@@ -2457,7 +2944,10 @@
     "id": 161,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Giil_Two_Elephants_1940_Saraya.webp",
@@ -2474,7 +2964,10 @@
     "id": 162,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Haldi_Grinders_1940.jpg",
@@ -2491,7 +2984,10 @@
     "id": 163,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Mucisicians_1940.jpg",
@@ -2508,7 +3004,10 @@
     "id": 164,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "title": "Horse and Groom",
@@ -2517,7 +3016,10 @@
     "id": 165,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Woman_at_Bath_1940.jpg",
@@ -2534,7 +3036,10 @@
     "id": 166,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Village_Girls_Saraya_1941.jpg",
@@ -2551,7 +3056,10 @@
     "id": 167,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1941,
+    "year_end": 1941,
+    "circa": false
   },
   {
     "commons_filename": "Sher-Gil_Camels_1941.jpg",
@@ -2568,13 +3076,15 @@
     "id": 168,
     "era": "india",
     "subject": "village",
-    "famous": true
+    "famous": true,
+    "year_start": 1941,
+    "year_end": 1941,
+    "circa": false
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Last_Unfinished_Painting_1941_Lahore.jpg",
     "title": "The Last Unfinished Painting",
     "date": "1941",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Unfinished_Painting",
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "65.7× 87.5 cm",
     "technique": "Oil on canvas",
@@ -2586,6 +3096,10 @@
     "id": 169,
     "era": "india",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Last_Unfinished_Painting",
+    "year_start": 1941,
+    "year_end": 1941,
+    "circa": false
   }
 ]

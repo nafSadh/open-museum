@@ -684,9 +684,9 @@
     "series": "One Hundred Famous Views of Edo",
     "date": "1857 / 11",
     "commons_filename": "De_pruimenboomgaard_te_Kameido-Rijksmuseum_RP-P-1956-743.jpeg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Plum_Park_in_Kameido",
     "depicted": "Plum Park in Kameido",
-    "remarks": "Both in color and theme this print is related to print no. 27 (Plum Orchard in Kamada); copied by Vincent van Gogh under the title Japonaiserie: Flowering Plum Tree"
+    "remarks": "Both in color and theme this print is related to print no. 27 (Plum Orchard in Kamada); copied by Vincent van Gogh under the title Japonaiserie: Flowering Plum Tree",
+    "provenance_url": "https://en.wikipedia.org/wiki/Plum_Park_in_Kameido"
   },
   {
     "title": "Azuma no mori Shrine and the Entwined Camphor (吾嬬の森連理の梓, Azuma no mori Renri no azusa)",
@@ -909,9 +909,9 @@
     "series": "One Hundred Famous Views of Edo",
     "date": "1857 / 9",
     "commons_filename": "Hiroshige_Atake_sous_une_averse_soudaine.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake",
     "depicted": "Shin-Ōhashi bridge, Sumida River, Atake district",
-    "remarks": "Considered to be a masterpiece and possibly Hiroshige's most famous work; copied by Vincent van Gogh"
+    "remarks": "Considered to be a masterpiece and possibly Hiroshige's most famous work; copied by Vincent van Gogh",
+    "provenance_url": "https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake"
   },
   {
     "title": "Ryōgoku Bridge and the Great Riverbank (両国橋大川ばた, Ryōgokubashi Ōkawabata)",
@@ -1102,9 +1102,9 @@
     "series": "One Hundred Famous Views of Edo",
     "date": "1857 / 8",
     "commons_filename": "100_views_edo_082.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tsuki_no_Misaki",
     "depicted": "Edo Bay",
-    "remarks": "Approximately same view as no. 83"
+    "remarks": "Approximately same view as no. 83",
+    "provenance_url": "https://en.wikipedia.org/wiki/Tsuki_no_Misaki"
   },
   {
     "title": "Shinagawa Susaki (品川すさき)",
@@ -1391,9 +1391,9 @@
     "series": "One Hundred Famous Views of Edo",
     "date": "1857 / 9",
     "commons_filename": "Hiroshige,_New_Year's_Eve_foxfires_at_the_changing_tree,_Oji,_1857.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kitsunebi",
     "depicted": "Enoki tree",
-    "remarks": "—"
+    "remarks": "—",
+    "provenance_url": "https://en.wikipedia.org/wiki/Kitsunebi"
   },
   {
     "title": "View of the Paulownia Imperiales Trees at Akasaka on a Rainy Evening (赤坂桐畑雨中夕けい, Akasaka kiribatake uchū yūkei)",
@@ -1504,9 +1504,9 @@
     "series": "The Sixty-nine Stations of the Kiso Kaido",
     "date": "1834-1842",
     "commons_filename": "Kisokaido29_Shimosuwa.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shimosuwa",
     "japanese_title": "下諏訪宿",
-    "transliteration": "Shimosuwa"
+    "transliteration": "Shimosuwa",
+    "provenance_url": "https://en.wikipedia.org/wiki/Shimosuwa"
   },
   {
     "title": "Seba",
@@ -1893,21 +1893,21 @@
     "series": "Famous Views of the Sixty-odd Provinces",
     "date": "1853 / 8",
     "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_18_Awa_Province,_Kominato,_Uchiura.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Awa_Province_(Chiba)"
+    "provenance_url": "https://en.wikipedia.org/wiki/Awa_Province_(Chiba)"
   },
   {
     "title": "Kazusa (上総): Yasashi Bay, Common name: Kujukuri (矢さしが浦 通名九十九里, Ya sashi ga Ura tōrina Kujūkuri)",
     "series": "Famous Views of the Sixty-odd Provinces",
     "date": "1853 / 8",
     "commons_filename": "19_Kazusa.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kazusa_Province"
+    "provenance_url": "https://en.wikipedia.org/wiki/Kazusa_Province"
   },
   {
     "title": "Shimosa (下総): Choshi Beach, Toura (Byōbugaura) (銚子の濱 外浦, Chōshi no hama Sotoura)",
     "series": "Famous Views of the Sixty-odd Provinces",
     "date": "1853 / 8",
     "commons_filename": "The_Famous_Scenes_of_the_Sixty_States_20_Shimosa.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shimosa_Province"
+    "provenance_url": "https://en.wikipedia.org/wiki/Shimosa_Province"
   },
   {
     "title": "Hitachi (常陸): Daijingu Shrine in Kashima (鹿嶋大神宮, Kashima daijingū)",
@@ -2222,9 +2222,9 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "Hiroshige,_Rough_Sea_at_Shichirigahama_in_Sagami_Province,_1852.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Li_(unit)",
     "japanese_title": "相模七里か濱風波 | Sagami shichirigahama fūha",
-    "current_location": "神奈川県鎌倉市 | Kamakura, Kanagawa"
+    "current_location": "神奈川県鎌倉市 | Kamakura, Kanagawa",
+    "provenance_url": "https://en.wikipedia.org/wiki/Li_(unit)"
   },
   {
     "title": "Tanabata Festival in Edo",
@@ -2350,9 +2350,9 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "05_-_Ochanomizu.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ochanomizu",
     "japanese_title": "東都御茶の水 | Tōto ochanomizu",
-    "current_location": "東京都千代田区駿河台・文京区湯島 | Surugadai, Chiyoda/Yushima, Bunkyō, Tokyo"
+    "current_location": "東京都千代田区駿河台・文京区湯島 | Surugadai, Chiyoda/Yushima, Bunkyō, Tokyo",
+    "provenance_url": "https://en.wikipedia.org/wiki/Ochanomizu"
   },
   {
     "title": "Ryōgoku in the Eastern Capital",
@@ -2399,9 +2399,9 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "11_-_Wild_Goose_Hill_and_the_Tone_River.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tone_River",
     "japanese_title": "鴻之臺戸根川 | Kōnodai tonegawa",
-    "current_location": "千葉県市川市国府台 | Kōnodai, Ichikawa, Chiba"
+    "current_location": "千葉県市川市国府台 | Kōnodai, Ichikawa, Chiba",
+    "provenance_url": "https://en.wikipedia.org/wiki/Tone_River"
   },
   {
     "title": "Koganei in Musashi Province",
@@ -2416,9 +2416,9 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "13_-_The_Tama_River.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tama_River",
     "japanese_title": "武蔵玉川 | Musashi tamagawa",
-    "current_location": "東京都日野市 | Hino, Tokyo"
+    "current_location": "東京都日野市 | Hino, Tokyo",
+    "provenance_url": "https://en.wikipedia.org/wiki/Tama_River"
   },
   {
     "title": "Koshigaya in Musashi Province",
@@ -2449,36 +2449,36 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "17_-_The_Sea_off_the_Miura_Peninsula.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Miura_Peninsula",
     "japanese_title": "相州三浦之海上 | Sōshū miura no kaijō",
-    "current_location": "神奈川県三浦市 | Miura-shi, Kanagawa-ken"
+    "current_location": "神奈川県三浦市 | Miura-shi, Kanagawa-ken",
+    "provenance_url": "https://en.wikipedia.org/wiki/Miura_Peninsula"
   },
   {
     "title": "The Sagami River",
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "18_-_The_Sagami_River.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sagami_River",
     "japanese_title": "さがみ川 | Sagamigawa",
-    "current_location": "神奈川県海老名市・厚木市 | Ebina/Atsugi, Kanagawa"
+    "current_location": "神奈川県海老名市・厚木市 | Ebina/Atsugi, Kanagawa",
+    "provenance_url": "https://en.wikipedia.org/wiki/Sagami_River"
   },
   {
     "title": "The Seven Ri Beach in Sagami Province",
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "19_-_The_Seven_Ri_Beach.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shichirigahama",
     "japanese_title": "相摸七里か濱 | Sagami shichirigahama",
-    "current_location": "神奈川県鎌倉市 |  Kamakura, Kanagawa"
+    "current_location": "神奈川県鎌倉市 |  Kamakura, Kanagawa",
+    "provenance_url": "https://en.wikipedia.org/wiki/Shichirigahama"
   },
   {
     "title": "The Entrance gate at Enoshima in Sagami Province",
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "20_-_The_Entrance_Gate_at_Enoshima.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Enoshima",
     "japanese_title": "相摸江之島入口 | Sagami enoshima iriguchi",
-    "current_location": "神奈川県藤沢市 | Fujisawa, Kanagawa"
+    "current_location": "神奈川県藤沢市 | Fujisawa, Kanagawa",
+    "provenance_url": "https://en.wikipedia.org/wiki/Enoshima"
   },
   {
     "title": "Lake at Hakone",
@@ -2517,18 +2517,18 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "25_-_Fuji_on_the_Left_of_Tokaido_Road.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/T%C5%8Dkaid%C5%8D_(road)",
     "japanese_title": "東海堂左り不二 | Tōkaidō hidari fuji",
-    "current_location": "静岡県富士市依田橋 | Yodabashi, Fuji, Shizuoka"
+    "current_location": "静岡県富士市依田橋 | Yodabashi, Fuji, Shizuoka",
+    "provenance_url": "https://en.wikipedia.org/wiki/T%C5%8Dkaid%C5%8D_(road)"
   },
   {
     "title": "The Ōi River between Suruga and Totomi Provinces",
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "26_-_The_Oi_River_Between_Suruga_and_Totomi_Provinces.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%8Ci_River",
     "japanese_title": "駿遠大井川 | Sun'en ōigawa",
-    "current_location": "静岡県島田市 | Shimada, Shizuoka"
+    "current_location": "静岡県島田市 | Shimada, Shizuoka",
+    "provenance_url": "https://en.wikipedia.org/wiki/%C5%8Ci_River"
   },
   {
     "title": "Futami Bay in Ise Province",
@@ -2543,9 +2543,9 @@
     "series": "Thirty-six Views of Mount Fuji",
     "date": "1852-1858",
     "commons_filename": "Hiroshige_-_36_Views_of_Fuji-san_-_28._Lake_Suwa.jpg",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Suwa",
     "japanese_title": "信州諏訪之湖 | Shinshū suwa no mizuumi",
-    "current_location": "長野県諏訪市 | Suwa, Nagano"
+    "current_location": "長野県諏訪市 | Suwa, Nagano",
+    "provenance_url": "https://en.wikipedia.org/wiki/Lake_Suwa"
   },
   {
     "title": "Shiojiri Pass in Shinano Province",
@@ -2623,30 +2623,30 @@
   },
   {
     "title": "Print 46: Rain Shower at Shōno",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sh%C5%8Dno-juku",
     "commons_filename": "Hiroshige,_Travellers_surprised_by_sudden_rain.jpg",
-    "series": "Other works"
+    "series": "Other works",
+    "provenance_url": "https://en.wikipedia.org/wiki/Sh%C5%8Dno-juku"
   },
   {
     "date": "1859",
     "title": "Suō Iwakuni, Hiroshige II",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hiroshige_II",
     "commons_filename": "Hiroshige_II_Suō_Iwakuni.jpg",
-    "series": "Other works"
+    "series": "Other works",
+    "provenance_url": "https://en.wikipedia.org/wiki/Hiroshige_II"
   },
   {
     "date": "c. 1870",
     "title": "Teppōzu Akashi-bashi, Hiroshige III",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hiroshige_III",
     "commons_filename": "Hiroshige_III_-_Teppōzu_Akashi-bashi.jpg",
-    "series": "Other works"
+    "series": "Other works",
+    "provenance_url": "https://en.wikipedia.org/wiki/Hiroshige_III"
   },
   {
     "date": "c. 1855–56",
     "title": "Dog stealing a workman's meal from a snow Daruma, Hirokage",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Daruma_doll",
     "commons_filename": "Hirokage_-_Comic_Incidents_at_Famous_Places_in_Edo_(Edo_meisho_dôke_zukushi),_No._22,_dog_stealing_a_workman's_meal_from_a_snow_Daruma.jpg",
-    "series": "Other works"
+    "series": "Other works",
+    "provenance_url": "https://en.wikipedia.org/wiki/Daruma_doll"
   },
   {
     "title": "Moonlight View of Tsukuda with Lady on a Balcony",
@@ -2697,9 +2697,9 @@
   },
   {
     "title": "Heavy rain on a pine tree, from Eight Views of Ōmi",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Eight_Views_of_%C5%8Cmi",
     "commons_filename": "Hiroshige_Heavy_rain_on_a_pine_tree_2.jpg",
-    "series": "Other works"
+    "series": "Other works",
+    "provenance_url": "https://en.wikipedia.org/wiki/Eight_Views_of_%C5%8Cmi"
   },
   {
     "title": "Fishing boats on a lake, from Eight Views of Ōmi",

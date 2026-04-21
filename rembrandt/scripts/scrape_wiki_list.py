@@ -148,7 +148,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
             return f"https://en.wikipedia.org{link}"
@@ -171,7 +171,7 @@ def process_paintings_table(table: dict) -> list:
 
         # Col 1: Title
         work["title"] = row[1]["text"].strip()
-        work["wikipedia_url"] = extract_wikipedia_url(row[1]["links"])
+        work["provenance_url"] = extract_provenance_url(row[1]["links"])
 
         # Col 2: Year
         work["date"] = row[2]["text"].strip()
@@ -217,7 +217,7 @@ def process_etchings_table(table: dict) -> list:
         # Col 3: Title
         if len(row) > 3:
             work["title"] = row[3]["text"].strip()
-            work["wikipedia_url"] = extract_wikipedia_url(row[3]["links"])
+            work["provenance_url"] = extract_provenance_url(row[3]["links"])
 
         # Col 4: Year
         if len(row) > 4:
@@ -245,7 +245,7 @@ def process_drawings_table(table: dict) -> list:
 
         # Col 1: Title
         work["title"] = row[1]["text"].strip()
-        work["wikipedia_url"] = extract_wikipedia_url(row[1]["links"])
+        work["provenance_url"] = extract_provenance_url(row[1]["links"])
 
         # Col 2: Year
         work["date"] = row[2]["text"].strip()

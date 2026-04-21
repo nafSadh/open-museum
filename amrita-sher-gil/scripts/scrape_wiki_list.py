@@ -154,7 +154,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs.
     Skip year-in-art links like /wiki/1930_in_art."""
     for link in links:
@@ -216,7 +216,7 @@ def process_table(table: dict, table_year_context: str = "") -> list:
 
         work["title"] = raw_title
         work["date"] = current_year
-        work["wikipedia_url"] = extract_wikipedia_url(title_cell["links"])
+        work["provenance_url"] = extract_provenance_url(title_cell["links"])
 
         # Col 2: Collection
         if len(row) > 2:

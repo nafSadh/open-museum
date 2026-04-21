@@ -2,7 +2,6 @@
   {
     "commons_filename": "Titian_-_The_Appeal_-_26.107_-_Detroit_Institute_of_Arts.jpg",
     "title": "Detroit Trio (The Appeal)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Detroit_Trio",
     "date": "c. 1500",
     "dimensions": "84.5 x 69.2 cm",
     "current_location": "Detroit Institute of Arts (Detroit). Also attributed to Giorgione and Sebastiano del Piombo",
@@ -15,12 +14,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Detroit_Trio",
+    "year_start": 1500,
+    "year_end": 1500,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_o_giorgione,_cristo_portacroce.jpg",
     "title": "Christ Carrying the Cross",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Christ_Carrying_the_Cross_(Titian)",
     "date": "1505",
     "dimensions": "68.2 × 88.3 cm",
     "current_location": "Scuola Grande di San Rocco (Venice). Also attributed to Giorgione.",
@@ -33,12 +35,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Christ_Carrying_the_Cross_(Titian)",
+    "year_start": 1505,
+    "year_end": 1505,
+    "circa": false
   },
   {
     "commons_filename": "Madonna_and_Child_MET_DT5274.jpg",
     "title": "Madonna and Child (Bache Madonna)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bache_Madonna",
     "date": "c. 1508",
     "dimensions": "45 × 55 cm",
     "current_location": "Metropolitan Museum of Art (New York)",
@@ -51,12 +56,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Bache_Madonna",
+    "year_start": 1508,
+    "year_end": 1508,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Flight_into_Egypt,_Circa_1508.jpg",
     "title": "Flight into Egypt",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Flight_into_Egypt_(Titian)",
     "date": "c. 1508",
     "dimensions": "206 × 336 cm",
     "current_location": "Hermitage Museum (Saint Petersburg)",
@@ -69,12 +77,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Flight_into_Egypt_(Titian)",
+    "year_start": 1508,
+    "year_end": 1508,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_cristo_e_l'adultera,_glasgow.jpg",
     "title": "Christ and the Adulteress",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Christ_and_the_Adulteress_(Titian,_Glasgow)",
     "date": "c. 1508–1510",
     "dimensions": "139.3 × 181.7 cm",
     "current_location": "Kelvingrove Art Gallery and Museum (Glasgow)",
@@ -87,12 +98,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Christ_and_the_Adulteress_(Titian,_Glasgow)",
+    "year_start": 1508,
+    "year_end": 1510,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_A_Man_with_a_Quilted_Sleeve_-_Google_Art_Project.jpg",
     "title": "Portrait of a Man (A Man with a Quilted Sleeve)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Man_with_a_Quilted_Sleeve",
     "date": "c. 1508–1510",
     "dimensions": "81.2 × 66.3 cm",
     "current_location": "National Gallery (London)",
@@ -105,12 +119,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/A_Man_with_a_Quilted_Sleeve",
+    "year_start": 1508,
+    "year_end": 1510,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Portrait_of_a_Lady_('La_Schiavona')_-_Google_Art_Project.jpg",
     "title": "Portrait of a Lady (La Schiavona)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/La_Schiavona",
     "date": "c. 1509–1510",
     "dimensions": "117 × 97 cm",
     "current_location": "National Gallery (London)",
@@ -123,12 +140,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/La_Schiavona",
+    "year_start": 1509,
+    "year_end": 1510,
+    "circa": true
   },
   {
     "commons_filename": "Le_Concert_champêtre,_by_Titian,_from_C2RMF_retouched.jpg",
     "title": "Pastoral Concert",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastoral_Concert",
     "date": "c. 1510",
     "dimensions": "118 × 138 cm",
     "current_location": "Louvre (Paris)",
@@ -141,12 +161,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Pastoral_Concert",
+    "year_start": 1510,
+    "year_end": 1510,
+    "circa": true
   },
   {
     "commons_filename": "Portrait_of_a_Man_in_a_Red_Cap_-_Titian_c._1510.jpg",
     "title": "Portrait of a Man in a Red Cap",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Cap",
     "date": "c. 1510",
     "dimensions": "82 × 71 cm",
     "current_location": "Frick Collection (New York)",
@@ -159,12 +182,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Cap",
+    "year_start": 1510,
+    "year_end": 1510,
+    "circa": true
   },
   {
     "commons_filename": "Attributed_to_Titian_(c._1488-Venice_1576)_-_The_Lovers_-_RCIN_403928_-_Royal_Collection.jpg",
     "title": "The Lovers",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lovers_(Titian)",
     "date": "c. 1510",
     "dimensions": "74.5 x 65.2 cm",
     "current_location": "Royal Collection (Windsor). Attributed to Titian",
@@ -177,12 +203,15 @@
     "era": "early",
     "subject": "allegory",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Lovers_(Titian)",
+    "year_start": 1510,
+    "year_end": 1510,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_St_Mark_Enthroned_with_Saints_-_WGA22765.jpg",
     "title": "St. Mark Enthroned",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/St._Mark_Enthroned",
     "date": "1510/11",
     "dimensions": "218 × 149 cm",
     "current_location": "Santa Maria della Salute (Venice)",
@@ -195,12 +224,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/St._Mark_Enthroned",
+    "year_start": 1510,
+    "year_end": 1510,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_023.jpg",
     "title": "The Jealous Husband",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Miracle_of_the_Jealous_Husband",
     "date": "1511",
     "dimensions": "340 × 207 cm",
     "current_location": "Scuola del Santo, Padua",
@@ -213,7 +245,11 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Miracle_of_the_Jealous_Husband",
+    "year_start": 1511,
+    "year_end": 1511,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_024.jpg",
@@ -230,7 +266,10 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1511,
+    "year_end": 1511,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_025.jpg",
@@ -247,12 +286,14 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1511,
+    "year_end": 1511,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg",
     "title": "Noli me tangere",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Noli_me_tangere_(Titian)",
     "date": "c. 1511–1515",
     "dimensions": "109 × 91 cm",
     "current_location": "National Gallery (London)",
@@ -265,12 +306,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Noli_me_tangere_(Titian)",
+    "year_start": 1511,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Portrait_d'une_Femme_à_sa_Toilette,_by_Titian,_from_C2RMF_retouched.jpg",
     "title": "Woman with a Mirror",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_with_a_Mirror",
     "date": "c. 1511–1515",
     "dimensions": "96 × 76 cm",
     "current_location": "Louvre (Paris)",
@@ -283,7 +327,11 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Mirror",
+    "year_start": 1511,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Titian_(c.1488-1576)_-_Portrait_of_an_Unknown_Man_(once_called_'Pietro_Aretino')_-_851770_-_National_Trust.jpg",
@@ -300,12 +348,14 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1512,
+    "year_end": 1512,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_002.jpg",
     "title": "The Three Ages of Man",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Three_Ages_of_Man_(Titian)",
     "date": "c. 1512",
     "dimensions": "106 × 182 cm",
     "current_location": "National Gallery of Scotland (Edinburgh)",
@@ -318,12 +368,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Three_Ages_of_Man_(Titian)",
+    "year_start": 1512,
+    "year_end": 1512,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Gipsy_Madonna_-_Google_Art_Project.jpg",
     "title": "Madonna and Child (\"The Gypsy Madonna\")",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gypsy_Madonna",
     "date": "c. 1512",
     "dimensions": "65.8 × 83.8 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -336,12 +389,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Gypsy_Madonna",
+    "year_start": 1512,
+    "year_end": 1512,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_095.jpg",
     "title": "Baptism of Christ",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Baptism_of_Christ_(Titian)",
     "date": "c. 1512",
     "dimensions": "115 × 89 cm",
     "current_location": "Capitoline Museums (Rome)",
@@ -354,12 +410,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Baptism_of_Christ_(Titian)",
+    "year_start": 1512,
+    "year_end": 1512,
+    "circa": true
   },
   {
     "commons_filename": "Titian_Madonna_and_Child_with_Sts_Catherine_and_Dominic_and_a_Donor.jpg",
     "title": "Balbi Holy Conversation (Madonna and Child with Sts. Catherine and Dominic and a Donor)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Balbi_Holy_Conversation",
     "date": "c. 1512-1514",
     "dimensions": "130 × 185 cm",
     "current_location": "Magnani-Rocca Foundation (Traversetolo)",
@@ -372,12 +431,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Balbi_Holy_Conversation",
+    "year_start": 1512,
+    "year_end": 1514,
+    "circa": true
   },
   {
     "commons_filename": "Accademia_-_Archangel_Raphael_and_Tobit_by_Titian.jpg",
     "title": "The Archangel Raphael and Tobias",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Archangel_Raphael_and_Tobias_(Titian)",
     "date": "c. 1512-1514",
     "dimensions": "170 × 146 cm",
     "current_location": "Gallerie dell'Accademia (Venice)",
@@ -390,12 +452,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Archangel_Raphael_and_Tobias_(Titian)",
+    "year_start": 1512,
+    "year_end": 1514,
+    "circa": true
   },
   {
     "commons_filename": "TITIAN;_Portrait_of_Jacopo_Sannazaro_(1514-18).JPG",
     "title": "Portrait of Jacopo Sannazaro",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Jacopo_Sannazaro",
     "date": "c. 1514–1518",
     "dimensions": "85.7 × 72.7 cm",
     "current_location": "Royal Collection (United Kingdom)",
@@ -408,12 +473,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Jacopo_Sannazaro",
+    "year_start": 1514,
+    "year_end": 1518,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_-_Flora_-_Google_Art_Project.jpg",
     "title": "Flora",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Flora_(Titian)",
     "date": "c. 1515",
     "dimensions": "79 × 63 cm",
     "current_location": "Uffizi (Florence)",
@@ -426,12 +494,15 @@
     "era": "early",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Flora_(Titian)",
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecellio,_gen._Tizian,_Kunsthistorisches_Museum_Wien_-_Der_Arzt_Gian_Giacomo_Bartolotti_da_Parma_-_GG_94_-_Kunsthistorisches_Museum.jpg",
     "title": "Portrait of the Physician Gian Giacomo Bartolotti da Parma",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_the_Physician_Gian_Giacomo_Bartolotti_da_Parma",
     "date": "c. 1515",
     "dimensions": "88 × 75 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -444,12 +515,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_the_Physician_Gian_Giacomo_Bartolotti_da_Parma",
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Portrait_of_a_Man_MET_DT2774.jpg",
     "title": "Portrait of a Man",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Titian,_New_York)",
     "date": "c. 1515",
     "dimensions": "50 × 45 cm",
     "current_location": "Metropolitan Museum of Art (New York)",
@@ -462,12 +536,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Titian,_New_York)",
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_salome.jpg",
     "title": "Salome",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Salome_(Titian,_Rome)",
     "date": "c. 1515",
     "dimensions": "90 × 72 cm",
     "current_location": "Doria Pamphilj Gallery (Rome)",
@@ -480,12 +557,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Salome_(Titian,_Rome)",
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_033.jpg",
     "title": "Kirschenmadonna (Madonna of the Cherries)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Madonna_of_the_Cherries",
     "date": "c. 1515",
     "dimensions": "81 × 99.5 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -498,12 +578,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Madonna_of_the_Cherries",
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_-_Vanità_(Alte_Pinakothek_München).jpg",
     "title": "Vanity",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Vanity_(Titian)",
     "date": "c. 1515",
     "dimensions": "97 × 81 cm",
     "current_location": "Alte Pinakothek (Munich)",
@@ -516,12 +599,15 @@
     "era": "early",
     "subject": "allegory",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Vanity_(Titian)",
+    "year_start": 1515,
+    "year_end": 1515,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_Violante_dsc01834.jpg",
     "title": "Violante",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Violante_(Titian)",
     "date": "c. 1515–1516",
     "dimensions": "64.5 × 51 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -534,12 +620,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Violante_(Titian)",
+    "year_start": 1515,
+    "year_end": 1516,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_tarquinio_e_lucrezia.jpg",
     "title": "Lucretia and her Husband (or Tarquin and Lucretia, and possibly by Palma Vecchio)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Lucretia_and_her_Husband",
     "date": "c. 1515–1520",
     "dimensions": "82 × 68 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -552,7 +641,11 @@
     "era": "early",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Lucretia_and_her_Husband",
+    "year_start": 1515,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_ritratto_di_giovane_di_petworth_house.jpg",
@@ -569,12 +662,14 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1515,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_-_Amor_Sacro_y_Amor_Profano_(Galería_Borghese,_Roma,_1514).jpg",
     "title": "Sacred and Profane Love",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
     "date": "c. 1515–1516",
     "dimensions": "118 × 279 cm",
     "current_location": "Galleria Borghese (Rome)",
@@ -587,12 +682,15 @@
     "era": "early",
     "subject": "allegory",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
+    "year_start": 1515,
+    "year_end": 1516,
+    "circa": true
   },
   {
     "commons_filename": "The_Tribute_Money_(1516)_-_Tizian_(Gemäldegalerie_Alte_Meister,_Dresden).jpg",
     "title": "The Tribute Money",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tribute_Money_(Titian)",
     "date": "c. 1516",
     "dimensions": "75 × 56 cm",
     "current_location": "Gemäldegalerie Alte Meister, Dresden",
@@ -605,12 +703,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Tribute_Money_(Titian)",
+    "year_start": 1516,
+    "year_end": 1516,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_041.jpg",
     "title": "Assumption of the Virgin",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
     "date": "c. 1516–1518",
     "dimensions": "690 × 360 cm",
     "current_location": "Basilica di Santa Maria Gloriosa dei Frari (Venice)",
@@ -623,12 +724,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
+    "year_start": 1516,
+    "year_end": 1518,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_Madonna_and_Child_with_Sts_Dorothy_and_George.jpg",
     "title": "The Virgin and Child with Saint George and Saint Dorothy",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_George_and_Saint_Dorothy",
     "date": "c. 1516",
     "dimensions": "86 × 130 cm",
     "current_location": "Prado Museum (Madrid)",
@@ -641,12 +745,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_George_and_Saint_Dorothy",
+    "year_start": 1516,
+    "year_end": 1516,
+    "circa": true
   },
   {
     "commons_filename": "Titian,_Virgin_and_Child_with_St_John_the_Baptist_and_an_Unidentified_Male_Saint,_Oil_on_canvas,_transferred_from_wood,_1517-1520..jpg",
     "title": "Virgin and Child with Saint John the Baptist and an Unidentified Saint",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_John_the_Baptist_and_an_Unidentified_Saint",
     "date": "c. 1515–1520",
     "dimensions": "62.7 x 93 cm",
     "current_location": "Duke of Sutherland, on loan to the Scottish National Gallery (Edinburgh)",
@@ -659,12 +766,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_John_the_Baptist_and_an_Unidentified_Saint",
+    "year_start": 1515,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Bacanal_de_los_andrios.jpg",
     "title": "The Bacchanal of the Andrians",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Bacchanal_of_the_Andrians",
     "date": "c. 1518–1519",
     "dimensions": "175 × 193 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -677,12 +787,15 @@
     "era": "early",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Bacchanal_of_the_Andrians",
+    "year_start": 1518,
+    "year_end": 1519,
+    "circa": true
   },
   {
     "commons_filename": "Ofrenda_a_Venus.jpg",
     "title": "The Worship of Venus",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Worship_of_Venus",
     "date": "1518–1520",
     "dimensions": "172 × 175 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -695,12 +808,15 @@
     "era": "early",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Worship_of_Venus",
+    "year_start": 1518,
+    "year_end": 1520,
+    "circa": false
   },
   {
     "commons_filename": "Duomo_(Treviso)_-_Interior_-_Annunciation_by_Titian_crop.jpg",
     "title": "Malchiostro Annunciation",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Malchiostro_Annunciation",
     "date": "c. 1520",
     "dimensions": "210 × 176 cm",
     "current_location": "Duomo, (Treviso)",
@@ -713,12 +829,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Malchiostro_Annunciation",
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecellio,_gen._Tizian,_Kunsthistorisches_Museum_Wien_-_Christus_und_die_Ehebrecherin_-_GG_114_-_Kunsthistorisches_Museum.jpg",
     "title": "Christ and the Adulteress",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Christ_and_the_Adulteress_(Titian,_Vienna)",
     "date": "c. 1520",
     "dimensions": "82.5 × 136.5 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -731,12 +850,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Christ_and_the_Adulteress_(Titian,_Vienna)",
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "La_Vierge_à_l'_Enfant_avec_saint_Étienne,_saint_Jérôme_et_saint_Maurice_(Titian,_Louvre).jpg",
     "title": "Virgin and Child with Saint Stephen, Saint Jerome and Saint Maurice",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saints_Stephen,_Jerome_and_Maurice_(Titian,_Paris)",
     "date": "c. 1510–1525",
     "dimensions": "112.5 × 143.2 cm",
     "current_location": "Louvre (Paris)",
@@ -749,12 +871,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saints_Stephen,_Jerome_and_Maurice_(Titian,_Paris)",
+    "year_start": 1510,
+    "year_end": 1525,
+    "circa": true
   },
   {
     "commons_filename": "Maria_mit_Kind_und_den_Hll._Stephanus,_Hieronymus_und_Mauritius_(Titian,_Vienna).png",
     "title": "Mary with Child and Saints Stephen, Jerome and Mauritius",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saints_Stephen,_Jerome_and_Maurice_(Titian,_Vienna)",
     "date": "c. 1520",
     "dimensions": "93.3 × 138.2 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -767,12 +892,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saints_Stephen,_Jerome_and_Maurice_(Titian,_Vienna)",
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_071.jpg",
     "title": "Portrait of Vincenzo Mosti",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Vincenzo_Mosti",
     "date": "c. 1520",
     "dimensions": "85 × 67 cm",
     "current_location": "Galleria Palatina, (Florence)",
@@ -785,12 +913,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Vincenzo_Mosti",
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_pala_gozzi_01.jpg",
     "title": "Gozzi Altarpiece",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Gozzi_Altarpiece",
     "date": "1520",
     "dimensions": "312 × 215 cm",
     "current_location": "Pinacoteca civica Francesco Podesti, (Ancona)",
@@ -803,12 +934,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Gozzi_Altarpiece",
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": false
   },
   {
     "commons_filename": "Polittico_averoldi_01.jpg",
     "title": "Averoldi Polyptych",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Averoldi_Polyptych",
     "date": "c. 1520–1522",
     "dimensions": "278 × 292 cm",
     "current_location": "Santi Nazaro e Celso (Brescia)",
@@ -821,12 +955,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Averoldi_Polyptych",
+    "year_start": 1520,
+    "year_end": 1522,
+    "circa": true
   },
   {
     "commons_filename": "Titian_(Tiziano_Vecellio)_-_Venus_Rising_from_the_Sea_('Venus_Anadyomene')_-_Google_Art_Project.jpg",
     "title": "Venus Anadyomene",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_Anadyomene_(Titian)",
     "date": "c. 1520",
     "dimensions": "73.6 × 58.4 cm",
     "current_location": "National Gallery of Scotland (Edinburgh)",
@@ -839,7 +976,11 @@
     "era": "early",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_Anadyomene_(Titian)",
+    "year_start": 1520,
+    "year_end": 1520,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_006.jpg",
@@ -856,12 +997,14 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1520,
+    "year_end": 1522,
+    "circa": true
   },
   {
     "commons_filename": "Titian_Bacchus_and_Ariadne.jpg",
     "title": "Bacchus and Ariadne",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bacchus_and_Ariadne",
     "date": "c. 1522–1523",
     "dimensions": "175 × 190 cm",
     "current_location": "National Gallery (London)",
@@ -874,12 +1017,15 @@
     "era": "early",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Bacchus_and_Ariadne",
+    "year_start": 1522,
+    "year_end": 1523,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_079.jpg",
     "title": "Man with a Glove",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Man_with_a_Glove",
     "date": "c. 1520–1523",
     "dimensions": "100 × 89 cm",
     "current_location": "Louvre (Paris)",
@@ -892,12 +1038,15 @@
     "era": "early",
     "subject": "allegory",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Man_with_a_Glove",
+    "year_start": 1520,
+    "year_end": 1523,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_028.jpg",
     "title": "The Entombment",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Entombment_(Titian,_1525)",
     "date": "c. 1523–1525",
     "dimensions": "148 × 225 cm",
     "current_location": "Louvre (Paris)",
@@ -910,12 +1059,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Entombment_(Titian,_1525)",
+    "year_start": 1523,
+    "year_end": 1525,
+    "circa": true
   },
   {
     "commons_filename": "Frari_(Venice)_nave_left_-_Altar_of_Madona_di_Ca'Pesaro.jpg",
     "title": "Pesaro Madonna",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
     "date": "c. 1519–1526",
     "dimensions": "478 × 268 cm",
     "current_location": "Basilica di Santa Maria Gloriosa dei Frari (Venice)",
@@ -928,12 +1080,15 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
+    "year_start": 1519,
+    "year_end": 1526,
+    "circa": true
   },
   {
     "commons_filename": "Titian_madonna_of_frari_vatican.jpg",
     "title": "Altarpiece of San Nicolò della Lattuga",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Altarpiece_of_San_Nicol%C3%B2_della_Lattuga",
     "date": "c. 1522–1526",
     "dimensions": "388 × 260 cm",
     "current_location": "Vatican Museums",
@@ -946,12 +1101,15 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Altarpiece_of_San_Nicol%C3%B2_della_Lattuga",
+    "year_start": 1522,
+    "year_end": 1526,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_-_Portrait_of_Federico_II_Gonzaga_-_circa_1525.jpg",
     "title": "Portrait of Federico II Gonzaga",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Federico_II_Gonzaga",
     "date": "c. 1525–1528",
     "dimensions": "125 × 99 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -964,12 +1122,15 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Federico_II_Gonzaga",
+    "year_start": 1525,
+    "year_end": 1528,
+    "circa": true
   },
   {
     "commons_filename": "La_Vierge_au_Lapin_à_la_Loupe.jpg",
     "title": "Madonna and Child with Saint Catherine and a Rabbit",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Madonna_of_the_Rabbit",
     "date": "1530",
     "dimensions": "71 × 85 cm",
     "current_location": "Louvre (Paris)",
@@ -982,12 +1143,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Madonna_of_the_Rabbit",
+    "year_start": 1530,
+    "year_end": 1530,
+    "circa": false
   },
   {
     "commons_filename": "Giacomo_Dolfin_(Tiziano).jpg",
     "title": "Portrait of Giacomo di Andrea Dolfin",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Giacomo_di_Andrea_Dolfin",
     "date": "c. 1531–1532",
     "dimensions": "101 × 88 cm",
     "current_location": "Los Angeles County Museum of Art (Los Angeles)",
@@ -1000,12 +1164,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Giacomo_di_Andrea_Dolfin",
+    "year_start": 1531,
+    "year_end": 1532,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Portrait_of_a_Venetian_Gentleman_painted_over_a_copy_of_Giacomo_Dolfin.jpg",
     "title": "Portrait of a Venetian Nobleman",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Giacomo_di_Andrea_Dolfin#Copy",
     "date": "after 1530",
     "dimensions": "108.0 cm × 91.4 cm",
     "current_location": "Norton Simon Museum (Pasadena)",
@@ -1018,12 +1185,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Giacomo_di_Andrea_Dolfin#Copy",
+    "year_start": 1530,
+    "year_end": 1530,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Cardinal_Ippolito_de'_Medici_in_a_Hungarian_Costume_(by_Titian)_-_Palazzo_Pitti,_Florence.jpg",
     "title": "Portrait of Ippolito de' Medici",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Ippolito_de%27_Medici",
     "date": "1532–1533",
     "dimensions": "139 x 107 cm",
     "current_location": "Palazzo Pitti (Florence)",
@@ -1036,12 +1206,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Ippolito_de%27_Medici",
+    "year_start": 1532,
+    "year_end": 1533,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_The_Virgin_and_Child_with_the_Infant_Saint_John_and_a_Female_Saint_or_Donor_('The_Aldobrandini_Madonna')_-_Google_Art_Project.jpg",
     "title": "Madonna and Child with Saint John the Baptist and Saint Catherine (Aldobrandini Madonna)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Aldobrandini_Madonna_(Titian)",
     "date": "c. 1532",
     "dimensions": "100.6 × 142.2 cm",
     "current_location": "National Gallery (London)",
@@ -1054,12 +1227,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Aldobrandini_Madonna_(Titian)",
+    "year_start": 1532,
+    "year_end": 1532,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_081.jpg",
     "title": "Portrait of Charles V with a Dog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Charles_V_with_a_Dog",
     "date": "c. 1532–1533",
     "dimensions": "192 × 111 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1072,12 +1248,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Charles_V_with_a_Dog",
+    "year_start": 1532,
+    "year_end": 1533,
+    "circa": true
   },
   {
     "commons_filename": "Magdalena_penitente,_por_Tiziano.jpg",
     "title": "The Penitent Magdalene",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1533)",
     "date": "c. 1531–1533",
     "dimensions": "85 × 68 cm",
     "current_location": "Palazzo Pitti (Florence)",
@@ -1090,12 +1269,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1533)",
+    "year_start": 1531,
+    "year_end": 1533,
+    "circa": true
   },
   {
     "commons_filename": "Presentation_of_the_Virgin_by_Titian_-_Accademia_-_Venice_2016.jpg",
     "title": "The Presentation of the Virgin at the Temple",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Presentation_of_the_Virgin_at_the_Temple_(Titian)",
     "date": "c. 1534–1538",
     "dimensions": "345 x 775 cm",
     "current_location": "Gallerie dell'Accademia (Venice)",
@@ -1108,12 +1290,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Presentation_of_the_Virgin_at_the_Temple_(Titian)",
+    "year_start": 1534,
+    "year_end": 1538,
+    "circa": true
   },
   {
     "commons_filename": "1954.301_-_Portrait_of_a_Lady.jpg",
     "title": "Portrait of a Lady",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_(Titian,_Chicago)",
     "date": "c. 1525–1565",
     "dimensions": "63.5 x 51.8 cm",
     "current_location": "Art Institute of Chicago (Chicago)",
@@ -1126,7 +1311,11 @@
     "era": "early",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_(Titian,_Chicago)",
+    "year_start": 1525,
+    "year_end": 1565,
+    "circa": true
   },
   {
     "commons_filename": "Ritratto-di-giulia-gonzaga-del-tiziano.jpg",
@@ -1143,12 +1332,14 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1530,
+    "year_end": 1539,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_-_Porträt_der_Isabella_d'Este.jpg",
     "title": "Portrait of Isabella d'Este",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Isabella_d%27Este_(Titian)",
     "date": "c. 1534–1536",
     "dimensions": "102 × 64 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -1161,12 +1352,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Isabella_d%27Este_(Titian)",
+    "year_start": 1534,
+    "year_end": 1536,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_038.jpg",
     "title": "Girl in a Fur",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Girl_in_a_Fur",
     "date": "c. 1535",
     "dimensions": "95 × 63 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -1179,12 +1373,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Girl_in_a_Fur",
+    "year_start": 1535,
+    "year_end": 1535,
+    "circa": true
   },
   {
     "commons_filename": "Salon_de_Mercure-LE_SOUPER_A_EMMAUS.jpg",
     "title": "Pilgrims at Emmaus",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pilgrims_at_Emmaus",
     "date": "c. 1533–1534",
     "dimensions": "169 × 244 cm",
     "current_location": "Louvre (Paris)",
@@ -1197,12 +1394,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Pilgrims_at_Emmaus",
+    "year_start": 1533,
+    "year_end": 1534,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Supper_at_Emmaus,_c._1530-34.jpg",
     "title": "Supper at Emmaus",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Titian)",
     "date": "c. 1534",
     "dimensions": "169 × 211 cm",
     "current_location": "Walker Art Gallery (Liverpool)",
@@ -1215,12 +1415,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Titian)",
+    "year_start": 1534,
+    "year_end": 1534,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecelli_-_La_cena_in_Emmaus_(National_Gallery_of_Ireland).jpg",
     "title": "Supper at Emmaus",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Titian)#Second_version",
     "date": "c. 1545",
     "dimensions": "163 × 200 cm",
     "current_location": "National Gallery of Ireland (Dublin)",
@@ -1233,12 +1436,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Titian)#Second_version",
+    "year_start": 1545,
+    "year_end": 1545,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_-_La_Bella.jpg",
     "title": "La Bella",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/La_Bella",
     "date": "1536",
     "dimensions": "100 × 75 cm",
     "current_location": "Palazzo Pitti (Florence)",
@@ -1251,7 +1457,11 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/La_Bella",
+    "year_start": 1536,
+    "year_end": 1536,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_074.jpg",
@@ -1268,12 +1478,14 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1536,
+    "year_end": 1536,
+    "circa": true
   },
   {
     "commons_filename": "Titien_-_Conjugal_allegory_-_Louvre.jpg",
     "title": "Allegory of Marriage",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Allegory_of_Marriage",
     "date": "c. 1530–1535",
     "dimensions": "123 × 107 cm",
     "current_location": "Louvre (Paris)",
@@ -1286,12 +1498,15 @@
     "era": "middle",
     "subject": "allegory",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Allegory_of_Marriage",
+    "year_start": 1530,
+    "year_end": 1535,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_062.jpg",
     "title": "Portrait of Francesco Maria I della Rovere, Duke of Urbino",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Maria_I_della_Rovere,_Duke_of_Urbino",
     "date": "c. 1536–1538",
     "dimensions": "114.3 × 100 cm",
     "current_location": "Uffizi (Florence)",
@@ -1304,12 +1519,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Francesco_Maria_I_della_Rovere,_Duke_of_Urbino",
+    "year_start": 1536,
+    "year_end": 1538,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_070.jpg",
     "title": "Portrait of Pietro Aretino",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_Aretino",
     "date": "c. 1537",
     "dimensions": "102 × 86 cm",
     "current_location": "Frick Collection (New York City)",
@@ -1322,12 +1540,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Pietro_Aretino",
+    "year_start": 1537,
+    "year_end": 1537,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_uomo_col_falcone.jpg",
     "title": "Portrait of a Man with a Falcon",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Falcon",
     "date": "c. 1537",
     "dimensions": "109 × 94 cm",
     "current_location": "Joslyn Art Museum (Omaha)",
@@ -1340,12 +1561,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Falcon",
+    "year_start": 1537,
+    "year_end": 1537,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_-_Porträt_der_Eleonora_Gonzaga.jpg",
     "title": "Portrait of Eleonora Gonzaga della Rovere",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Eleonora_Gonzaga_della_Rovere",
     "date": "1538",
     "dimensions": "114 × 102.2 cm",
     "current_location": "Uffizi (Florence)",
@@ -1358,12 +1582,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Eleonora_Gonzaga_della_Rovere",
+    "year_start": 1538,
+    "year_end": 1538,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_-_Venus_von_Urbino.jpg",
     "title": "Venus of Urbino",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
     "date": "1538",
     "dimensions": "119 × 165 cm",
     "current_location": "Uffizi (Florence)",
@@ -1376,12 +1603,15 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
+    "year_start": 1538,
+    "year_end": 1538,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Portrait_of_Count_Antonio_Porcia_-_WGA22968.jpg",
     "title": "Portrait of Count Antonio Porcia and Brugnera",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Count_Antonio_Porcia_and_Brugnera",
     "date": "c. 1535–1540",
     "dimensions": "115 × 93 cm",
     "current_location": "Pinacoteca di Brera (Milan)",
@@ -1394,12 +1624,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Count_Antonio_Porcia_and_Brugnera",
+    "year_start": 1535,
+    "year_end": 1540,
+    "circa": true
   },
   {
     "commons_filename": "Benedetto_varchi_tiziano.jpg",
     "title": "Portrait of Benedetto Varchi",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Benedetto_Varchi",
     "date": "c. 1536–1540",
     "dimensions": "119.3 × 92.7 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -1412,7 +1645,11 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Benedetto_Varchi",
+    "year_start": 1536,
+    "year_end": 1540,
+    "circa": true
   },
   {
     "commons_filename": "Titian_(c.1488-1576)_(attributed_to)_-_Portrait_of_an_Unknown_Young_Cardinal_-_486205_-_National_Trust.jpg",
@@ -1429,12 +1666,14 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1540,
+    "year_end": 1550,
+    "circa": false
   },
   {
     "commons_filename": "Pietro_Bembo_-_Titian.jpg",
     "title": "Portrait of Cardinal Pietro Bembo",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Pietro_Bembo",
     "date": "1540",
     "dimensions": "94.3 × 76.5 cm",
     "current_location": "National Gallery of Art (Washington, D.C.)",
@@ -1447,12 +1686,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Pietro_Bembo",
+    "year_start": 1540,
+    "year_end": 1540,
+    "circa": false
   },
   {
     "commons_filename": "Ritratto_del_Doge_Andrea_Gritti_-_Tiziano_059.jpg",
     "title": "Portrait of Doge Andrea Gritti",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Doge_Andrea_Gritti",
     "date": "c. 1546–1550",
     "dimensions": "133.3 × 103.2 cm",
     "current_location": "National Gallery of Art (Washington, D.C.)",
@@ -1465,12 +1707,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Doge_Andrea_Gritti",
+    "year_start": 1546,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01_(cropped).jpg",
     "title": "Portrait of Pope Sixtus IV",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Pope_Sixtus_IV",
     "date": "c. 1540",
     "dimensions": "109.5 × 87 cm",
     "current_location": "Uffizi (Florence)",
@@ -1483,12 +1728,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Pope_Sixtus_IV",
+    "year_start": 1540,
+    "year_end": 1540,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano,_madonna_col_bambino_thyssen.jpg",
     "title": "Sciarra Madonna",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sciarra_Madonna",
     "date": "c. 1540",
     "current_location": "Museu Nacional d'Art de Catalunya (Barcelona)",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tiziano%2C_madonna_col_bambino_thyssen.jpg",
@@ -1500,12 +1748,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Sciarra_Madonna",
+    "year_start": 1540,
+    "year_end": 1540,
+    "circa": true
   },
   {
     "commons_filename": "The_Marquis_of_Vasto_addressing_his_troops.jpg",
     "title": "Alfonso d'Avalos Addressing His Troops",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Alfonso_d%27Avalos_Addressing_his_Troops",
     "date": "c. 1540–1541",
     "dimensions": "223 × 165 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1518,12 +1769,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Alfonso_d%27Avalos_Addressing_his_Troops",
+    "year_start": 1540,
+    "year_end": 1541,
+    "circa": true
   },
   {
     "commons_filename": "Madonna_dell'Orto_(Venice)_-_Chapel_Vendramin_-_Arcangel_Raphael_and_Tobias_by_Titien.jpg",
     "title": "Tobias and the Angel",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Archangel_Raphael_and_Tobias_(Titian)#Tobias_and_the_Angel",
     "date": "c. 1540–1545",
     "dimensions": "200 × 140 cm",
     "current_location": "Madonna dell'Orto, (Venice)",
@@ -1536,12 +1790,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Archangel_Raphael_and_Tobias_(Titian)#Tobias_and_the_Angel",
+    "year_start": 1540,
+    "year_end": 1545,
+    "circa": true
   },
   {
     "commons_filename": "Clarissa_Strozzi.jpg",
     "title": "Portrait of Clarissa Strozzi",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Clarissa_Strozzi",
     "date": "1542",
     "dimensions": "115 × 98 cm",
     "current_location": "Gemäldegalerie, Berlin",
@@ -1554,12 +1811,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Clarissa_Strozzi",
+    "year_start": 1542,
+    "year_end": 1542,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Christ_crowned_with_Thorns_-_Louvre.jpg",
     "title": "The Crowning with Thorns",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Titian,_Paris)",
     "date": "c. 1542–1544",
     "dimensions": "303 × 180 cm",
     "current_location": "Louvre (Paris)",
@@ -1572,7 +1832,11 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Titian,_Paris)",
+    "year_start": 1542,
+    "year_end": 1544,
+    "circa": true
   },
   {
     "commons_filename": "Ultima_Cena_(1542-1544)_-_Tiziano_Vecellio.jpg",
@@ -1589,12 +1853,14 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1542,
+    "year_end": 1544,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_076.jpg",
     "title": "Portrait of a Young Englishman",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Englishman",
     "date": "c. 1540–1545",
     "dimensions": "111 × 93 cm",
     "current_location": "Palazzo Pitti (Florence)",
@@ -1607,12 +1873,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Englishman",
+    "year_start": 1540,
+    "year_end": 1545,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Ranuccio_Farnese_-_Google_Art_Project.jpg",
     "title": "Portrait of Ranuccio Farnese",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Ranuccio_Farnese",
     "date": "1542",
     "dimensions": "89.7 × 73.6 cm",
     "current_location": "National Gallery of Art (Washington, D.C.)",
@@ -1625,12 +1894,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Ranuccio_Farnese",
+    "year_start": 1542,
+    "year_end": 1542,
+    "circa": false
   },
   {
     "commons_filename": "Portrait_of_Pope_Paul_III_Farnese_(by_Titian)_-_National_Museum_of_Capodimonte.jpg",
     "title": "Portrait of Pope Paul III",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Pope_Paul_III_(Titian)",
     "date": "1543",
     "dimensions": "108 × 80 cm",
     "current_location": "Museo di Capodimonte (Naples)",
@@ -1643,12 +1915,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Pope_Paul_III_(Titian)",
+    "year_start": 1543,
+    "year_end": 1543,
+    "circa": false
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Ecce_Homo_-_Google_Art_Project.jpg",
     "title": "Ecce Homo",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ecce_Homo_(Titian,_Vienna)",
     "date": "1543",
     "dimensions": "242 × 361 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -1661,12 +1936,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Ecce_Homo_(Titian,_Vienna)",
+    "year_start": 1543,
+    "year_end": 1543,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Cain_and_Abel.JPG",
     "title": "Cain Slaying Abel",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Cain_and_Abel_(Titian)",
     "date": "1543–44",
     "dimensions": "292.1 × 280.0 cm",
     "current_location": "Santa Maria della Salute (Venice)",
@@ -1679,12 +1957,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Cain_and_Abel_(Titian)",
+    "year_start": 1543,
+    "year_end": 1544,
+    "circa": false
   },
   {
     "commons_filename": "Tycjan_David_i_Goliat.jpg",
     "title": "David and Goliath",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/David_and_Goliath_(Titian)",
     "date": "1543–44",
     "dimensions": "292.1 × 281.9 cm",
     "current_location": "Santa Maria della Salute (Venice)",
@@ -1697,12 +1978,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/David_and_Goliath_(Titian)",
+    "year_start": 1543,
+    "year_end": 1544,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Sacrifice_of_Isaac_-_WGA22780.jpg",
     "title": "Abraham and Isaac",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_and_Isaac_(Titian)",
     "date": "1542–44",
     "dimensions": "328 cm × 285 cm",
     "current_location": "Santa Maria della Salute (Venice)",
@@ -1715,12 +1999,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Abraham_and_Isaac_(Titian)",
+    "year_start": 1542,
+    "year_end": 1544,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_069.jpg",
     "title": "Portrait of Pietro Aretino",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Pietro_Aretino",
     "date": "c. 1545",
     "dimensions": "98 × 78 cm",
     "current_location": "Palazzo Pitti (Florence)",
@@ -1733,12 +2020,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Pietro_Aretino",
+    "year_start": 1545,
+    "year_end": 1545,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Cardinale_Alessandro_Farnese.jpg",
     "title": "Portrait of Cardinal Alessandro Farnese",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Alessandro_Farnese_(Titian)",
     "date": "c.1545-1546",
     "current_location": "Museo di Capodimonte (Naples)",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tiziano_Cardinale_Alessandro_Farnese.jpg",
@@ -1750,12 +2040,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Alessandro_Farnese_(Titian)",
+    "year_start": 1545,
+    "year_end": 1546,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_068.jpg",
     "title": "Pope Paul III and His Grandsons",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
     "date": "1546",
     "dimensions": "210 × 174 cm",
     "current_location": "Museo di Capodimonte (Naples)",
@@ -1768,12 +2061,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
+    "year_start": 1546,
+    "year_end": 1546,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_011.jpg",
     "title": "Danaë (one of at least four versions)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
     "date": "1546",
     "dimensions": "120 × 172 cm",
     "current_location": "Museo di Capodimonte (Naples)",
@@ -1786,12 +2082,15 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
+    "year_start": 1546,
+    "year_end": 1546,
+    "circa": false
   },
   {
     "commons_filename": "Titian_and_workshop_-_The_Vendramin_Family,_venerating_a_Relic_of_the_True_Cross_-_Google_Art_Project.jpg",
     "title": "Portrait of the Vendramin Family",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_the_Vendramin_Family",
     "date": "1547",
     "dimensions": "206 × 301 cm",
     "current_location": "National Gallery (London)",
@@ -1804,12 +2103,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_the_Vendramin_Family",
+    "year_start": 1547,
+    "year_end": 1547,
+    "circa": false
   },
   {
     "commons_filename": "Carlos_V_en_Mühlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg",
     "title": "Equestrian Portrait of Charles V",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
     "date": "1548",
     "dimensions": "332 × 279 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1822,12 +2124,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
+    "year_start": 1548,
+    "year_end": 1548,
+    "circa": false
   },
   {
     "commons_filename": "Karl_V.-Carlos_I._1548_(Tiziano_Vecellio?)_066.jpg",
     "title": "Portrait of Charles V Seated",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Charles_V_(Titian,_Munich)",
     "date": "1548",
     "dimensions": "205 × 122 cm",
     "current_location": "Alte Pinakothek (Munich)",
@@ -1840,12 +2145,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Charles_V_(Titian,_Munich)",
+    "year_start": 1548,
+    "year_end": 1548,
+    "circa": false
   },
   {
     "commons_filename": "Isabella_of_Portugal_by_Titian.jpg",
     "title": "Portrait of Isabella of Portugal",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Isabella_of_Portugal_(Titian)",
     "date": "1548",
     "dimensions": "117 × 93 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1858,12 +2166,15 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Isabella_of_Portugal_(Titian)",
+    "year_start": 1548,
+    "year_end": 1548,
+    "circa": false
   },
   {
     "commons_filename": "Venus_and_organist_and_little_dog.jpg",
     "title": "Venus and Musician",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
     "date": "1548",
     "dimensions": "148 × 217 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1876,12 +2187,15 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
+    "year_start": 1548,
+    "year_end": 1548,
+    "circa": false
   },
   {
     "commons_filename": "Johann_Friedrich_(Sachsen).jpg",
     "title": "John Frederick I, Elector of Saxony in Armour",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Frederick_I,_Elector_of_Saxony",
     "date": "1548",
     "dimensions": "129 × 93 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1894,12 +2208,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/John_Frederick_I,_Elector_of_Saxony",
+    "year_start": 1548,
+    "year_end": 1548,
+    "circa": false
   },
   {
     "commons_filename": "Tityus1.jpg",
     "title": "Tityus",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tityus_(Titian)",
     "date": "1549",
     "dimensions": "253 × 217 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1912,12 +2229,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Tityus_(Titian)",
+    "year_start": 1549,
+    "year_end": 1549,
+    "circa": false
   },
   {
     "commons_filename": "Punishment_sisyph.jpg",
     "title": "Sisyphus",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sisyphus_(Titian)",
     "date": "1549",
     "dimensions": "237 × 216 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1930,7 +2250,11 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Sisyphus_(Titian)",
+    "year_start": 1549,
+    "year_end": 1549,
+    "circa": false
   },
   {
     "commons_filename": "Saintjohnthealmoner.jpg",
@@ -1947,12 +2271,14 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1549,
+    "year_end": 1549,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_091.jpg",
     "title": "The Fall of Man",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fall_of_Man_(Titian)",
     "date": "c. 1550",
     "dimensions": "240 × 186 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1965,12 +2291,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Fall_of_Man_(Titian)",
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Mater_Dolorosa_by_Titian.jpg",
     "title": "Mater Dolorosa",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mater_Dolorosa_(Titian)",
     "date": "1550",
     "dimensions": "68 × 61 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -1983,12 +2312,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mater_Dolorosa_(Titian)",
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_064.jpg",
     "title": "Portrait of John Frederick I, Elector of Saxony",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_John_Frederick_I,_Elector_of_Saxony",
     "date": "1550–51",
     "dimensions": "103.5 × 83 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -2001,7 +2333,11 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_John_Frederick_I,_Elector_of_Saxony",
+    "year_start": 1550,
+    "year_end": 1551,
+    "circa": false
   },
   {
     "commons_filename": "Titian_(Tiziano_Vecellio),_Portrait_of_a_Lady_and_her_Daughter.png",
@@ -2018,12 +2354,14 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_096.jpg",
     "title": "Venus with an Organist",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
     "date": "c. 1550",
     "dimensions": "115 × 280 cm",
     "current_location": "Gemäldegalerie, Berlin",
@@ -2036,12 +2374,15 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecellio,_gen._Tizian_(und_Werkstatt)_-_Mars,_Venus_und_Amor_-_GG_13_-_Kunsthistorisches_Museum.jpg",
     "title": "Mars, Venus and Amor",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mars,_Venus_and_Amor",
     "date": "c. 1550",
     "dimensions": "97 x 109 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -2054,7 +2395,11 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mars,_Venus_and_Amor",
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Knight_with_a_clock.jpg",
@@ -2071,12 +2416,14 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_The_penitent_magdalene_(1565).jpg",
     "title": "Penitent Magdalene",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1550)",
     "date": "c. 1550",
     "current_location": "Museo di Capodimonte (Naples)",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Titian_-_The_penitent_magdalene_%281565%29.jpg",
@@ -2088,12 +2435,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1550)",
+    "year_start": 1550,
+    "year_end": 1550,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_030.jpg",
     "title": "Saint Jerome in Penitence",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Jerome_in_Penitence_(Titian,_1552)",
     "date": "1550–1560",
     "dimensions": "255 × 125 cm",
     "current_location": "Pinacoteca di Brera (Milan)",
@@ -2106,12 +2456,15 @@
     "era": "middle",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Saint_Jerome_in_Penitence_(Titian,_1552)",
+    "year_start": 1550,
+    "year_end": 1560,
+    "circa": false
   },
   {
     "commons_filename": "Philip_II.jpg",
     "title": "Portrait of Philip II in Armour",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_in_Armour",
     "date": "1551",
     "dimensions": "193 × 111 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2124,12 +2477,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Philip_II_in_Armour",
+    "year_start": 1551,
+    "year_end": 1551,
+    "circa": false
   },
   {
     "commons_filename": "Ticiano_-_cardealmadruzzo05.jpg",
     "title": "Portrait of Cardinal Cristoforo Madruzzo",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Cristoforo_Madruzzo",
     "date": "1552",
     "dimensions": "230 x 131 cm",
     "current_location": "São Paulo Museum of Art (São Paulo)",
@@ -2142,12 +2498,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Cristoforo_Madruzzo",
+    "year_start": 1552,
+    "year_end": 1552,
+    "circa": false
   },
   {
     "commons_filename": "La_Gloria_(Tiziano).jpg",
     "title": "The Holy Trinity (La Gloria)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/La_Gloria_(Titian)",
     "date": "1551–1554",
     "dimensions": "346 × 240 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2160,12 +2519,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/La_Gloria_(Titian)",
+    "year_start": 1551,
+    "year_end": 1554,
+    "circa": false
   },
   {
     "commons_filename": "Venus_and_Adonis_by_Titian.jpg",
     "title": "Venus and Adonis - many different versions, with varying contributions by Titian himself. See ones in New York and Rome below.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "date": "1553–1554",
     "dimensions": "186 × 207 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2178,12 +2540,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
+    "year_start": 1553,
+    "year_end": 1554,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Mater_Dolorosa_with_her_Hands_apart_(Museo_del_Prado).jpg",
     "title": "Mater Dolorosa with Open Hands",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mater_Dolorosa",
     "date": "1554",
     "dimensions": "68 × 53 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2196,12 +2561,15 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mater_Dolorosa",
+    "year_start": 1554,
+    "year_end": 1554,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Christ_Appearing_to_His_Mother,_1554.jpg",
     "title": "Christ Appearing to His Mother After His Resurrection",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Christ_Appearing_to_his_Mother_after_his_Resurrection",
     "date": "1554",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Titian_-_Christ_Appearing_to_His_Mother%2C_1554.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Titian_-_Christ_Appearing_to_His_Mother%2C_1554.jpg",
@@ -2212,12 +2580,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Christ_Appearing_to_his_Mother_after_his_Resurrection",
+    "year_start": 1554,
+    "year_end": 1554,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Woman_Holding_an_Apple.jpg",
     "title": "Woman Holding an Apple",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_Holding_an_Apple",
     "date": "c. 1550–1555",
     "dimensions": "97.8 × 73.8 cm",
     "current_location": "National Gallery of Art (Washington, D.C.)",
@@ -2230,12 +2601,15 @@
     "era": "middle",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Woman_Holding_an_Apple",
+    "year_start": 1550,
+    "year_end": 1555,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado.jpg",
     "title": "Danaë and the Shower of Gold",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
     "date": "1554",
     "dimensions": "128 × 178 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2248,12 +2622,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
+    "year_start": 1554,
+    "year_end": 1554,
+    "circa": false
   },
   {
     "commons_filename": "Perseo_y_Andrómeda,_por_Tiziano.jpg",
     "title": "Perseus and Andromeda",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Perseus_and_Andromeda_(Titian)",
     "date": "c. 1554–1556",
     "dimensions": "175 × 189.5 cm",
     "current_location": "Wallace Collection (London)",
@@ -2266,12 +2643,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Perseus_and_Andromeda_(Titian)",
+    "year_start": 1554,
+    "year_end": 1556,
+    "circa": true
   },
   {
     "commons_filename": "Ritratto_di_Filippo_II,_Tiziano_Vacellio_001.JPG",
     "title": "Portrait of Philip II",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Philip_II",
     "date": "c. 1554",
     "current_location": "Museo di Capodimonte (Naples)",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ritratto_di_Filippo_II%2C_Tiziano_Vacellio_001.JPG",
@@ -2283,12 +2663,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Philip_II",
+    "year_start": 1554,
+    "year_end": 1554,
+    "circa": true
   },
   {
     "commons_filename": "Titian_National_Museum_of_Serbia.JPG",
     "title": "Portrait of Queen Christina of Denmark",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Queen_Christina_of_Denmark",
     "date": "c. 1555–1556",
     "dimensions": "112 × 83 cm",
     "current_location": "National Museum of Serbia (Belgrade)",
@@ -2301,12 +2684,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Queen_Christina_of_Denmark",
+    "year_start": 1555,
+    "year_end": 1556,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg",
     "title": "Venus with a Mirror",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_with_a_Mirror",
     "date": "c. 1555",
     "dimensions": "124.5 × 105.5 cm",
     "current_location": "National Gallery of Art (Washington, D.C.)",
@@ -2319,12 +2705,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_with_a_Mirror",
+    "year_start": 1555,
+    "year_end": 1555,
+    "circa": true
   },
   {
     "commons_filename": "Venus_and_Adonis_MET_DT5111.jpg",
     "title": "Venus and Adonis  - many different versions, with varying contributions by Titian himself. See one in the Prado above, and in Rome below.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "date": "c. 1555",
     "dimensions": "106 × 133 cm",
     "current_location": "Metropolitan Museum of Art (New York)",
@@ -2337,7 +2726,11 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
+    "year_start": 1555,
+    "year_end": 1555,
+    "circa": true
   },
   {
     "commons_filename": "Filippo_Archinto_(born_about_1500,_died_1558),_Archbishop_of_Milan_MET_DT5147.jpg",
@@ -2354,7 +2747,10 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1555,
+    "year_end": 1555,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecellio_-_Venere_e_il_Suonatore_di_liuto_(Fitzwilliam_Museum).jpg",
@@ -2371,12 +2767,14 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "year_start": 1555,
+    "year_end": 1565,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg",
     "title": "Diana and Actaeon",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)",
     "date": "1556–1559",
     "dimensions": "190.3 × 207 cm",
     "current_location": "National Gallery (London)/  National Gallery of Scotland (Edinburgh)",
@@ -2389,12 +2787,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)",
+    "year_start": 1556,
+    "year_end": 1559,
+    "circa": false
   },
   {
     "commons_filename": "Tizian_061.jpg",
     "title": "Portrait of Fabrizio Salvaresio",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Fabrizio_Salvaresio",
     "date": "1558",
     "dimensions": "112 × 88 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -2407,12 +2808,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Fabrizio_Salvaresio",
+    "year_start": 1558,
+    "year_end": 1558,
+    "circa": false
   },
   {
     "commons_filename": "Titian_1558_Ancona_Crucifixion.jpg",
     "title": "Crucifixion",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Crucifixion_(Titian)",
     "date": "1558",
     "dimensions": "371 × 197 cm",
     "current_location": "Church of San Domenico, (Ancona)",
@@ -2425,12 +2829,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Crucifixion_(Titian)",
+    "year_start": 1558,
+    "year_end": 1558,
+    "circa": false
   },
   {
     "commons_filename": "Interior_of_Chiesa_dei_Gesuiti_(Venice)_-_left_nave_-_The_Martyrdom_of_St_Lawrence_-_Titian.jpg",
     "title": "The Martyrdom of Saint Lawrence",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Martyrdom_of_Saint_Lawrence_(Titian)",
     "date": "1559",
     "dimensions": "500 × 280 cm",
     "current_location": "I Gesuiti (Venice)",
@@ -2443,12 +2850,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Martyrdom_of_Saint_Lawrence_(Titian)",
+    "year_start": 1559,
+    "year_end": 1559,
+    "circa": false
   },
   {
     "commons_filename": "TitianDianaCallistoEdinburgh.jpg",
     "title": "Diana and Callisto",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Diana_and_Callisto",
     "date": "1559",
     "dimensions": "187 × 205 cm",
     "current_location": "National Gallery (London) /  National Gallery of Scotland (Edinburgh)",
@@ -2461,12 +2871,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Diana_and_Callisto",
+    "year_start": 1559,
+    "year_end": 1559,
+    "circa": false
   },
   {
     "commons_filename": "Entierro_de_Cristo_(Tiziano).jpg",
     "title": "The Entombment",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Entombment_(Titian,_1559)",
     "date": "1559",
     "dimensions": "137 × 175 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2479,12 +2892,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Entombment_(Titian,_1559)",
+    "year_start": 1559,
+    "year_end": 1559,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg",
     "title": "The Rape of Europa",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rape_of_Europa_(Titian)",
     "date": "1559–1562",
     "dimensions": "185 × 205 cm",
     "current_location": "Isabella Stewart Gardner Museum (Boston)",
@@ -2497,12 +2913,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Rape_of_Europa_(Titian)",
+    "year_start": 1559,
+    "year_end": 1562,
+    "circa": false
   },
   {
     "commons_filename": "San_Salvador_Interno_-_Annunciazione_del_Signore_Tiziano.jpg",
     "title": "Annunciation",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Annunciation_(church_of_San_Salvador)",
     "date": "1559–1564",
     "dimensions": "410 × 240 cm",
     "current_location": "San Salvador (Venice)",
@@ -2515,12 +2934,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Annunciation_(church_of_San_Salvador)",
+    "year_start": 1559,
+    "year_end": 1564,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_The_Death_of_Actaeon_-_Google_Art_Project.jpg",
     "title": "The Death of Actaeon",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Death_of_Actaeon",
     "date": "c. 1559–1575",
     "dimensions": "178.4 × 198.1 cm",
     "current_location": "National Gallery (London)",
@@ -2533,12 +2955,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Death_of_Actaeon",
+    "year_start": 1559,
+    "year_end": 1575,
+    "circa": true
   },
   {
     "commons_filename": "Salome_with_the_head_of_John_the_Baptist_(Titian).jpg",
     "title": "Salome",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Salome_(Titian,_Madrid)",
     "date": "c. 1560",
     "dimensions": "87 × 80 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2551,12 +2976,15 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Salome_(Titian,_Madrid)",
+    "year_start": 1560,
+    "year_end": 1560,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Girl_with_a_Platter_of_Fruit_-_c._1555.jpg",
     "title": "Girl with a Platter of Fruit",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Girl_with_a_Platter_of_Fruit",
     "date": "c. 1558",
     "dimensions": "102 x 82 cm",
     "current_location": "Gemäldegalerie (Berlin)",
@@ -2569,12 +2997,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Girl_with_a_Platter_of_Fruit",
+    "year_start": 1558,
+    "year_end": 1558,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Venus_and_Adonis_-_Rome_-_WGA22906.jpg",
     "title": "Venus and Adonis - many different versions, with varying contributions by Titian himself. See ones in the Prado and New York above.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "date": "c. 1560",
     "dimensions": "187 × 184 cm",
     "current_location": "Galleria Nazionale d'Arte Antica (Rome)",
@@ -2587,12 +3018,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
+    "year_start": 1560,
+    "year_end": 1560,
+    "circa": true
   },
   {
     "commons_filename": "Titian,_Sacra_Conversazione,_The_Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria.jpg",
     "title": "Madonna and Child with Saints Luke and Catherine of Alexandria",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria",
     "date": "c. 1560",
     "dimensions": "127.8 × 169.7 cm",
     "current_location": "(Bought by a private bidder on 28 January 2011)",
@@ -2605,7 +3039,11 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria",
+    "year_start": 1560,
+    "year_end": 1560,
+    "circa": true
   },
   {
     "commons_filename": "Titian_(c.1488-1576)_-_Nicolò_Zen_(1515–1565)_-_1257086_-_National_Trust.jpg",
@@ -2622,12 +3060,14 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1560,
+    "year_end": 1565,
+    "circa": true
   },
   {
     "commons_filename": "Self-portrait_of_Titian.jpg",
     "title": "Self-portrait",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Berlin)",
     "date": "c. 1560–1562",
     "dimensions": "96 × 72 cm",
     "current_location": "Gemäldegalerie, Berlin",
@@ -2640,7 +3080,11 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Berlin)",
+    "year_start": 1560,
+    "year_end": 1562,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg",
@@ -2657,12 +3101,14 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "year_start": 1560,
+    "year_end": 1568,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Penitent_Magdalene_(Hermitage).jpg",
     "title": "The Penitent Magdalene",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1565)",
     "date": "c. 1565",
     "dimensions": "118 × 97 cm",
     "current_location": "Hermitage Museum (Saint Petersburg)",
@@ -2675,12 +3121,15 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1565)",
+    "year_start": 1565,
+    "year_end": 1565,
+    "circa": true
   },
   {
     "commons_filename": "Dominikus_von_Tizian.jpg",
     "title": "Saint Dominic",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Dominic_(Titian)",
     "date": "c. 1565",
     "dimensions": "97 × 80 cm",
     "current_location": "Galleria Borghese, (Rome)",
@@ -2693,12 +3142,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Saint_Dominic_(Titian)",
+    "year_start": 1565,
+    "year_end": 1565,
+    "circa": true
   },
   {
     "commons_filename": "Titian_and_workshop_-_An_Allegory_of_Prudence_-_Google_Art_Project.jpg",
     "title": "Allegory of Prudence",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Allegory_of_Prudence",
     "date": "c. 1565–1570",
     "dimensions": "76.2 × 68.6 cm",
     "current_location": "National Gallery (London)",
@@ -2711,12 +3163,15 @@
     "era": "late",
     "subject": "allegory",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Allegory_of_Prudence",
+    "year_start": 1565,
+    "year_end": 1570,
+    "circa": true
   },
   {
     "commons_filename": "Venus_and_the_Lute_Player_MET_DT11.jpg",
     "title": "Venus and a Lute Player",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
     "date": "c. 1565-1570",
     "dimensions": "165 × 209 cm",
     "current_location": "Metropolitan Museum of Art (New York)",
@@ -2729,7 +3184,11 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
+    "year_start": 1565,
+    "year_end": 1570,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_027.jpg",
@@ -2746,12 +3205,14 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "year_start": 1566,
+    "year_end": 1566,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_Self-portrait_(Museo_del_Prado).jpg",
     "title": "Self-portrait",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Madrid)",
     "date": "c. 1567",
     "dimensions": "86 × 65 cm",
     "current_location": "Museo del Prado (Madrid)",
@@ -2764,12 +3225,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Madrid)",
+    "year_start": 1567,
+    "year_end": 1567,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_067.jpg",
     "title": "Portrait of Jacopo Strada",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_Jacopo_Strada",
     "date": "c. 1567–1568",
     "dimensions": "125 × 95 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -2782,12 +3246,15 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Jacopo_Strada",
+    "year_start": 1567,
+    "year_end": 1568,
+    "circa": true
   },
   {
     "commons_filename": "Vecelli,_Tiziano_-_Judith_with_the_head_of_Holofernes_-_c._1570.jpg",
     "title": "Judith with the Head of Holofernes",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Judith_with_the_Head_of_Holofernes_(Titian)",
     "date": "c. 1570",
     "dimensions": "113 × 95.3 cm",
     "current_location": "Detroit Institute of Arts (Detroit)",
@@ -2800,12 +3267,15 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Judith_with_the_Head_of_Holofernes_(Titian)",
+    "year_start": 1570,
+    "year_end": 1570,
+    "circa": true
   },
   {
     "commons_filename": "Titian_-_Salome_with_the_head_of_John_the_Baptist_and_two_assistants.jpg",
     "title": "Salome",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Salome_(Titian,_private_collection)",
     "date": "c. 1570",
     "dimensions": "114 × 96 cm",
     "current_location": "Private collection",
@@ -2818,7 +3288,11 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Salome_(Titian,_private_collection)",
+    "year_start": 1570,
+    "year_end": 1570,
+    "circa": true
   },
   {
     "commons_filename": "Salome_with_the_Head_of_John_the_Baptist,_by_Tiziano_Vecellio_and_workshop,_c._1560-1570,_oil_on_canvas_-_National_Museum_of_Western_Art,_Tokyo_-_DSC08139.JPG",
@@ -2835,12 +3309,14 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "year_start": 1560,
+    "year_end": 1570,
+    "circa": true
   },
   {
     "commons_filename": "Tizian_094.jpg",
     "title": "Tarquin and Lucretia",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarquin_and_Lucretia_(Titian)",
     "date": "1571",
     "dimensions": "189 × 145 cm",
     "current_location": "Fitzwilliam Museum (Cambridge)",
@@ -2853,12 +3329,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Tarquin_and_Lucretia_(Titian)",
+    "year_start": 1571,
+    "year_end": 1571,
+    "circa": false
   },
   {
     "commons_filename": "Titian_-_The_Flaying_of_Marsyas.jpg",
     "title": "Punishment of Marsyas",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Flaying_of_Marsyas_(Titian)",
     "date": "c. 1570-1576",
     "dimensions": "212 × 207 cm",
     "current_location": "National Museum, (Kroměříž)",
@@ -2871,12 +3350,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Flaying_of_Marsyas_(Titian)",
+    "year_start": 1570,
+    "year_end": 1576,
+    "circa": true
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Nymph_and_Shepherd_-_Google_Art_Project.jpg",
     "title": "Nymph and Shepherd",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nymph_and_Shepherd",
     "date": "c. 1570–1576",
     "dimensions": "149.7 × 187 cm",
     "current_location": "Kunsthistorisches Museum (Vienna)",
@@ -2889,12 +3371,15 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Nymph_and_Shepherd",
+    "year_start": 1570,
+    "year_end": 1576,
+    "circa": true
   },
   {
     "commons_filename": "Accademia_-_Pietà_by_Titian.jpg",
     "title": "Pietà",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
     "date": "c. 1570–1576",
     "dimensions": "351 × 389 cm",
     "current_location": "Gallerie dell'Accademia (Venice)",
@@ -2907,12 +3392,15 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
+    "year_start": 1570,
+    "year_end": 1576,
+    "circa": true
   },
   {
     "commons_filename": "The_Crowning_with_Thorns_by_Titian_-_Alte_Pinakothek_-_Munich_-_Germany_2017.jpg",
     "title": "The Crowning with Thorns",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Titian,_Munich)",
     "date": "c. 1570–1576",
     "dimensions": "280 × 181 cm",
     "current_location": "Alte Pinakothek (Munich)",
@@ -2925,6 +3413,10 @@
     "era": "late",
     "subject": "other",
     "type": "painting",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Titian,_Munich)",
+    "year_start": 1570,
+    "year_end": 1576,
+    "circa": true
   }
 ]

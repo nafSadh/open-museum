@@ -687,7 +687,7 @@ function renderLb() {
   let lk = '';
   if (w.commons_page) lk += `<a href="${w.commons_page}" target="_blank">commons</a>`;
   if (w.image_url) lk += `<a href="${w.image_url}" target="_blank">full resolution</a>`;
-  if (w.wikipedia_url) lk += `<a href="${w.wikipedia_url}" target="_blank">wikipedia</a>`;
+  if (w.provenance_url) lk += `<a href="${w.provenance_url}" target="_blank">wikipedia</a>`;
   document.getElementById('lb-links').innerHTML = lk;
 }
 

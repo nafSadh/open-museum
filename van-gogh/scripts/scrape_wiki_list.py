@@ -186,7 +186,7 @@ def parse_catalog_numbers(text: str) -> dict:
     return result
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs."""
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
@@ -244,7 +244,7 @@ def process_table(table: dict) -> list:
         if len(row) > 0:
             first_cell = row[0]
             work["title"] = first_cell["text"].strip()
-            work["wikipedia_url"] = extract_wikipedia_url(first_cell["links"])
+            work["provenance_url"] = extract_provenance_url(first_cell["links"])
             if first_cell["images"]:
                 fname = extract_commons_filename(first_cell["images"][0])
                 if fname:

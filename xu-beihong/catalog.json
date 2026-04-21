@@ -10,7 +10,10 @@
     "id": 1,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "A portrait of Sun Duoci by Xu Beihong.jpg",
@@ -23,7 +26,10 @@
     "id": 2,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Buffle et serpent.jpg",
@@ -36,7 +42,10 @@
     "id": 3,
     "era": "unknown",
     "subject": "animals",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Cat on rock scroll by Xu Beihong.jpg",
@@ -49,7 +58,10 @@
     "id": 4,
     "era": "unknown",
     "subject": "animals",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Horse Standing by Xu Beihong, 1940.jpg",
@@ -63,7 +75,10 @@
     "id": 5,
     "era": "mature",
     "subject": "horses",
-    "famous": false
+    "famous": false,
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "Liao Jingwen.jpg",
@@ -71,7 +86,6 @@
     "date": "1943",
     "technique": "Medium: Ink on paper",
     "current_location": "Size:unknown, Painting of Liao Jingwen finished in 1943 when Liao had just begun working for Xu at the China Academy of Art.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Liao_Jingwen",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liao_Jingwen.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liao_Jingwen.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Liao_Jingwen.jpg",
@@ -80,7 +94,11 @@
     "id": 6,
     "era": "mature",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Liao_Jingwen",
+    "year_start": 1943,
+    "year_end": 1943,
+    "circa": false
   },
   {
     "commons_filename": "Paimai (6).jpg",
@@ -93,7 +111,10 @@
     "id": 7,
     "era": "unknown",
     "subject": "horses",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Put Down Your Whip by Xu Beihong.jpg",
@@ -106,7 +127,10 @@
     "id": 8,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Sketch of a Man from the Front and the Side.jpg",
@@ -119,7 +143,10 @@
     "id": 9,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Sun Duoci by Xu Beihong.jpg",
@@ -132,7 +159,10 @@
     "id": 10,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "The eight horses (Xu Beihong).jpg",
@@ -145,7 +175,10 @@
     "id": 11,
     "era": "unknown",
     "subject": "horses",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Tree and man(selfportrait) Xu Beihong. Guimet.jpg",
@@ -158,7 +191,10 @@
     "id": 12,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xu Beihong Banana Trees and Sparrows.jpg",
@@ -171,7 +207,10 @@
     "id": 13,
     "era": "unknown",
     "subject": "animals",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xu Beihong yugongyishan.jpg",
@@ -184,7 +223,10 @@
     "id": 14,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xu beihong Painting Tianheng's five hundreds heroes.jpg",
@@ -198,7 +240,10 @@
     "id": 15,
     "era": "mature",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "year_start": 1930,
+    "year_end": 1930,
+    "circa": false
   },
   {
     "commons_filename": "Xu-Beihong-1925-Painting-Jiang-Biwei-by-a-table.jpg",
@@ -212,7 +257,10 @@
     "id": 16,
     "era": "early",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1925,
+    "year_end": 1925,
+    "circa": false
   },
   {
     "commons_filename": "Xu-Beihong-Painting-Jiang-Biwei-in-cheongsam.jpg",
@@ -226,7 +274,10 @@
     "id": 17,
     "era": "late",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1953,
+    "year_end": 1953,
+    "circa": false
   },
   {
     "commons_filename": "Xu-Beihong-sketch-drawing-Jiang-Biwei.jpg",
@@ -240,7 +291,10 @@
     "id": 18,
     "era": "late",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1953,
+    "year_end": 1953,
+    "circa": false
   },
   {
     "commons_filename": "XuBeiHongChristina.jpg",
@@ -248,7 +302,6 @@
     "date": "1940",
     "technique": "Medium: Oil on canvas",
     "current_location": "This portrait, completed in JiangXia Tang (江夏堂) in Singapore, was of Christina Li HuiWang, who became the first wife of Asian mogul Loke Wan Tho.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Singapore",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/XuBeiHongChristina.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/XuBeiHongChristina.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:XuBeiHongChristina.jpg",
@@ -257,7 +310,11 @@
     "id": 19,
     "era": "mature",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Singapore",
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": false
   },
   {
     "commons_filename": "XuBeiHongJenny.jpg",
@@ -273,7 +330,10 @@
     "id": 20,
     "era": "mature",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1939,
+    "year_end": 1939,
+    "circa": false
   },
   {
     "commons_filename": "XuBeiHongLimLoh.jpg",
@@ -287,7 +347,10 @@
     "id": 21,
     "era": "mature",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1927,
+    "year_end": 1927,
+    "circa": false
   },
   {
     "commons_filename": "XuBeiHongMalayDancers.jpg",
@@ -300,7 +363,10 @@
     "id": 22,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "XuBeiHongMalayOrchids.jpg",
@@ -308,7 +374,6 @@
     "date": "c. 1940",
     "technique": "Medium: Oil on ceramics",
     "current_location": "Collection: Private collection.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ceramic_art",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/XuBeiHongMalayOrchids.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/XuBeiHongMalayOrchids.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:XuBeiHongMalayOrchids.jpg",
@@ -317,7 +382,11 @@
     "id": 23,
     "era": "mature",
     "subject": "landscape",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Ceramic_art",
+    "year_start": 1940,
+    "year_end": 1940,
+    "circa": true
   },
   {
     "commons_filename": "XuBeiHongMdmCheng.jpg",
@@ -325,7 +394,6 @@
     "date": "1941",
     "technique": "Medium: Oil on board",
     "current_location": "Painted by Xu in Ipoh, when Cheng was 92 who was the mother of Cheong Chee (1885-1954), a wealthy Chinese tin miner and philanthropist in Malaya.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ipoh",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/XuBeiHongMdmCheng.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/XuBeiHongMdmCheng.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:XuBeiHongMdmCheng.jpg",
@@ -334,7 +402,11 @@
     "id": 24,
     "era": "mature",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Ipoh",
+    "year_start": 1941,
+    "year_end": 1941,
+    "circa": false
   },
   {
     "commons_filename": "XuBeihong.jpg",
@@ -347,7 +419,10 @@
     "id": 25,
     "era": "unknown",
     "subject": "horses",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xubeihong 2 cats.jpg",
@@ -360,7 +435,10 @@
     "id": 26,
     "era": "unknown",
     "subject": "animals",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xubeihong Jiuju.jpg",
@@ -373,7 +451,10 @@
     "id": 27,
     "era": "unknown",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xubeihong bamboo woman.jpg",
@@ -386,7 +467,10 @@
     "id": 28,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xubeihong chicken stands.jpg",
@@ -399,7 +483,10 @@
     "id": 29,
     "era": "unknown",
     "subject": "animals",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xubeihong liyinquan.jpg",
@@ -412,7 +499,10 @@
     "id": 30,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Xubeihong warhorse.jpg",
@@ -425,7 +515,10 @@
     "id": 31,
     "era": "unknown",
     "subject": "horses",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Yan Jici sketch by Xu Beihong.jpg",
@@ -438,7 +531,10 @@
     "id": 32,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Zhensanli bw.jpg",
@@ -451,7 +547,10 @@
     "id": 33,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "Zhensanli.jpg",
@@ -464,7 +563,10 @@
     "id": 34,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "徐悲鴻 三駿圖 1941.jpg",
@@ -478,7 +580,10 @@
     "id": 35,
     "era": "mature",
     "subject": "horses",
-    "famous": true
+    "famous": true,
+    "year_start": 1941,
+    "year_end": 1941,
+    "circa": false
   },
   {
     "commons_filename": "徐悲鴻 貓 1934.jpg",
@@ -492,7 +597,10 @@
     "id": 36,
     "era": "mature",
     "subject": "animals",
-    "famous": false
+    "famous": false,
+    "year_start": 1934,
+    "year_end": 1934,
+    "circa": false
   },
   {
     "commons_filename": "徐悲鴻 馬 1943.jpg",
@@ -506,7 +614,10 @@
     "id": 37,
     "era": "mature",
     "subject": "horses",
-    "famous": false
+    "famous": false,
+    "year_start": 1943,
+    "year_end": 1943,
+    "circa": false
   },
   {
     "commons_filename": "徐悲鸿 康有为像.jpg",
@@ -519,7 +630,10 @@
     "id": 38,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "徐悲鸿 康有为夫人像.jpg",
@@ -532,7 +646,10 @@
     "id": 39,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "commons_filename": "徐悲鸿虎图轴.jpg",
@@ -546,6 +663,9 @@
     "id": 40,
     "era": "early",
     "subject": "animals",
-    "famous": true
+    "famous": true,
+    "year_start": 1918,
+    "year_end": 1918,
+    "circa": false
   }
 ]

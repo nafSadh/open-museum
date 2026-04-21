@@ -1,7 +1,6 @@
 [
   {
     "title": "Battleground of Timur and the Mamluk Sultan of Egypt.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Timur",
     "commons_filename": "Behzad_timur_egyptian.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Behzad_timur_egyptian.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Behzad_timur_egyptian.jpg/960px-Behzad_timur_egyptian.jpg",
@@ -10,13 +9,16 @@
     "image_height": 2090,
     "id": 1,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Timur",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "date": "c. 1494-1495",
     "title": "The construction of Khawarnaq castle (Arabic الخورنق) in al-Hira",
     "current_location": "C.E.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Khawarnaq",
     "commons_filename": "Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg/960px-Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
@@ -25,11 +27,14 @@
     "image_height": 4906,
     "id": 2,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Khawarnaq",
+    "year_start": 1494,
+    "year_end": 1495,
+    "circa": true
   },
   {
     "title": "A miniature painting by Bihzad illustrating the funeral of the elderly Attar of Nishapur after he was held captive and killed by a Mongol invader.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Attar_of_Nishapur",
     "commons_filename": "Bihhzad_004.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bihhzad_004.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bihhzad_004.jpg/960px-Bihhzad_004.jpg",
@@ -38,7 +43,11 @@
     "image_height": 2111,
     "id": 3,
     "subject": "religious",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Attar_of_Nishapur",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yusef and Zuleykha",
@@ -50,11 +59,13 @@
     "image_height": 2370,
     "id": 4,
     "subject": "literary",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A miniature painting from the Iskandarnama of Nizami",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Iskandarnameh_of_Nizami",
     "commons_filename": "Bihhzad_003.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bihhzad_003.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bihhzad_003.jpg/960px-Bihhzad_003.jpg",
@@ -63,7 +74,11 @@
     "image_height": 2309,
     "id": 5,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Iskandarnameh_of_Nizami",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A miniature painting from the Iskandarnama",
@@ -75,11 +90,13 @@
     "image_height": 2467,
     "id": 6,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The hunting ground.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hunting",
     "commons_filename": "Behzad_hunting_ground.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Behzad_hunting_ground.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Behzad_hunting_ground.jpg",
@@ -88,7 +105,11 @@
     "image_height": 900,
     "id": 7,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Hunting",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Beheading of a King",
@@ -100,7 +121,10 @@
     "image_height": 599,
     "id": 8,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sultan Hussein",
@@ -112,7 +136,10 @@
     "image_height": 900,
     "id": 9,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Timur granting audience on the occasion of his accession",
@@ -124,7 +151,10 @@
     "image_height": 2944,
     "id": 10,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Dancing dervishes (c. 1480/1490)",
@@ -136,7 +166,10 @@
     "image_height": 2326,
     "id": 11,
     "subject": "literary",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Portrait of a dervish",
@@ -148,7 +181,10 @@
     "image_height": 1522,
     "id": 12,
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "1 Majnun Watching the Battle of the Tribes Niẓāmī Ganjavī, Khamsah 1442-3, Add MS 25900, fol.121v, British Library",
@@ -162,7 +198,10 @@
     "image_height": 2325,
     "id": 13,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1442,
+    "year_end": 1442,
+    "circa": true
   },
   {
     "title": "A servant laying a carpet before Khusraw's horse as he arrives at Shīrīn's castle",
@@ -174,7 +213,10 @@
     "image_height": 2560,
     "id": 14,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Alexander and the Hermit, from Nizami's Iskandarnama, 1494-95, by Behzad. British Library OR.6810 Folio 273R",
@@ -188,7 +230,10 @@
     "image_height": 2692,
     "id": 15,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1494,
+    "year_end": 1495,
+    "circa": true
   },
   {
     "title": "Assault on a castle. From a lost manuscript. Iran, circa 1500",
@@ -201,7 +246,10 @@
     "image_height": 1793,
     "id": 16,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1500,
+    "year_end": 1500,
+    "circa": true
   },
   {
     "title": "Bahram and dragon",
@@ -213,7 +261,10 @@
     "image_height": 1705,
     "id": 17,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bahrām Gūr kills the dragon",
@@ -225,7 +276,10 @@
     "image_height": 2560,
     "id": 18,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Battle of Timur and egypt",
@@ -237,7 +291,10 @@
     "image_height": 3288,
     "id": 19,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behhzad 001a",
@@ -249,7 +306,10 @@
     "image_height": 2400,
     "id": 20,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad advice ascetic",
@@ -261,7 +321,10 @@
     "image_height": 900,
     "id": 21,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad hunting ground",
@@ -273,7 +336,10 @@
     "image_height": 900,
     "id": 22,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad Moraqqa-e Golshan",
@@ -285,7 +351,10 @@
     "image_height": 900,
     "id": 23,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad portrait of a dervish",
@@ -297,7 +366,10 @@
     "image_height": 1522,
     "id": 24,
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad soltan hossein left",
@@ -309,7 +381,10 @@
     "image_height": 900,
     "id": 25,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad soltan hossein right",
@@ -321,7 +396,10 @@
     "image_height": 900,
     "id": 26,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad timur egyptian",
@@ -333,7 +411,10 @@
     "image_height": 2090,
     "id": 27,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad. Kamelkampf. Golestan Palast",
@@ -346,7 +427,10 @@
     "image_height": 1143,
     "id": 28,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihhzad 001",
@@ -358,7 +442,10 @@
     "image_height": 1955,
     "id": 29,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihhzad 002",
@@ -370,7 +457,10 @@
     "image_height": 2467,
     "id": 30,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihhzad 003",
@@ -382,7 +472,10 @@
     "image_height": 2309,
     "id": 31,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihhzad 004",
@@ -394,7 +487,10 @@
     "image_height": 2111,
     "id": 32,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihzad The Old Man and the Youth",
@@ -406,7 +502,10 @@
     "image_height": 860,
     "id": 33,
     "subject": "literary",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihzad Two camels fighting colors",
@@ -418,7 +517,10 @@
     "image_height": 237,
     "id": 34,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihzad Two camels fighting",
@@ -430,7 +532,10 @@
     "image_height": 942,
     "id": 35,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bihzad",
@@ -442,7 +547,10 @@
     "image_height": 725,
     "id": 36,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Double-page spread with Rostam Killing the White Div; by Kamal ud-Din Behzad, late 15th or early 16th century; and fragment of a Chinese-style drawing of a bird, a butterfly, and flowers, late 15th century. From the Bahram Mirza Album",
@@ -454,7 +562,10 @@
     "image_height": 680,
     "id": 37,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Dschami",
@@ -466,7 +577,10 @@
     "image_height": 662,
     "id": 38,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Folio from a Khamsa (Quintet) by Amir Khusraw Dihlavi (d. 1325); The abduction by sea",
@@ -479,7 +593,10 @@
     "image_height": 5600,
     "id": 39,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Harun al-Rashid and the barber. Ascribed in notes to Bihzad and to Mirak",
@@ -491,7 +608,10 @@
     "image_height": 1000,
     "id": 40,
     "subject": "religious",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hatifi",
@@ -503,7 +623,10 @@
     "image_height": 1583,
     "id": 41,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Iskandar and the Hermit",
@@ -515,7 +638,10 @@
     "image_height": 720,
     "id": 42,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Iskandar",
@@ -527,7 +653,10 @@
     "image_height": 633,
     "id": 43,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Jami poet",
@@ -539,7 +668,10 @@
     "image_height": 721,
     "id": 44,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Construction of the fort of Kharnaq",
@@ -551,7 +683,10 @@
     "image_height": 4906,
     "id": 45,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muhammad Shaybani",
@@ -563,7 +698,10 @@
     "image_height": 1772,
     "id": 46,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan (Page 055, left part)",
@@ -575,7 +713,10 @@
     "image_height": 3504,
     "id": 47,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan (Page 062, right part)",
@@ -587,7 +728,10 @@
     "image_height": 3504,
     "id": 48,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan (Page 147) v2",
@@ -599,7 +743,10 @@
     "image_height": 3532,
     "id": 49,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan (Page 147)",
@@ -611,7 +758,10 @@
     "image_height": 3504,
     "id": 50,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan 419",
@@ -623,7 +773,10 @@
     "image_height": 3504,
     "id": 51,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan 428",
@@ -635,7 +788,10 @@
     "image_height": 3504,
     "id": 52,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muraqqa-e Golshan 429",
@@ -647,7 +803,10 @@
     "image_height": 3414,
     "id": 53,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Painting - Google Art Project ( wGkOiyV0ojtRA)",
@@ -659,7 +818,10 @@
     "image_height": 4001,
     "id": 54,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Portrait of Sultan Husayn Mirza Bayqara at the age of about 50 years. 1500–25 copy from Behzād's original of about 1490",
@@ -672,7 +834,10 @@
     "image_height": 1560,
     "id": 55,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1500,
+    "year_end": 1525,
+    "circa": true
   },
   {
     "title": "Sad'i and the Youth of Kashgar, Ascribed to Bihzad, From a copy of the Gulistan (Rosegarden) by Sa'di",
@@ -684,7 +849,10 @@
     "image_height": 7350,
     "id": 56,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shah Ismail I Safavid, Behzad",
@@ -696,7 +864,10 @@
     "image_height": 1088,
     "id": 57,
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shah Tahmasp in a Tree House",
@@ -708,7 +879,10 @@
     "image_height": 1923,
     "id": 58,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sultan Husayn Mirza by Bihzad",
@@ -720,7 +894,10 @@
     "image_height": 1600,
     "id": 59,
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Battle of Iskander and Dara",
@@ -732,7 +909,10 @@
     "image_height": 2266,
     "id": 60,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The building of the palace of Khavarnaq",
@@ -744,7 +924,10 @@
     "image_height": 6771,
     "id": 61,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Old Man Encounters a Youth (CBL Per 163.38)",
@@ -757,7 +940,10 @@
     "image_height": 6404,
     "id": 62,
     "subject": "literary",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Timurid troops with flag, in battle against Egytian Mamluks",
@@ -769,7 +955,10 @@
     "image_height": 2747,
     "id": 63,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Turkmène retouché",
@@ -781,7 +970,10 @@
     "image_height": 1680,
     "id": 64,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Folio 51r from MET Bustan of Sa`di, \"Yusuf and Zulaikha\" cropped",
@@ -794,7 +986,10 @@
     "image_height": 992,
     "id": 65,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sa'di - Bostan - Yusuf and Zuleikha",
@@ -806,7 +1001,10 @@
     "image_height": 2397,
     "id": 66,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Signature of Bezhad, in Yusuf fleeing the Advances of Zulaikha",
@@ -818,7 +1016,10 @@
     "image_height": 170,
     "id": 67,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yusef Zuleykha",
@@ -830,7 +1031,10 @@
     "image_height": 1535,
     "id": 68,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yusuf and Zulaykha, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 52b",
@@ -844,7 +1048,10 @@
     "image_height": 1760,
     "id": 69,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "Yusuf fleeing the Advances of Zulaikha",
@@ -856,7 +1063,10 @@
     "image_height": 2370,
     "id": 70,
     "subject": "literary",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET 35802(2)",
@@ -870,7 +1080,10 @@
     "image_height": 2000,
     "id": 71,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET 35802",
@@ -884,7 +1097,10 @@
     "image_height": 2000,
     "id": 72,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DP231332",
@@ -898,7 +1114,10 @@
     "image_height": 3871,
     "id": 73,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT227704",
@@ -912,7 +1131,10 @@
     "image_height": 3722,
     "id": 74,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT227705",
@@ -926,7 +1148,10 @@
     "image_height": 3699,
     "id": 75,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT227706",
@@ -940,7 +1165,10 @@
     "image_height": 3589,
     "id": 76,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET DT4798",
@@ -954,7 +1182,10 @@
     "image_height": 3722,
     "id": 77,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET sf17-81-4r",
@@ -967,7 +1198,10 @@
     "image_height": 2490,
     "id": 78,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET sf17-81-4v",
@@ -980,7 +1214,10 @@
     "image_height": 1197,
     "id": 79,
     "subject": "literary",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Dance of Sufi Dervishes",
@@ -992,7 +1229,10 @@
     "image_height": 2326,
     "id": 80,
     "subject": "literary",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Battle on the River Oxus, Zafarnama of Sultan Husayn or ‘Garrett Zafarnama’, c.1480 painting",
@@ -1005,7 +1245,10 @@
     "image_height": 4108,
     "id": 81,
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1480,
+    "year_end": 1480,
+    "circa": true
   },
   {
     "title": "Building Samarkand Mosque",
@@ -1017,7 +1260,10 @@
     "image_height": 2448,
     "id": 82,
     "subject": "religious",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Depiction of Timur granting audience on the occasion of his accession, in the near contemporary Zafarnama (1424-1428), 1467 edition",
@@ -1030,7 +1276,10 @@
     "image_height": 2944,
     "id": 83,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": 1424,
+    "year_end": 1428,
+    "circa": true
   },
   {
     "title": "Garrett Zafarnama. Elimination of the last survivors of the town of Nerges, Georgia, in the spring of 1396. illumination ca. 1480s (double panels)",
@@ -1043,7 +1292,10 @@
     "image_height": 4246,
     "id": 84,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Garrett Zafarnama. The last survivors of the town of Nerges, Georgia, being eliminated by Timur, Spring of 1396. Illumination ca. 1480s",
@@ -1056,7 +1308,10 @@
     "image_height": 4308,
     "id": 85,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Garrett Zafarnama. The last survivors of the town of Nerges, Georgia, being pursued by Timur, spring of 1396. Illumination ca. 1480s",
@@ -1069,7 +1324,10 @@
     "image_height": 1744,
     "id": 86,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Jahangir Mirza (Timurid prince)",
@@ -1081,7 +1339,10 @@
     "image_height": 1191,
     "id": 87,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Timur Holding an Audience in Balkh in 1370 from a copy of the Zafarnama of Sharaf al-Din ‘Ali Yazdi. Herat (probably), 1467–8 and c. 1480 Johns Hopkins University, folios 82b–83a",
@@ -1094,7 +1355,10 @@
     "image_height": 1766,
     "id": 88,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Timur's army attacks Nerges, Georgia",
@@ -1106,7 +1370,10 @@
     "image_height": 581,
     "id": 89,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Timur's army, commanded by Umar Shaykh, attacks Urgench in 1379. Garrett Zafarnama, painted in 1480",
@@ -1119,7 +1386,10 @@
     "image_height": 1652,
     "id": 90,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Timur, at the 1402 Siege of the fortress of Izmir (1480 painting)",
@@ -1132,7 +1402,10 @@
     "image_height": 866,
     "id": 91,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1402,
+    "year_end": 1402,
+    "circa": true
   },
   {
     "title": "Timur, Garrett Zafarnama, painted circa 1480, Herat",
@@ -1145,7 +1418,10 @@
     "image_height": 1014,
     "id": 92,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1480,
+    "year_end": 1480,
+    "circa": true
   },
   {
     "title": "Umar Shaykh (portrait), in the attack on Urgench in 1379. Garrett Zafarnama, painted in 1480",
@@ -1158,7 +1434,10 @@
     "image_height": 690,
     "id": 93,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Umar Shaykh in a battle near the Syr Darya in 790 (1388). Garrett Zafarnama, ff. 174b–175a",
@@ -1171,7 +1450,10 @@
     "image_height": 1514,
     "id": 94,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Umar Shaykh",
@@ -1183,7 +1465,10 @@
     "image_height": 1189,
     "id": 95,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Zafarnama of Sultan Husayn or Garrett Zafarnama. Assault on the Fortress of the Knights of St. John at Smyrna",
@@ -1195,7 +1480,10 @@
     "image_height": 4492,
     "id": 96,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A Convivial Gathering at the Court of Sultan Husayn Bayqara in Herat",
@@ -1207,7 +1495,10 @@
     "image_height": 2190,
     "id": 97,
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Behzad beggar at a mosque",
@@ -1219,7 +1510,10 @@
     "image_height": 1424,
     "id": 98,
     "subject": "religious",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 2b",
@@ -1233,7 +1527,10 @@
     "image_height": 870,
     "id": 99,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 4a",
@@ -1247,7 +1544,10 @@
     "image_height": 883,
     "id": 100,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "Darius and the Herdsman, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 10a",
@@ -1261,7 +1561,10 @@
     "image_height": 1756,
     "id": 101,
     "subject": "court",
-    "famous": true
+    "famous": true,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "Frontispiece from the Cairo Bustan. Herat, c. 1488, for Sultan Husayn Bayqara. Cairo, Dar al-kutub, Adab farisi 22, folio 1b-2a",
@@ -1275,7 +1578,10 @@
     "image_height": 2412,
     "id": 102,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "The Beggar at the Mosque, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 26a",
@@ -1289,7 +1595,10 @@
     "image_height": 1766,
     "id": 103,
     "subject": "religious",
-    "famous": true
+    "famous": true,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "The Poet at the Judge’s Court, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 30b",
@@ -1303,7 +1612,10 @@
     "image_height": 1714,
     "id": 104,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1488,
+    "year_end": 1488,
+    "circa": true
   },
   {
     "title": "Frontispiece from a Hasht bihisht of Amir Khusraw Dihwali, dated 1496-97, probably Herat, Topkapi Sarayi Library, H.676, folios 1b-2a",
@@ -1317,7 +1629,10 @@
     "image_height": 2275,
     "id": 105,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1496,
+    "year_end": 1497,
+    "circa": true
   },
   {
     "title": "Horserider back",
@@ -1329,7 +1644,10 @@
     "image_height": 728,
     "id": 106,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hunter (H.676)",
@@ -1341,7 +1659,10 @@
     "image_height": 728,
     "id": 107,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hunting party",
@@ -1353,7 +1674,10 @@
     "image_height": 1456,
     "id": 108,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hunting scene from the Hast Bahist by Kamal al-Din Bihzad, Herat, 1496 (complete frontispiece)",
@@ -1366,7 +1690,10 @@
     "image_height": 4700,
     "id": 109,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": true
   },
   {
     "title": "Hunting scene from the Hast Bahist by Kamal al-Din Bihzad, Herat, 1496",
@@ -1379,7 +1706,10 @@
     "image_height": 4096,
     "id": 110,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": true
   },
   {
     "title": "Hunting scene. H 676",
@@ -1391,7 +1721,10 @@
     "image_height": 1456,
     "id": 111,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muhammad Muhsin equestrial portrait",
@@ -1403,7 +1736,10 @@
     "image_height": 572,
     "id": 112,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Muhammad Muhsin on horse",
@@ -1415,7 +1751,10 @@
     "image_height": 1212,
     "id": 113,
     "subject": "religious",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Pastor",
@@ -1427,7 +1766,10 @@
     "image_height": 1418,
     "id": 114,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Portrait of Muhammand Muhsin. Hunting scene from the Hast Bahist by Kamal al-Din Bihzad, Herat, 1496",
@@ -1440,7 +1782,10 @@
     "image_height": 305,
     "id": 115,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1496,
+    "year_end": 1496,
+    "circa": true
   },
   {
     "title": "Scenery",
@@ -1452,7 +1797,10 @@
     "image_height": 2912,
     "id": 116,
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A battle between Timur's army and Faraj ibn Barquq, Sultan of Egypt, for the possession of Damascus in 803 H 1401 CE. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1466,7 +1814,10 @@
     "image_height": 1639,
     "id": 117,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1401,
+    "year_end": 1401,
+    "circa": true
   },
   {
     "title": "Capture of Qotb od-din Qormi and bringing him to Atiq Jame’ Mosque in Shiraz. Attributed to Kamal od-din Behzad, Zafarnamah of Shah Tahmasp (Golestan, no.708, Herat or Tabriz,1528)",
@@ -1480,7 +1831,10 @@
     "image_height": 2414,
     "id": 118,
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1528,
+    "year_end": 1528,
+    "circa": true
   },
   {
     "title": "Death of Jahangir. Yazdi, Zafarnama of 1528. Tehran, Gulistan, MS 708, p. 147",
@@ -1493,7 +1847,10 @@
     "image_height": 1800,
     "id": 119,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1528,
+    "year_end": 1528,
+    "circa": true
   },
   {
     "title": "Festivities with Bayezid as prisoner, after conquering Rum territories. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1507,7 +1864,10 @@
     "image_height": 1641,
     "id": 120,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1528,
+    "year_end": 1528,
+    "circa": true
   },
   {
     "title": "Ill. 15. The Battle between Timur and Sultan Mahmud Indian Ruler in 801 H 1398 CE and the Victory of Timur's Forces. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1521,7 +1881,10 @@
     "image_height": 1751,
     "id": 121,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "Night attack on Toqtamish Khan. 1528, Yazdi, Zafarnama (Gulistan, Ms 708)",
@@ -1534,7 +1897,10 @@
     "image_height": 2098,
     "id": 122,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1528,
+    "year_end": 1528,
+    "circa": true
   },
   {
     "title": "The Army of Amir Shams al-Din with his Tugh returns to the battlefield of Leh and the Victory of the Moghul Army in 766 H 1364 CE. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1548,7 +1914,10 @@
     "image_height": 1748,
     "id": 123,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   },
   {
     "title": "The death of Timur. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1562,7 +1931,10 @@
     "image_height": 1645,
     "id": 124,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": 1528,
+    "year_end": 1528,
+    "circa": true
   },
   {
     "title": "Timur's battle with Shah Mansur, nephew of Shah Shoja', in Fars in 795 H 1393 CE and his slaying by 17-year-old prince Shahrukh. Zafarnama, 1528 (Golestan, MS 708)",
@@ -1576,6 +1948,9 @@
     "image_height": 1634,
     "id": 125,
     "subject": "court",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": true
   }
 ]

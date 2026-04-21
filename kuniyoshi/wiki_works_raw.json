@@ -2,15 +2,15 @@
   {
     "date": "c. 1844",
     "title": "Takiyasha the Witch and the Skeleton Spectre",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Takiyasha_the_Witch_and_the_Skeleton_Spectre",
     "technique": "woodblock print",
-    "commons_filename": "Takiyasha_the_Witch_and_the_Skeleton_Spectre,_by_Utagawa_Kuniyoshi.jpg"
+    "commons_filename": "Takiyasha_the_Witch_and_the_Skeleton_Spectre,_by_Utagawa_Kuniyoshi.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Takiyasha_the_Witch_and_the_Skeleton_Spectre"
   },
   {
     "title": "Kajiwara Kagesue, Sasaki Takatsuna, and Hatakeyama Shigetada racing to cross the Uji River before the second battle of Uji during the Genpei War",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kajiwara_Kagesue",
     "technique": "woodblock print",
-    "commons_filename": "Kagesue,_Takatsuna_and_Shigetada_crossing_the_Uji_river.jpg"
+    "commons_filename": "Kagesue,_Takatsuna_and_Shigetada_crossing_the_Uji_river.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Kajiwara_Kagesue"
   },
   {
     "date": "c. 1843",
@@ -45,9 +45,9 @@
   },
   {
     "title": "Takeda Nobushige from the series 24 Generals of Kai Province",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Takeda_Nobushige",
     "technique": "woodblock print",
-    "commons_filename": "KaiGeneral.jpg"
+    "commons_filename": "KaiGeneral.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Takeda_Nobushige"
   },
   {
     "title": "from the series One Hundred and Eight Heroes of the Popular Suikoden All Told",
@@ -66,15 +66,15 @@
   },
   {
     "title": "Miyamoto Musashi killing a giant lizard",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
     "technique": "woodblock print",
-    "commons_filename": "Miyamoto_Musashi_killing_a_giant_nue.jpg"
+    "commons_filename": "Miyamoto_Musashi_killing_a_giant_nue.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
   },
   {
     "title": "Saito Oniwakamaru, the young Benkei, fights the giant carp at the Bishimon waterfall",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Benkei",
     "technique": "woodblock print",
-    "commons_filename": "Saito_Oniwakamaru.jpg"
+    "commons_filename": "Saito_Oniwakamaru.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Benkei"
   },
   {
     "title": "Hatsuhana doing penance under the Tonosawa waterfall",
@@ -83,40 +83,40 @@
   },
   {
     "title": "Keyamura Rokusuke under the Hikosan Gongen waterfall",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Keyamura_Rokusuke",
     "technique": "woodblock print",
-    "commons_filename": "Keyamura_Rokusuke_under_the_Hikosan_Gongen_waterfall.jpg"
+    "commons_filename": "Keyamura_Rokusuke_under_the_Hikosan_Gongen_waterfall.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Keyamura_Rokusuke"
   },
   {
     "title": "Kakinomoto no Hitomaro",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro",
     "technique": "woodblock print",
-    "commons_filename": "Kakinomoto_no_hitomaro.jpg"
+    "commons_filename": "Kakinomoto_no_hitomaro.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro"
   },
   {
     "date": "1827–1830",
     "title": "Portrait of Chicasei Goyô (Wu Yong) from Water Margin",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Water_Margin",
     "technique": "woodblock print",
-    "commons_filename": "Tsuzoku_Suikoden_Goketsu_Hyakuhachi-nin_no_Hitori_(108_Heroes_of_'The_Water_Margin'_in_Popular_Translation)_(BM_1906,1220,0.1311).jpg"
+    "commons_filename": "Tsuzoku_Suikoden_Goketsu_Hyakuhachi-nin_no_Hitori_(108_Heroes_of_'The_Water_Margin'_in_Popular_Translation)_(BM_1906,1220,0.1311).jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Water_Margin"
   },
   {
     "title": "Ukiyo-e of Oda Nobunaga",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ukiyo-e",
     "technique": "woodblock print",
-    "commons_filename": "Oda-Nobunaga-by-Utagawa-Kuniyoshi.png"
+    "commons_filename": "Oda-Nobunaga-by-Utagawa-Kuniyoshi.png",
+    "provenance_url": "https://en.wikipedia.org/wiki/Ukiyo-e"
   },
   {
     "title": "Utagawa Kuniyoshi, Yoshitsune and Benkei defending themselves in their boat during a storm created by the ghosts of conquered Taira clan warriors",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
     "technique": "woodblock print",
-    "commons_filename": "Yoshitsune_aangevallen_door_Taira_geesten-Rijksmuseum_RP-P-1979-177.jpeg"
+    "commons_filename": "Yoshitsune_aangevallen_door_Taira_geesten-Rijksmuseum_RP-P-1979-177.jpeg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune"
   },
   {
     "title": "Minamoto no Tametomo with a gunsen fan",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo",
     "technique": "woodblock print",
-    "commons_filename": "Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png"
+    "commons_filename": "Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png",
+    "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo"
   },
   {
     "title": "Cats forming the characters for catfish",
@@ -130,9 +130,9 @@
   },
   {
     "title": "Cats suggested as The Fifty-three Stations of the Tōkaidō",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D",
     "technique": "woodblock print",
-    "commons_filename": "Cats_suggested_as_the_fifty-three_stations_of_the_Tokaido.jpg"
+    "commons_filename": "Cats_suggested_as_the_fifty-three_stations_of_the_Tokaido.jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D"
   },
   {
     "title": "Scribbling on the storehouse wall",
@@ -146,9 +146,9 @@
   },
   {
     "title": "Acts 9-11 of the Kanadehon Chūshingura with act nine at top right, act ten at bottom right, act eleven, scene 1, at top left, act eleven, scene 2 at bottom left",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kanadehon_Ch%C5%ABshingura",
     "technique": "woodblock print",
-    "commons_filename": "Kuniyoshi,_Utagawa,_The_Monster's_Chūshingura_(Bakemono_Chūshingura),_ca._1836_(a).jpg"
+    "commons_filename": "Kuniyoshi,_Utagawa,_The_Monster's_Chūshingura_(Bakemono_Chūshingura),_ca._1836_(a).jpg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Kanadehon_Ch%C5%ABshingura"
   },
   {
     "title": "Acts 5-8 of the Kanadehon Chūshingura with act five at top right, act six at bottom right, act seven at top left, act eight at bottom left",

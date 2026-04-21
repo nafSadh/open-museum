@@ -416,7 +416,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
             return f"https://en.wikipedia.org{link}"
@@ -470,7 +470,7 @@ def parse_gallery_caption(raw: str, links: list) -> dict:
         if location_parts:
             work["current_location"] = ", ".join(location_parts)
 
-    work["wikipedia_url"] = extract_wikipedia_url(links)
+    work["provenance_url"] = extract_provenance_url(links)
 
     # Clean title
     title = work.get("title", "")
@@ -568,8 +568,8 @@ def main():
                         cw["technique"] = ww["technique"]
                     if ww.get("current_location") and not cw.get("current_location"):
                         cw["current_location"] = ww["current_location"]
-                    if ww.get("wikipedia_url") and not cw.get("wikipedia_url"):
-                        cw["wikipedia_url"] = ww["wikipedia_url"]
+                    if ww.get("provenance_url") and not cw.get("provenance_url"):
+                        cw["provenance_url"] = ww["provenance_url"]
                     break
 
     all_works = commons_works
@@ -591,8 +591,8 @@ def main():
                 existing["technique"] = w["technique"]
             if w.get("current_location") and not existing.get("current_location"):
                 existing["current_location"] = w["current_location"]
-            if w.get("wikipedia_url") and not existing.get("wikipedia_url"):
-                existing["wikipedia_url"] = w["wikipedia_url"]
+            if w.get("provenance_url") and not existing.get("provenance_url"):
+                existing["provenance_url"] = w["provenance_url"]
         else:
             deduped[fn] = w
 

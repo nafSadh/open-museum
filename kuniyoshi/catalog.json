@@ -2,7 +2,6 @@
   {
     "date": "c. 1844",
     "title": "Takiyasha the Witch and the Skeleton Spectre",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Takiyasha_the_Witch_and_the_Skeleton_Spectre",
     "technique": "woodblock print",
     "commons_filename": "Takiyasha_the_Witch_and_the_Skeleton_Spectre,_by_Utagawa_Kuniyoshi.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Takiyasha_the_Witch_and_the_Skeleton_Spectre%2C_by_Utagawa_Kuniyoshi.jpg",
@@ -13,11 +12,14 @@
     "id": 1,
     "era": "mature",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Takiyasha_the_Witch_and_the_Skeleton_Spectre",
+    "year_start": 1844,
+    "year_end": 1844,
+    "circa": true
   },
   {
     "title": "Kajiwara Kagesue, Sasaki Takatsuna, and Hatakeyama Shigetada racing to cross the Uji River before the second battle of Uji during the Genpei War",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kajiwara_Kagesue",
     "technique": "woodblock print",
     "commons_filename": "Kagesue,_Takatsuna_and_Shigetada_crossing_the_Uji_river.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kagesue%2C_Takatsuna_and_Shigetada_crossing_the_Uji_river.jpg",
@@ -28,7 +30,11 @@
     "id": 2,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Kajiwara_Kagesue",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "date": "c. 1843",
@@ -43,7 +49,10 @@
     "id": 3,
     "era": "mature",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "year_start": 1843,
+    "year_end": 1843,
+    "circa": true
   },
   {
     "title": "On the shore of the Sumida River",
@@ -57,7 +66,10 @@
     "id": 4,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mt Fuji from the Sumida",
@@ -71,7 +83,10 @@
     "id": 5,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Pilgrims in the waterfall",
@@ -85,7 +100,10 @@
     "id": 6,
     "era": "unknown",
     "subject": "nature",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Banners for boys' day festival",
@@ -99,7 +117,10 @@
     "id": 7,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Courtesan in training",
@@ -113,11 +134,13 @@
     "id": 8,
     "era": "unknown",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Takeda Nobushige from the series 24 Generals of Kai Province",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Takeda_Nobushige",
     "technique": "woodblock print",
     "commons_filename": "KaiGeneral.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/KaiGeneral.jpg",
@@ -128,7 +151,11 @@
     "id": 9,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Takeda_Nobushige",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "from the series One Hundred and Eight Heroes of the Popular Suikoden All Told",
@@ -142,7 +169,10 @@
     "id": 10,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "from the series Heroes of Our Country's Suikoden",
@@ -156,7 +186,10 @@
     "id": 11,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hanagami Danjo no jo Arakage fighting a giant salamander",
@@ -170,11 +203,13 @@
     "id": 12,
     "era": "unknown",
     "subject": "nature",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Miyamoto Musashi killing a giant lizard",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
     "technique": "woodblock print",
     "commons_filename": "Miyamoto_Musashi_killing_a_giant_nue.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Miyamoto_Musashi_killing_a_giant_nue.jpg",
@@ -185,11 +220,14 @@
     "id": 13,
     "era": "unknown",
     "subject": "nature",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Saito Oniwakamaru, the young Benkei, fights the giant carp at the Bishimon waterfall",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Benkei",
     "technique": "woodblock print",
     "commons_filename": "Saito_Oniwakamaru.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Saito_Oniwakamaru.jpg",
@@ -200,7 +238,11 @@
     "id": 14,
     "era": "unknown",
     "subject": "nature",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Benkei",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hatsuhana doing penance under the Tonosawa waterfall",
@@ -214,11 +256,13 @@
     "id": 15,
     "era": "unknown",
     "subject": "nature",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Keyamura Rokusuke under the Hikosan Gongen waterfall",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Keyamura_Rokusuke",
     "technique": "woodblock print",
     "commons_filename": "Keyamura_Rokusuke_under_the_Hikosan_Gongen_waterfall.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Keyamura_Rokusuke_under_the_Hikosan_Gongen_waterfall.jpg",
@@ -229,11 +273,14 @@
     "id": 16,
     "era": "unknown",
     "subject": "nature",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Keyamura_Rokusuke",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kakinomoto no Hitomaro",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro",
     "technique": "woodblock print",
     "commons_filename": "Kakinomoto_no_hitomaro.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kakinomoto_no_hitomaro.jpg",
@@ -244,12 +291,15 @@
     "id": 17,
     "era": "unknown",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Kakinomoto_no_Hitomaro",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "date": "1827–1830",
     "title": "Portrait of Chicasei Goyô (Wu Yong) from Water Margin",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Water_Margin",
     "technique": "woodblock print",
     "commons_filename": "Tsuzoku_Suikoden_Goketsu_Hyakuhachi-nin_no_Hitori_(108_Heroes_of_'The_Water_Margin'_in_Popular_Translation)_(BM_1906,1220,0.1311).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tsuzoku_Suikoden_Goketsu_Hyakuhachi-nin_no_Hitori_%28108_Heroes_of_%27The_Water_Margin%27_in_Popular_Translation%29_%28BM_1906%2C1220%2C0.1311%29.jpg",
@@ -260,11 +310,14 @@
     "id": 18,
     "era": "early",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Water_Margin",
+    "year_start": 1827,
+    "year_end": 1830,
+    "circa": false
   },
   {
     "title": "Ukiyo-e of Oda Nobunaga",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ukiyo-e",
     "technique": "woodblock print",
     "commons_filename": "Oda-Nobunaga-by-Utagawa-Kuniyoshi.png",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Oda-Nobunaga-by-Utagawa-Kuniyoshi.png",
@@ -275,11 +328,14 @@
     "id": 19,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Utagawa Kuniyoshi, Yoshitsune and Benkei defending themselves in their boat during a storm created by the ghosts of conquered Taira clan warriors",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
     "technique": "woodblock print",
     "commons_filename": "Yoshitsune_aangevallen_door_Taira_geesten-Rijksmuseum_RP-P-1979-177.jpeg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yoshitsune_aangevallen_door_Taira_geesten-Rijksmuseum_RP-P-1979-177.jpeg",
@@ -290,11 +346,14 @@
     "id": 20,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Minamoto no Tametomo with a gunsen fan",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo",
     "technique": "woodblock print",
     "commons_filename": "Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png",
@@ -305,7 +364,11 @@
     "id": 21,
     "era": "unknown",
     "subject": "warrior",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Cats forming the characters for catfish",
@@ -319,7 +382,10 @@
     "id": 22,
     "era": "unknown",
     "subject": "cats",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Four cats in different poses illustrating Japanese proverbs",
@@ -333,11 +399,13 @@
     "id": 23,
     "era": "unknown",
     "subject": "cats",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Cats suggested as The Fifty-three Stations of the Tōkaidō",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D",
     "technique": "woodblock print",
     "commons_filename": "Cats_suggested_as_the_fifty-three_stations_of_the_Tokaido.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cats_suggested_as_the_fifty-three_stations_of_the_Tokaido.jpg",
@@ -348,7 +416,11 @@
     "id": 24,
     "era": "unknown",
     "subject": "cats",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Scribbling on the storehouse wall",
@@ -362,7 +434,10 @@
     "id": 25,
     "era": "unknown",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "At first glance he looks very fierce, but he is actually a kind person",
@@ -376,11 +451,13 @@
     "id": 26,
     "era": "unknown",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Acts 9-11 of the Kanadehon Chūshingura with act nine at top right, act ten at bottom right, act eleven, scene 1, at top left, act eleven, scene 2 at bottom left",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kanadehon_Ch%C5%ABshingura",
     "technique": "woodblock print",
     "commons_filename": "Kuniyoshi,_Utagawa,_The_Monster's_Chūshingura_(Bakemono_Chūshingura),_ca._1836_(a).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kuniyoshi%2C_Utagawa%2C_The_Monster%27s_Ch%C5%ABshingura_%28Bakemono_Ch%C5%ABshingura%29%2C_ca._1836_%28a%29.jpg",
@@ -391,7 +468,11 @@
     "id": 27,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Kanadehon_Ch%C5%ABshingura",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Acts 5-8 of the Kanadehon Chūshingura with act five at top right, act six at bottom right, act seven at top left, act eight at bottom left",
@@ -405,7 +486,10 @@
     "id": 28,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Acts 1-4 of the Kanadehon Chūshingura with act one at top right, act two at bottom right, act three at top left, act four at bottom left",
@@ -419,6 +503,9 @@
     "id": 29,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   }
 ]

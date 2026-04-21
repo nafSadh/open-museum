@@ -1,9 +1,7 @@
 [
   {
     "title": "Shakuntala looking for Dushyanta",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shakuntala_(Raja_Ravi_Varma)",
     "commons_filename": "Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg/960px-Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
@@ -12,13 +10,16 @@
     "id": 1,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Shakuntala_(Raja_Ravi_Varma)",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Galaxy of Musicians",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians",
     "commons_filename": "Raja_Ravi_Varma,_Galaxy_of_Musicians.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Galaxy_of_Musicians.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Galaxy_of_Musicians.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Galaxy_of_Musicians.jpg",
@@ -27,13 +28,16 @@
     "id": 2,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shakuntala Patra-lekhan",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shakuntala_Patra-lekhan",
     "commons_filename": "Sakunthala-pathralekhanam.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sakunthala-pathralekhanam.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sakunthala-pathralekhanam.jpg/960px-Sakunthala-pathralekhanam.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sakunthala-pathralekhanam.jpg",
@@ -42,13 +46,16 @@
     "id": 3,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Shakuntala_Patra-lekhan",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Nair Lady Adorning Her Hair",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)",
     "commons_filename": "Nair_Lady_Adorning_Her_Hair.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nair_Lady_Adorning_Her_Hair.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nair_Lady_Adorning_Her_Hair.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Nair_Lady_Adorning_Her_Hair.jpg",
@@ -57,12 +64,16 @@
     "id": 4,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Nair_Lady_Adorning_Her_Hair_(Varma)",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Expectation",
     "commons_filename": "Raja_Ravi_Varma,_Expectation.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Raja_Ravi_Varma%2C_Expectation.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Raja_Ravi_Varma%2C_Expectation.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Expectation.jpg",
@@ -71,12 +82,15 @@
     "id": 5,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Radha in the Moonlight",
     "commons_filename": "Radha_in_the_Moonlight.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Radha_in_the_Moonlight.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Radha_in_the_Moonlight.jpg/960px-Radha_in_the_Moonlight.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Radha_in_the_Moonlight.jpg",
@@ -85,13 +99,15 @@
     "id": 6,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hamsa Damayanti",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Damayanti",
     "commons_filename": "Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg/960px-Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
@@ -100,12 +116,16 @@
     "id": 7,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Damayanti",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Gypsies",
     "commons_filename": "Raja_Ravi_Varma,_Gypsies_(1893).jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Raja_Ravi_Varma%2C_Gypsies_%281893%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Raja_Ravi_Varma%2C_Gypsies_%281893%29.jpg/960px-Raja_Ravi_Varma%2C_Gypsies_%281893%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Gypsies_(1893).jpg",
@@ -114,12 +134,15 @@
     "id": 8,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Woman Holding a Fruit",
     "commons_filename": "Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg/960px-Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
@@ -128,13 +151,15 @@
     "id": 9,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sri Shanmukha Subramania Swami",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kartikeya",
     "commons_filename": "Murugan_by_Raja_Ravi_Varma.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Murugan_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Murugan_by_Raja_Ravi_Varma.jpg/960px-Murugan_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Murugan_by_Raja_Ravi_Varma.jpg",
@@ -143,13 +168,16 @@
     "id": 10,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Kartikeya",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Saraswati",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Saraswati",
     "commons_filename": "Saraswati.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Saraswati.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Saraswati.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Saraswati.jpg",
@@ -158,13 +186,16 @@
     "id": 11,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Saraswati",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Geevarghese Mar Gregorios of Parumala",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Geevarghese_Mar_Gregorios_of_Parumala",
     "commons_filename": "Raja_Ravi_Varma,_Gheevarghese_Mar_Gregorios_of_Parumala_(1905).jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Raja_Ravi_Varma%2C_Gheevarghese_Mar_Gregorios_of_Parumala_%281905%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Raja_Ravi_Varma%2C_Gheevarghese_Mar_Gregorios_of_Parumala_%281905%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Gheevarghese_Mar_Gregorios_of_Parumala_(1905).jpg",
@@ -173,13 +204,16 @@
     "id": 12,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Geevarghese_Mar_Gregorios_of_Parumala",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Descent of Ganga",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
     "commons_filename": "Ravi_Varma-Descent_of_Ganga.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ravi_Varma-Descent_of_Ganga.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ravi_Varma-Descent_of_Ganga.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Descent_of_Ganga.jpg",
@@ -188,12 +222,16 @@
     "id": 13,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sri Krishna as Envoy",
     "commons_filename": "Sri_Krishna_as_Envoy.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sri_Krishna_as_Envoy.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sri_Krishna_as_Envoy.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_as_Envoy.jpg",
@@ -202,13 +240,15 @@
     "id": 14,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Jatayu fights Ravana",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Jatayu",
     "commons_filename": "Ravi_Varma-Ravana_Sita_Jathayu.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ravi_Varma-Ravana_Sita_Jathayu.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravi_Varma-Ravana_Sita_Jathayu.jpg/960px-Ravi_Varma-Ravana_Sita_Jathayu.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Ravana_Sita_Jathayu.jpg",
@@ -217,12 +257,16 @@
     "id": 15,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Jatayu",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady giving alms in a temple",
     "commons_filename": "Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
@@ -231,12 +275,15 @@
     "id": 16,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Stolen Interview",
     "commons_filename": "Raja_Ravi_Varma,_Stolen_Interview.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Raja_Ravi_Varma%2C_Stolen_Interview.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Raja_Ravi_Varma%2C_Stolen_Interview.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Stolen_Interview.jpg",
@@ -245,12 +292,15 @@
     "id": 17,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Maharashtrian Lady",
     "commons_filename": "Raja_Ravi_Varma,_The_Maharashtrian_Lady.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Raja_Ravi_Varma%2C_The_Maharashtrian_Lady.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Raja_Ravi_Varma%2C_The_Maharashtrian_Lady.jpg/960px-Raja_Ravi_Varma%2C_The_Maharashtrian_Lady.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Maharashtrian_Lady.jpg",
@@ -259,13 +309,15 @@
     "id": 18,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama vanquishing the ocean",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rama",
     "commons_filename": "Rama-Varuna.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rama-Varuna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rama-Varuna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rama-Varuna.jpg",
@@ -274,13 +326,16 @@
     "id": 19,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Rama",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mohini on a swing",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mohini",
     "commons_filename": "Mohini_on_a_swing.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mohini_on_a_swing.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mohini_on_a_swing.jpg/960px-Mohini_on_a_swing.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Mohini_on_a_swing.jpg",
@@ -289,12 +344,16 @@
     "id": 20,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mohini",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Disrobing of Draupadi",
     "commons_filename": "Draupadi_Vastraharan,_Raja_Ravi_Varma.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Draupadi_Vastraharan%2C_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Draupadi_Vastraharan%2C_Raja_Ravi_Varma.jpg/960px-Draupadi_Vastraharan%2C_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma.jpg",
@@ -303,12 +362,15 @@
     "id": 21,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sita Bhumi Pravesh",
     "commons_filename": "Sita_Bhum_Pravesh.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sita_Bhum_Pravesh.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sita_Bhum_Pravesh.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sita_Bhum_Pravesh.jpg",
@@ -317,13 +379,15 @@
     "id": 22,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi being humiliated in the court of Virata",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Draupadi",
     "commons_filename": "Draupadi_humiliated_RRV.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Draupadi_humiliated_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Draupadi_humiliated_RRV.jpg/960px-Draupadi_humiliated_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_humiliated_RRV.jpg",
@@ -332,13 +396,16 @@
     "id": 23,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Draupadi",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Krishna with Yashoda",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Krishna",
     "commons_filename": "Yashoda_with_Krishna,_Raja_Ravi_Varma.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Yashoda_with_Krishna%2C_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yashoda_with_Krishna%2C_Raja_Ravi_Varma.jpg/960px-Yashoda_with_Krishna%2C_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Yashoda_with_Krishna,_Raja_Ravi_Varma.jpg",
@@ -347,12 +414,16 @@
     "id": 24,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Krishna",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Village Belle",
     "commons_filename": "Village_Belle,_by_Raja_Ravi_Varma.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Village_Belle%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Village_Belle%2C_by_Raja_Ravi_Varma.jpg/960px-Village_Belle%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Village_Belle,_by_Raja_Ravi_Varma.jpg",
@@ -361,13 +432,15 @@
     "id": 25,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Victory of Meghanada",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Meghanada",
     "commons_filename": "Victory_of_Meghanada_by_RRV.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Victory_of_Meghanada_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Victory_of_Meghanada_by_RRV.jpg/960px-Victory_of_Meghanada_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Victory_of_Meghanada_by_RRV.jpg",
@@ -376,12 +449,16 @@
     "id": 26,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Meghanada",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Malabar Lady or Swarbat Player",
     "commons_filename": "Raja_Ravi_Varma,_Malabar_Lady.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Raja_Ravi_Varma%2C_Malabar_Lady.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Raja_Ravi_Varma%2C_Malabar_Lady.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Malabar_Lady.jpg",
@@ -390,12 +467,15 @@
     "id": 27,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Keechaka and Sairandhri",
     "commons_filename": "Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_1890.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma%2C_Keechaka_and_Sairandhri%2C_1890.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raja_Ravi_Varma%2C_Keechaka_and_Sairandhri%2C_1890.jpg/960px-Raja_Ravi_Varma%2C_Keechaka_and_Sairandhri%2C_1890.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_1890.jpg",
@@ -404,13 +484,15 @@
     "id": 28,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shantanu and Matsyagandha",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Satyavati",
     "commons_filename": "Ravi_Varma-Shantanu_and_Satyavati.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ravi_Varma-Shantanu_and_Satyavati.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ravi_Varma-Shantanu_and_Satyavati.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Shantanu_and_Satyavati.jpg",
@@ -419,13 +501,16 @@
     "id": 29,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Satyavati",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Arjuna and Subhadra",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Arjuna",
     "commons_filename": "Ravi_Varma-Arjuna_and_Subhadra.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ravi_Varma-Arjuna_and_Subhadra.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ravi_Varma-Arjuna_and_Subhadra.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Arjuna_and_Subhadra.jpg",
@@ -434,12 +519,16 @@
     "id": 30,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Arjuna",
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Woman holding a fan",
     "commons_filename": "Woman_holading_a_fan_by_Raja_Ravi_Varma.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Woman_holading_a_fan_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Woman_holading_a_fan_by_Raja_Ravi_Varma.jpg/960px-Woman_holading_a_fan_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Woman_holading_a_fan_by_Raja_Ravi_Varma.jpg",
@@ -448,12 +537,15 @@
     "id": 31,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Damayanti and her maid in the moonlight",
     "commons_filename": "Ladies_in_the_moonlight_by_RRV.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ladies_in_the_moonlight_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ladies_in_the_moonlight_by_RRV.jpg/960px-Ladies_in_the_moonlight_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ladies_in_the_moonlight_by_RRV.jpg",
@@ -462,12 +554,15 @@
     "id": 32,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shakuntala lost in thoughts",
     "commons_filename": "Raja_Ravi_Varma,_Shakuntala_lost_in_thoughts_(1901).jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Raja_Ravi_Varma%2C_Shakuntala_lost_in_thoughts_%281901%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Raja_Ravi_Varma%2C_Shakuntala_lost_in_thoughts_%281901%29.jpg/960px-Raja_Ravi_Varma%2C_Shakuntala_lost_in_thoughts_%281901%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Shakuntala_lost_in_thoughts_(1901).jpg",
@@ -476,12 +571,15 @@
     "id": 33,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Disappointing News",
     "commons_filename": "Raja_Ravi_Varma,_Disappointing_News.jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Disappointing_News.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Raja_Ravi_Varma%2C_Disappointing_News.jpg/960px-Raja_Ravi_Varma%2C_Disappointing_News.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Disappointing_News.jpg",
@@ -490,12 +588,15 @@
     "id": 34,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Fatal Garland",
     "commons_filename": "The_Fatal_Garland_from_The_Modern_Review_Vol_01_(Jan.-June_1907)_(page_7_crop).jpg",
-    "source": "wikipedia_gallery",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Fatal_Garland_from_The_Modern_Review_Vol_01_%28Jan.-June_1907%29_%28page_7_crop%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Fatal_Garland_from_The_Modern_Review_Vol_01_%28Jan.-June_1907%29_%28page_7_crop%29.jpg/960px-The_Fatal_Garland_from_The_Modern_Review_Vol_01_%28Jan.-June_1907%29_%28page_7_crop%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:The_Fatal_Garland_from_The_Modern_Review_Vol_01_(Jan.-June_1907)_(page_7_crop).jpg",
@@ -504,70 +605,93 @@
     "id": 35,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_gallery",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mohini playing with a ball",
-    "source": "wikipedia_list",
     "id": 36,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yashoda and Krishna",
-    "source": "wikipedia_list",
     "id": 37,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady Lost in Thought",
-    "source": "wikipedia_list",
     "id": 38,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Damayanti Talking to a Swan",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Damayanti",
-    "source": "wikipedia_list",
     "id": 39,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Damayanti",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Orchestra",
-    "source": "wikipedia_list",
     "id": 40,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The heartbroken",
-    "source": "wikipedia_list",
     "id": 41,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Swarbat Player",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Swarbat",
-    "source": "wikipedia_list",
     "id": 42,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Swarbat",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shakuntala",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shakuntala,_Raja_Ravi_Varma",
-    "source": "wikipedia_list",
     "commons_filename": "Shakuntala_2.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Shakuntala_2.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Shakuntala_2.jpg",
@@ -577,56 +701,75 @@
     "id": 43,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Shakuntala,_Raja_Ravi_Varma",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lord Krishna as Ambassador",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Krishna",
-    "source": "wikipedia_list",
     "id": 44,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Krishna",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Jatayu, a bird devotee of Lord Rama is mauled by Ravana",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Jatayu_(Ramayana)",
-    "source": "wikipedia_list",
     "id": 45,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Jatayu_(Ramayana)",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Victory of Indrajit",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Indrajit",
-    "source": "wikipedia_list",
     "id": 46,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Indrajit",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The gypsies[attribution needed]",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Wikipedia:Attribution_needed",
-    "source": "wikipedia_list",
     "id": 47,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Wikipedia:Attribution_needed",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A Lady Playing Swarbat",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Swarbat",
-    "source": "wikipedia_list",
     "id": 48,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Swarbat",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady Giving Alms at the Temple",
-    "source": "wikipedia_list",
     "commons_filename": "Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
@@ -636,55 +779,80 @@
     "id": 49,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lord Rama Conquers Varuna",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Varuna",
-    "source": "wikipedia_list",
     "id": 50,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Varuna",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Nair Woman",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nair",
-    "source": "wikipedia_list",
     "id": 51,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Nair",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Romancing Couple",
-    "source": "wikipedia_list",
     "id": 52,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi Dreading to Meet Kichaka",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Draupadi",
-    "source": "wikipedia_list",
     "id": 53,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "commons_filename": "Draupadi, Raja Ravi Varma.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Draupadi%2C_Raja_Ravi_Varma.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Draupadi%2C_Raja_Ravi_Varma.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi,_Raja_Ravi_Varma.jpg",
+    "image_width": 710,
+    "image_height": 1262,
+    "mime": "image/jpeg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Draupadi",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shakuntala Composing a Love Letter to King Dushyanta",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Dushyanta",
-    "source": "wikipedia_list",
     "id": 54,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Dushyanta",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Girl in Sage Kanwa's Hermitage (Rishi-Kanya)",
-    "source": "wikipedia_list",
     "commons_filename": "Girl_in_Sage_Kanwa's_Hermitage_(Rishi-Kanya).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Girl_in_Sage_Kanwa%27s_Hermitage_%28Rishi-Kanya%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Girl_in_Sage_Kanwa%27s_Hermitage_%28Rishi-Kanya%29.jpg",
@@ -694,30 +862,46 @@
     "id": 55,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bharani Thirunal Lakshmi Bayi of Travancore",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
-    "source": "wikipedia_list",
     "id": 56,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "commons_filename": "Bharani Thirunal Lakshmi Bayi 1885.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bharani_Thirunal_Lakshmi_Bayi_1885.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bharani_Thirunal_Lakshmi_Bayi_1885.jpg/960px-Bharani_Thirunal_Lakshmi_Bayi_1885.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bharani_Thirunal_Lakshmi_Bayi_1885.jpg",
+    "image_width": 1480,
+    "image_height": 2000,
+    "mime": "image/jpeg",
+    "provenance_url": "https://en.wikipedia.org/wiki/Bharani_Thirunal_Lakshmi_Bayi",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "3D painting of the Mysore king on a horse (now on display at the Mysore Palace)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mysore_Palace",
-    "source": "wikipedia_list",
     "id": 57,
     "era": "unknown",
     "subject": "landscape",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mysore_Palace",
+    "harvest_method": "wikipedia_list",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ahimahi Vadh",
     "commons_filename": "Ahimahi_Vadh,_Ravi_Varma_Press.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ahimahi_Vadh%2C_Ravi_Varma_Press.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ahimahi_Vadh%2C_Ravi_Varma_Press.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ahimahi_Vadh,_Ravi_Varma_Press.jpg",
@@ -726,12 +910,15 @@
     "id": 58,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "AshtaSiddhi",
     "commons_filename": "AshtaSiddhi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/AshtaSiddhi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/AshtaSiddhi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:AshtaSiddhi.jpg",
@@ -740,12 +927,15 @@
     "id": 59,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Chitralekha",
     "commons_filename": "Chitralekha,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chitralekha%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chitralekha%2C_by_Raja_Ravi_Varma.jpg/960px-Chitralekha%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Chitralekha,_by_Raja_Ravi_Varma.jpg",
@@ -754,12 +944,15 @@
     "id": 60,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Dashavatara",
     "commons_filename": "Dashavatara.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Dashavatara.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Dashavatara.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Dashavatara.jpg",
@@ -768,12 +961,15 @@
     "id": 61,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Durga",
     "commons_filename": "Durga_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Durga_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Durga_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Durga_by_Raja_Ravi_Varma.jpg",
@@ -782,12 +978,15 @@
     "id": 62,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Durga Mahishasura-mardini, the slayer of the buffalo demon, Germany",
     "commons_filename": "Durga_Mahishasura-mardini,_the_slayer_of_the_buffalo_demon,_Germany.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Durga_Mahishasura-mardini%2C_the_slayer_of_the_buffalo_demon%2C_Germany.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Durga_Mahishasura-mardini%2C_the_slayer_of_the_buffalo_demon%2C_Germany.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Durga_Mahishasura-mardini,_the_slayer_of_the_buffalo_demon,_Germany.jpg",
@@ -796,12 +995,15 @@
     "id": 63,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ganapati1",
     "commons_filename": "Ganapati1.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ganapati1.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ganapati1.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ganapati1.jpg",
@@ -810,12 +1012,15 @@
     "id": 64,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Gayatri1",
     "commons_filename": "Gayatri1.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gayatri1.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gayatri1.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Gayatri1.jpg",
@@ -824,12 +1029,15 @@
     "id": 65,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Goddess Durga",
     "commons_filename": "Goddess_Durga_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Goddess_Durga_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Goddess_Durga_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Goddess_Durga_by_Raja_Ravi_Varma.jpg",
@@ -838,12 +1046,15 @@
     "id": 66,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Jagannath Lithograph",
     "commons_filename": "Jagannath_Lithograph_by_Raja_Ravi_Varma_1900s.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jagannath_Lithograph_by_Raja_Ravi_Varma_1900s.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jagannath_Lithograph_by_Raja_Ravi_Varma_1900s.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Jagannath_Lithograph_by_Raja_Ravi_Varma_1900s.jpg",
@@ -852,12 +1063,15 @@
     "id": 67,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kali",
     "commons_filename": "Kali_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kali_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kali_by_Raja_Ravi_Varma.jpg/960px-Kali_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Kali_by_Raja_Ravi_Varma.jpg",
@@ -866,12 +1080,15 @@
     "id": 68,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kurma Avatar",
     "commons_filename": "Kurma_Avatar_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kurma_Avatar_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kurma_Avatar_by_Raja_Ravi_Varma.jpg/960px-Kurma_Avatar_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Kurma_Avatar_by_Raja_Ravi_Varma.jpg",
@@ -880,12 +1097,15 @@
     "id": 69,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Maruti",
     "commons_filename": "Maruti.JPG",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Maruti.JPG",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Maruti.JPG",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Maruti.JPG",
@@ -894,12 +1114,15 @@
     "id": 70,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Meerabai",
     "commons_filename": "Meerabai_(crop).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Meerabai_%28crop%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Meerabai_%28crop%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Meerabai_(crop).jpg",
@@ -908,12 +1131,15 @@
     "id": 71,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mohini bhasmasura",
     "commons_filename": "Mohini_bhasmasura.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mohini_bhasmasura.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mohini_bhasmasura.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Mohini_bhasmasura.jpg",
@@ -922,12 +1148,15 @@
     "id": 72,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Murugan",
     "commons_filename": "Murugan_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Murugan_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Murugan_by_Raja_Ravi_Varma.jpg/960px-Murugan_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Murugan_by_Raja_Ravi_Varma.jpg",
@@ -936,12 +1165,15 @@
     "id": 73,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "National Gallery of Modern Art, Mumbai, India (20575179683)",
     "commons_filename": "National_Gallery_of_Modern_Art,_Mumbai,_India_(20575179683).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/National_Gallery_of_Modern_Art%2C_Mumbai%2C_India_%2820575179683%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/National_Gallery_of_Modern_Art%2C_Mumbai%2C_India_%2820575179683%29.jpg/960px-National_Gallery_of_Modern_Art%2C_Mumbai%2C_India_%2820575179683%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Modern_Art,_Mumbai,_India_(20575179683).jpg",
@@ -950,12 +1182,15 @@
     "id": 74,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Parashurama with axe",
     "commons_filename": "Parashurama_with_axe.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Parashurama_with_axe.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Parashurama_with_axe.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Parashurama_with_axe.jpg",
@@ -964,12 +1199,15 @@
     "id": 75,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Dattatreya",
     "commons_filename": "Raja_Ravi_Varma_-_Dattatreya.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Raja_Ravi_Varma_-_Dattatreya.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Raja_Ravi_Varma_-_Dattatreya.jpg/960px-Raja_Ravi_Varma_-_Dattatreya.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Dattatreya.jpg",
@@ -978,12 +1216,15 @@
     "id": 76,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ambika (Oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Ambika_(Oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Raja_Ravi_Varma%2C_Ambika_%28Oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Raja_Ravi_Varma%2C_Ambika_%28Oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Ambika_(Oleographic_print).jpg",
@@ -992,12 +1233,15 @@
     "id": 77,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Dhruv Narayan",
     "commons_filename": "Raja_Ravi_Varma,_Dhruv_Narayan.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Raja_Ravi_Varma%2C_Dhruv_Narayan.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Raja_Ravi_Varma%2C_Dhruv_Narayan.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Dhruv_Narayan.jpg",
@@ -1006,12 +1250,15 @@
     "id": 78,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lord Garuda",
     "commons_filename": "Raja_Ravi_Varma,_Lord_Garuda.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Raja_Ravi_Varma%2C_Lord_Garuda.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Raja_Ravi_Varma%2C_Lord_Garuda.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lord_Garuda.jpg",
@@ -1020,12 +1267,15 @@
     "id": 79,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Markandeya",
     "commons_filename": "Raja_Ravi_Varma,_Markandeya.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Raja_Ravi_Varma%2C_Markandeya.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Raja_Ravi_Varma%2C_Markandeya.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Markandeya.jpg",
@@ -1034,12 +1284,15 @@
     "id": 80,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mohini (Oleograph)",
     "commons_filename": "Raja_Ravi_Varma,_Mohini_(Oleograph).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Raja_Ravi_Varma%2C_Mohini_%28Oleograph%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Raja_Ravi_Varma%2C_Mohini_%28Oleograph%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mohini_(Oleograph).jpg",
@@ -1048,12 +1301,15 @@
     "id": 81,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Parashuram",
     "commons_filename": "Raja_Ravi_Varma,_Parashuram.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Raja_Ravi_Varma%2C_Parashuram.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Raja_Ravi_Varma%2C_Parashuram.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Parashuram.jpg",
@@ -1062,12 +1318,15 @@
     "id": 82,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Radha Waiting for Krishna",
     "commons_filename": "Raja_Ravi_Varma,_Radha_Waiting_for_Krishna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Raja_Ravi_Varma%2C_Radha_Waiting_for_Krishna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Raja_Ravi_Varma%2C_Radha_Waiting_for_Krishna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Radha_Waiting_for_Krishna.jpg",
@@ -1076,12 +1335,15 @@
     "id": 83,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Seshanarayana (Oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Seshanarayana_(Oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Seshanarayana_(Oleographic_print).jpg",
@@ -1090,12 +1352,15 @@
     "id": 84,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Vasantika (oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Vasantika_(oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Raja_Ravi_Varma%2C_Vasantika_%28oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Raja_Ravi_Varma%2C_Vasantika_%28oleographic_print%29.jpg/960px-Raja_Ravi_Varma%2C_Vasantika_%28oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Vasantika_(oleographic_print).jpg",
@@ -1104,12 +1369,15 @@
     "id": 85,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Satyavan Savitri",
     "commons_filename": "Satyavan_Savitri.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Satyavan_Savitri.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Satyavan_Savitri.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Satyavan_Savitri.jpg",
@@ -1118,12 +1386,15 @@
     "id": 86,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Savitri Narad Samvad",
     "commons_filename": "Savitri_Narad_Samvad.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Savitri_Narad_Samvad.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Savitri_Narad_Samvad.jpg/960px-Savitri_Narad_Samvad.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Savitri_Narad_Samvad.jpg",
@@ -1132,12 +1403,15 @@
     "id": 87,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Savitri",
     "commons_filename": "Savitri.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Savitri.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Savitri.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Savitri.jpg",
@@ -1146,12 +1420,15 @@
     "id": 88,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shani Deva",
     "commons_filename": "Shani_Deva.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shani_Deva.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shani_Deva.jpg/960px-Shani_Deva.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shani_Deva.jpg",
@@ -1160,12 +1437,15 @@
     "id": 89,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shanmukha Subramanyaswami",
     "commons_filename": "Shanmukha_Subramanyaswami_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shanmukha_Subramanyaswami_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanmukha_Subramanyaswami_by_Raja_Ravi_Varma.jpg/960px-Shanmukha_Subramanyaswami_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shanmukha_Subramanyaswami_by_Raja_Ravi_Varma.jpg",
@@ -1174,12 +1454,15 @@
     "id": 90,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shiva as an ascetic",
     "commons_filename": "Shiva_as_an_ascetic.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Shiva_as_an_ascetic.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Shiva_as_an_ascetic.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shiva_as_an_ascetic.jpg",
@@ -1188,12 +1471,15 @@
     "id": 91,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shiva Parvati Ganesha",
     "commons_filename": "Shiva_Parvati_Ganesha.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Shiva_Parvati_Ganesha.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Shiva_Parvati_Ganesha.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_Ganesha.jpg",
@@ -1202,12 +1488,15 @@
     "id": 92,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sita Bhumipravesh",
     "commons_filename": "Sita_Bhumipravesh.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Sita_Bhumipravesh.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sita_Bhumipravesh.jpg/960px-Sita_Bhumipravesh.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sita_Bhumipravesh.jpg",
@@ -1216,12 +1505,15 @@
     "id": 93,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sri Shanmukaha Subramania Swami",
     "commons_filename": "Sri_Shanmukaha_Subramania_Swami.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sri_Shanmukaha_Subramania_Swami.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sri_Shanmukaha_Subramania_Swami.jpg/960px-Sri_Shanmukaha_Subramania_Swami.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sri_Shanmukaha_Subramania_Swami.jpg",
@@ -1230,12 +1522,15 @@
     "id": 94,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Surya poster",
     "commons_filename": "Surya_poster.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Surya_poster.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Surya_poster.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Surya_poster.jpg",
@@ -1244,12 +1539,15 @@
     "id": 95,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Vaman",
     "commons_filename": "Vaman.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vaman.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vaman.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Vaman.jpg",
@@ -1258,12 +1556,15 @@
     "id": 96,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Vamana —",
     "commons_filename": "Vamana_—_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
@@ -1272,12 +1573,15 @@
     "id": 97,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Varaha",
     "commons_filename": "Varaha_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Varaha_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Varaha_Raja_Ravi_Varma.jpg/960px-Varaha_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Varaha_Raja_Ravi_Varma.jpg",
@@ -1286,12 +1590,15 @@
     "id": 98,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Vishnu Avatars",
     "commons_filename": "Vishnu_Avatars.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vishnu_Avatars.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vishnu_Avatars.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Vishnu_Avatars.jpg",
@@ -1300,12 +1607,15 @@
     "id": 99,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bharat playing with Lion cubs",
     "commons_filename": "Bharat_playing_with_Lion_cubs.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bharat_playing_with_Lion_cubs.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bharat_playing_with_Lion_cubs.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Bharat_playing_with_Lion_cubs.jpg",
@@ -1314,12 +1624,15 @@
     "id": 100,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bheeshma oath",
     "commons_filename": "Bheeshma_oath_by_RRV_(cropped).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bheeshma_oath_by_RRV_%28cropped%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bheeshma_oath_by_RRV_%28cropped%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Bheeshma_oath_by_RRV_(cropped).jpg",
@@ -1328,12 +1641,15 @@
     "id": 101,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi and Pandavas",
     "commons_filename": "Draupadi_and_Pandavas.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Draupadi_and_Pandavas.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Draupadi_and_Pandavas.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_and_Pandavas.jpg",
@@ -1342,12 +1658,15 @@
     "id": 102,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi and Sudheshna",
     "commons_filename": "Draupadi_and_Sudheshna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Draupadi_and_Sudheshna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Draupadi_and_Sudheshna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_and_Sudheshna.jpg",
@@ -1356,12 +1675,15 @@
     "id": 103,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi humiliated RRV crop",
     "commons_filename": "Draupadi_humiliated_RRV_crop.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Draupadi_humiliated_RRV_crop.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Draupadi_humiliated_RRV_crop.jpg/960px-Draupadi_humiliated_RRV_crop.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_humiliated_RRV_crop.jpg",
@@ -1370,12 +1692,15 @@
     "id": 104,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi humiliated RRV",
     "commons_filename": "Draupadi_humiliated_RRV.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Draupadi_humiliated_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Draupadi_humiliated_RRV.jpg/960px-Draupadi_humiliated_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_humiliated_RRV.jpg",
@@ -1384,12 +1709,15 @@
     "id": 105,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi Vastraharan",
     "commons_filename": "Draupadi_Vastraharan,_Raja_Ravi_Varma_(crop_3).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Draupadi_Vastraharan%2C_Raja_Ravi_Varma_%28crop_3%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Draupadi_Vastraharan%2C_Raja_Ravi_Varma_%28crop_3%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma_(crop_3).jpg",
@@ -1398,12 +1726,15 @@
     "id": 106,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Duryodhana",
     "commons_filename": "Duryodhana,_Raja_Ravi_Varma_(cropped).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Duryodhana%2C_Raja_Ravi_Varma_%28cropped%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Duryodhana%2C_Raja_Ravi_Varma_%28cropped%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Duryodhana,_Raja_Ravi_Varma_(cropped).jpg",
@@ -1412,12 +1743,15 @@
     "id": 107,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ganga and Bhishma",
     "commons_filename": "Ganga_and_Bhishma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ganga_and_Bhishma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ganga_and_Bhishma.jpg/960px-Ganga_and_Bhishma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ganga_and_Bhishma.jpg",
@@ -1426,12 +1760,15 @@
     "id": 108,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ganga shantanu",
     "commons_filename": "Ganga_shantanu.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ganga_shantanu.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ganga_shantanu.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ganga_shantanu.jpg",
@@ -1440,12 +1777,15 @@
     "id": 109,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Harishchandra",
     "commons_filename": "Harishchandra_by_RRV.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Harishchandra_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Harishchandra_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Harishchandra_by_RRV.jpg",
@@ -1454,12 +1794,15 @@
     "id": 110,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Jaydrath abduct Draupadi",
     "commons_filename": "Jaydrath_abduct_Draupadi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jaydrath_abduct_Draupadi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jaydrath_abduct_Draupadi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Jaydrath_abduct_Draupadi.jpg",
@@ -1468,12 +1811,15 @@
     "id": 111,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kiratarjuniya",
     "commons_filename": "Kiratarjuniya.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kiratarjuniya.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kiratarjuniya.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Kiratarjuniya.jpg",
@@ -1482,12 +1828,15 @@
     "id": 112,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Krishna as Envoy",
     "commons_filename": "Krishna_as_Envoy,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Krishna_as_Envoy%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Krishna_as_Envoy%2C_by_Raja_Ravi_Varma.jpg/960px-Krishna_as_Envoy%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Krishna_as_Envoy,_by_Raja_Ravi_Varma.jpg",
@@ -1496,12 +1845,15 @@
     "id": 113,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Krishna meets parents",
     "commons_filename": "Krishna_meets_parents.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Krishna_meets_parents.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Krishna_meets_parents.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Krishna_meets_parents.jpg",
@@ -1510,12 +1862,15 @@
     "id": 114,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Krishna Pleads with Dhritarashtra to Avoid War",
     "commons_filename": "Krishna_Pleads_with_Dhritarashtra_to_Avoid_War.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Krishna_Pleads_with_Dhritarashtra_to_Avoid_War.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Krishna_Pleads_with_Dhritarashtra_to_Avoid_War.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Krishna_Pleads_with_Dhritarashtra_to_Avoid_War.jpg",
@@ -1524,12 +1879,15 @@
     "id": 115,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Menaka and Vishvamitra, in a painting",
     "commons_filename": "Menaka_and_Vishvamitra,_in_a_painting_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Menaka_and_Vishvamitra%2C_in_a_painting_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Menaka_and_Vishvamitra%2C_in_a_painting_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Menaka_and_Vishvamitra,_in_a_painting_by_Raja_Ravi_Varma.jpg",
@@ -1538,12 +1896,15 @@
     "id": 116,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Menaka the nymph tempting the yogi",
     "commons_filename": "Menaka_the_nymph_tempting_the_yogi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Menaka_the_nymph_tempting_the_yogi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Menaka_the_nymph_tempting_the_yogi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Menaka_the_nymph_tempting_the_yogi.jpg",
@@ -1552,12 +1913,15 @@
     "id": 117,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Menaka Vishwamitra",
     "commons_filename": "Menaka_Vishwamitra_by_RRV.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Menaka_Vishwamitra_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Menaka_Vishwamitra_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Menaka_Vishwamitra_by_RRV.jpg",
@@ -1566,12 +1930,15 @@
     "id": 118,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Radha Madhavam",
     "commons_filename": "Radha_Madhavam.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Radha_Madhavam.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Radha_Madhavam.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Radha_Madhavam.jpg",
@@ -1580,12 +1947,15 @@
     "id": 119,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ganga and Shantanu",
     "commons_filename": "Raja_Ravi_Varma_-_Ganga_and_Shantanu.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Raja_Ravi_Varma_-_Ganga_and_Shantanu.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Raja_Ravi_Varma_-_Ganga_and_Shantanu.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Ganga_and_Shantanu.jpg",
@@ -1594,12 +1964,15 @@
     "id": 120,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mahabharata - Bharata",
     "commons_filename": "Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg",
@@ -1608,12 +1981,15 @@
     "id": 121,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mahabharata - NalaDamayanti",
     "commons_filename": "Raja_Ravi_Varma_-_Mahabharata_-_NalaDamayanti.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Raja_Ravi_Varma_-_Mahabharata_-_NalaDamayanti.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Raja_Ravi_Varma_-_Mahabharata_-_NalaDamayanti.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_NalaDamayanti.jpg",
@@ -1622,12 +1998,15 @@
     "id": 122,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Birth of Krishna (1890)",
     "commons_filename": "Raja_Ravi_Varma,_Birth_of_Krishna_(1890).jpg",
-    "source": "commons_category",
     "date": "1890",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Raja_Ravi_Varma%2C_Birth_of_Krishna_%281890%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Raja_Ravi_Varma%2C_Birth_of_Krishna_%281890%29.jpg",
@@ -1637,12 +2016,15 @@
     "id": 123,
     "era": "mature",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": 1890,
+    "year_end": 1890,
+    "circa": false
   },
   {
     "title": "Damayanthi",
     "commons_filename": "Raja_Ravi_Varma,_Damayanthi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Raja_Ravi_Varma%2C_Damayanthi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Raja_Ravi_Varma%2C_Damayanthi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Damayanthi.jpg",
@@ -1651,12 +2033,15 @@
     "id": 124,
     "era": "unknown",
     "subject": "other",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Damayanti Vanavasa (Oleograph)",
     "commons_filename": "Raja_Ravi_Varma,_Damayanti_Vanavasa_(Oleograph).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Raja_Ravi_Varma%2C_Damayanti_Vanavasa_%28Oleograph%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Raja_Ravi_Varma%2C_Damayanti_Vanavasa_%28Oleograph%29.jpg/960px-Raja_Ravi_Varma%2C_Damayanti_Vanavasa_%28Oleograph%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Damayanti_Vanavasa_(Oleograph).jpg",
@@ -1665,12 +2050,15 @@
     "id": 125,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Harischandra and Tharamathi",
     "commons_filename": "Raja_Ravi_Varma,_Harischandra_and_Tharamathi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Raja_Ravi_Varma%2C_Harischandra_and_Tharamathi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Raja_Ravi_Varma%2C_Harischandra_and_Tharamathi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Harischandra_and_Tharamathi.jpg",
@@ -1679,12 +2067,15 @@
     "id": 126,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Haunsa Damayanti Sanwada (Oleograph print)",
     "commons_filename": "Raja_Ravi_Varma,_Haunsa_Damayanti_Sanwada_(Oleograph_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raja_Ravi_Varma%2C_Haunsa_Damayanti_Sanwada_%28Oleograph_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Raja_Ravi_Varma%2C_Haunsa_Damayanti_Sanwada_%28Oleograph_print%29.jpg/960px-Raja_Ravi_Varma%2C_Haunsa_Damayanti_Sanwada_%28Oleograph_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Haunsa_Damayanti_Sanwada_(Oleograph_print).jpg",
@@ -1693,12 +2084,15 @@
     "id": 127,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Introducing Radha to Krishna",
     "commons_filename": "Raja_Ravi_Varma,_Introducing_Radha_to_Krishna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Raja_Ravi_Varma%2C_Introducing_Radha_to_Krishna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Raja_Ravi_Varma%2C_Introducing_Radha_to_Krishna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Introducing_Radha_to_Krishna.jpg",
@@ -1707,12 +2101,15 @@
     "id": 128,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kamsa maya (1890)",
     "commons_filename": "Raja_Ravi_Varma,_Kamsa_maya_(1890).jpg",
-    "source": "commons_category",
     "date": "1890",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Raja_Ravi_Varma%2C_Kamsa_maya_%281890%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Raja_Ravi_Varma%2C_Kamsa_maya_%281890%29.jpg",
@@ -1722,12 +2119,15 @@
     "id": 129,
     "era": "mature",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1890,
+    "year_end": 1890,
+    "circa": false
   },
   {
     "title": "Keechaka and Sairandhri, Oleograph",
     "commons_filename": "Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_Oleograph.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Raja_Ravi_Varma%2C_Keechaka_and_Sairandhri%2C_Oleograph.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Raja_Ravi_Varma%2C_Keechaka_and_Sairandhri%2C_Oleograph.jpg/960px-Raja_Ravi_Varma%2C_Keechaka_and_Sairandhri%2C_Oleograph.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_Oleograph.jpg",
@@ -1736,12 +2136,15 @@
     "id": 130,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Krishna Drishta (1888)",
     "commons_filename": "Raja_Ravi_Varma,_Krishna_Drishta_(1888).jpg",
-    "source": "commons_category",
     "date": "1888",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Raja_Ravi_Varma%2C_Krishna_Drishta_%281888%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Raja_Ravi_Varma%2C_Krishna_Drishta_%281888%29.jpg",
@@ -1751,12 +2154,15 @@
     "id": 131,
     "era": "mature",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1888,
+    "year_end": 1888,
+    "circa": false
   },
   {
     "title": "Marriage of Malsya Gandhi, (1907",
     "commons_filename": "Raja_Ravi_Varma,_Marriage_of_Malsya_Gandhi,_(1907_Chromolithograph).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Raja_Ravi_Varma%2C_Marriage_of_Malsya_Gandhi%2C_%281907_Chromolithograph%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Raja_Ravi_Varma%2C_Marriage_of_Malsya_Gandhi%2C_%281907_Chromolithograph%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Marriage_of_Malsya_Gandhi,_(1907_Chromolithograph).jpg",
@@ -1765,12 +2171,15 @@
     "id": 132,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mohini and Rugmangada (1899)",
     "commons_filename": "Raja_Ravi_Varma,_Mohini_and_Rugmangada_(1899).jpg",
-    "source": "commons_category",
     "date": "1899",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Raja_Ravi_Varma%2C_Mohini_and_Rugmangada_%281899%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Raja_Ravi_Varma%2C_Mohini_and_Rugmangada_%281899%29.jpg",
@@ -1780,12 +2189,15 @@
     "id": 133,
     "era": "mature",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1899,
+    "year_end": 1899,
+    "circa": false
   },
   {
     "title": "Radha and Sakhi (Oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Radha_and_Sakhi_(Oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Raja_Ravi_Varma%2C_Radha_and_Sakhi_%28Oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Raja_Ravi_Varma%2C_Radha_and_Sakhi_%28Oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Radha_and_Sakhi_(Oleographic_print).jpg",
@@ -1794,12 +2206,15 @@
     "id": 134,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sairandhri (1891)",
     "commons_filename": "Raja_Ravi_Varma,_Sairandhri_(1891)_(cropped).jpg",
-    "source": "commons_category",
     "date": "1891",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Raja_Ravi_Varma%2C_Sairandhri_%281891%29_%28cropped%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Raja_Ravi_Varma%2C_Sairandhri_%281891%29_%28cropped%29.jpg/960px-Raja_Ravi_Varma%2C_Sairandhri_%281891%29_%28cropped%29.jpg",
@@ -1809,12 +2224,15 @@
     "id": 135,
     "era": "mature",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1891,
+    "year_end": 1891,
+    "circa": false
   },
   {
     "title": "Shantanu and Matsyagandhi (Oleograph)",
     "commons_filename": "Raja_Ravi_Varma,_Shantanu_and_Matsyagandhi_(Oleograph).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Raja_Ravi_Varma%2C_Shantanu_and_Matsyagandhi_%28Oleograph%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Raja_Ravi_Varma%2C_Shantanu_and_Matsyagandhi_%28Oleograph%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Shantanu_and_Matsyagandhi_(Oleograph).jpg",
@@ -1823,12 +2241,15 @@
     "id": 136,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Simhika and Sairandhri",
     "commons_filename": "Raja_Ravi_Varma,_Simhika_and_Sairandhri.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Raja_Ravi_Varma%2C_Simhika_and_Sairandhri.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Raja_Ravi_Varma%2C_Simhika_and_Sairandhri.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Simhika_and_Sairandhri.jpg",
@@ -1837,12 +2258,15 @@
     "id": 137,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Swan Messenger",
     "commons_filename": "Raja_Ravi_Varma,_Swan_Messenger.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Raja_Ravi_Varma%2C_Swan_Messenger.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Raja_Ravi_Varma%2C_Swan_Messenger.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Swan_Messenger.jpg",
@@ -1851,12 +2275,15 @@
     "id": 138,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Usha's Dream (oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Usha's_Dream_(oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Raja_Ravi_Varma%2C_Usha%27s_Dream_%28oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Raja_Ravi_Varma%2C_Usha%27s_Dream_%28oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Usha%27s_Dream_(oleographic_print).jpg",
@@ -1865,12 +2292,15 @@
     "id": 139,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Vishwamitra and Menaka (oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Vishwamitra_and_Menaka_(oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Raja_Ravi_Varma%2C_Vishwamitra_and_Menaka_%28oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Raja_Ravi_Varma%2C_Vishwamitra_and_Menaka_%28oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Vishwamitra_and_Menaka_(oleographic_print).jpg",
@@ -1879,12 +2309,15 @@
     "id": 140,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yasoda Adorning Krishna",
     "commons_filename": "Raja_Ravi_Varma,_Yasoda_Adorning_Krishna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Raja_Ravi_Varma%2C_Yasoda_Adorning_Krishna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Raja_Ravi_Varma%2C_Yasoda_Adorning_Krishna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasoda_Adorning_Krishna.jpg",
@@ -1893,12 +2326,15 @@
     "id": 141,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yasoda with Krishna",
     "commons_filename": "Raja_Ravi_Varma,_Yasoda_with_Krishna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raja_Ravi_Varma%2C_Yasoda_with_Krishna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raja_Ravi_Varma%2C_Yasoda_with_Krishna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasoda_with_Krishna.jpg",
@@ -1907,12 +2343,15 @@
     "id": 142,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yasodha and Krishna (1901)",
     "commons_filename": "Raja_Ravi_Varma,_Yasodha_and_Krishna_(1901).jpg",
-    "source": "commons_category",
     "date": "1901",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Raja_Ravi_Varma%2C_Yasodha_and_Krishna_%281901%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Raja_Ravi_Varma%2C_Yasodha_and_Krishna_%281901%29.jpg",
@@ -1922,12 +2361,15 @@
     "id": 143,
     "era": "late",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1901,
+    "year_end": 1901,
+    "circa": false
   },
   {
     "title": "A swan telling Damayanti of Nala's love",
     "commons_filename": "A_swan_telling_Damayanti_of_Nala's_love._Chromolithograph_by_Wellcome_V0045111.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/A_swan_telling_Damayanti_of_Nala%27s_love._Chromolithograph_by_Wellcome_V0045111.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/A_swan_telling_Damayanti_of_Nala%27s_love._Chromolithograph_by_Wellcome_V0045111.jpg/960px-A_swan_telling_Damayanti_of_Nala%27s_love._Chromolithograph_by_Wellcome_V0045111.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:A_swan_telling_Damayanti_of_Nala%27s_love._Chromolithograph_by_Wellcome_V0045111.jpg",
@@ -1936,12 +2378,15 @@
     "id": 144,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Damayanti and the Swan",
     "commons_filename": "Damayanti_and_the_Swan.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Damayanti_and_the_Swan.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Damayanti_and_the_Swan.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Damayanti_and_the_Swan.jpg",
@@ -1950,12 +2395,15 @@
     "id": 145,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hansa Damayanthi",
     "commons_filename": "Hansa_Damayanthi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Hansa_Damayanthi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hansa_Damayanthi.jpg/960px-Hansa_Damayanthi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Hansa_Damayanthi.jpg",
@@ -1964,12 +2412,15 @@
     "id": 146,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Hansa damayanti",
     "commons_filename": "Hansa_damayanti.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hansa_damayanti.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hansa_damayanti.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Hansa_damayanti.jpg",
@@ -1978,12 +2429,15 @@
     "id": 147,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Princess Damayanthi talking with Royal Swan about Nala",
     "commons_filename": "Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg/960px-Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
@@ -1992,12 +2446,15 @@
     "id": 148,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadi and Simhika",
     "commons_filename": "Ravi_Varma-Draupadi_and_Simhika.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ravi_Varma-Draupadi_and_Simhika.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ravi_Varma-Draupadi_and_Simhika.jpg/960px-Ravi_Varma-Draupadi_and_Simhika.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Draupadi_and_Simhika.jpg",
@@ -2006,12 +2463,15 @@
     "id": 149,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shantanu and Satyavati",
     "commons_filename": "Ravi_Varma-Shantanu_and_Satyavati.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ravi_Varma-Shantanu_and_Satyavati.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ravi_Varma-Shantanu_and_Satyavati.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Shantanu_and_Satyavati.jpg",
@@ -2020,12 +2480,15 @@
     "id": 150,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shaivya Taramati",
     "commons_filename": "Shaivya_Taramati.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shaivya_Taramati.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shaivya_Taramati.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shaivya_Taramati.jpg",
@@ -2034,12 +2497,15 @@
     "id": 151,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sudeshna and Draupathi",
     "commons_filename": "Sudeshna_and_Draupathi.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sudeshna_and_Draupathi.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sudeshna_and_Draupathi.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sudeshna_and_Draupathi.jpg",
@@ -2048,12 +2514,15 @@
     "id": 152,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Viswamitra",
     "commons_filename": "Viswamitra.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Viswamitra.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Viswamitra.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Viswamitra.jpg",
@@ -2062,12 +2531,15 @@
     "id": 153,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Yesoda-krishna",
     "commons_filename": "Yesoda-krishna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yesoda-krishna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yesoda-krishna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Yesoda-krishna.jpg",
@@ -2076,12 +2548,15 @@
     "id": 154,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ahalya crop",
     "commons_filename": "Ahalya_crop.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ahalya_crop.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ahalya_crop.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ahalya_crop.jpg",
@@ -2090,12 +2565,15 @@
     "id": 155,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ahalya Indravalokan",
     "commons_filename": "Ahalya_Indravalokan.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ahalya_Indravalokan.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ahalya_Indravalokan.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ahalya_Indravalokan.jpg",
@@ -2104,12 +2582,15 @@
     "id": 156,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ahalya rama",
     "commons_filename": "Ahalya_rama.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ahalya_rama.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ahalya_rama.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ahalya_rama.jpg",
@@ -2118,12 +2599,15 @@
     "id": 157,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ahalya",
     "commons_filename": "Ahalya.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ahalya.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahalya.jpg/960px-Ahalya.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ahalya.jpg",
@@ -2132,12 +2616,15 @@
     "id": 158,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kaikeyi vilap",
     "commons_filename": "Kaikeyi_vilap.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kaikeyi_vilap.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kaikeyi_vilap.jpg/960px-Kaikeyi_vilap.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Kaikeyi_vilap.jpg",
@@ -2146,12 +2633,15 @@
     "id": 159,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Bharat Milap (Lithographic Print)",
     "commons_filename": "Raja_Ravi_Varma,_Bharat_Milap_(Lithographic_Print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Raja_Ravi_Varma%2C_Bharat_Milap_%28Lithographic_Print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Raja_Ravi_Varma%2C_Bharat_Milap_%28Lithographic_Print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Bharat_Milap_(Lithographic_Print).jpg",
@@ -2160,12 +2650,15 @@
     "id": 160,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Jatayu vadha",
     "commons_filename": "Raja_Ravi_Varma,_Jatayu_vadha,_1906.jpg",
-    "source": "commons_category",
     "date": "1906",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Jatayu_vadha%2C_1906.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Raja_Ravi_Varma%2C_Jatayu_vadha%2C_1906.jpg/960px-Raja_Ravi_Varma%2C_Jatayu_vadha%2C_1906.jpg",
@@ -2175,12 +2668,15 @@
     "id": 161,
     "era": "late",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1906,
+    "year_end": 1906,
+    "circa": false
   },
   {
     "title": "Sita taken by Goddess Earth",
     "commons_filename": "Raja_Ravi_Varma,_Sita_taken_by_Goddess_Earth.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Raja_Ravi_Varma%2C_Sita_taken_by_Goddess_Earth.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Raja_Ravi_Varma%2C_Sita_taken_by_Goddess_Earth.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sita_taken_by_Goddess_Earth.jpg",
@@ -2189,12 +2685,15 @@
     "id": 162,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sree Rama Crossing Sarayu river",
     "commons_filename": "Raja_Ravi_Varma,_Sree_Rama_Crossing_Sarayu_river.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Raja_Ravi_Varma%2C_Sree_Rama_Crossing_Sarayu_river.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Raja_Ravi_Varma%2C_Sree_Rama_Crossing_Sarayu_river.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sree_Rama_Crossing_Sarayu_river.jpg",
@@ -2203,12 +2702,15 @@
     "id": 163,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ram & Laxman",
     "commons_filename": "Ram_&_Laxman.JPG",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ram_%26_Laxman.JPG",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ram_%26_Laxman.JPG/960px-Ram_%26_Laxman.JPG",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ram_%26_Laxman.JPG",
@@ -2217,12 +2719,15 @@
     "id": 164,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama breaking the bow to win Sita as wife",
     "commons_filename": "Rama_breaking_the_bow_to_win_Sita_as_wife.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Rama_breaking_the_bow_to_win_Sita_as_wife.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rama_breaking_the_bow_to_win_Sita_as_wife.jpg/960px-Rama_breaking_the_bow_to_win_Sita_as_wife.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rama_breaking_the_bow_to_win_Sita_as_wife.jpg",
@@ -2231,12 +2736,15 @@
     "id": 165,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama breaking the bow",
     "commons_filename": "Rama_breaking_the_bow.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rama_breaking_the_bow.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rama_breaking_the_bow.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rama_breaking_the_bow.jpg",
@@ -2245,12 +2753,15 @@
     "id": 166,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama crossing Sarayu in Ivory",
     "commons_filename": "Rama_crossing_Sarayu_in_Ivory.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rama_crossing_Sarayu_in_Ivory.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rama_crossing_Sarayu_in_Ivory.jpg/960px-Rama_crossing_Sarayu_in_Ivory.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rama_crossing_Sarayu_in_Ivory.jpg",
@@ -2259,12 +2770,15 @@
     "id": 167,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama releasing Ahalya from curse",
     "commons_filename": "Rama_releasing_Ahalya_from_curse.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rama_releasing_Ahalya_from_curse.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rama_releasing_Ahalya_from_curse.jpg/960px-Rama_releasing_Ahalya_from_curse.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rama_releasing_Ahalya_from_curse.jpg",
@@ -2273,12 +2787,15 @@
     "id": 168,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama-Varuna",
     "commons_filename": "Rama-Varuna.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rama-Varuna.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rama-Varuna.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rama-Varuna.jpg",
@@ -2287,12 +2804,15 @@
     "id": 169,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ramapanchayan",
     "commons_filename": "Ramapanchayan,_Raja_Ravi_Varma_(Lithograph).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg/960px-Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ramapanchayan,_Raja_Ravi_Varma_(Lithograph).jpg",
@@ -2301,12 +2821,15 @@
     "id": 170,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rama-breaking-bow",
     "commons_filename": "Ravi_Varma-Rama-breaking-bow.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ravi_Varma-Rama-breaking-bow.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ravi_Varma-Rama-breaking-bow.jpg/960px-Ravi_Varma-Rama-breaking-bow.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Rama-breaking-bow.jpg",
@@ -2315,12 +2838,15 @@
     "id": 171,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ravana Sita Jathayu",
     "commons_filename": "Ravi_Varma-Ravana_Sita_Jathayu.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ravi_Varma-Ravana_Sita_Jathayu.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravi_Varma-Ravana_Sita_Jathayu.jpg/960px-Ravi_Varma-Ravana_Sita_Jathayu.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Ravana_Sita_Jathayu.jpg",
@@ -2329,12 +2855,15 @@
     "id": 172,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sita Bhum Pravesh",
     "commons_filename": "Sita_Bhum_Pravesh.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sita_Bhum_Pravesh.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sita_Bhum_Pravesh.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sita_Bhum_Pravesh.jpg",
@@ -2343,12 +2872,15 @@
     "id": 173,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sita(1)",
     "commons_filename": "Sita(1).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sita%281%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sita%281%29.jpg/960px-Sita%281%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sita(1).jpg",
@@ -2357,12 +2889,15 @@
     "id": 174,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Urvashi-Pururavas",
     "commons_filename": "Urvashi-Pururavas_by_RRV.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urvashi-Pururavas_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urvashi-Pururavas_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Urvashi-Pururavas_by_RRV.jpg",
@@ -2371,12 +2906,15 @@
     "id": 175,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Chinmabai",
     "commons_filename": "Chinmabai.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Chinmabai.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Chinmabai.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Chinmabai.jpg",
@@ -2385,12 +2923,15 @@
     "id": 176,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadikichaka",
     "commons_filename": "Draupadikichaka.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Draupadikichaka.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Draupadikichaka.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadikichaka.jpg",
@@ -2399,12 +2940,15 @@
     "id": 177,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadisairendri",
     "commons_filename": "Draupadisairendri.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Draupadisairendri.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Draupadisairendri.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadisairendri.jpg",
@@ -2413,12 +2957,15 @@
     "id": 178,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadisimhika1",
     "commons_filename": "Draupadisimhika1.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Draupadisimhika1.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Draupadisimhika1.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadisimhika1.jpg",
@@ -2427,12 +2974,15 @@
     "id": 179,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Draupadisimhika1b",
     "commons_filename": "Draupadisimhika1b.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Draupadisimhika1b.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Draupadisimhika1b.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Draupadisimhika1b.jpg",
@@ -2441,12 +2991,15 @@
     "id": 180,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "HH Subbamma Bai Sahib Rani of Pudukottai",
     "commons_filename": "HH_Subbamma_Bai_Sahib_Rani_of_Pudukottai.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/HH_Subbamma_Bai_Sahib_Rani_of_Pudukottai.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/HH_Subbamma_Bai_Sahib_Rani_of_Pudukottai.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:HH_Subbamma_Bai_Sahib_Rani_of_Pudukottai.jpg",
@@ -2455,12 +3008,15 @@
     "id": 181,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Ladies in the moonlight",
     "commons_filename": "Ladies_in_the_moonlight_by_RRV.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ladies_in_the_moonlight_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ladies_in_the_moonlight_by_RRV.jpg/960px-Ladies_in_the_moonlight_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ladies_in_the_moonlight_by_RRV.jpg",
@@ -2469,12 +3025,15 @@
     "id": 182,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Malabar Beauty",
     "commons_filename": "Malabar_Beauty,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Malabar_Beauty%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Malabar_Beauty%2C_by_Raja_Ravi_Varma.jpg/960px-Malabar_Beauty%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Malabar_Beauty,_by_Raja_Ravi_Varma.jpg",
@@ -2483,12 +3042,15 @@
     "id": 183,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Malayali Lady",
     "commons_filename": "Malayali_Lady,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Malayali_Lady%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Malayali_Lady%2C_by_Raja_Ravi_Varma.jpg/960px-Malayali_Lady%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Malayali_Lady,_by_Raja_Ravi_Varma.jpg",
@@ -2497,12 +3059,15 @@
     "id": 184,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mandodari",
     "commons_filename": "Mandodari,_by_Raja_Ravi_Varma_(cropped).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mandodari%2C_by_Raja_Ravi_Varma_%28cropped%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mandodari%2C_by_Raja_Ravi_Varma_%28cropped%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Mandodari,_by_Raja_Ravi_Varma_(cropped).jpg",
@@ -2511,12 +3076,15 @@
     "id": 185,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mother preparing vegetables",
     "commons_filename": "Mother_preparing_vegetables.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mother_preparing_vegetables.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mother_preparing_vegetables.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Mother_preparing_vegetables.jpg",
@@ -2525,12 +3093,15 @@
     "id": 186,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Panchakanya",
     "commons_filename": "Panchakanya_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Panchakanya_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Panchakanya_by_Raja_Ravi_Varma.jpg/960px-Panchakanya_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Panchakanya_by_Raja_Ravi_Varma.jpg",
@@ -2539,12 +3110,15 @@
     "id": 187,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Portrait of a Lady - Google Art Project",
     "commons_filename": "Raja_Ravi_Varma_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Raja_Ravi_Varma_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Raja_Ravi_Varma_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg/960px-Raja_Ravi_Varma_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
@@ -2553,12 +3127,15 @@
     "id": 188,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shakuntala writing a love letter on a lotus leaf",
     "commons_filename": "Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
@@ -2567,12 +3144,15 @@
     "id": 189,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Woman Holding a Fan VA AC 2006AU7185",
     "commons_filename": "Raja_Ravi_Varma_-_Woman_Holding_a_Fan_VA_AC_2006AU7185.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Raja_Ravi_Varma_-_Woman_Holding_a_Fan_VA_AC_2006AU7185.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Raja_Ravi_Varma_-_Woman_Holding_a_Fan_VA_AC_2006AU7185.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Woman_Holding_a_Fan_VA_AC_2006AU7185.jpg",
@@ -2581,12 +3161,15 @@
     "id": 190,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Woman Holding a Fruit - Google Art Project",
     "commons_filename": "Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg/960px-Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
@@ -2595,12 +3178,15 @@
     "id": 191,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A Portrait (Village girl)",
     "commons_filename": "Raja_Ravi_Varma,_A_Portrait_(Village_girl).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Raja_Ravi_Varma%2C_A_Portrait_%28Village_girl%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Raja_Ravi_Varma%2C_A_Portrait_%28Village_girl%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_A_Portrait_(Village_girl).jpg",
@@ -2609,12 +3195,15 @@
     "id": 192,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Decking the bride",
     "commons_filename": "Raja_Ravi_Varma,_Decking_the_bride.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Raja_Ravi_Varma%2C_Decking_the_bride.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Raja_Ravi_Varma%2C_Decking_the_bride.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Decking_the_bride.jpg",
@@ -2623,12 +3212,15 @@
     "id": 193,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady at Ball Game",
     "commons_filename": "Raja_Ravi_Varma,_Lady_at_Ball_Game.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Raja_Ravi_Varma%2C_Lady_at_Ball_Game.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Raja_Ravi_Varma%2C_Lady_at_Ball_Game.jpg/960px-Raja_Ravi_Varma%2C_Lady_at_Ball_Game.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_at_Ball_Game.jpg",
@@ -2637,12 +3229,15 @@
     "id": 194,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady Going for Pooja",
     "commons_filename": "Raja_Ravi_Varma,_Lady_Going_for_Pooja.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Raja_Ravi_Varma%2C_Lady_Going_for_Pooja.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Raja_Ravi_Varma%2C_Lady_Going_for_Pooja.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Going_for_Pooja.jpg",
@@ -2651,12 +3246,15 @@
     "id": 195,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady in Prison",
     "commons_filename": "Raja_Ravi_Varma,_Lady_in_Prison.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Raja_Ravi_Varma%2C_Lady_in_Prison.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Raja_Ravi_Varma%2C_Lady_in_Prison.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_in_Prison.jpg",
@@ -2665,12 +3263,15 @@
     "id": 196,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady in the Moon Light (1889)",
     "commons_filename": "Raja_Ravi_Varma,_Lady_in_the_Moon_Light_(1889).jpg",
-    "source": "commons_category",
     "date": "1889",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Lady_in_the_Moon_Light_%281889%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Lady_in_the_Moon_Light_%281889%29.jpg",
@@ -2680,12 +3281,15 @@
     "id": 197,
     "era": "mature",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1889,
+    "year_end": 1889,
+    "circa": false
   },
   {
     "title": "Lady Juggler",
     "commons_filename": "Raja_Ravi_Varma,_Lady_Juggler.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Raja_Ravi_Varma%2C_Lady_Juggler.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Raja_Ravi_Varma%2C_Lady_Juggler.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Juggler.jpg",
@@ -2694,12 +3298,15 @@
     "id": 198,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady with Jewels",
     "commons_filename": "Raja_Ravi_Varma,_Lady_with_Jewels.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Raja_Ravi_Varma%2C_Lady_with_Jewels.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Raja_Ravi_Varma%2C_Lady_with_Jewels.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_with_Jewels.jpg",
@@ -2708,12 +3315,15 @@
     "id": 199,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Maharani Chimanbai (younger age 2)",
     "commons_filename": "Raja_Ravi_Varma,_Maharani_Chimanbai_(younger_age_2).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Raja_Ravi_Varma%2C_Maharani_Chimanbai_%28younger_age_2%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Raja_Ravi_Varma%2C_Maharani_Chimanbai_%28younger_age_2%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Maharani_Chimanbai_(younger_age_2).jpg",
@@ -2722,12 +3332,15 @@
     "id": 200,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Maharashtrian Beauty",
     "commons_filename": "Raja_Ravi_Varma,_Maharashtrian_Beauty.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Maharashtrian_Beauty.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Maharashtrian_Beauty.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Maharashtrian_Beauty.jpg",
@@ -2736,12 +3349,15 @@
     "id": 201,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Mrs. Ramanadha Rao",
     "commons_filename": "Raja_Ravi_Varma,_Mrs._Ramanadha_Rao.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Raja_Ravi_Varma%2C_Mrs._Ramanadha_Rao.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Raja_Ravi_Varma%2C_Mrs._Ramanadha_Rao.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mrs._Ramanadha_Rao.jpg",
@@ -2750,12 +3366,15 @@
     "id": 202,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Portrait of a Lady",
     "commons_filename": "Raja_Ravi_Varma,_Portrait_of_a_Lady.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Raja_Ravi_Varma%2C_Portrait_of_a_Lady.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Raja_Ravi_Varma%2C_Portrait_of_a_Lady.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Portrait_of_a_Lady.jpg",
@@ -2764,12 +3383,15 @@
     "id": 203,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Princess Tharabai",
     "commons_filename": "Raja_Ravi_Varma,_Princess_Tharabai.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Raja_Ravi_Varma%2C_Princess_Tharabai.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Raja_Ravi_Varma%2C_Princess_Tharabai.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Princess_Tharabai.jpg",
@@ -2778,12 +3400,15 @@
     "id": 204,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Lady with a Mirror (1894)",
     "commons_filename": "Raja_Ravi_Varma,_The_Lady_with_a_Mirror_(1894).jpg",
-    "source": "commons_category",
     "date": "1894",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Raja_Ravi_Varma%2C_The_Lady_with_a_Mirror_%281894%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Raja_Ravi_Varma%2C_The_Lady_with_a_Mirror_%281894%29.jpg",
@@ -2793,12 +3418,15 @@
     "id": 205,
     "era": "mature",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": 1894,
+    "year_end": 1894,
+    "circa": false
   },
   {
     "title": "The Milkmaid (1904)",
     "commons_filename": "Raja_Ravi_Varma,_The_Milkmaid_(1904).jpg",
-    "source": "commons_category",
     "date": "1904",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma%2C_The_Milkmaid_%281904%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma%2C_The_Milkmaid_%281904%29.jpg",
@@ -2808,12 +3436,15 @@
     "id": 206,
     "era": "late",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": 1904,
+    "year_end": 1904,
+    "circa": false
   },
   {
     "title": "The Parsee Lady",
     "commons_filename": "Raja_Ravi_Varma,_The_Parsee_Lady.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Raja_Ravi_Varma%2C_The_Parsee_Lady.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Raja_Ravi_Varma%2C_The_Parsee_Lady.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Parsee_Lady.jpg",
@@ -2822,12 +3453,15 @@
     "id": 207,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The suckling child",
     "commons_filename": "Raja_Ravi_Varma,_The_suckling_child.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Raja_Ravi_Varma%2C_The_suckling_child.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raja_Ravi_Varma%2C_The_suckling_child.jpg/960px-Raja_Ravi_Varma%2C_The_suckling_child.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_suckling_child.jpg",
@@ -2836,12 +3470,15 @@
     "id": 208,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Vasanthasena (Oleographic print)",
     "commons_filename": "Raja_Ravi_Varma,_Vasanthasena_(Oleographic_print).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Raja_Ravi_Varma%2C_Vasanthasena_%28Oleographic_print%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Raja_Ravi_Varma%2C_Vasanthasena_%28Oleographic_print%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Vasanthasena_(Oleographic_print).jpg",
@@ -2850,12 +3487,15 @@
     "id": 209,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady playing the swarbat",
     "commons_filename": "Ravi_Varma-Lady_playing_the_swarbat.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ravi_Varma-Lady_playing_the_swarbat.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ravi_Varma-Lady_playing_the_swarbat.jpg/960px-Ravi_Varma-Lady_playing_the_swarbat.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Lady_playing_the_swarbat.jpg",
@@ -2864,12 +3504,15 @@
     "id": 210,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Swarbat player jewellery",
     "commons_filename": "Ravi_Varma-Swarbat_player_jewellery.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ravi_Varma-Swarbat_player_jewellery.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ravi_Varma-Swarbat_player_jewellery.jpg/960px-Ravi_Varma-Swarbat_player_jewellery.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Swarbat_player_jewellery.jpg",
@@ -2878,12 +3521,15 @@
     "id": 211,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "violin",
     "commons_filename": "Ravi_Varma-violin.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ravi_Varma-violin.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ravi_Varma-violin.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-violin.jpg",
@@ -2892,12 +3538,15 @@
     "id": 212,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shakuntala lost in Dushyanta's thoughts",
     "commons_filename": "Shakuntala_lost_in_Dushyanta's_thoughts.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Shakuntala_lost_in_Dushyanta%27s_thoughts.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Shakuntala_lost_in_Dushyanta%27s_thoughts.jpg/960px-Shakuntala_lost_in_Dushyanta%27s_thoughts.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shakuntala_lost_in_Dushyanta%27s_thoughts.jpg",
@@ -2906,12 +3555,15 @@
     "id": 213,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Tara",
     "commons_filename": "Tara,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tara%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tara%2C_by_Raja_Ravi_Varma.jpg/960px-Tara%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Tara,_by_Raja_Ravi_Varma.jpg",
@@ -2920,12 +3572,15 @@
     "id": 214,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Begum's Bath",
     "commons_filename": "The_Begum's_Bath,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Begum%27s_Bath%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Begum%27s_Bath%2C_by_Raja_Ravi_Varma.jpg/960px-The_Begum%27s_Bath%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:The_Begum%27s_Bath,_by_Raja_Ravi_Varma.jpg",
@@ -2934,12 +3589,15 @@
     "id": 215,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Coquette",
     "commons_filename": "The_Coquette.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Coquette.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Coquette.jpg/960px-The_Coquette.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:The_Coquette.jpg",
@@ -2948,12 +3606,15 @@
     "id": 216,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "There Comes Papa",
     "commons_filename": "There_Comes_Papa,_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/There_Comes_Papa%2C_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/There_Comes_Papa%2C_by_Raja_Ravi_Varma.jpg/960px-There_Comes_Papa%2C_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:There_Comes_Papa,_by_Raja_Ravi_Varma.jpg",
@@ -2962,12 +3623,15 @@
     "id": 217,
     "era": "unknown",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Water carrier",
     "commons_filename": "Water_carrier.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Water_carrier.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Water_carrier.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Water_carrier.jpg",
@@ -2976,12 +3640,15 @@
     "id": 218,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "A native noble man",
     "commons_filename": "A_native_noble_man.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/A_native_noble_man.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/A_native_noble_man.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:A_native_noble_man.jpg",
@@ -2990,12 +3657,15 @@
     "id": 219,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Kerala Varma Valiya Koil Thampuran Changanassery Lakshmipuram Palace",
     "commons_filename": "Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg/960px-Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg",
@@ -3004,12 +3674,15 @@
     "id": 220,
     "era": "unknown",
     "subject": "landscape",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Maharaja SAYAJIRAO",
     "commons_filename": "Maharaja_SAYAJIRAO_1.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Maharaja_SAYAJIRAO_1.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Maharaja_SAYAJIRAO_1.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Maharaja_SAYAJIRAO_1.jpg",
@@ -3018,12 +3691,15 @@
     "id": 221,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Painting of Maharana Raj Singh - I (1652 - 80)",
     "commons_filename": "Painting_of_Maharana_Raj_Singh_-_I_(1652_-_80).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Painting_of_Maharana_Raj_Singh_-_I_%281652_-_80%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Painting_of_Maharana_Raj_Singh_-_I_%281652_-_80%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Painting_of_Maharana_Raj_Singh_-_I_(1652_-_80).jpg",
@@ -3032,12 +3708,15 @@
     "id": 222,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Raja Dambadas Ramachandra",
     "commons_filename": "Raja_Dambadas_Ramachandra.png",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Raja_Dambadas_Ramachandra.png",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Raja_Dambadas_Ramachandra.png",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Dambadas_Ramachandra.png",
@@ -3046,12 +3725,15 @@
     "id": 223,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lord Ampthill (1905)",
     "commons_filename": "Raja_Ravi_Varma,_Lord_Ampthill_(1905).jpg",
-    "source": "commons_category",
     "date": "1905",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Raja_Ravi_Varma%2C_Lord_Ampthill_%281905%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Raja_Ravi_Varma%2C_Lord_Ampthill_%281905%29.jpg",
@@ -3061,12 +3743,15 @@
     "id": 224,
     "era": "late",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1905,
+    "year_end": 1905,
+    "circa": false
   },
   {
     "title": "Nobleman from Central India",
     "commons_filename": "Raja_Ravi_Varma,_Nobleman_from_Central_India.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Raja_Ravi_Varma%2C_Nobleman_from_Central_India.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Raja_Ravi_Varma%2C_Nobleman_from_Central_India.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Nobleman_from_Central_India.jpg",
@@ -3075,12 +3760,15 @@
     "id": 225,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Puddukotta Durbar",
     "commons_filename": "Raja_Ravi_Varma,_Puddukotta_Durbar.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Raja_Ravi_Varma%2C_Puddukotta_Durbar.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Raja_Ravi_Varma%2C_Puddukotta_Durbar.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Puddukotta_Durbar.jpg",
@@ -3089,12 +3777,15 @@
     "id": 226,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "The Miser (1901)",
     "commons_filename": "Raja_Ravi_Varma,_The_Miser_(1901).jpg",
-    "source": "commons_category",
     "date": "1901",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Raja_Ravi_Varma%2C_The_Miser_%281901%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Raja_Ravi_Varma%2C_The_Miser_%281901%29.jpg/960px-Raja_Ravi_Varma%2C_The_Miser_%281901%29.jpg",
@@ -3104,12 +3795,15 @@
     "id": 227,
     "era": "late",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": 1901,
+    "year_end": 1901,
+    "circa": false
   },
   {
     "title": "RajaRaviVarma MaharanaPratap",
     "commons_filename": "RajaRaviVarma_MaharanaPratap.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/RajaRaviVarma_MaharanaPratap.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/RajaRaviVarma_MaharanaPratap.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:RajaRaviVarma_MaharanaPratap.jpg",
@@ -3118,12 +3812,15 @@
     "id": 228,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rajput soldier",
     "commons_filename": "Ravi_Varma-Rajput_soldier.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ravi_Varma-Rajput_soldier.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ravi_Varma-Rajput_soldier.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Rajput_soldier.jpg",
@@ -3132,12 +3829,15 @@
     "id": 229,
     "era": "unknown",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Shivaji",
     "commons_filename": "Shivaji_by_Raja_Ravi_Varma.JPG",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Shivaji_by_Raja_Ravi_Varma.JPG",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Shivaji_by_Raja_Ravi_Varma.JPG",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Shivaji_by_Raja_Ravi_Varma.JPG",
@@ -3146,12 +3846,15 @@
     "id": 230,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sri Shivaji Maharraj",
     "commons_filename": "Sri_Shivaji_Maharraj.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sri_Shivaji_Maharraj.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sri_Shivaji_Maharraj.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Sri_Shivaji_Maharraj.jpg",
@@ -3160,12 +3863,15 @@
     "id": 231,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Veera Kerala Varma Pazhassi Raja",
     "commons_filename": "Veera_Kerala_Varma_Pazhassi_Raja.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Veera_Kerala_Varma_Pazhassi_Raja.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Veera_Kerala_Varma_Pazhassi_Raja.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Veera_Kerala_Varma_Pazhassi_Raja.jpg",
@@ -3174,12 +3880,15 @@
     "id": 232,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady Playing the Swarabat",
     "commons_filename": "Raja_Ravi_Varma,_Lady_Playing_the_Swarabat.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Raja_Ravi_Varma%2C_Lady_Playing_the_Swarabat.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Raja_Ravi_Varma%2C_Lady_Playing_the_Swarabat.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Playing_the_Swarabat.jpg",
@@ -3188,12 +3897,15 @@
     "id": 233,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Lady Resting on the Pillow",
     "commons_filename": "Raja_Ravi_Varma,_Lady_Resting_on_the_Pillow.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Raja_Ravi_Varma%2C_Lady_Resting_on_the_Pillow.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Raja_Ravi_Varma%2C_Lady_Resting_on_the_Pillow.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Resting_on_the_Pillow.jpg",
@@ -3202,12 +3914,15 @@
     "id": 234,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Malabar Lady",
     "commons_filename": "Raja_Ravi_Varma,_Malabar_Lady.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Raja_Ravi_Varma%2C_Malabar_Lady.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Raja_Ravi_Varma%2C_Malabar_Lady.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Malabar_Lady.jpg",
@@ -3216,12 +3931,15 @@
     "id": 235,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Sleeping Beauty",
     "commons_filename": "Raja_Ravi_Varma,_Sleeping_Beauty.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Raja_Ravi_Varma%2C_Sleeping_Beauty.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Raja_Ravi_Varma%2C_Sleeping_Beauty.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sleeping_Beauty.jpg",
@@ -3230,12 +3948,15 @@
     "id": 236,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Woman with veena",
     "commons_filename": "Woman_with_veena_by_Raja_Ravi_Varma.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Woman_with_veena_by_Raja_Ravi_Varma.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Woman_with_veena_by_Raja_Ravi_Varma.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Woman_with_veena_by_Raja_Ravi_Varma.jpg",
@@ -3244,12 +3965,15 @@
     "id": 237,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Early to the Fair",
     "commons_filename": "Early_to_the_Fair.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Early_to_the_Fair.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Early_to_the_Fair.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Early_to_the_Fair.jpg",
@@ -3258,12 +3982,15 @@
     "id": 238,
     "era": "unknown",
     "subject": "landscape",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Raja ravivarma painting 50 historic meeting",
     "commons_filename": "Raja_ravivarma_painting_50_historic_meeting.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Raja_ravivarma_painting_50_historic_meeting.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Raja_ravivarma_painting_50_historic_meeting.jpg/960px-Raja_ravivarma_painting_50_historic_meeting.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_ravivarma_painting_50_historic_meeting.jpg",
@@ -3272,12 +3999,15 @@
     "id": 239,
     "era": "unknown",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Udaipur palace landscape",
     "commons_filename": "Udaipur_palace_landscape_by_RRV.jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Udaipur_palace_landscape_by_RRV.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Udaipur_palace_landscape_by_RRV.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Udaipur_palace_landscape_by_RRV.jpg",
@@ -3286,12 +4016,15 @@
     "id": 240,
     "era": "unknown",
     "subject": "landscape",
-    "famous": false
+    "famous": false,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   },
   {
     "title": "Rani Bharani Thirunal Lakshmi Bayi of Travancore (1848–1901)",
     "commons_filename": "Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_(1848–1901).jpg",
-    "source": "commons_category",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg/960px-Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_%281848%E2%80%931901%29.jpg",
     "commons_page": "https://commons.wikimedia.org/wiki/File:Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_(1848%E2%80%931901).jpg",
@@ -3300,6 +4033,10 @@
     "id": 241,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true
+    "famous": true,
+    "harvest_method": "commons_category",
+    "year_start": null,
+    "year_end": null,
+    "circa": false
   }
 ]

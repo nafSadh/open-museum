@@ -11,7 +11,10 @@
     "id": 1,
     "era": "early",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "year_start": 1852,
+    "year_end": 1852,
+    "circa": true
   },
   {
     "date": "1853",
@@ -25,13 +28,15 @@
     "id": 2,
     "era": "early",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "year_start": 1853,
+    "year_end": 1853,
+    "circa": false
   },
   {
     "date": "1856",
     "title": "Achille De Gas in the Uniform of a Cadet",
     "current_location": "/57, National Gallery of Art, Washington, D.C.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/National_Gallery_of_Art",
     "commons_filename": "Edgar_Degas_-_Achille_De_Gas_in_the_Uniform_of_a_Cadet.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Edgar_Degas_-_Achille_De_Gas_in_the_Uniform_of_a_Cadet.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Edgar_Degas_-_Achille_De_Gas_in_the_Uniform_of_a_Cadet.jpg/960px-Edgar_Degas_-_Achille_De_Gas_in_the_Uniform_of_a_Cadet.jpg",
@@ -41,7 +46,11 @@
     "id": 3,
     "era": "early",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/National_Gallery_of_Art",
+    "year_start": 1856,
+    "year_end": 1856,
+    "circa": false
   },
   {
     "date": "1857–58",
@@ -49,7 +58,6 @@
     "technique": "oil on paper",
     "dimensions": "10 1/4 x 7 1/2 in. (26 x 19.1 cm)",
     "current_location": "mounted on canvas, Clark Art Institute",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "commons_filename": "Self_portrait_of_Degas_1857-58.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Self_portrait_of_Degas_1857-58.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Self_portrait_of_Degas_1857-58.jpg",
@@ -59,13 +67,16 @@
     "id": 4,
     "era": "early",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
+    "year_start": 1857,
+    "year_end": 1858,
+    "circa": false
   },
   {
     "date": "1858–1867",
     "title": "The Bellelli Family",
     "current_location": "Musée d'Orsay, Paris",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Bellelli_Family",
     "commons_filename": "Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg",
@@ -75,14 +86,17 @@
     "id": 5,
     "era": "early",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Bellelli_Family",
+    "year_start": 1858,
+    "year_end": 1867,
+    "circa": false
   },
   {
     "date": "1865",
     "title": "Woman Seated beside a Vase of Flowers",
     "technique": "oil on canvas",
     "current_location": "Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
     "commons_filename": "Degas,_A_Woman_Seated_beside_a_Vase_of_Flowers_(Madame_Paul_Valpinçon).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Degas%2C_A_Woman_Seated_beside_a_Vase_of_Flowers_%28Madame_Paul_Valpin%C3%A7on%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Degas%2C_A_Woman_Seated_beside_a_Vase_of_Flowers_%28Madame_Paul_Valpin%C3%A7on%29.jpg/960px-Degas%2C_A_Woman_Seated_beside_a_Vase_of_Flowers_%28Madame_Paul_Valpin%C3%A7on%29.jpg",
@@ -92,13 +106,16 @@
     "id": 6,
     "era": "early",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "year_start": 1865,
+    "year_end": 1865,
+    "circa": false
   },
   {
     "date": "1866",
     "title": "The Amateur",
     "current_location": "The Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
     "commons_filename": "The_Collector_of_Prints_MET_DT1920.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/The_Collector_of_Prints_MET_DT1920.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Collector_of_Prints_MET_DT1920.jpg/960px-The_Collector_of_Prints_MET_DT1920.jpg",
@@ -108,13 +125,16 @@
     "id": 7,
     "era": "early",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "year_start": 1866,
+    "year_end": 1866,
+    "circa": false
   },
   {
     "date": "1836–1902",
     "title": "James-Jacques-Joseph Tissot",
     "current_location": "1867, Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
     "commons_filename": "Edgar_Degas_-_Portrait_of_James_Tissot.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Edgar_Degas_-_Portrait_of_James_Tissot.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Edgar_Degas_-_Portrait_of_James_Tissot.jpg/960px-Edgar_Degas_-_Portrait_of_James_Tissot.jpg",
@@ -124,13 +144,16 @@
     "id": 8,
     "era": "early",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "year_start": 1836,
+    "year_end": 1902,
+    "circa": false
   },
   {
     "date": "1869",
     "title": "At the Races in the Countryside",
     "current_location": "Museum of Fine Arts, Boston",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/At_the_Races_in_the_Countryside",
     "commons_filename": "Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg",
@@ -140,13 +163,16 @@
     "id": 9,
     "era": "early",
     "subject": "racing",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/At_the_Races_in_the_Countryside",
+    "year_start": 1869,
+    "year_end": 1869,
+    "circa": false
   },
   {
     "date": "1870",
     "title": "The Orchestra at the Opera",
     "current_location": "Musée d'Orsay, Paris",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Orchestra_at_the_Opera",
     "commons_filename": "Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project_2.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project_2.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project_2.jpg/960px-Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project_2.jpg",
@@ -156,13 +182,16 @@
     "id": 10,
     "era": "impressionist",
     "subject": "genre",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Orchestra_at_the_Opera",
+    "year_start": 1870,
+    "year_end": 1870,
+    "circa": false
   },
   {
     "date": "c. 1871",
     "title": "Portrait of Mlle. Hortense Valpinçon",
     "current_location": "Minneapolis Institute of Art",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Minneapolis_Institute_of_Art",
     "commons_filename": "Edgar_Degas_-_Portrait_of_Mlle._Hortense_Valpinçon_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Edgar_Degas_-_Portrait_of_Mlle._Hortense_Valpin%C3%A7on_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Edgar_Degas_-_Portrait_of_Mlle._Hortense_Valpin%C3%A7on_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Portrait_of_Mlle._Hortense_Valpin%C3%A7on_-_Google_Art_Project.jpg",
@@ -172,13 +201,16 @@
     "id": 11,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Minneapolis_Institute_of_Art",
+    "year_start": 1871,
+    "year_end": 1871,
+    "circa": true
   },
   {
     "date": "1871",
     "title": "The Dancing Class",
     "current_location": "The Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dancing_Class",
     "commons_filename": "Edgar_Degas_-_Chasse_de_danse.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Edgar_Degas_-_Chasse_de_danse.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edgar_Degas_-_Chasse_de_danse.jpg/960px-Edgar_Degas_-_Chasse_de_danse.jpg",
@@ -188,13 +220,16 @@
     "id": 12,
     "era": "impressionist",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Dancing_Class",
+    "year_start": 1871,
+    "year_end": 1871,
+    "circa": false
   },
   {
     "date": "1873",
     "title": "Ballet Rehearsal",
     "current_location": "The Fogg Art Museum, Cambridge, Massachusetts",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Fogg_Art_Museum",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_004.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edgar_Germain_Hilaire_Degas_004.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edgar_Germain_Hilaire_Degas_004.jpg/960px-Edgar_Germain_Hilaire_Degas_004.jpg",
@@ -204,7 +239,11 @@
     "id": 13,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Fogg_Art_Museum",
+    "year_start": 1873,
+    "year_end": 1873,
+    "circa": false
   },
   {
     "date": "1874",
@@ -219,7 +258,10 @@
     "id": 14,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false
+    "famous": false,
+    "year_start": 1874,
+    "year_end": 1874,
+    "circa": false
   },
   {
     "date": "1875–1877",
@@ -234,13 +276,15 @@
     "id": 15,
     "era": "impressionist",
     "subject": "genre",
-    "famous": false
+    "famous": false,
+    "year_start": 1875,
+    "year_end": 1877,
+    "circa": false
   },
   {
     "date": "1877–1879",
     "title": "Swaying Dancer (Dancer in Green)",
     "current_location": "Thyssen-Bornemisza Museum, Madrid",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum",
     "commons_filename": "Danceringreen.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Danceringreen.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Danceringreen.jpg/960px-Danceringreen.jpg",
@@ -250,13 +294,16 @@
     "id": 16,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum",
+    "year_start": 1877,
+    "year_end": 1879,
+    "circa": false
   },
   {
     "date": "1877",
     "title": "Fin d'Arabesque, with ballerina Rosita Mauri",
     "current_location": "Musée d'Orsay, Paris",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rosita_Mauri",
     "commons_filename": "Fin_d'arabesque,_Edgar_Degas.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fin_d%27arabesque%2C_Edgar_Degas.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fin_d%27arabesque%2C_Edgar_Degas.jpg/960px-Fin_d%27arabesque%2C_Edgar_Degas.jpg",
@@ -266,7 +313,11 @@
     "id": 17,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Rosita_Mauri",
+    "year_start": 1877,
+    "year_end": 1877,
+    "circa": false
   },
   {
     "date": "1877",
@@ -274,7 +325,6 @@
     "technique": "oil on canvas",
     "dimensions": "31 1/8 x 23 1/4 in. (79 x 59 cm)",
     "current_location": "Clark Art Institute",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "commons_filename": "Portrait_of_a_Man_(1877).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Portrait_of_a_Man_%281877%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Portrait_of_a_Man_%281877%29.jpg",
@@ -284,12 +334,15 @@
     "id": 18,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
+    "year_start": 1877,
+    "year_end": 1877,
+    "circa": false
   },
   {
     "date": "1878",
     "title": "Dancer with a Bouquet of Flowers (Star of the Ballet) (also with ballerina Rosita Mauri)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rosita_Mauri",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_069.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Edgar_Germain_Hilaire_Degas_069.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Edgar_Germain_Hilaire_Degas_069.jpg/960px-Edgar_Germain_Hilaire_Degas_069.jpg",
@@ -299,13 +352,16 @@
     "id": 19,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Rosita_Mauri",
+    "year_start": 1878,
+    "year_end": 1878,
+    "circa": false
   },
   {
     "date": "1878",
     "title": "The Singer with the Glove",
     "current_location": "The Fogg Art Museum, Cambridge, Massachusetts",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Fogg_Art_Museum",
     "commons_filename": "Degas_-_Cafekonzert_Sängerin_mit_Handschuh.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Degas_-_Cafekonzert_S%C3%A4ngerin_mit_Handschuh.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Degas_-_Cafekonzert_S%C3%A4ngerin_mit_Handschuh.jpg/960px-Degas_-_Cafekonzert_S%C3%A4ngerin_mit_Handschuh.jpg",
@@ -315,13 +371,16 @@
     "id": 20,
     "era": "impressionist",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Fogg_Art_Museum",
+    "year_start": 1878,
+    "year_end": 1878,
+    "circa": false
   },
   {
     "date": "1878–1879",
     "title": "Stage Rehearsal",
     "current_location": "The Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_009.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edgar_Germain_Hilaire_Degas_009.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edgar_Germain_Hilaire_Degas_009.jpg/960px-Edgar_Germain_Hilaire_Degas_009.jpg",
@@ -331,13 +390,16 @@
     "id": 21,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "year_start": 1878,
+    "year_end": 1879,
+    "circa": false
   },
   {
     "date": "1878",
     "title": "Portrait of Henri Michel-Lévy",
     "current_location": "Calouste Gulbenkian Museum",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Michel-L%C3%A9vy",
     "commons_filename": "Portrait_of_Henri_Michel-Lévy_by_Edgar_Degas.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Portrait_of_Henri_Michel-L%C3%A9vy_by_Edgar_Degas.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Portrait_of_Henri_Michel-L%C3%A9vy_by_Edgar_Degas.jpg/960px-Portrait_of_Henri_Michel-L%C3%A9vy_by_Edgar_Degas.jpg",
@@ -347,13 +409,16 @@
     "id": 22,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Henri_Michel-L%C3%A9vy",
+    "year_start": 1878,
+    "year_end": 1878,
+    "circa": false
   },
   {
     "date": "1879",
     "title": "Miss La La at the Cirque Fernando",
     "current_location": "The National Gallery, London",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Miss_La_La_at_the_Cirque_Fernando",
     "commons_filename": "Edgar_Degas,_Miss_La_La_at_the_Cirque_Fernando,_1879.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edgar_Degas%2C_Miss_La_La_at_the_Cirque_Fernando%2C_1879.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edgar_Degas%2C_Miss_La_La_at_the_Cirque_Fernando%2C_1879.jpg/960px-Edgar_Degas%2C_Miss_La_La_at_the_Cirque_Fernando%2C_1879.jpg",
@@ -363,7 +428,11 @@
     "id": 23,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Miss_La_La_at_the_Cirque_Fernando",
+    "year_start": 1879,
+    "year_end": 1879,
+    "circa": false
   },
   {
     "date": "1879",
@@ -378,13 +447,15 @@
     "id": 24,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": false
+    "famous": false,
+    "year_start": 1879,
+    "year_end": 1879,
+    "circa": false
   },
   {
     "date": "1879",
     "title": "Deux danseuses",
     "current_location": "at the Shelburne Museum",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Shelburne_Museum",
     "commons_filename": "Degas,_Deux_danseuses_.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Degas%2C_Deux_danseuses_.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Degas%2C_Deux_danseuses_.jpg/960px-Degas%2C_Deux_danseuses_.jpg",
@@ -394,7 +465,11 @@
     "id": 25,
     "era": "impressionist",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Shelburne_Museum",
+    "year_start": 1879,
+    "year_end": 1879,
+    "circa": false
   },
   {
     "date": "1879",
@@ -402,7 +477,6 @@
     "technique": "pastel on gray wove paper",
     "dimensions": "19 5/16 x 25 1/2 in. (49 x 64.8 cm)",
     "current_location": "Clark Art Institute",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "commons_filename": "Entrance_of_the_Masked_Dancers_(1879).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Entrance_of_the_Masked_Dancers_%281879%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Entrance_of_the_Masked_Dancers_%281879%29.jpg",
@@ -412,7 +486,11 @@
     "id": 26,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
+    "year_start": 1879,
+    "year_end": 1879,
+    "circa": false
   },
   {
     "date": "1880",
@@ -420,7 +498,6 @@
     "technique": "oil on canvas",
     "dimensions": "15 1/2 x 34 13/16 in. (39.4 x 88.4 cm)",
     "current_location": "Clark Art Institute",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "commons_filename": "Dancers_in_the_classroom.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dancers_in_the_classroom.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dancers_in_the_classroom.jpg",
@@ -430,12 +507,15 @@
     "id": 27,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
+    "year_start": 1880,
+    "year_end": 1880,
+    "circa": false
   },
   {
     "date": "1880–1882",
     "title": "Waiting, pastel on paper",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_(Degas)",
     "commons_filename": "Edgar_Degas_-_Waiting_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Edgar_Degas_-_Waiting_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Edgar_Degas_-_Waiting_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Waiting_-_Google_Art_Project.jpg",
@@ -445,14 +525,17 @@
     "id": 28,
     "era": "impressionist",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Waiting_(Degas)",
+    "year_start": 1880,
+    "year_end": 1882,
+    "circa": false
   },
   {
     "date": "1882–1884",
     "title": "Before the Race",
     "technique": "oil on panel",
     "current_location": "The Walters Art Museum, Baltimore",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Before_the_Race_(painting)",
     "commons_filename": "Edgar_Degas_-_Before_the_Race_-_Walters_37850.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Edgar_Degas_-_Before_the_Race_-_Walters_37850.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Edgar_Degas_-_Before_the_Race_-_Walters_37850.jpg/960px-Edgar_Degas_-_Before_the_Race_-_Walters_37850.jpg",
@@ -462,7 +545,11 @@
     "id": 29,
     "era": "impressionist",
     "subject": "racing",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Before_the_Race_(painting)",
+    "year_start": 1882,
+    "year_end": 1884,
+    "circa": false
   },
   {
     "date": "1882",
@@ -470,7 +557,6 @@
     "technique": "oil on panel",
     "dimensions": "10 1/2 x 13 3/4 in. (26.7 x 34.9 cm)",
     "current_location": "Clark Art Institute",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
     "commons_filename": "Before_the_race.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Before_the_race.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Before_the_race.jpg",
@@ -480,13 +566,16 @@
     "id": 30,
     "era": "impressionist",
     "subject": "racing",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Clark_Art_Institute",
+    "year_start": 1882,
+    "year_end": 1882,
+    "circa": false
   },
   {
     "date": "1885",
     "title": "The Millinery Shop",
     "current_location": "The Art Institute of Chicago",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Millinery_Shop",
     "commons_filename": "Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg",
@@ -496,13 +585,16 @@
     "id": 31,
     "era": "impressionist",
     "subject": "genre",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Millinery_Shop",
+    "year_start": 1885,
+    "year_end": 1885,
+    "circa": false
   },
   {
     "date": "1888",
     "title": "Dancers at the Bar",
     "current_location": "The Phillips Collection, Washington, D.C.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Phillips_Collection",
     "commons_filename": "Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg",
@@ -512,13 +604,16 @@
     "id": 32,
     "era": "late",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Phillips_Collection",
+    "year_start": 1888,
+    "year_end": 1888,
+    "circa": false
   },
   {
     "date": "c. 1891",
     "title": "Three Dancers in Yellow Skirts",
     "current_location": "The Detroit Institute of Arts",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Detroit_Institute_of_Arts",
     "commons_filename": "Three_Dancers_in_Yellow_Skirts_Edgar_Degas.JPG",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Three_Dancers_in_Yellow_Skirts_Edgar_Degas.JPG",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Three_Dancers_in_Yellow_Skirts_Edgar_Degas.JPG/960px-Three_Dancers_in_Yellow_Skirts_Edgar_Degas.JPG",
@@ -528,13 +623,16 @@
     "id": 33,
     "era": "late",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Detroit_Institute_of_Arts",
+    "year_start": 1891,
+    "year_end": 1891,
+    "circa": true
   },
   {
     "date": "c. 1898",
     "title": "The Milliners",
     "current_location": "St. Louis Art Museum",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/St._Louis_Art_Museum",
     "commons_filename": "Edgar_Degas_-_The_Milliners_-_25-2007_-_Saint_Louis_Art_Museum.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Edgar_Degas_-_The_Milliners_-_25-2007_-_Saint_Louis_Art_Museum.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Edgar_Degas_-_The_Milliners_-_25-2007_-_Saint_Louis_Art_Museum.jpg/960px-Edgar_Degas_-_The_Milliners_-_25-2007_-_Saint_Louis_Art_Museum.jpg",
@@ -544,14 +642,17 @@
     "id": 34,
     "era": "late",
     "subject": "genre",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/St._Louis_Art_Museum",
+    "year_start": 1898,
+    "year_end": 1898,
+    "circa": true
   },
   {
     "date": "1897",
     "title": "Blue Dancers",
     "technique": "pastel on paper",
     "current_location": "Pushkin Museum, Moscow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_Dancers",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_076.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Edgar_Germain_Hilaire_Degas_076.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Edgar_Germain_Hilaire_Degas_076.jpg/960px-Edgar_Germain_Hilaire_Degas_076.jpg",
@@ -561,7 +662,11 @@
     "id": 35,
     "era": "late",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Blue_Dancers",
+    "year_start": 1897,
+    "year_end": 1897,
+    "circa": false
   },
   {
     "date": "c. 1899",
@@ -578,13 +683,15 @@
     "id": 36,
     "era": "late",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "year_start": 1899,
+    "year_end": 1899,
+    "circa": true
   },
   {
     "date": "c. 1906",
     "title": "Woman Washing",
     "current_location": "Museo Soumaya, Mexico City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Museo_Soumaya",
     "commons_filename": "Edgar_Degas_-_Woman_Washing,_c._1906.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Edgar_Degas_-_Woman_Washing%2C_c._1906.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Edgar_Degas_-_Woman_Washing%2C_c._1906.jpg",
@@ -594,14 +701,17 @@
     "id": 37,
     "era": "late",
     "subject": "nude",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Museo_Soumaya",
+    "year_start": 1906,
+    "year_end": 1906,
+    "circa": true
   },
   {
     "date": "1856",
     "title": "Male Nude",
     "technique": "oil on canvas",
     "current_location": "Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
     "commons_filename": "Male_Nude_-_Edgar_Degas.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Male_Nude_-_Edgar_Degas.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Male_Nude_-_Edgar_Degas.jpg/960px-Male_Nude_-_Edgar_Degas.jpg",
@@ -611,13 +721,16 @@
     "id": 38,
     "era": "early",
     "subject": "nude",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "year_start": 1856,
+    "year_end": 1856,
+    "circa": false
   },
   {
     "date": "c. 1860–1862",
     "title": "Young Spartans Exercising",
     "current_location": "National Gallery, London",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Spartans_Exercising",
     "commons_filename": "Young_Spartans_Exercising_National_Gallery_NG3860.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Young_Spartans_Exercising_National_Gallery_NG3860.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Young_Spartans_Exercising_National_Gallery_NG3860.jpg/960px-Young_Spartans_Exercising_National_Gallery_NG3860.jpg",
@@ -627,13 +740,16 @@
     "id": 39,
     "era": "early",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Young_Spartans_Exercising",
+    "year_start": 1860,
+    "year_end": 1862,
+    "circa": true
   },
   {
     "date": "1877",
     "title": "Woman Getting out of the Bath",
     "current_location": "Norton Simon Museum, Pasadena",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Norton_Simon_Museum",
     "commons_filename": "'Woman_Getting_out_of_the_Bath'_by_Edgar_Degas,_Norton_Simon_Museum.JPG",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%27Woman_Getting_out_of_the_Bath%27_by_Edgar_Degas%2C_Norton_Simon_Museum.JPG",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%27Woman_Getting_out_of_the_Bath%27_by_Edgar_Degas%2C_Norton_Simon_Museum.JPG/960px-%27Woman_Getting_out_of_the_Bath%27_by_Edgar_Degas%2C_Norton_Simon_Museum.JPG",
@@ -643,7 +759,11 @@
     "id": 40,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Norton_Simon_Museum",
+    "year_start": 1877,
+    "year_end": 1877,
+    "circa": false
   },
   {
     "date": "c. 1884–1886, reworked between 1890 and 1900",
@@ -651,7 +771,6 @@
     "technique": "pastel on wove paper",
     "dimensions": "40.5 × 32 cm",
     "current_location": "Musée Malraux, Le Havre",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Malraux",
     "commons_filename": "Edgar_Degas_-_After_the_bath,_woman_drying_herself_-_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Edgar_Degas_-_After_the_bath%2C_woman_drying_herself_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Edgar_Degas_-_After_the_bath%2C_woman_drying_herself_-_Google_Art_Project.jpg/960px-Edgar_Degas_-_After_the_bath%2C_woman_drying_herself_-_Google_Art_Project.jpg",
@@ -661,13 +780,16 @@
     "id": 41,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Malraux",
+    "year_start": 1884,
+    "year_end": 1900,
+    "circa": true
   },
   {
     "date": "1884",
     "title": "Kneeling Woman",
     "current_location": "Pushkin Museum, Moscow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pushkin_Museum",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_042.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Edgar_Germain_Hilaire_Degas_042.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Edgar_Germain_Hilaire_Degas_042.jpg/960px-Edgar_Germain_Hilaire_Degas_042.jpg",
@@ -677,13 +799,16 @@
     "id": 42,
     "era": "impressionist",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Pushkin_Museum",
+    "year_start": 1884,
+    "year_end": 1884,
+    "circa": false
   },
   {
     "date": "1886",
     "title": "Woman in a Tub",
     "current_location": "Hill-Stead Museum, Farmington, Connecticut",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_in_a_Tub_(Degas)",
     "commons_filename": "Edgar_Degas_-_The_Tub_(Woman_in_a_Tub)_(1886)_Google_Art_Project.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Edgar_Degas_-_The_Tub_%28Woman_in_a_Tub%29_%281886%29_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edgar_Degas_-_The_Tub_%28Woman_in_a_Tub%29_%281886%29_Google_Art_Project.jpg/960px-Edgar_Degas_-_The_Tub_%28Woman_in_a_Tub%29_%281886%29_Google_Art_Project.jpg",
@@ -693,13 +818,16 @@
     "id": 43,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Woman_in_a_Tub_(Degas)",
+    "year_start": 1886,
+    "year_end": 1886,
+    "circa": false
   },
   {
     "date": "1886",
     "title": "The Tub",
     "current_location": "Musée d'Orsay, Paris, France",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tub",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_031.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Edgar_Germain_Hilaire_Degas_031.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Edgar_Germain_Hilaire_Degas_031.jpg/960px-Edgar_Germain_Hilaire_Degas_031.jpg",
@@ -709,14 +837,17 @@
     "id": 44,
     "era": "impressionist",
     "subject": "nude",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Tub",
+    "year_start": 1886,
+    "year_end": 1886,
+    "circa": false
   },
   {
     "date": "c. 1887",
     "title": "The Bath: Woman Sponging Her Back",
     "technique": "pastel on paper",
     "current_location": "Honolulu Museum of Art",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art",
     "commons_filename": "Edgar_Degas_(1834-1917)_-_'The_Bath-_Woman_Supporting_her_Back',_pastel_on_paper,_c._1887.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Edgar_Degas_%281834-1917%29_-_%27The_Bath-_Woman_Supporting_her_Back%27%2C_pastel_on_paper%2C_c._1887.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Edgar_Degas_%281834-1917%29_-_%27The_Bath-_Woman_Supporting_her_Back%27%2C_pastel_on_paper%2C_c._1887.jpg/960px-Edgar_Degas_%281834-1917%29_-_%27The_Bath-_Woman_Supporting_her_Back%27%2C_pastel_on_paper%2C_c._1887.jpg",
@@ -726,13 +857,16 @@
     "id": 45,
     "era": "late",
     "subject": "nude",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art",
+    "year_start": 1887,
+    "year_end": 1887,
+    "circa": true
   },
   {
     "date": "1898",
     "title": "After the Bath, Woman Drying her Nape, pastel on paper",
     "current_location": "Musée d'Orsay, Paris",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_045.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Edgar_Germain_Hilaire_Degas_045.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Edgar_Germain_Hilaire_Degas_045.jpg/960px-Edgar_Germain_Hilaire_Degas_045.jpg",
@@ -742,13 +876,16 @@
     "id": 46,
     "era": "late",
     "subject": "nude",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
+    "year_start": 1898,
+    "year_end": 1898,
+    "circa": false
   },
   {
     "date": "c. 1885",
     "title": "Woman Having her Hair Combed, pastel",
     "current_location": "Metropolitan Museum of Art, New York",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
     "commons_filename": "Edgar_Germain_Hilaire_Degas_017.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Edgar_Germain_Hilaire_Degas_017.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Edgar_Germain_Hilaire_Degas_017.jpg/960px-Edgar_Germain_Hilaire_Degas_017.jpg",
@@ -758,14 +895,17 @@
     "id": 47,
     "era": "impressionist",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "year_start": 1885,
+    "year_end": 1885,
+    "circa": true
   },
   {
     "date": "c. 1879–1880",
     "title": "Little Dancer of Fourteen Years, Cast posthumously in 1922 from a mixed-media sculpture modeled",
     "technique": "Bronze",
     "current_location": "Partly tinted, with cotton skirt and satin hair ribbon, on a wooden base, Metropolitan Museum of Art, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/La_Petite_Danseuse_de_Quatorze_Ans",
     "commons_filename": "Degas_3x.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Degas_3x.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Degas_3x.jpg/960px-Degas_3x.jpg",
@@ -775,14 +915,17 @@
     "id": 48,
     "era": "impressionist",
     "subject": "dance",
-    "famous": true
+    "famous": true,
+    "provenance_url": "https://en.wikipedia.org/wiki/La_Petite_Danseuse_de_Quatorze_Ans",
+    "year_start": 1879,
+    "year_end": 1880,
+    "circa": true
   },
   {
     "date": "c. 1882–1895",
     "title": "Dancer Moving Forward, Arms Raised",
     "technique": "Bronze",
     "current_location": "Cast posthumously 1919–1926, Solomon R. Guggenheim Museum, Thannhauser Galleries, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bronze",
     "commons_filename": "GUGG_Dancer_Moving_Forward,_Arms_Raised.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/GUGG_Dancer_Moving_Forward%2C_Arms_Raised.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/GUGG_Dancer_Moving_Forward%2C_Arms_Raised.jpg/960px-GUGG_Dancer_Moving_Forward%2C_Arms_Raised.jpg",
@@ -792,7 +935,11 @@
     "id": 49,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Bronze",
+    "year_start": 1882,
+    "year_end": 1895,
+    "circa": true
   },
   {
     "date": "c. 1885",
@@ -800,7 +947,6 @@
     "technique": "Bronze",
     "dimensions": "46.3 × 14.3 cm",
     "current_location": "Cast posthumously in 1921, Ackland Art Museum, Chapel Hill, North Carolina",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bronze",
     "commons_filename": "SpanishDance_c1884-DegasPC20080120-8849A.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/SpanishDance_c1884-DegasPC20080120-8849A.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/SpanishDance_c1884-DegasPC20080120-8849A.jpg",
@@ -810,14 +956,17 @@
     "id": 50,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Bronze",
+    "year_start": 1885,
+    "year_end": 1885,
+    "circa": true
   },
   {
     "date": "c. 1896–1911",
     "title": "Seated Woman, Wiping Her Left Side",
     "technique": "Bronze",
     "current_location": "Cast posthumously 1919–1926, Solomon R. Guggenheim Museum, Thannhauser Galleries, New York City",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bronze",
     "commons_filename": "GUGG_Seated_Woman,_Wiping_Her_Left_Side.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/GUGG_Seated_Woman%2C_Wiping_Her_Left_Side.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/GUGG_Seated_Woman%2C_Wiping_Her_Left_Side.jpg/960px-GUGG_Seated_Woman%2C_Wiping_Her_Left_Side.jpg",
@@ -827,6 +976,10 @@
     "id": 51,
     "era": "late",
     "subject": "other",
-    "famous": false
+    "famous": false,
+    "provenance_url": "https://en.wikipedia.org/wiki/Bronze",
+    "year_start": 1896,
+    "year_end": 1911,
+    "circa": true
   }
 ]

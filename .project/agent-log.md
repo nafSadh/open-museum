@@ -50,3 +50,4 @@
 | 35 | 2026-04-09 | amrita-sher-gil-full | Scrape 12 year-tables + resolve + enrich + gallery | done | 169 works, terracotta/ochre/green palette |
 | 36 | 2026-04-09 | xu-beihong-full | Scrape Commons categories + Wikipedia + resolve + enrich + gallery | done | 40 works, ink wash palette |
 | 37 | 2026-04-09 | behzad-full | Scrape Wikipedia + 7 Commons subcategories + resolve + enrich + gallery | done | 125 works, lapis/gold/turquoise palette |
+| 38 | 2026-04-20 | audit-2026-04-20 | Comprehensive read-only audit: data quality, structure, PD compliance, URL liveness across all 14 collections | done | .project/audit-2026-04-20.md — 7 cross-cutting findings, 5 policy questions, prioritized backlog |

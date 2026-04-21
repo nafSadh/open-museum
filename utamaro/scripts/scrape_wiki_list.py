@@ -142,7 +142,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs."""
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
@@ -219,7 +219,7 @@ def parse_caption(raw: str, links: list) -> dict:
         if location_parts:
             work["current_location"] = ", ".join(location_parts)
 
-    work["wikipedia_url"] = extract_wikipedia_url(links)
+    work["provenance_url"] = extract_provenance_url(links)
     return work
 
 
@@ -242,7 +242,7 @@ def scrape_article_gallery() -> list:
                 work["commons_filename"] = fn
         work = {k: v for k, v in work.items() if v}
         if work.get("title"):
-            work["source"] = "wikipedia_gallery"
+            work["harvest_method"] = "wikipedia_gallery"
             all_works.append(work)
 
     return all_works
@@ -290,8 +290,8 @@ def scrape_wikipedia_category() -> list:
         clean_title = re.sub(r'\s*\(Utamaro\)\s*$', '', title)
         work = {
             "title": clean_title,
-            "wikipedia_url": f"https://en.wikipedia.org/wiki/{urllib.parse.quote(title.replace(' ', '_'))}",
-            "source": "wikipedia_category",
+            "provenance_url": f"https://en.wikipedia.org/wiki/{urllib.parse.quote(title.replace(' ', '_'))}",
+            "harvest_method": "wikipedia_category",
         }
         all_works.append(work)
     return all_works
@@ -386,7 +386,7 @@ def scrape_commons_categories() -> list:
             work = {
                 "title": clean_title,
                 "commons_filename": filename.replace(' ', '_'),
-                "source": "commons_category",
+                "harvest_method": "commons_category",
             }
             all_works.append(work)
 
@@ -456,8 +456,8 @@ def merge_works(gallery: list, wiki_cat: list, commons: list) -> list:
 
 def enrich_from_wiki_category(merged: list, wiki_cat: list):
     """
-    Try to match wiki_cat entries (which have wikipedia_url) with
-    commons entries (which have commons_filename but no wikipedia_url).
+    Try to match wiki_cat entries (which have provenance_url) with
+    commons entries (which have commons_filename but no provenance_url).
     """
     def normalize(s: str) -> str:
         s = s.lower().strip()
@@ -472,11 +472,11 @@ def enrich_from_wiki_category(merged: list, wiki_cat: list):
             wiki_map[nt] = w
 
     for work in merged:
-        if work.get("wikipedia_url"):
+        if work.get("provenance_url"):
             continue
         nt = normalize(work.get("title", ""))
         if nt in wiki_map:
-            work["wikipedia_url"] = wiki_map[nt]["wikipedia_url"]
+            work["provenance_url"] = wiki_map[nt]["provenance_url"]
 
 
 def main():
@@ -502,7 +502,7 @@ def main():
 
     # Show samples
     for w in merged[:5]:
-        print(f"  {w.get('title', '?')} | {w.get('date', '?')} | {w.get('source', '?')}")
+        print(f"  {w.get('title', '?')} | {w.get('date', '?')} | {w.get('harvest_method', '?')}")
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)

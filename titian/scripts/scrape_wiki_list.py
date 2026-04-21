@@ -153,7 +153,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs."""
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
@@ -185,7 +185,7 @@ def process_table(table: dict) -> list:
         # Some titles have things in parentheses (like alternative names). We keep the full text.
         # But we also try to get the wikipedia link.
         work["title"] = raw_title.strip()
-        work["wikipedia_url"] = extract_wikipedia_url(title_cell["links"])
+        work["provenance_url"] = extract_provenance_url(title_cell["links"])
 
         # Col 2: Date
         date_cell = row[2]

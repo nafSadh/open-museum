@@ -54,7 +54,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs."""
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
@@ -293,7 +293,7 @@ def process_36_views_table(table: dict) -> list:
 
         if title_cell:
             work["title"] = title_cell["text"].strip()
-            work["wikipedia_url"] = extract_wikipedia_url(title_cell["links"])
+            work["provenance_url"] = extract_provenance_url(title_cell["links"])
         else:
             continue  # skip rows without a title
 
@@ -364,7 +364,7 @@ def parse_gallery_caption(raw: str, links: list, series: str = "") -> dict:
     if series:
         work["series"] = series
 
-    work["wikipedia_url"] = extract_wikipedia_url(links)
+    work["provenance_url"] = extract_provenance_url(links)
     work["technique"] = work.get("technique", "Woodblock print")
 
     return work

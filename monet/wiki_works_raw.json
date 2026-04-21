@@ -2,14 +2,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "View at Rouelles, Le Havre",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/View_from_Rouelles",
     "commons_filename": "Monet_Veduta_di_Rouelles.jpg",
     "date": "1858",
     "current_location": "Marunuma Art Park, Asaka",
     "dimensions": "46 × 65",
     "raw_cat_medium": "W.1",
     "w_number": "W.1",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/View_from_Rouelles"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -431,14 +431,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "The Beach at Honfleur",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Beach_at_Honfleur",
     "commons_filename": "'The_Beach_at_Honfleur'_by_Claude_Monet,_LACMA.jpg",
     "date": "1864–66",
     "current_location": "Los Angeles County Museum of Art",
     "dimensions": "60 × 81",
     "raw_cat_medium": "W.41",
     "w_number": "W.41",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Beach_at_Honfleur"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -476,14 +476,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "A Cart on the Snowy Road at Honfleur",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Cart_on_the_Snowy_Road_at_Honfleur",
     "commons_filename": "Monet,_A_Cart_on_the_Snowy_Road_at_Honfleur_(1865_or_1867).jpg",
     "date": "1865 or 1867",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "65 × 92",
     "raw_cat_medium": "W.50",
     "w_number": "W.50",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/A_Cart_on_the_Snowy_Road_at_Honfleur"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -631,19 +631,18 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Luncheon on the Grass (study)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe_(Monet)",
     "commons_filename": "Le_Déjeuner_sur_l'herbe_-_Monet_(Pushkin_Museum).jpg",
     "date": "1865",
     "current_location": "Pushkin Museum, Moscow",
     "dimensions": "130 × 181",
     "raw_cat_medium": "W.62",
     "w_number": "W.62",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe_(Monet)"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Le Déjeuner sur l’herbe - left panel",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe_(Monet)",
     "commons_filename": "Claude_Monet_-_Le_dejeurner_sur_l'herbe_(left_panel).jpg",
     "date": "1865–66",
     "current_location": "Musée d'Orsay, Paris",
@@ -651,12 +650,12 @@
     "raw_cat_medium": "W.63/1",
     "w_number": "W.63",
     "medium": "/1",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe_(Monet)"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Le Déjeuner sur l’herbe - right panel",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe_(Monet)",
     "commons_filename": "Monet_dejeunersurlherbe.jpg",
     "date": "1865–66",
     "current_location": "Musée d'Orsay, Paris",
@@ -664,7 +663,8 @@
     "raw_cat_medium": "W.63/2",
     "w_number": "W.63",
     "medium": "/2",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%E2%80%99herbe_(Monet)"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -703,26 +703,26 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Women in the Garden",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Women_in_the_Garden",
     "commons_filename": "Claude_Monet_024.jpg",
     "date": "1866",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "256 × 208",
     "raw_cat_medium": "W.67",
     "w_number": "W.67",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Women_in_the_Garden"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Woman in the Garden",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_in_the_Garden",
     "commons_filename": "Claude_Monet_022.jpg",
     "date": "1867",
     "current_location": "Hermitage Museum, St Petersburg",
     "dimensions": "80 × 99",
     "raw_cat_medium": "W.68",
     "w_number": "W.68",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Woman_in_the_Garden"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -848,14 +848,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "The Road in Front of Saint-Simeon Farm in Winter",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Road_in_Front_of_Saint-Simeon_Farm_in_Winter",
     "commons_filename": "1867_The_Road_in_front_of_Saint-Simeon_Farm_in_Winter.jpg",
     "date": "1867",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "81 × 100",
     "raw_cat_medium": "W.79",
     "w_number": "W.79",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Road_in_Front_of_Saint-Simeon_Farm_in_Winter"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -981,26 +981,26 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Regatta at Sainte-Adresse",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Regatta_at_Sainte-Adresse_(Monet)",
     "commons_filename": "Claude_Monet,_1867,_Regatta_at_Sainte-Adresse,_Metropolitan_Museum_of_Art.jpg",
     "date": "1867",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "75.5 × 101.5",
     "raw_cat_medium": "W.91",
     "w_number": "W.91",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Regatta_at_Sainte-Adresse_(Monet)"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "The Beach at Sainte-Adresse",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Beach_at_Sainte-Adresse",
     "commons_filename": "Claude_Monet_-_The_Beach_at_Sainte-Adresse_-_Google_Art_Project.jpg",
     "date": "1867",
     "current_location": "Art Institute of Chicago",
     "dimensions": "75 × 101",
     "raw_cat_medium": "W.92",
     "w_number": "W.92",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Beach_at_Sainte-Adresse"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -1038,14 +1038,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Garden at Sainte-Adresse",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Garden_at_Sainte-Adresse_(Monet)",
     "commons_filename": "Claude_Monet_-_Jardin_à_Sainte-Adresse.jpg",
     "date": "1867",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "98 × 130",
     "raw_cat_medium": "W.95",
     "w_number": "W.95",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Garden_at_Sainte-Adresse_(Monet)"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -1160,14 +1160,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "River Scene at Bennecourt",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/On_the_Bank_of_the_Seine,_Bennecourt",
     "commons_filename": "Claude_Monet_-_On_the_Bank_of_the_Seine,_Bennecourt_-_1922.427_-_Art_Institute_of_Chicago.jpg",
     "date": "1868",
     "current_location": "Art Institute of Chicago",
     "dimensions": "81 × 100",
     "raw_cat_medium": "W.110",
     "w_number": "W.110",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/On_the_Bank_of_the_Seine,_Bennecourt"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -1348,26 +1348,26 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Interior, after Dinner",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Interior,_after_Dinner",
     "commons_filename": "Claude_Monet_-_Intérieur,_Après_dîner.jpg",
     "date": "1868–69",
     "current_location": "National Gallery of Art, Washington D.C.",
     "dimensions": "50 × 65",
     "raw_cat_medium": "W.130",
     "w_number": "W.130",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Interior,_after_Dinner"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "L'Enfant a la tasse",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/L%27Enfant_a_la_tasse",
     "commons_filename": "L'Enfant_a_la_tasse,_portrait_de_Jean_Monet.jpg",
     "date": "1868",
     "current_location": "Private collection",
     "dimensions": "46 × 33",
     "raw_cat_medium": "W.131",
     "w_number": "W.131",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/L%27Enfant_a_la_tasse"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -1383,14 +1383,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "The Magpie",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Magpie_(Monet)",
     "commons_filename": "Claude_Monet_-_The_Magpie_-_Google_Art_Project.jpg",
     "date": "1868–69",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "89 × 130",
     "raw_cat_medium": "W.133",
     "w_number": "W.133",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Magpie_(Monet)"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -1824,14 +1824,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "A Windmill at Zaandam",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Windmill_at_Zaandam",
     "commons_filename": "CLAUDE_MONET_1840_-_1926_UN_MOULIN_À_ZAANDAM.jpg",
     "date": "1871",
     "current_location": "Ny Carlsberg Glyptotek, Copenhagen",
     "dimensions": "48.5 × 73.5",
     "raw_cat_medium": "W.171",
     "w_number": "W.171",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Windmill_at_Zaandam"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -1891,14 +1891,14 @@
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
     "title": "Windmill and Boats near Zaandam",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Windmill_at_Zaandam",
     "commons_filename": "Windmill_and_Boats_near_Zaandam,_Holland,_by_Claude_Monet,_1871_-_Ny_Carlsberg_Glyptotek_-_Copenhagen_-_DSC09437.JPG",
     "date": "1871",
     "current_location": "Ny Carlsberg Glyptotek, Copenhagen",
     "dimensions": "48 × 73.5",
     "raw_cat_medium": "W.177",
     "w_number": "W.177",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Windmill_at_Zaandam"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -2200,26 +2200,26 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Lilac in the Sun",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Lilac_Bush_in_the_Sun",
     "commons_filename": "Lilacs_in_the_Sun,_1872.jpg",
     "date": "1872",
     "current_location": "Pushkin Museum, Moscow",
     "dimensions": "50 × 65",
     "raw_cat_medium": "W.204",
     "w_number": "W.204",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Lilac_Bush_in_the_Sun"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Springtime",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Springtime_(Claude_Monet)",
     "commons_filename": "Claude_Monet_-_Springtime_-_Google_Art_Project.jpg",
     "date": "1872",
     "current_location": "Walters Art Museum, Baltimore",
     "dimensions": "50 × 65",
     "raw_cat_medium": "W.205",
     "w_number": "W.205",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Springtime_(Claude_Monet)"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -2466,14 +2466,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Regatta at Argenteuil",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Regatta_at_Argenteuil",
     "commons_filename": "Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
     "date": "1872",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "48 × 75",
     "raw_cat_medium": "W.233",
     "w_number": "W.233",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Regatta_at_Argenteuil"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -2720,14 +2720,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "The Red Kerchief, Portrait of Madame Monet",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Red_Cape",
     "commons_filename": "The_Red_Kerchief,_by_Claude_Monet,_Cleveland_Museum_of_Art,_1958.39.jpg",
     "date": "1873",
     "current_location": "Cleveland Museum of Art",
     "dimensions": "100 × 80",
     "raw_cat_medium": "W.257",
     "w_number": "W.257",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Red_Cape"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -2787,14 +2787,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Impression, Sunrise",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Impression,_Sunrise",
     "commons_filename": "Monet_-_Impression,_Sunrise.jpg",
     "date": "1873",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "48 × 63",
     "raw_cat_medium": "W.263",
     "w_number": "W.263",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Impression,_Sunrise"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -2854,14 +2854,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "The Seine at Asnieres",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Seine_at_Asni%C3%A8res",
     "commons_filename": "La_Seine_à_Asnière_-_Monet.jpg",
     "date": "1873",
     "current_location": "Hermitage Museum, St Petersburg",
     "dimensions": "46.4 х 55.5",
     "raw_cat_medium": "W.269a",
     "w_number": "W.269a",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Seine_at_Asni%C3%A8res"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -3118,14 +3118,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Boulevard des Capucines",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Boulevard_des_Capucines_(Monet)",
     "commons_filename": "Claude_Monet_-_Boulevard_des_Capucines_-_Google_Art_Project.jpg",
     "date": "1873",
     "current_location": "Nelson-Atkins Museum of Art, Kansas City",
     "dimensions": "80 × 60",
     "raw_cat_medium": "W.293",
     "w_number": "W.293",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Boulevard_des_Capucines_(Monet)"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -3537,14 +3537,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Argenteuil Basin with a Single Sailboat",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Argenteuil_Basin_with_a_Single_Sailboat",
     "commons_filename": "Monet-ArgenteuilBasinWithASingleSailboat.jpg",
     "date": "1874",
     "current_location": "National Gallery of Ireland, Dublin",
     "dimensions": "55 × 65",
     "raw_cat_medium": "W.331",
     "w_number": "W.331",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Argenteuil_Basin_with_a_Single_Sailboat"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -3768,26 +3768,26 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Snow at Argenteuil",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Snow_at_Argenteuil",
     "commons_filename": "Monet_Snow_at_Argenteuil.jpg",
     "date": "1875",
     "current_location": "National Museum of Western Art, Tokyo",
     "dimensions": "55 × 65",
     "raw_cat_medium": "W.351",
     "w_number": "W.351",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Snow_at_Argenteuil"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Snow at Argenteuil",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Snow_at_Argenteuil",
     "commons_filename": "Monet_Snow_at_Argenteuil_1875.jpg",
     "date": "1875",
     "current_location": "Private collection",
     "dimensions": "71 × 91.5",
     "raw_cat_medium": "W.352",
     "w_number": "W.352",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Snow_at_Argenteuil"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -3836,14 +3836,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Train in the Snow, the Locomotive",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Train_in_the_Snow",
     "commons_filename": "Claude_Monet,_1875,_Train_in_the_Snow,_oil_on_canvas,_59_×_78_cm,_Musée_Marmottan_Monet.jpg",
     "date": "1875",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "59 × 78",
     "raw_cat_medium": "W.356",
     "w_number": "W.356",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Train_in_the_Snow"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -4123,14 +4123,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "The Walk, Woman with a Parasol",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son",
     "commons_filename": "Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
     "date": "1875",
     "current_location": "National Gallery of Art, Washington D.C.",
     "dimensions": "100 × 81",
     "raw_cat_medium": "W.381",
     "w_number": "W.381",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -4222,14 +4222,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "The Studio Boat",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Studio_Boat_(Le_Bateau-atelier)",
     "commons_filename": "Claude_Monet_Le_bateau_atelier.jpg",
     "date": "1875–76",
     "current_location": "Barnes Foundation, Philadelphia",
     "dimensions": "72 × 60",
     "raw_cat_medium": "W.390",
     "w_number": "W.390",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Studio_Boat_(Le_Bateau-atelier)"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -4762,14 +4762,14 @@
   {
     "section": "Works 1872–1878 (Argenteuil)",
     "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Arrival_of_the_Normandy_Train,_Gare_Saint-Lazare",
     "commons_filename": "Claude_Monet_-_Arrival_of_the_Normandy_Train,_Gare_Saint-Lazare_-_Google_Art_Project.jpg",
     "date": "1877",
     "current_location": "Art Institute of Chicago",
     "dimensions": "59.5 × 80",
     "raw_cat_medium": "W.440",
     "w_number": "W.440",
-    "series": "argenteuil"
+    "series": "argenteuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Arrival_of_the_Normandy_Train,_Gare_Saint-Lazare"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -7191,14 +7191,14 @@
   {
     "section": "Works 1878–1881 (Vétheuil)",
     "title": "Waves Breaking",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Waves_Breaking",
     "commons_filename": "Monet_-_Waves_Breaking,_1881.jpg",
     "date": "1881",
     "current_location": "Fine Arts Museums of San Francisco",
     "dimensions": "60 x 81",
     "raw_cat_medium": "W.661",
     "w_number": "W.661",
-    "series": "vétheuil"
+    "series": "vétheuil",
+    "provenance_url": "https://en.wikipedia.org/wiki/Waves_Breaking"
   },
   {
     "section": "Works 1878–1881 (Vétheuil)",
@@ -8105,14 +8105,14 @@
   {
     "section": "Works 1881–1883 (Poissy)",
     "title": "The Chef, Pere Paul",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait_of_P%C3%A8re_Paul",
     "commons_filename": "Claude_Monet_-_Der_Koch_(Le_Père_Paul)_-_540_-_Österreichische_Galerie_Belvedere.jpg",
     "date": "1882",
     "current_location": "Österreichische Galerie Belvedere",
     "dimensions": "64 x 51",
     "raw_cat_medium": "W.744",
     "w_number": "W.744",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_P%C3%A8re_Paul"
   },
   {
     "section": "Works 1881–1883 (Poissy)",
@@ -8270,14 +8270,14 @@
   {
     "section": "Works 1881–1883 (Poissy)",
     "title": "The Cliff Walk, Pourville",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cliff_Walk_at_Pourville",
     "commons_filename": "Claude_Monet_-_Cliff_Walk_at_Pourville_-_Google_Art_Project.jpg",
     "date": "1882",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.758",
     "w_number": "W.758",
-    "series": "pourville"
+    "series": "pourville",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Cliff_Walk_at_Pourville"
   },
   {
     "section": "Works 1881–1883 (Poissy)",
@@ -8359,14 +8359,14 @@
   {
     "section": "Works 1881–1883 (Poissy)",
     "title": "The Rocks at Pourville, Low Tide",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rocks_at_Pourville,_Low_Tide",
     "commons_filename": "Monet_w767.jpg",
     "date": "1882",
     "current_location": "Memorial Art Gallery",
     "dimensions": "64.3 x 78.7",
     "raw_cat_medium": "W.767",
     "w_number": "W.767",
-    "series": "pourville"
+    "series": "pourville",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Rocks_at_Pourville,_Low_Tide"
   },
   {
     "section": "Works 1881–1883 (Poissy)",
@@ -8974,14 +8974,14 @@
   {
     "section": "Works 1881–1883 (Poissy)",
     "title": "Stormy Sea in Étretat",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Stormy_Sea_in_%C3%89tretat",
     "commons_filename": "Monet-Mer_agitée_à_Etretat-MBA-Lyon.jpg",
     "date": "1883",
     "current_location": "Museum of Fine Arts of Lyon",
     "dimensions": "81 x 100",
     "raw_cat_medium": "W.821",
     "w_number": "W.821",
-    "series": "étretat"
+    "series": "étretat",
+    "provenance_url": "https://en.wikipedia.org/wiki/Stormy_Sea_in_%C3%89tretat"
   },
   {
     "section": "Works 1881–1883 (Poissy)",
@@ -9645,14 +9645,14 @@
   {
     "section": "Works 1884 (Bordighera, Italy)",
     "title": "The Valley of the Nervia",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Valley_of_the_Nervia",
     "commons_filename": "Claude_Monet_-_The_Valley_of_the_Nervia.jpg",
     "date": "1884",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.881",
     "w_number": "W.881",
-    "series": "bordighera"
+    "series": "bordighera",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Valley_of_the_Nervia"
   },
   {
     "section": "Works 1884 (Bordighera, Italy)",
@@ -11871,74 +11871,74 @@
   {
     "section": "Works 1884–1888 (Giverny)",
     "title": "Pyramids at Port-Coton",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea",
     "commons_filename": "Scogli_a_Belle-Île.jpg",
     "date": "1886",
     "current_location": "Pushkin Museum, Moscow",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1084",
     "w_number": "W.1084",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea"
   },
   {
     "section": "Works 1884–1888 (Giverny)",
     "title": "The \"Pyramids\" at Port-Coton",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea",
     "commons_filename": "Claude_Monet_\"Las_Pirámides_a_Port-Coton\"_(1886)_Óleo_sobre_tela;_65,5_x_81,5_cm.jpg",
     "date": "1886",
     "current_location": "Caracas Museum of Contemporary Art",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1085",
     "w_number": "W.1085",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea"
   },
   {
     "section": "Works 1884–1888 (Giverny)",
     "title": "The Pyramides of Port Coton, Belle-Ile-en-Mer",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea",
     "commons_filename": "Monet_w1086.jpg",
     "date": "1886",
     "current_location": "Ny Carlsberg Glyptotek, Copenhagen",
     "dimensions": "60 x 73",
     "raw_cat_medium": "W.1086",
     "w_number": "W.1086",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea"
   },
   {
     "section": "Works 1884–1888 (Giverny)",
     "title": "The Pyramids at Port-Coton",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea",
     "commons_filename": "Monet_-_the-pyramids-at-port-coton-1.jpg",
     "date": "1886",
     "current_location": "Sammlung Rau fuer UNICEF, Arp Museum Bahnhof Rolandseck, Remagen",
     "dimensions": "65.5 x 65.5",
     "raw_cat_medium": "W.1087",
     "w_number": "W.1087",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea"
   },
   {
     "section": "Works 1884–1888 (Giverny)",
     "title": "The \"Pyramids\" of Port Coton, Sun Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea",
     "commons_filename": "Claude_Monet_-_Les_Pyramides_de_Port-Coton,_effet_de_soleil.jpg",
     "date": "1886",
     "current_location": "Private Collection",
     "dimensions": "64 x 64",
     "raw_cat_medium": "W.1088",
     "w_number": "W.1088",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea"
   },
   {
     "section": "Works 1884–1888 (Giverny)",
     "title": "Rocks at Belle-Ile",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea",
     "commons_filename": "Monet_w1089.jpg",
     "date": "1886",
     "current_location": "Private collection",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1089",
     "w_number": "W.1089",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Pyramides_at_Port-Coton,_Rough_Sea"
   },
   {
     "section": "Works 1884–1888 (Giverny)",
@@ -13493,14 +13493,14 @@
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Study of Rocks; Creuse (also known as Le Bloc)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Study_of_Rocks;_Creuse",
     "commons_filename": "Claude_Monet_-_Le_Bloc.jpg",
     "date": "1889",
     "current_location": "Formerly collection of Queen Elizabeth The Queen Mother",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1228",
     "w_number": "W.1228",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Study_of_Rocks;_Creuse"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -13725,14 +13725,14 @@
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Boating on the River Epte",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Boating_on_the_River_Epte",
     "commons_filename": "Monet_-_canoaepte01.jpg",
     "date": "1890",
     "current_location": "São Paulo Museum of Art",
     "dimensions": "133 x 145",
     "raw_cat_medium": "W.1250",
     "w_number": "W.1250",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Boating_on_the_River_Epte"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -13814,14 +13814,14 @@
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Oat and Poppy Field",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Champ_d%27avoine_aux_coquelicots",
     "commons_filename": "Monet,_Champ_d'avoine_aux_coquelicots_(_Musée_d'art_moderne_et_contemporain,_Strasbourg_).JPG",
     "date": "1890",
     "current_location": "Strasbourg Museum of Modern and Contemporary Art",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1258",
     "w_number": "W.1258",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Champ_d%27avoine_aux_coquelicots"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -13903,422 +13903,422 @@
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks at the End of Summer, Morning Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Haystacks,_end_of_Summer_-_Google_Art_Project.jpg",
     "date": "1890",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "60 x 100",
     "raw_cat_medium": "W.1266",
     "w_number": "W.1266",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks in Bright Sunlight",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg",
     "date": "1890",
     "current_location": "Hill-Stead Museum, Farmington",
     "dimensions": "60 x 100",
     "raw_cat_medium": "W.1267",
     "w_number": "W.1267",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks in the Sunlight, Morning Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet,_Grainstacks_in_the_Sunlight,_Morning_Effect,_1890,_oil_on_canvas_65_x_100_cm.jpg",
     "date": "1890",
     "current_location": "Private collection",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1268",
     "w_number": "W.1268",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks at the End of Summer, Evening Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Stacks_of_Wheat_(End_of_Summer)_-_1985.1103_-_Art_Institute_of_Chicago.jpg",
     "date": "1890",
     "current_location": "Art Institute of Chicago",
     "dimensions": "60 x 100",
     "raw_cat_medium": "W.1269",
     "w_number": "W.1269",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Two Grainstacks at the End of the Day, Autumn",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Stacks_of_Wheat_(End_of_Day,_Autumn)_-_1933.444_-_Art_Institute_of_Chicago.jpg",
     "date": "1890",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1270",
     "w_number": "W.1270",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks in the Sunlight, Midday",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Meules,_milieu_du_jour_(Haystacks,_midday)_-_Google_Art_Project.jpg",
     "date": "1890–91",
     "current_location": "National Gallery of Australia, Canberra",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1271",
     "w_number": "W.1271",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks, Last Rays of the Sun",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_w1272.jpg",
     "date": "1890",
     "current_location": "Private collection",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1272",
     "w_number": "W.1272",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_grainstacks_W1273.jpg",
     "date": "1890",
     "current_location": "Private collection",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1273",
     "w_number": "W.1273",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks, White Frost Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_grainstacks-snow-effect-1891_W1274.jpg",
     "date": "1890–91",
     "current_location": "Shelburne Museum",
     "dimensions": "60 x 100",
     "raw_cat_medium": "W.1274",
     "w_number": "W.1274",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks, Winter",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_w1275.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1275",
     "w_number": "W.1275",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks in the Morning, Snow Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_(French_-_Wheatstacks,_Snow_Effect,_Morning_-_Google_Art_Project.jpg",
     "date": "1891",
     "current_location": "J. Paul Getty Museum, Los Angeles",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1276",
     "w_number": "W.1276",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks, Snow Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Haystacks-_Snow_Effect_-_Google_Art_Project.jpg",
     "date": "1890–91",
     "current_location": "National Galleries of Scotland, Edinburgh",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1277",
     "w_number": "W.1277",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks at Sunset, Snow Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Stacks_of_Wheat_(Sunset,_Snow_Effect)_-_1922.431_-_Art_Institute_of_Chicago.jpg",
     "date": "1890–91",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1278",
     "w_number": "W.1278",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstacks, Effect of Snow and Sun",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_(French,_Paris_1840–1926_Giverny)_-_Haystacks_(Effect_of_Snow_and_Sun)_-_Google_Art_Project.jpg",
     "date": "1890–91",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1279",
     "w_number": "W.1279",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack in the Morning, Snow Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet,_Haystack,_Morning_Snow_Effect_(Meule,_Effet_de_Neige,_le_Matin),_1891,_oil_on_canvas,_65_x_92_cm,_Museum_of_Fine_Arts,_Boston.jpg",
     "date": "1890–91",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1280",
     "w_number": "W.1280",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack in Overcast Weather, Snow Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Stack_of_Wheat_(Snow_Effect,_Overcast_Day)_-_1933.1155_-_Art_Institute_of_Chicago.jpg",
     "date": "1890–91",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1281",
     "w_number": "W.1281",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack at Sunset, Winter",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_haystacks-at-sunset-frosty-weather-1891_W1282.jpg",
     "date": "1890–91",
     "current_location": "Private collection",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1282",
     "w_number": "W.1282",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Stack_of_Wheat_-_1983.29_-_Art_Institute_of_Chicago.jpg",
     "date": "1890–91",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1283",
     "w_number": "W.1283",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack, Thaw, Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Stack_of_Wheat_(Thaw,_Sunset)_-_1983.166_-_Art_Institute_of_Chicago.jpg",
     "date": "1890–91",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1284",
     "w_number": "W.1284",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_grainstack_65_x_92_cm,_1891_W1285.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1285",
     "w_number": "W.1285",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack, Sun in the Mist",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Grainstack,_Sun_in_the_Mist_-_Google_Art_Project.jpg",
     "date": "1891",
     "current_location": "Minneapolis Institute of Art",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1286",
     "w_number": "W.1286",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack in the Sunlight, Snow Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_w1287.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1287",
     "w_number": "W.1287",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack in Sunshine",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Poss_1288_Grainstack_in_Sunshine,_1891,_Meule_au_soleil,_Oil_on_Canvas,_60_x_100_cm,_Zurich,_Kunsthaus_Zurich.jpg",
     "date": "1891",
     "current_location": "Kunsthaus Zürich",
     "dimensions": "60 x 100",
     "raw_cat_medium": "W.1288",
     "w_number": "W.1288",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack at Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Claude_Monet_-_Graystaks_I.JPG",
     "date": "1891",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1289",
     "w_number": "W.1289",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Grainstack in the Sunshine",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "commons_filename": "Monet_Grainstack_in_the_Sunlight_1891.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1290",
     "w_number": "W.1290",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte, Overcast Weather",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_Poplars-at-giverny_MOA_W1291.jpg",
     "date": "1891",
     "current_location": "MOA Museum of Art, Atami",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1291",
     "w_number": "W.1291",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte, Evening Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_w1292.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1292",
     "w_number": "W.1292",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Row of poplars in autumn",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_Poplars-row-in-autumn_W1293.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1293",
     "w_number": "W.1293",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte, Effect of Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1294.png",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1294",
     "w_number": "W.1294",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars at Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_w1295.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "102 x 62",
     "raw_cat_medium": "W.1295",
     "w_number": "W.1295",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte at dusk",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_w1296.jpg",
     "date": "1891",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1296",
     "w_number": "W.1296",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte in Autumn",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_poplars-on-the-banks-of-the-epte-autumn-1891_66x101_W1297.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1297",
     "w_number": "W.1297",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the Epte",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Poplars_on_the_Bank_of_the_Epte_River_(Claude_Monet,_1891).jpg",
     "date": "1891",
     "current_location": "Philadelphia Museum of Art",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1298",
     "w_number": "W.1298",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Bank of the Epte, Overcast",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1299.png",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "91.5 x 81.5",
     "raw_cat_medium": "W.1299",
     "w_number": "W.1299",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Epte",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_Poplars_on_the_River_Epte.jpg",
     "date": "1891",
     "current_location": "Tate Britain, London",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1300",
     "w_number": "W.1300",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -14334,146 +14334,146 @@
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars, Wind Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Poplars_(Wind_effect).JPG",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "100 x 73",
     "raw_cat_medium": "W.1302",
     "w_number": "W.1302",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Three Trees in Grey Weather",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Three_Trees_in_Grey_Weather_1891_Claude_Monet.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1303",
     "w_number": "W.1303",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Three Trees in Spring",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_three-trees-in-spring_W1304.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1304",
     "w_number": "W.1304",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Three Trees in Summer",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_Poplars_in_the_Sun.jpg",
     "date": "1891",
     "current_location": "National Museum of Western Art, Tokyo",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1305",
     "w_number": "W.1305",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Three Trees in Autumn",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_three-trees-autumn-effect_W1306.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1306",
     "w_number": "W.1306",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Three Poplar Trees, Autumn Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Claude_Monet,_French_-_Poplars_-_Google_Art_Project.jpg",
     "date": "1891",
     "current_location": "Philadelphia Museum of Art",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1307",
     "w_number": "W.1307",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Three Poplar Trees in the Autumn",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Poplars_(Autumn)_II.JPG",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "92 x 73",
     "raw_cat_medium": "W.1308",
     "w_number": "W.1308",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Four Trees",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "1891_Monet_The_four_trees_anagoria.JPG",
     "date": "1891",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "82 x 81.5",
     "raw_cat_medium": "W.1309",
     "w_number": "W.1309",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Poplars_on_the_Epte_-_Google_Art_Project.jpg",
     "date": "1891",
     "current_location": "National Galleries of Scotland, Edinburgh",
     "dimensions": "81.5 x 82",
     "raw_cat_medium": "W.1310",
     "w_number": "W.1310",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "The Poplars, Autumn",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Les_Peupliers,_automne.jpg",
     "date": "1891",
     "current_location": "Private collection",
     "dimensions": "80 x 92",
     "raw_cat_medium": "W.1311",
     "w_number": "W.1311",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars on the Banks of the River Epte, Seen from the Marsh",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_poplars-on-the-banks-of-the-river-epte-seen-from-the-marsh-1892_W1312.jpg",
     "date": "1891–92",
     "current_location": "Private collection",
     "dimensions": "88 x 93",
     "raw_cat_medium": "W.1312",
     "w_number": "W.1312",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Poplars, View from the Marsh",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "commons_filename": "Monet_poplars-view-from-the-marsh-1892_W1313.jpg",
     "date": "1891–92",
     "current_location": "Fitzwilliam Museum, Cambridge",
     "dimensions": "90 x 93",
     "raw_cat_medium": "W.1313",
     "w_number": "W.1313",
-    "series": "poplars"
+    "series": "poplars",
+    "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -14818,206 +14818,206 @@
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "The Portal and the Tour d'Albene, Grey Weather",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Monet-cathedrale-rouen.jpg",
     "date": "1893",
     "current_location": "Musée des Beaux-Arts de Rouen",
     "dimensions": "100 x 73",
     "raw_cat_medium": "W.1345",
     "w_number": "W.1345",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "The Portal and the Tour d'Albane",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Cathédrale_de_Rouen._Harmonie_blanche.jpg",
     "date": "1893",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "106 x 73",
     "raw_cat_medium": "W.1346",
     "w_number": "W.1346",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, the Portal, Morning Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Rouen_Cathedral,_Facade_and_Tour_d'AlbaneI.JPG",
     "date": "1893",
     "current_location": "Beyeler Foundation, Riehen",
     "dimensions": "110 x 73",
     "raw_cat_medium": "W.1347",
     "w_number": "W.1347",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, the Portal and the tour d'Albane, Morning Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Rouen_Cathedral_Façade_and_Tour_d'Albane_(Morning_Effect)_-_Google_Art_Project.jpg",
     "date": "1893",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "106 x 74",
     "raw_cat_medium": "W.1348",
     "w_number": "W.1348",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral in the Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Rouen-cathedral-fog_W1349.jpg",
     "date": "1893",
     "current_location": "Private collection",
     "dimensions": "106 x 73",
     "raw_cat_medium": "W.1349",
     "w_number": "W.1349",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, the Portal and the Tour d'Albane, Full Sunlight",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "The_Rouen_Cathedral_at_Noon_by_Claude_Monet,_1894,_Pushkin_Museum.JPG",
     "date": "1893",
     "current_location": "Pushkin Museum, Moscow",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1350",
     "w_number": "W.1350",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "The Portal of Rouen Cathedral at Midday",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Rouen_Cathedral,_West_Façade_-_Google_Art_Project.jpg",
     "date": "1893",
     "current_location": "National Gallery of Art, Washington D.C.",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1351",
     "w_number": "W.1351",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, the Portal, Morning Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG",
     "date": "1893",
     "current_location": "Museum Folkwang, Essen",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1352",
     "w_number": "W.1352",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, Portal, Morning Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG",
     "date": "1893",
     "current_location": "Private collection",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1353",
     "w_number": "W.1353",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, Portal, Morning Light",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_(French_-_The_Portal_of_Rouen_Cathedral_in_Morning_Light_-_Google_Art_Project.jpg",
     "date": "1893",
     "current_location": "J. Paul Getty Museum, Los Angeles",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1354",
     "w_number": "W.1354",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, the Portal in the Sun",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Cathédrale_de_Rouen._Harmonie_bleue.jpg",
     "date": "1894",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "91 x 63",
     "raw_cat_medium": "W.1355",
     "w_number": "W.1355",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, Façade",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Rouen_Cathedral_Boston_W1356.jpg",
     "date": "1893",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1356",
     "w_number": "W.1356",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, Portal",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_Kathedrale_von_Rouen@20151002_01.JPG",
     "date": "1893",
     "current_location": "Schloss Weimar",
     "dimensions": "100 x 65",
     "raw_cat_medium": "W.1357",
     "w_number": "W.1357",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, the Façade in Sunlight",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_La_cathédrale_de_Rouen,_le_portail.jpg",
     "date": "1893",
     "current_location": "Clark Art Institute, Williamstown",
     "dimensions": "106 x 73",
     "raw_cat_medium": "W.1358",
     "w_number": "W.1358",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, Portal",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Rouen_Cathedral_Portal_W1359.jpg",
     "date": "1893",
     "current_location": "Private collection",
     "dimensions": "92 x 65",
     "raw_cat_medium": "W.1359",
     "w_number": "W.1359",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral, Portal and Tower Saint-Romain in the Sun",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Claude_Monet_-_Cathédrale_de_Rouen._Harmonie_bleue_et_or.jpg",
     "date": "1893",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "107 x 73",
     "raw_cat_medium": "W.1360",
     "w_number": "W.1360",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
     "title": "Rouen Cathedral",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
     "commons_filename": "Rouen_Cathedral_W1361.jpg",
     "date": "1893",
     "current_location": "Private collection",
     "dimensions": "106 x 73",
     "raw_cat_medium": "W.1361",
     "w_number": "W.1361",
-    "series": "rouen cathedral"
+    "series": "rouen cathedral",
+    "provenance_url": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -16551,422 +16551,422 @@
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1521.jpg",
     "date": "1899–1901",
     "current_location": "Shelburne Museum Vermont House",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1521",
     "w_number": "W.1521",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Charing_Cross_Bridge_(W_1522).jpg",
     "date": "1899–1901",
     "current_location": "Santa Barbara Museum of Art",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1522",
     "w_number": "W.1522",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1523.jpg",
     "date": "1899–1901",
     "current_location": "Murauchi Art Museum, Hachioji",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1523",
     "w_number": "W.1523",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1524.jpg",
     "date": "1899–1901",
     "current_location": "Menard Art Museum, Komaki",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1524",
     "w_number": "W.1524",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Charing-Cross_Bridge_in_London_-_Google_Art_Project.jpg",
     "date": "1899–1901",
     "current_location": "National Museum of Western Art, Tokyo",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1525",
     "w_number": "W.1525",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Overcast Day",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "4960207242_04ebc9a7d1_o_w1526.jpg",
     "date": "1899–1901",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "60 x 92",
     "raw_cat_medium": "W.1526",
     "w_number": "W.1526",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Charing_Cross_Bridge,_London,_1901.jpg",
     "date": "1899–1901",
     "current_location": "Art Institute of Chicago",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1527",
     "w_number": "W.1527",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1528.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1528",
     "w_number": "W.1528",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Charing_Cross_Bridge,_NMW_A_2483.jpg",
     "date": "1899–1901",
     "current_location": "National Museum Cardiff",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1529",
     "w_number": "W.1529",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet,_Claude_-_Charing_Cross_Bridge_-_Google_Art_Project.jpg",
     "date": "1899–1901",
     "current_location": "Indianapolis Museum of Art",
     "dimensions": "66 x 91",
     "raw_cat_medium": "W.1530",
     "w_number": "W.1530",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Charing_Cross_Bridge,_Monet.jpg",
     "date": "1899",
     "current_location": "Thyssen-Bornemisza Museum, Madrid",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1531",
     "w_number": "W.1531",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Reflections on the Thames",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Charing_Cross_Bridge,_Reflections_on_the_Thames.jpg",
     "date": "1899–1901",
     "current_location": "Baltimore Museum of Art",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1532",
     "w_number": "W.1532",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Trains Crossing",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1533.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1533",
     "w_number": "W.1533",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Smoke in Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1534.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1534",
     "w_number": "W.1534",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Smoke in Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1535.jpg",
     "date": "1899–1901",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1535",
     "w_number": "W.1535",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, The Thames",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1536.jpg",
     "date": "1899–1901",
     "current_location": "Yamagata Museum of Art",
     "dimensions": "73 x 100",
     "raw_cat_medium": "W.1536",
     "w_number": "W.1536",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, The Thames",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet-Tamise-Lyon.jpg",
     "date": "1899–1901",
     "current_location": "Museum of Fine Arts of Lyon",
     "dimensions": "73 x 100",
     "raw_cat_medium": "W.1537",
     "w_number": "W.1537",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Train Passing",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1538.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1538",
     "w_number": "W.1538",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Evening Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1539.png",
     "date": "1899-1901",
     "current_location": "Private collection",
     "dimensions": "73 x 100",
     "raw_cat_medium": "W. 1539",
     "w_number": "W.1539",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1540.jpg",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1540",
     "w_number": "W.1540",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1541.jpg",
     "date": "1899–1901",
     "current_location": "Art Gallery of Ontario, Toronto",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1541",
     "w_number": "W.1541",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1542.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1542",
     "w_number": "W.1542",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Cleopatra's Needle and Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_charing-cross-bridge-cleopatra-s-needle-1901.jpg",
     "date": "1899–1901",
     "current_location": "Mohamed Mahmoud Khalil Museum, Cairo",
     "dimensions": "73 x 100",
     "raw_cat_medium": "W.1543",
     "w_number": "W.1543",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Cleopatra's Needle and Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1544.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1544",
     "w_number": "W.1544",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1545.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 95",
     "raw_cat_medium": "W. 1545",
     "w_number": "W.1545",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1546.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W. 1546",
     "w_number": "W.1546",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_w1547.jpg",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1547",
     "w_number": "W.1547",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Charing_Cross_Bridge_(Saint_Louis).jpg",
     "date": "1899–1901",
     "current_location": "Saint Louis Art Museum",
     "dimensions": "73 x 100",
     "raw_cat_medium": "W.1548",
     "w_number": "W.1548",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Charing_Cross_bridge_-_Sothebys_12_nov_2019.jpg",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W. 1549",
     "w_number": "W.1549",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Charing_Cross_Bridge_(1899-1901).jpg",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1550",
     "w_number": "W.1550",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1551.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W. 1551",
     "w_number": "W.1551",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge with tugs",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1552.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 100",
     "raw_cat_medium": "W.1552",
     "w_number": "W.1552",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "London, Charing Cross Bridge",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1552a.jpg",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "65 x 81",
     "raw_cat_medium": "W.1552a",
     "w_number": "W.1552a",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge (study)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1553.png",
     "date": "1899–1901",
     "current_location": "Private collection",
     "dimensions": "60 x 100",
     "raw_cat_medium": "W.1553",
     "w_number": "W.1553",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Charing Cross Bridge, Fog on the Thames",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)",
     "commons_filename": "Monet_-_Charing_Cross_Bridge_Fog_on_the_Thames,_1903.jpg",
     "date": "1899–1901",
     "current_location": "Fogg Museum, Cambridge",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1554",
     "w_number": "W.1554",
-    "series": "charing cross bridge"
+    "series": "charing cross bridge",
+    "provenance_url": "https://en.wikipedia.org/wiki/Charing_Cross_Bridge_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
@@ -17421,230 +17421,230 @@
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Effect of Sunlight in the Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1596.png",
     "date": "1900–01",
     "current_location": "Private collection",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1596",
     "w_number": "W.1596",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Sunlight Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Houses_of_Parliament,_Sunlight_Effect_(Le_Parlement,_effet_de_soleil)_-_Google_Art_Project.jpg",
     "date": "1903",
     "current_location": "Brooklyn Museum, New York",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1597",
     "w_number": "W.1597",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet_-_The_Houses_of_Parliament,_Sunset.jpg",
     "date": "1903",
     "current_location": "National Gallery of Art, Washington D.C.",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1598",
     "w_number": "W.1598",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, London, Symphony in Rose",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Monet_w1599.jpg",
     "date": "1900–01",
     "current_location": "Private collection",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1599",
     "w_number": "W.1599",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet,_Houses_of_Parliament,_London,_1900-1903,_1933.1164,_Art_Institute_of_Chicago.jpg",
     "date": "1900–03",
     "current_location": "Art Institute of Chicago",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1600",
     "w_number": "W.1600",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, London, Symphony in Blue",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Houses_of_Parliament_in_the_Fog_by_Claude_Monet,_High_Museum_of_Art.jpg",
     "date": "1901–02",
     "current_location": "High Museum of Art, Atlanta",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1601",
     "w_number": "W.1601",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet_Parlamentsgebäude.jpg",
     "date": "1901–02",
     "current_location": "Kunstmuseen Krefeld",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1602",
     "w_number": "W.1602",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Monet_Houses_of_Parliament,_Sunset.jpg",
     "date": "1900–01",
     "current_location": "Private collection",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1603",
     "w_number": "W.1603",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Le_Parlement,_soleil_couchant_(W_1604).jpg",
     "date": "1903",
     "current_location": "Private collection",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1604",
     "w_number": "W.1604",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Stormy Sky",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Lille_PdBA_monet_parlement_de_londres.JPG",
     "date": "1900–01",
     "current_location": "Palais des Beaux-Arts de Lille",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1605",
     "w_number": "W.1605",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Reflection of the Thames",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet,_Londres,_Le_Parlement,_Reflets_sur_la_Tamise,_1905,_huile_sur_toile,_Musée_Marmottan_Monet,_Paris.jpg",
     "date": "1905",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1606",
     "w_number": "W.1606",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Sunset",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Claude_Monet_-_Le_Parlement,_coucher_de_soleil_-_Kunsthaus_Zürich.jpg",
     "date": "1904",
     "current_location": "Kunsthaus Zürich",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1607",
     "w_number": "W.1607",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Fog Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Monet_-_Le_Parlement_de_Londres,_effet_de_brouillard,_1903.jpg",
     "date": "1903",
     "current_location": "Museum of modern art André Malraux - MuMa",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1608",
     "w_number": "W.1608",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Fog Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "The_Houses_of_Parliament_(Effect_of_Fog)_MET_DT1893.jpg",
     "date": "1903",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1609",
     "w_number": "W.1609",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Effect of Sunlight in the Fog",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "London,_the_Houses_of_Parliament,_Sunlight_Opening_in_Fog,_by_Claude_Monet.jpg",
     "date": "1904",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1610",
     "w_number": "W.1610",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Fog Effect",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Brouillard,_London_Parliament,_Claude_Monet.jpg",
     "date": "1903",
     "current_location": "Museum of Fine Arts (St. Petersburg, Florida)",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1611",
     "w_number": "W.1611",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Seagulls",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Monet,_Claude,_Houses_of_Parliament,_Seagulls.jpg",
     "date": "1903",
     "current_location": "Princeton University Art Museum",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1612",
     "w_number": "W.1612",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Seagulls",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Seagulls,_the_Thames_&_Houses_of_Parliament_by_Claude_Monet,_Pushkin_Museum.JPG",
     "date": "1904",
     "current_location": "Pushkin Museum, Moscow",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1613",
     "w_number": "W.1613",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
     "title": "Houses of Parliament, Evening",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1614.png",
     "date": "1900–01",
     "current_location": "Private collection",
     "dimensions": "80 x 91",
     "raw_cat_medium": "W.1614",
     "w_number": "W.1614",
-    "series": "houses of parliament"
+    "series": "houses of parliament",
+    "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)"
   },
   {
     "section": "Works 1899–1904 (London)",
@@ -17748,14 +17748,14 @@
   {
     "section": "Works 1900–1907 (Giverny (continued))",
     "title": "Le Jardin de l'artiste à Giverny",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Jardin_de_l%27artiste_%C3%A0_Giverny",
     "commons_filename": "Monet_-_Monets_Garten_in_Giverny.jpg",
     "date": "1900",
     "current_location": "Musée d'Orsay, Paris",
     "dimensions": "81 x 92",
     "raw_cat_medium": "W.1624",
     "w_number": "W.1624",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Le_Jardin_de_l%27artiste_%C3%A0_Giverny"
   },
   {
     "section": "Works 1900–1907 (Giverny (continued))",
@@ -18035,14 +18035,14 @@
   {
     "section": "Works 1908 Venice",
     "title": "The Grand Canal",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Grand_Canal",
     "commons_filename": "Claude_Monet,_Le_Grand_Canal.jpg",
     "date": "1908",
     "current_location": "Museum of Fine Arts, Boston",
     "dimensions": "73 x 92",
     "raw_cat_medium": "W.1738",
     "w_number": "W.1738",
-    "series": "venice"
+    "series": "venice",
+    "provenance_url": "https://en.wikipedia.org/wiki/Le_Grand_Canal"
   },
   {
     "section": "Works 1908 Venice",
@@ -18212,14 +18212,14 @@
   {
     "section": "Works 1908 Venice",
     "title": "The Doges' Palace Seen from San Giorgio Maggiore",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Doge%27s_Palace_Seen_from_San_Giorgio_Maggiore_(Claude_Monet)",
     "commons_filename": "The_Doge's_Palace_Seen_from_San_Giorgio_Maggiore_MET_DT1904.jpg",
     "date": "1908",
     "current_location": "Metropolitan Museum of Art, New York",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1755",
     "w_number": "W.1755",
-    "series": "venice"
+    "series": "venice",
+    "provenance_url": "https://en.wikipedia.org/wiki/The_Doge%27s_Palace_Seen_from_San_Giorgio_Maggiore_(Claude_Monet)"
   },
   {
     "section": "Works 1908 Venice",
@@ -18356,14 +18356,14 @@
   {
     "section": "Works 1908 Venice",
     "title": "San Giorgio Maggiore at Dusk",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/San_Giorgio_Maggiore_at_Dusk_(Monet)",
     "commons_filename": "Claude_Monet,_Saint-Georges_majeur_au_crépuscule.jpg",
     "date": "1908",
     "current_location": "National Museum Cardiff",
     "dimensions": "65 x 92",
     "raw_cat_medium": "W.1768",
     "w_number": "W.1768",
-    "series": "venice"
+    "series": "venice",
+    "provenance_url": "https://en.wikipedia.org/wiki/San_Giorgio_Maggiore_at_Dusk_(Monet)"
   },
   {
     "section": "Works 1908 Venice",
@@ -18861,134 +18861,134 @@
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow and Water-Lily Pond",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Claude_Monet,_Water-Lily_Pond_and_Weeping_Willow.JPG",
     "date": "1916–19",
     "current_location": "Private collection",
     "dimensions": "140 x 150",
     "raw_cat_medium": "W.1866",
     "w_number": "W.1866",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow and Water-Lily Pond",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_w1867.jpg",
     "date": "1916–19",
     "current_location": "Private collection",
     "dimensions": "150 x 130",
     "raw_cat_medium": "W.1867",
     "w_number": "W.1867",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1868.png",
     "date": "1918",
     "current_location": "Private collection",
     "dimensions": "130 x 90",
     "raw_cat_medium": "W.1868",
     "w_number": "W.1868",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Claude_Monet,_Weeping_Willow.JPG",
     "date": "1918",
     "current_location": "Columbus Museum of Art",
     "dimensions": "130 x 110",
     "raw_cat_medium": "W.1869",
     "w_number": "W.1869",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "4475884465_3aa2a83a4d_o_w1871.jpg",
     "date": "1918–19",
     "current_location": "Private collection",
     "dimensions": "130 x 100",
     "raw_cat_medium": "W.1871",
     "w_number": "W.1871",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1872.jpg",
     "date": "1918–19",
     "current_location": "Private collection",
     "dimensions": "100 x 80",
     "raw_cat_medium": "W.1872",
     "w_number": "W.1872",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Claude_Monet_Saule_pleureur.jpg",
     "date": "1918–19",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "100 x 100",
     "raw_cat_medium": "W.1873",
     "w_number": "W.1873",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_w1874.jpg",
     "date": "1918–19",
     "current_location": "Private collection",
     "dimensions": "100 x 120",
     "raw_cat_medium": "W.1874",
     "w_number": "W.1874",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_w1875.jpg",
     "date": "1918–19",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "100 x 120",
     "raw_cat_medium": "W.1875",
     "w_number": "W.1875",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Claude_Monet_Weeping_Willow.jpg",
     "date": "1918–19",
     "current_location": "Kimbell Art Museum, Fort Worth",
     "dimensions": "100 x 120",
     "raw_cat_medium": "W.1876",
     "w_number": "W.1876",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Weeping_Willow_by_Claude_Monet,_Musée_Marmottan_Monet_5078.JPG",
     "date": "1918–19",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "100 x 110",
     "raw_cat_medium": "W.1877",
     "w_number": "W.1877",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
@@ -19422,14 +19422,14 @@
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1941.png",
     "date": "1920–22",
     "current_location": "Private collection",
     "dimensions": "120 x 100",
     "raw_cat_medium": "W.1941",
     "w_number": "W.1941",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
@@ -19445,14 +19445,14 @@
   {
     "section": "Works 1908–1926 Giverny (continued)",
     "title": "Weeping Willow",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)",
     "commons_filename": "Monet_-_Wildenstein_1996,_1943.png",
     "date": "1920–22",
     "current_location": "Musée Marmottan Monet, Paris",
     "dimensions": "116 x 89",
     "raw_cat_medium": "W.1943",
     "w_number": "W.1943",
-    "series": "other"
+    "series": "other",
+    "provenance_url": "https://en.wikipedia.org/wiki/Weeping_Willow_(painting)"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",

@@ -292,7 +292,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs."""
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
@@ -371,7 +371,7 @@ def process_tokaido(tables: list, series: str, date_default: str) -> list:
                 "series": series,
                 "date": date_default,
                 "commons_filename": find_image_in_row(row),
-                "wikipedia_url": extract_wikipedia_url(
+                "provenance_url": extract_provenance_url(
                     cell_links(row, name_idx)
                 ),
             }
@@ -434,7 +434,7 @@ def process_edo_views(tables: list, series: str, date_default: str) -> list:
                 "series": series,
                 "date": cell_text(row, date_idx) if date_idx >= 0 else date_default,
                 "commons_filename": find_image_in_row(row),
-                "wikipedia_url": extract_wikipedia_url(
+                "provenance_url": extract_provenance_url(
                     cell_links(row, title_idx)
                 ),
             }
@@ -499,7 +499,7 @@ def process_kiso_kaido(tables: list, series: str, date_default: str) -> list:
                 "series": series,
                 "date": date_default,
                 "commons_filename": find_image_in_row(row),
-                "wikipedia_url": extract_wikipedia_url(
+                "provenance_url": extract_provenance_url(
                     cell_links(row, name_idx)
                 ),
             }
@@ -559,7 +559,7 @@ def process_sixty_provinces(tables: list, series: str, date_default: str) -> lis
                 "series": series,
                 "date": cell_text(row, date_idx) if date_idx >= 0 else date_default,
                 "commons_filename": find_image_in_row(row),
-                "wikipedia_url": extract_wikipedia_url(
+                "provenance_url": extract_provenance_url(
                     cell_links(row, prov_idx)
                 ),
             }
@@ -609,7 +609,7 @@ def process_fuji(tables: list, series: str, date_default: str) -> list:
                 "series": series,
                 "date": date_default,
                 "commons_filename": find_image_in_row(row),
-                "wikipedia_url": extract_wikipedia_url(
+                "provenance_url": extract_provenance_url(
                     cell_links(row, title_idx)
                 ),
             }
@@ -699,7 +699,7 @@ def parse_gallery_caption(raw: str, links: list) -> dict:
     if after:
         work["current_location"] = after.strip().rstrip('.')
 
-    work["wikipedia_url"] = extract_wikipedia_url(links)
+    work["provenance_url"] = extract_provenance_url(links)
     return work
 
 

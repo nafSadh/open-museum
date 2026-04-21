@@ -164,7 +164,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
             return f"https://en.wikipedia.org{link}"
@@ -229,7 +229,7 @@ def process_table(table: dict) -> list:
         # Col 0: Image and Title
         first_cell = row[0]
         work["title"] = first_cell["text"].strip()
-        work["wikipedia_url"] = extract_wikipedia_url(first_cell["links"])
+        work["provenance_url"] = extract_provenance_url(first_cell["links"])
         if first_cell["images"]:
             fname = extract_commons_filename(first_cell["images"][0])
             if fname:

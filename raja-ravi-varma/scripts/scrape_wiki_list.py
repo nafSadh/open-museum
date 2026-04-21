@@ -257,7 +257,7 @@ def extract_commons_filename(img_src: str) -> str:
     return ""
 
 
-def extract_wikipedia_url(links: list) -> str:
+def extract_provenance_url(links: list) -> str:
     """Find the first Wikipedia article link from a list of hrefs."""
     for link in links:
         if link.startswith("/wiki/") and not link.startswith("/wiki/File:"):
@@ -363,7 +363,7 @@ def parse_caption(raw: str, links: list) -> dict:
         if location_parts:
             work["current_location"] = ", ".join(location_parts)
 
-    work["wikipedia_url"] = extract_wikipedia_url(links)
+    work["provenance_url"] = extract_provenance_url(links)
     return work
 
 
@@ -425,7 +425,7 @@ def main():
             key = normalize_key(work["title"])
             if key not in seen_keys:
                 seen_keys.add(key)
-                work["source"] = "wikipedia_gallery"
+                work["harvest_method"] = "wikipedia_gallery"
                 all_works.append(work)
 
     print(f"  Gallery: {len(all_works)} unique works")
@@ -439,8 +439,8 @@ def main():
             seen_keys.add(key)
             work = {
                 "title": title,
-                "wikipedia_url": extract_wikipedia_url(item["links"]),
-                "source": "wikipedia_list",
+                "provenance_url": extract_provenance_url(item["links"]),
+                "harvest_method": "wikipedia_list",
             }
             work = {k: v for k, v in work.items() if v}
             all_works.append(work)
@@ -505,7 +505,7 @@ def main():
         work = {
             "title": title,
             "commons_filename": fname,
-            "source": "commons_category",
+            "harvest_method": "commons_category",
         }
         if date:
             work["date"] = date
