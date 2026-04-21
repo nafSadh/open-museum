@@ -197,13 +197,13 @@
     "id": 10,
     "era": "impressionist",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Orchestra_at_the_Opera",
     "year_start": 1870,
     "year_end": 1870,
     "circa": false,
     "slug": "the-orchestra-at-the-opera",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "c. 1871",
@@ -239,13 +239,13 @@
     "id": 12,
     "era": "impressionist",
     "subject": "other",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Dancing_Class",
     "year_start": 1871,
     "year_end": 1871,
     "circa": false,
     "slug": "the-dancing-class",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "1873",
@@ -281,13 +281,13 @@
     "id": 14,
     "era": "impressionist",
     "subject": "dance",
-    "famous": false,
+    "famous": true,
     "year_start": 1874,
     "year_end": 1874,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg",
     "slug": "rehearsal-on-stage",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "1875–1877",
@@ -464,13 +464,13 @@
     "id": 23,
     "era": "impressionist",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Miss_La_La_at_the_Cirque_Fernando",
     "year_start": 1879,
     "year_end": 1879,
     "circa": false,
     "slug": "miss-la-la-at-the-cirque-fernando",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "1879",
@@ -633,13 +633,13 @@
     "id": 31,
     "era": "impressionist",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Millinery_Shop",
     "year_start": 1885,
     "year_end": 1885,
     "circa": false,
     "slug": "the-millinery-shop",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "1888",
@@ -716,13 +716,13 @@
     "id": 35,
     "era": "late",
     "subject": "dance",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Blue_Dancers",
     "year_start": 1897,
     "year_end": 1897,
     "circa": false,
     "slug": "blue-dancers",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "c. 1899",
@@ -739,13 +739,13 @@
     "id": 36,
     "era": "late",
     "subject": "dance",
-    "famous": false,
+    "famous": true,
     "year_start": 1899,
     "year_end": 1899,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ukrainian_Dancers_-_c._1899.png",
     "slug": "ukrainian-dancers",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "c. 1906",
@@ -801,13 +801,13 @@
     "id": 39,
     "era": "early",
     "subject": "other",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Young_Spartans_Exercising",
     "year_start": 1860,
     "year_end": 1862,
     "circa": true,
     "slug": "young-spartans-exercising",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "date": "1877",

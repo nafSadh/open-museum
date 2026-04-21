@@ -150,14 +150,14 @@
     "id": 8,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Put_Down_Your_Whip_by_Xu_Beihong.jpg",
     "date": "October 1939",
     "slug": "put-down-your-whip",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Sketch of a Man from the Front and the Side.jpg",
@@ -208,14 +208,14 @@
     "id": 11,
     "era": "unknown",
     "subject": "horses",
-    "famous": false,
+    "famous": true,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_eight_horses_(Xu_Beihong).jpg",
     "date": "Unknown date",
     "slug": "the-eight-horses",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Tree and man(selfportrait) Xu Beihong. Guimet.jpg",
@@ -526,14 +526,14 @@
     "id": 27,
     "era": "unknown",
     "subject": "other",
-    "famous": false,
+    "famous": true,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Xubeihong_Jiuju.jpg",
     "date": "",
     "slug": "jiuju-nine-steeds",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Xubeihong bamboo woman.jpg",
@@ -702,13 +702,13 @@
     "id": 36,
     "era": "mature",
     "subject": "animals",
-    "famous": false,
+    "famous": true,
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%BE%90%E6%82%B2%E9%B4%BB_%E8%B2%93_1934.jpg",
     "slug": "cat",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "徐悲鴻 馬 1943.jpg",

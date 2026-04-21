@@ -14,13 +14,13 @@
     "id": 1,
     "era": "early",
     "subject": "religious",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)",
     "year_start": 1654,
     "year_end": 1655,
     "circa": true,
     "slug": "christ-in-the-house-of-martha-and-mary",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "SaintPraxedisJohannesVermeerPainting.jpg",
@@ -59,12 +59,13 @@
     "id": 3,
     "era": "early",
     "subject": "religious",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Diana_and_Her_Companions",
     "year_start": 1653,
     "year_end": 1656,
     "circa": true,
-    "slug": "diana-and-her-companions"
+    "slug": "diana-and-her-companions",
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg",
@@ -81,13 +82,13 @@
     "id": 4,
     "era": "early",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
     "year_start": 1656,
     "year_end": 1656,
     "circa": false,
     "slug": "the-procuress",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_(ca._1657-59).jpg",
@@ -104,13 +105,13 @@
     "id": 5,
     "era": "early",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_Reading_a_Letter_at_an_Open_Window",
     "year_start": 1657,
     "year_end": 1659,
     "circa": true,
     "slug": "girl-reading-a-letter-at-an-open-window-also-known-as-young",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Vermeer_young_women_sleeping.jpg",
@@ -127,13 +128,13 @@
     "id": 6,
     "era": "early",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/A_Girl_Asleep_(Vermeer)",
     "year_start": 1656,
     "year_end": 1657,
     "circa": false,
     "slug": "a-girl-asleep-also-known-as-a-maid-asleep",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft,_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg",
@@ -150,13 +151,13 @@
     "id": 7,
     "era": "early",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Little_Street",
     "year_start": 1657,
     "year_end": 1658,
     "circa": true,
     "slug": "the-little-street",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
@@ -173,13 +174,13 @@
     "id": 8,
     "era": "early",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Officer_with_a_Laughing_Girl",
     "year_start": 1657,
     "year_end": 1657,
     "circa": true,
     "slug": "officer-with-a-laughing-girl-also-known-as-officer-and-laugh",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
@@ -331,13 +332,13 @@
     "id": 15,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Music_Lesson",
     "year_start": 1662,
     "year_end": 1662,
     "circa": false,
     "slug": "the-music-lesson-also-known-as-a-lady-at-the-virginals-with",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Vermeer_-_Woman_with_a_Lute_near_a_window.jpg",
@@ -354,13 +355,13 @@
     "id": 16,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Lute",
     "year_start": 1662,
     "year_end": 1664,
     "circa": true,
     "slug": "woman-with-a-lute",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
@@ -377,13 +378,13 @@
     "id": 17,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Pearl_Necklace",
     "year_start": 1662,
     "year_end": 1664,
     "circa": false,
     "slug": "woman-with-a-pearl-necklace",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_019.jpg",
@@ -400,13 +401,13 @@
     "id": 18,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Water_Jug_(Vermeer)",
     "year_start": 1660,
     "year_end": 1662,
     "circa": true,
     "slug": "woman-with-a-water-jug-also-known-as-young-woman-with-a-wate",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg",
@@ -423,13 +424,13 @@
     "id": 19,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
     "year_start": 1662,
     "year_end": 1663,
     "circa": true,
     "slug": "woman-holding-a-balance-also-known-as-woman-with-a-balance",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg",
@@ -446,13 +447,13 @@
     "id": 20,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/A_Lady_Writing_a_Letter",
     "year_start": 1665,
     "year_end": 1666,
     "circa": false,
     "slug": "a-lady-writing-a-letter",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "1665_Girl_with_a_Pearl_Earring.jpg",
@@ -492,13 +493,13 @@
     "id": 22,
     "era": "middle",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Concert_(Vermeer)",
     "year_start": 1665,
     "year_end": 1666,
     "circa": false,
     "slug": "the-concert",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Vermeer-Portrait_of_a_Young_Woman.jpg",
@@ -560,13 +561,13 @@
     "id": 25,
     "era": "late",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Mistress_and_Maid",
     "year_start": 1667,
     "year_end": 1667,
     "circa": false,
     "slug": "mistress-and-maid-also-known-as-lady-with-her-maidservant-ho",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Vermeer_-_Girl_with_a_Red_Hat.JPG",
@@ -583,13 +584,13 @@
     "id": 26,
     "era": "late",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_with_a_Red_Hat",
     "year_start": 1665,
     "year_end": 1668,
     "circa": true,
     "slug": "girl-with-a-red-hat-attribution-to-vermeer-has-been-question",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
@@ -720,13 +721,13 @@
     "id": 32,
     "era": "late",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Lady_Writing_a_Letter_with_her_Maid",
     "year_start": 1670,
     "year_end": 1670,
     "circa": false,
     "slug": "lady-writing-a-letter-with-her-maid",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Johannes_Vermeer,_Allegory_of_the_Catholic_Faith,_The_Metropolitan_Museum_of_Art.jpg",
@@ -743,13 +744,13 @@
     "id": 33,
     "era": "late",
     "subject": "allegory",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Allegory_of_Faith",
     "year_start": 1670,
     "year_end": 1674,
     "circa": true,
     "slug": "the-allegory-of-faith-also-known-as-allegory-of-the-faith",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_013.jpg",

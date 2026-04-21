@@ -87,13 +87,13 @@
     "id": 4,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Fukagawa,_Tokyo",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
     "slug": "under-mannen-bridge-ja-at-fukagawa",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -204,13 +204,13 @@
     "id": 9,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Kai_Province",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
     "slug": "inume-ja-pass-in-kai-province",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -346,13 +346,13 @@
     "id": 15,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Kajikazawa_in_Kai_Province",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
     "slug": "kajikazawa-in-kai-province",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -394,12 +394,13 @@
     "id": 17,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/A_View_of_Mount_Fuji_Across_Lake_Suwa",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
-    "slug": "a-view-of-mount-fuji-across-lake-suwa-lake-suwa-in-shinano-p"
+    "slug": "a-view-of-mount-fuji-across-lake-suwa-lake-suwa-in-shinano-p",
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -417,13 +418,13 @@
     "id": 18,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Ejiri-juku",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
     "slug": "ejiri-in-suruga-province",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -815,13 +816,13 @@
     "id": 35,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Misaka_Pass",
     "year_start": 1830,
     "year_end": 1832,
     "circa": true,
     "slug": "reflection-from-misaka-pass-in-kai-province-in-lake-kawaguch",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "series": "Thirty-six Views of Mount Fuji",
@@ -1090,12 +1091,13 @@
     "id": 47,
     "era": "late",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "year_start": 1833,
     "year_end": 1833,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_(1760-1849),_In_de_Paarden-was_waterval_(1835).jpg",
-    "slug": "the-waterfall-where-yoshitsune-washed-his-horse-at-yoshino-i"
+    "slug": "the-waterfall-where-yoshitsune-washed-his-horse-at-yoshino-i",
+    "tier": "famous"
   },
   {
     "title": "Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki)",
@@ -1721,14 +1723,14 @@
     "id": 77,
     "era": "unknown",
     "subject": "nature",
-    "famous": false,
+    "famous": true,
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Carp_leaping_up_a_cascade.jpg",
     "date": "",
     "slug": "carp-leaping-up-a-cascade",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "The Ghost of Oiwa, , from One Hundred Ghost Stories",

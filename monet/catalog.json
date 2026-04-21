@@ -1538,13 +1538,13 @@
     "id": 62,
     "era": "early",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "year_start": 1866,
     "year_end": 1866,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille.JPG",
     "slug": "camille-also-known-as-the-woman-in-a-green-dress",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1858–1871 (Paris, London, Amsterdam)",
@@ -7085,13 +7085,13 @@
     "id": 282,
     "era": "impressionist",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Boulevard_des_Capucines_(Monet)",
     "year_start": 1873,
     "year_end": 1873,
     "circa": false,
     "slug": "boulevard-des-capucines",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -9361,12 +9361,13 @@
     "id": 372,
     "era": "impressionist",
     "subject": "garden",
-    "famous": false,
+    "famous": true,
     "year_start": 1875,
     "year_end": 1875,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Poppy_Fields_near_Argenteuil_MET_DT1034.jpg",
-    "slug": "poppy-field-argenteuil"
+    "slug": "poppy-field-argenteuil",
+    "tier": "famous"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -10792,14 +10793,14 @@
     "id": 429,
     "era": "impressionist",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "year_start": 1877,
     "year_end": 1877,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
     "title_disambig": "W.438 · 1877",
     "slug": "the-saint-lazare-station",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1872–1878 (Argenteuil)",
@@ -18864,13 +18865,13 @@
     "id": 750,
     "era": "impressionist",
     "subject": "water",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Cliff_Walk_at_Pourville",
     "year_start": 1882,
     "year_end": 1882,
     "circa": false,
     "slug": "the-cliff-walk-pourville",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1881–1883 (Poissy)",
@@ -32093,12 +32094,13 @@
     "id": 1274,
     "era": "impressionist",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "year_start": 1890,
     "year_end": 1891,
     "circa": false,
-    "slug": "grainstacks-at-sunset-snow-effect"
+    "slug": "grainstacks-at-sunset-snow-effect",
+    "tier": "famous"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -32218,13 +32220,14 @@
     "id": 1279,
     "era": "impressionist",
     "subject": "other",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Haystacks_(Monet)",
     "year_start": 1890,
     "year_end": 1891,
     "circa": false,
     "title_disambig": "W.1283 · 1890–1891",
-    "slug": "grainstack"
+    "slug": "grainstack",
+    "tier": "famous"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -32597,12 +32600,13 @@
     "id": 1294,
     "era": "series",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Poplars_(Monet_series)",
     "year_start": 1891,
     "year_end": 1891,
     "circa": false,
-    "slug": "poplars-on-the-banks-of-the-epte"
+    "slug": "poplars-on-the-banks-of-the-epte",
+    "tier": "famous"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -33149,13 +33153,13 @@
     "id": 1316,
     "era": "series",
     "subject": "water",
-    "famous": false,
+    "famous": true,
     "year_start": 1894,
     "year_end": 1894,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Cathedral_in_Rouen._The_portal,_Grey_Weather_-_Google_Art_Project.jpg",
     "slug": "rouen-cathedral-the-portal-grey-weather",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1888–1898 (Giverny (continued))",
@@ -39566,14 +39570,14 @@
     "id": 1573,
     "era": "series",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)",
     "year_start": 1900,
     "year_end": 1901,
     "circa": false,
     "title_disambig": "W.1596 · 1900–1901",
     "slug": "houses-of-parliament-effect-of-sunlight-in-the-fog",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1899–1904 (London)",
@@ -42055,13 +42059,13 @@
     "id": 1672,
     "era": "series",
     "subject": "water",
-    "famous": false,
+    "famous": true,
     "year_start": 1914,
     "year_end": 1917,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Water_Lilies_and_Agapanthus_by_Claude_Monet,_Mus%C3%A9e_Marmottan_Monet.JPG",
     "slug": "water-lilies-and-agapanthus",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
@@ -43319,14 +43323,14 @@
     "id": 1721,
     "era": "series",
     "subject": "water",
-    "famous": false,
+    "famous": true,
     "year_start": 1918,
     "year_end": 1924,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Wildenstein_1996,_1911.jpg",
     "title_disambig": "W.1911 · 1918–1924",
     "slug": "the-japanese-bridge",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",
@@ -43450,13 +43454,13 @@
     "id": 1726,
     "era": "series",
     "subject": "water",
-    "famous": false,
+    "famous": true,
     "year_start": 1918,
     "year_end": 1918,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Monet_-_La_passerelle_sur_le_bassin_aux_nymph%C3%A9as,_1919.jpg",
     "slug": "the-footbridge-over-the-water-lily-pond",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Works 1908–1926 Giverny (continued)",

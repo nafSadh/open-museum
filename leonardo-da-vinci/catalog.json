@@ -205,7 +205,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "L'Annonciation,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
-    "famous": false,
+    "famous": true,
     "id": 7,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-L%27Annonciation%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
@@ -218,7 +218,7 @@
     "year_end": 1475,
     "circa": true,
     "slug": "annunciation",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Benois Madonna",
@@ -231,7 +231,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg",
-    "famous": false,
+    "famous": true,
     "id": 8,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg/960px-Benois_Madonna_by_Leonardo_Da_Vinci_1478-1480_-_panoramio.jpg",
@@ -244,7 +244,7 @@
     "year_end": 1480,
     "circa": true,
     "slug": "benois-madonna",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Saint John the Baptist",
@@ -257,7 +257,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
-    "famous": false,
+    "famous": true,
     "id": 9,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/960px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
@@ -270,7 +270,7 @@
     "year_end": 1516,
     "circa": true,
     "slug": "saint-john-the-baptist",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Virgin and Child with Saint Anne",
@@ -283,7 +283,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
-    "famous": false,
+    "famous": true,
     "id": 10,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg/960px-Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
@@ -296,7 +296,7 @@
     "year_end": 1519,
     "circa": true,
     "slug": "virgin-and-child-with-saint-anne",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Madonna of the Carnation",
@@ -309,7 +309,7 @@
     "subject": "religious",
     "attribution": "accepted",
     "commons_filename": "Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg",
-    "famous": false,
+    "famous": true,
     "id": 11,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/960px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg",
@@ -322,7 +322,7 @@
     "year_end": 1480,
     "circa": true,
     "slug": "madonna-of-the-carnation",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "La Belle Ferronnière",
@@ -335,7 +335,7 @@
     "subject": "portrait",
     "attribution": "accepted",
     "commons_filename": "La_Belle_Ferronière_-_Google_Arts.jpg",
-    "famous": false,
+    "famous": true,
     "id": 12,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg/960px-La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
@@ -348,7 +348,7 @@
     "year_end": 1497,
     "circa": true,
     "slug": "la-belle-ferronniere",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Portrait of a Musician",
@@ -361,7 +361,7 @@
     "subject": "portrait",
     "attribution": "accepted (partly workshop)",
     "commons_filename": "Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
-    "famous": false,
+    "famous": true,
     "id": 13,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg/960px-Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
@@ -374,7 +374,7 @@
     "year_end": 1487,
     "circa": true,
     "slug": "portrait-of-a-musician",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Saint Jerome in the Wilderness",
@@ -387,7 +387,7 @@
     "subject": "religious",
     "attribution": "accepted (unfinished)",
     "commons_filename": "Saint_Jerome_Leonardo_-_image_only_(Q972196).jpg",
-    "famous": false,
+    "famous": true,
     "id": 14,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saint_Jerome_Leonardo_-_image_only_%28Q972196%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Saint_Jerome_Leonardo_-_image_only_%28Q972196%29.jpg/960px-Saint_Jerome_Leonardo_-_image_only_%28Q972196%29.jpg",
@@ -400,7 +400,7 @@
     "year_end": 1490,
     "circa": true,
     "slug": "saint-jerome-in-the-wilderness",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Adoration of the Magi",
@@ -413,7 +413,7 @@
     "subject": "religious",
     "attribution": "accepted (unfinished)",
     "commons_filename": "Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
-    "famous": false,
+    "famous": true,
     "id": 15,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/960px-Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
@@ -426,7 +426,7 @@
     "year_end": 1482,
     "circa": true,
     "slug": "adoration-of-the-magi",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Madonna Litta",
@@ -439,7 +439,7 @@
     "subject": "religious",
     "attribution": "attributed (partly workshop)",
     "commons_filename": "Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
-    "famous": false,
+    "famous": true,
     "id": 16,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg/960px-Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
@@ -452,7 +452,7 @@
     "year_end": 1490,
     "circa": true,
     "slug": "madonna-litta",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Vitruvian Man",
@@ -492,7 +492,7 @@
     "subject": "study",
     "attribution": "accepted",
     "commons_filename": "Leonardo_da_vinci_-_La_scapigliata.jpg",
-    "famous": false,
+    "famous": true,
     "id": 18,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg/960px-Leonardo_da_vinci_-_La_scapigliata.jpg",
@@ -505,7 +505,7 @@
     "year_end": 1510,
     "circa": true,
     "slug": "head-of-a-woman-la-scapigliata",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Portrait of a Man in Red Chalk",

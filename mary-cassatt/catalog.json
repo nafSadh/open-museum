@@ -18,9 +18,10 @@
     "year_start": 1890,
     "year_end": 1891,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Mary Cassatt",
-    "slug": "bain-denfant-estampe-14e-etat-mary-cassatt-alternative-title"
+    "slug": "bain-denfant-estampe-14e-etat-mary-cassatt-alternative-title",
+    "tier": "famous"
   },
   {
     "id": 2,
@@ -364,9 +365,10 @@
     "year_start": 1890,
     "year_end": 1891,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Mary Cassatt",
-    "slug": "la-lettre-estampe-mary-cassatt"
+    "slug": "la-lettre-estampe-mary-cassatt",
+    "tier": "famous"
   },
   {
     "id": 17,
@@ -433,9 +435,10 @@
     "year_start": 1890,
     "year_end": 1891,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Mary Cassatt",
-    "slug": "le-baiser-maternel-estampe-mary-cassatt"
+    "slug": "le-baiser-maternel-estampe-mary-cassatt",
+    "tier": "famous"
   },
   {
     "id": 20,
@@ -1521,10 +1524,10 @@
     "year_start": 1881,
     "year_end": 1881,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
     "slug": "lydia-at-the-tapestry-loom",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 67,
@@ -1941,10 +1944,11 @@
     "year_start": 1880,
     "year_end": 1880,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
     "title_disambig": "1880 · #130",
-    "slug": "french-le-the-five-oclock-tea"
+    "slug": "french-le-the-five-oclock-tea",
+    "tier": "famous"
   },
   {
     "id": 85,
@@ -3972,11 +3976,11 @@
     "year_start": 1891,
     "year_end": 1891,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Coiffure by Mary Cassatt",
     "title_disambig": "1891 · #48",
     "slug": "the-coiffure",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 172,

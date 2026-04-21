@@ -192,14 +192,14 @@
     "id": 10,
     "era": "unknown",
     "subject": "warrior",
-    "famous": false,
+    "famous": true,
     "year_start": 1827,
     "year_end": 1830,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Suikoden.jpg",
     "date": "between 1827 and 1830",
     "slug": "from-the-series-one-hundred-and-eight-heroes-of-the-popular",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "from the series Heroes of Our Country's Suikoden",
@@ -254,14 +254,14 @@
     "id": 13,
     "era": "unknown",
     "subject": "nature",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
     "year_start": 1861,
     "year_end": 1861,
     "circa": false,
     "date": "before 1861",
     "slug": "miyamoto-musashi-killing-a-giant-lizard",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Saito Oniwakamaru, the young Benkei, fights the giant carp at the Bishimon waterfall",
@@ -275,14 +275,14 @@
     "id": 14,
     "era": "unknown",
     "subject": "nature",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Benkei",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "date": "",
     "slug": "saito-oniwakamaru-the-young-benkei-fights-the-giant-carp-at",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Hatsuhana doing penance under the Tonosawa waterfall",
@@ -397,14 +397,14 @@
     "id": 20,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
     "year_start": 1853,
     "year_end": 1853,
     "circa": true,
     "date": "C.E.1853",
     "slug": "yoshitsune-and-benkei-defending-themselves-in-their-boat-dur",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Minamoto no Tametomo with a gunsen fan",
@@ -418,14 +418,14 @@
     "id": 21,
     "era": "unknown",
     "subject": "warrior",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Minamoto_no_Tametomo",
     "year_start": 1851,
     "year_end": 1851,
     "circa": false,
     "date": "1851",
     "slug": "minamoto-no-tametomo-with-a-gunsen-fan",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Cats forming the characters for catfish",

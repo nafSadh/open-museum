@@ -66,10 +66,10 @@
     "year_start": 1593,
     "year_end": 1594,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Boy Bitten by a Lizard by Caravaggio (London)",
     "slug": "boy-bitten-by-a-lizard-london",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 4,
@@ -113,10 +113,10 @@
     "year_start": 1593,
     "year_end": 1595,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Boy with a Basket of Fruit by Caravaggio",
     "slug": "boy-with-a-basket-of-fruit",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 6,
@@ -207,9 +207,10 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Fortune Teller by Caravaggio (Paris)",
-    "slug": "the-fortune-teller-paris"
+    "slug": "the-fortune-teller-paris",
+    "tier": "famous"
   },
   {
     "id": 10,
@@ -253,9 +254,10 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Lute Player by Caravaggio (Saint Petersburg)",
-    "slug": "the-lute-player-saint-petersburg"
+    "slug": "the-lute-player-saint-petersburg",
+    "tier": "famous"
   },
   {
     "id": 12,
@@ -323,10 +325,10 @@
     "year_start": 1595,
     "year_end": 1595,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Musicians by Caravaggio",
     "slug": "the-musicians",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 15,
@@ -347,10 +349,10 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Narcissus by Caravaggio",
     "slug": "narcissus",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 16,
@@ -418,10 +420,10 @@
     "year_start": 1593,
     "year_end": 1593,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Sick young Bacchus by Caravaggio",
     "slug": "sick-young-bacchus",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 19,
@@ -766,10 +768,10 @@
     "year_start": 1601,
     "year_end": 1602,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Amor Victorious by Caravaggio",
     "slug": "amor-victorious",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 34,
@@ -884,10 +886,10 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Crucifixion of Saint Peter by Caravaggio",
     "slug": "crucifixion-of-saint-peter",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 39,
@@ -1236,10 +1238,10 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Doubting Saint Thomas by Caravaggio",
     "slug": "doubting-saint-thomas",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 54,
@@ -1260,10 +1262,10 @@
     "year_start": 1605,
     "year_end": 1605,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Ecce Homo by Caravaggio",
     "slug": "ecce-homo",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 55,
@@ -1284,10 +1286,10 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Entombment of Christ by Caravaggio",
     "slug": "entombment-of-christ",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 56,
@@ -1308,9 +1310,10 @@
     "year_start": 1607,
     "year_end": 1607,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Flagellation of Christ by Michelangelo Merisi da Caravaggio",
-    "slug": "biczowanie-caravggio"
+    "slug": "biczowanie-caravggio",
+    "tier": "famous"
   },
   {
     "id": 57,
@@ -1448,10 +1451,10 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Madonna of the Pilgrims by Caravaggio",
     "slug": "madonna-of-the-pilgrims",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 63,
@@ -1519,10 +1522,10 @@
     "year_start": 1599,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Martyrdom of Saint Matthew by Caravaggio",
     "slug": "martyrdom-of-saint-matthew",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 66,
@@ -1660,10 +1663,10 @@
     "year_start": 1603,
     "year_end": 1604,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Sacrifice of Isaac by Caravaggio (Florence)",
     "slug": "the-sacrifice-of-isaac-florence",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 72,
@@ -1801,9 +1804,10 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint Matthew and the angel by Caravaggio",
-    "slug": "saint-matthew-and-the-angel"
+    "slug": "saint-matthew-and-the-angel",
+    "tier": "famous"
   },
   {
     "id": 78,
@@ -1847,10 +1851,10 @@
     "year_start": 1607,
     "year_end": 1607,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Salome with the Head of John the Baptist by Caravaggio (London)",
     "slug": "salome-with-the-head-of-john-the-baptist-london",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 80,
@@ -1871,10 +1875,10 @@
     "year_start": 1607,
     "year_end": 1607,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Seven Works of Mercy by Caravaggio (Naples)",
     "slug": "the-seven-works-of-mercy-naples",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 81,

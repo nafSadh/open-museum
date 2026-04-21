@@ -139,13 +139,13 @@
     "id": 7,
     "era": "paris",
     "subject": "self-portrait",
-    "famous": false,
+    "famous": true,
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Self_Portrait_6_1930.jpg",
     "slug": "self-portrait-6",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait.jpg",
@@ -867,13 +867,13 @@
     "id": 44,
     "era": "paris",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
     "slug": "hungarian-gypsy-girl",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Gypsy Girl from Zebegény",
@@ -1055,13 +1055,13 @@
     "id": 54,
     "era": "paris",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Young_Girls_(painting)",
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
     "slug": "young-girls",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Marie-Louise_Chassany_1932.jpg",
@@ -2524,13 +2524,13 @@
     "id": 126,
     "era": "india",
     "subject": "other",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Story_Teller_(painting)",
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
     "slug": "the-story-teller",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Portrait of a Stout Lady",

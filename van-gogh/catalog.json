@@ -8702,7 +8702,7 @@
     "subjects": [
       "animal"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "vanitas"
     ],
@@ -8718,7 +8718,7 @@
     "year_end": 1886,
     "circa": false,
     "slug": "skull-of-a-skeleton-with-burning-cigarette",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Nuenen-Antwerp)",
@@ -12223,7 +12223,7 @@
       "self_portrait",
       "portrait"
     ],
-    "famous": true,
+    "famous": false,
     "wikidata_genres": [
       "self-portrait"
     ],
@@ -12239,8 +12239,7 @@
     "year_end": 1886,
     "circa": false,
     "title_disambig": "F178v · 1886",
-    "slug": "self-portrait",
-    "tier": "famous"
+    "slug": "self-portrait"
   },
   {
     "section": "Paintings (Paris)",
@@ -12342,8 +12341,8 @@
     "circa": false,
     "title_disambig": "F263 · 1887",
     "slug": "portrait-of-pere-tanguy",
-    "famous": false,
-    "tier": "well_known"
+    "famous": true,
+    "tier": "famous"
   },
   {
     "section": "Paintings (Paris)",
@@ -12670,7 +12669,7 @@
       "portrait",
       "still_life"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "self-portrait"
     ],
@@ -12684,7 +12683,7 @@
     "circa": false,
     "title_disambig": "F296 · 1887",
     "slug": "self-portrait-with-grey-felt-hat",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Paris)",
@@ -19214,7 +19213,7 @@
     "subjects": [
       "portrait"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "portrait"
     ],
@@ -19228,7 +19227,7 @@
     "circa": false,
     "title_disambig": "F432 · 1888",
     "slug": "portrait-of-the-postman-joseph-roulin",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Arles)",
@@ -20046,7 +20045,7 @@
       "landscape",
       "cityscape"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "genre art"
     ],
@@ -20063,7 +20062,7 @@
     "circa": false,
     "title_disambig": "F463 · 1888",
     "slug": "the-night-cafe",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Arles)",
@@ -20216,8 +20215,8 @@
     "year_end": 1888,
     "circa": false,
     "slug": "self-portrait-dedicated-to-paul-gauguin",
-    "famous": false,
-    "tier": "well_known"
+    "famous": true,
+    "tier": "famous"
   },
   {
     "section": "Paintings (Arles)",
@@ -20378,7 +20377,7 @@
     "subjects": [
       "cityscape"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "cityscape",
       "landscape painting"
@@ -20399,7 +20398,7 @@
     "circa": false,
     "title_disambig": "F464 · 1888",
     "slug": "the-yellow-house",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Arles)",
@@ -21226,7 +21225,7 @@
     "subjects": [
       "landscape"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "landscape painting"
     ],
@@ -21247,7 +21246,7 @@
     "year_end": 1888,
     "circa": false,
     "slug": "the-red-vineyard",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Arles)",
@@ -22583,7 +22582,7 @@
     "subjects": [
       "still_life"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "still life"
     ],
@@ -22595,7 +22594,8 @@
     "year_start": 1889,
     "year_end": 1889,
     "circa": false,
-    "slug": "still-life-vase-with-fifteen-sunflowers-f457"
+    "slug": "still-life-vase-with-fifteen-sunflowers-f457",
+    "tier": "famous"
   },
   {
     "section": "Paintings (Arles)",
@@ -23978,7 +23978,7 @@
     "subjects": [
       "landscape"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "landscape painting"
     ],
@@ -23994,7 +23994,7 @@
     "circa": false,
     "title_disambig": "F717 · 1889",
     "slug": "wheat-field-with-cypresses",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Saint-Rémy)",
@@ -28828,7 +28828,7 @@
     "subjects": [
       "cityscape"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "landscape painting"
     ],
@@ -28849,7 +28849,7 @@
     "year_end": 1890,
     "circa": false,
     "slug": "the-church-at-auvers",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "section": "Paintings (Auvers-sur-Oise)",
@@ -28873,7 +28873,7 @@
     "subjects": [
       "portrait"
     ],
-    "famous": false,
+    "famous": true,
     "wikidata_genres": [
       "portrait"
     ],
@@ -28895,7 +28895,8 @@
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
-    "slug": "portrait-of-dr-gachet"
+    "slug": "portrait-of-dr-gachet",
+    "tier": "famous"
   },
   {
     "section": "Paintings (Auvers-sur-Oise)",

@@ -258,13 +258,13 @@
     "id": 12,
     "era": "middle",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "year_start": 1833,
     "year_end": 1834,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-12-Mishima-MET-01.jpg",
     "slug": "11th-station-mishima-travellers-passing-a-shrine-in-the-mist",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "12th station : Numazu",
@@ -3226,13 +3226,13 @@
     "id": 146,
     "era": "late",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "year_start": 1856,
     "year_end": 1856,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hiroshige,_Night_View_of_Saruwaka-machi.jpg",
     "slug": "night-view-of-saruwaka-machi-saruwaka-machi-yoru-no-kei",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "In the Akiba Shrine at Ukeji (請地秋葉の境内, Ukechi Akiba no keinai)",
@@ -3471,13 +3471,13 @@
     "id": 157,
     "era": "late",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "year_start": 1857,
     "year_end": 1857,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:100_views_edo_101.jpg",
     "slug": "asakusa-ricefields-and-torinomachi-festival-asakusa-tanbo-to",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Minowa, Kanasugi and Mikawashima (蓑輪金杉三河しま, Minowa Kanasugi Mikawashima)",
@@ -5376,12 +5376,13 @@
     "id": 245,
     "era": "late",
     "subject": "urban",
-    "famous": false,
+    "famous": true,
     "year_start": 1853,
     "year_end": 1853,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:22_Omi.jpg",
-    "slug": "omi-lake-biwa-ishiyama-temple-biwako-ishiyamadera"
+    "slug": "omi-lake-biwa-ishiyama-temple-biwako-ishiyamadera",
+    "tier": "famous"
   },
   {
     "title": "Mino (美濃): Yoro Waterfall (養老ノ瀧, Yōrōnotaki)",
@@ -6036,12 +6037,13 @@
     "id": 278,
     "era": "late",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "year_start": 1855,
     "year_end": 1855,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Famous_Scenes_of_the_Sixty_States_55_Awa.jpg",
-    "slug": "awa-naruto-whirlpools-naruto-no-fuha"
+    "slug": "awa-naruto-whirlpools-naruto-no-fuha",
+    "tier": "famous"
   },
   {
     "title": "Sanuki (讃岐): Distant View of Mount Zozu (象頭山遠望, Zōzusan enbō)",
@@ -6380,12 +6382,13 @@
     "id": 295,
     "era": "late",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Li_(unit)",
     "year_start": 1852,
     "year_end": 1858,
     "circa": false,
-    "slug": "rough-sea-at-shichirigahama-seven-ri-beach-in-sagami-provinc"
+    "slug": "rough-sea-at-shichirigahama-seven-ri-beach-in-sagami-provinc",
+    "tier": "famous"
   },
   {
     "title": "Tanabata Festival in Edo",

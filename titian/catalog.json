@@ -392,13 +392,13 @@
     "era": "early",
     "subject": "other",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Three_Ages_of_Man_(Titian)",
     "year_start": 1512,
     "year_end": 1512,
     "circa": true,
     "slug": "the-three-ages-of-man",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Gipsy_Madonna_-_Google_Art_Project.jpg",
@@ -1110,13 +1110,13 @@
     "era": "early",
     "subject": "allegory",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Man_with_a_Glove",
     "year_start": 1520,
     "year_end": 1523,
     "circa": true,
     "slug": "man-with-a-glove",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Tizian_028.jpg",
@@ -1156,13 +1156,13 @@
     "era": "early",
     "subject": "religious",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
     "year_start": 1519,
     "year_end": 1526,
     "circa": true,
     "slug": "pesaro-madonna",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Titian_madonna_of_frari_vatican.jpg",
@@ -1557,13 +1557,13 @@
     "era": "middle",
     "subject": "portrait",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/La_Bella",
     "year_start": 1536,
     "year_end": 1536,
     "circa": false,
     "slug": "la-bella",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Tizian_074.jpg",
@@ -2225,13 +2225,13 @@
     "era": "middle",
     "subject": "mythological",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
     "year_start": 1546,
     "year_end": 1546,
     "circa": false,
     "slug": "danae-one-of-at-least-four-versions",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Titian_and_workshop_-_The_Vendramin_Family,_venerating_a_Relic_of_the_True_Cross_-_Google_Art_Project.jpg",
@@ -2712,12 +2712,13 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "year_start": 1553,
     "year_end": 1554,
     "circa": false,
-    "slug": "venus-and-adonis-many-different-versions-with-varying-contri"
+    "slug": "venus-and-adonis-many-different-versions-with-varying-contri",
+    "tier": "famous"
   },
   {
     "commons_filename": "Titian_-_Mater_Dolorosa_with_her_Hands_apart_(Museo_del_Prado).jpg",
@@ -2798,13 +2799,13 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
     "year_start": 1554,
     "year_end": 1554,
     "circa": false,
     "slug": "danae-and-the-shower-of-gold",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Perseo_y_Andrómeda,_por_Tiziano.jpg",
@@ -2886,13 +2887,13 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_with_a_Mirror",
     "year_start": 1555,
     "year_end": 1555,
     "circa": true,
     "slug": "venus-with-a-mirror",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Venus_and_Adonis_MET_DT5111.jpg",
@@ -3289,13 +3290,14 @@
     "era": "late",
     "subject": "portrait",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Berlin)",
     "year_start": 1560,
     "year_end": 1562,
     "circa": true,
     "title_disambig": "1560–1562",
-    "slug": "self-portrait"
+    "slug": "self-portrait",
+    "tier": "famous"
   },
   {
     "commons_filename": "Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg",
@@ -3585,13 +3587,13 @@
     "era": "late",
     "subject": "mythological",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Flaying_of_Marsyas_(Titian)",
     "year_start": 1570,
     "year_end": 1576,
     "circa": true,
     "slug": "punishment-of-marsyas",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Nymph_and_Shepherd_-_Google_Art_Project.jpg",
@@ -3630,13 +3632,13 @@
     "era": "late",
     "subject": "religious",
     "type": "painting",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
     "year_start": 1570,
     "year_end": 1576,
     "circa": true,
     "slug": "pieta",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "commons_filename": "The_Crowning_with_Thorns_by_Titian_-_Alte_Pinakothek_-_Munich_-_Germany_2017.jpg",

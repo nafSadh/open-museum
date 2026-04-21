@@ -4573,12 +4573,13 @@
     "id": 197,
     "era": "middle",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_at_the_Age_of_34",
     "year_start": 1640,
     "year_end": 1640,
     "circa": false,
-    "slug": "self-portrait-at-the-age-of-34"
+    "slug": "self-portrait-at-the-age-of-34",
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -4619,13 +4620,13 @@
     "id": 199,
     "era": "middle",
     "subject": "mythological",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Saskia_with_a_Flower",
     "year_start": 1641,
     "year_end": 1641,
     "circa": false,
     "slug": "saskia-as-flora",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -5420,13 +5421,14 @@
     "id": 233,
     "era": "early",
     "subject": "religious",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Susanna_and_the_Elders_(Rembrandt)",
     "year_start": 1638,
     "year_end": 1647,
     "circa": true,
     "title_disambig": "1638–1647",
-    "slug": "susanna-and-the-elders"
+    "slug": "susanna-and-the-elders",
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -5771,13 +5773,13 @@
     "id": 248,
     "era": "middle",
     "subject": "other",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Aristotle_Contemplating_a_Bust_of_Homer",
     "year_start": 1653,
     "year_end": 1653,
     "circa": false,
     "slug": "aristotle-with-a-bust-of-homer",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -5841,13 +5843,13 @@
     "id": 251,
     "era": "middle",
     "subject": "religious",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Bathsheba_at_Her_Bath",
     "year_start": 1654,
     "year_end": 1654,
     "circa": false,
     "slug": "bathsheba-at-her-toilet",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -6215,13 +6217,13 @@
     "id": 267,
     "era": "late",
     "subject": "genre",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Deijman",
     "year_start": 1656,
     "year_end": 1656,
     "circa": false,
     "slug": "the-anatomy-lesson-of-dr-jan-deyman",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -7354,13 +7356,13 @@
     "id": 316,
     "era": "late",
     "subject": "religious",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Self-portrait_as_the_Apostle_Paul",
     "year_start": 1661,
     "year_end": 1661,
     "circa": false,
     "slug": "self-portrait-as-the-apostle-paul",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -7565,12 +7567,13 @@
     "id": 325,
     "era": "late",
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Self-portrait_as_Zeuxis_Laughing",
     "year_start": 1663,
     "year_end": 1663,
     "circa": false,
-    "slug": "self-portrait-as-the-laughing-zeuxis-while-painting-an-old-w"
+    "slug": "self-portrait-as-the-laughing-zeuxis-while-painting-an-old-w",
+    "tier": "famous"
   },
   {
     "medium": "painting",
@@ -12127,13 +12130,13 @@
     "id": 539,
     "era": "middle",
     "subject": "landscape",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/The_Three_Trees_(print)",
     "year_start": 1643,
     "year_end": 1643,
     "circa": false,
     "slug": "the-three-trees",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "medium": "etching",

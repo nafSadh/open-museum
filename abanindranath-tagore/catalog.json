@@ -112,10 +112,10 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
     "slug": "sindbad-the-sailor",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 6,
@@ -183,10 +183,10 @@
     "year_start": 1911,
     "year_end": 1911,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
     "slug": "tissarakshita-queen-of-asoka",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 9,
@@ -487,10 +487,10 @@
     "year_start": 1910,
     "year_end": 1910,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
     "slug": "shah-jahan-dreams-of-the-taj-from-the-modern-review-vol-7-ja",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "id": 22,

@@ -52,7 +52,7 @@
     "id": 3,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Shakuntala_Patra-lekhan",
     "harvest_method": "wikipedia_gallery",
     "year_start": null,
@@ -60,7 +60,7 @@
     "circa": false,
     "date": "",
     "slug": "shakuntala-patra-lekhan",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Nair Lady Adorning Her Hair",
@@ -174,7 +174,7 @@
     "id": 11,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Saraswati",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1896,
@@ -182,7 +182,7 @@
     "circa": false,
     "date": "1896",
     "slug": "saraswati",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Geevarghese Mar Gregorios of Parumala",
@@ -257,7 +257,7 @@
     "id": 15,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Jatayu",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1895,
@@ -265,7 +265,7 @@
     "circa": false,
     "date": "1895",
     "slug": "jatayu-fights-ravana",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Lady giving alms in a temple",
@@ -358,7 +358,7 @@
     "id": 20,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Mohini",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1894,
@@ -366,7 +366,7 @@
     "circa": false,
     "date": "January 1894",
     "slug": "mohini-on-a-swing",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Disrobing of Draupadi",
@@ -379,7 +379,7 @@
     "id": 21,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "harvest_method": "wikipedia_gallery",
     "year_start": 1888,
     "year_end": 1890,
@@ -387,7 +387,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma.jpg",
     "date": "Circa 1888 -1890",
     "slug": "disrobing-of-draupadi",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Sita Bhumi Pravesh",
@@ -482,7 +482,7 @@
     "id": 26,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Meghanada",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1905,
@@ -490,7 +490,7 @@
     "circa": false,
     "date": "1905",
     "slug": "victory-of-meghanada",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Malabar Lady or Swarbat Player",
@@ -545,7 +545,7 @@
     "id": 29,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Satyavati",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1890,
@@ -553,7 +553,7 @@
     "circa": false,
     "date": "1890",
     "slug": "shantanu-and-matsyagandha",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Arjuna and Subhadra",
@@ -566,7 +566,7 @@
     "id": 30,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Arjuna",
     "harvest_method": "wikipedia_gallery",
     "year_start": 1890,
@@ -574,7 +574,7 @@
     "circa": false,
     "date": "1890",
     "slug": "arjuna-and-subhadra",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Woman holding a fan",
@@ -694,7 +694,7 @@
     "id": 37,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
@@ -707,7 +707,7 @@
     "image_height": 1200,
     "mime": "image/jpeg",
     "slug": "yashoda-and-krishna",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Lady Lost in Thought",
@@ -726,14 +726,13 @@
     "id": 39,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Damayanti",
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "damayanti-talking-to-a-swan",
-    "tier": "famous"
+    "slug": "damayanti-talking-to-a-swan"
   },
   {
     "title": "The Orchestra",
@@ -790,15 +789,14 @@
     "id": 43,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Shakuntala,_Raja_Ravi_Varma",
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "date": "Date not mentioned",
-    "slug": "shakuntala",
-    "tier": "famous"
+    "slug": "shakuntala"
   },
   {
     "title": "Lord Krishna as Ambassador",
@@ -819,14 +817,13 @@
     "id": 45,
     "era": "unknown",
     "subject": "mythology",
-    "famous": true,
+    "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Jatayu_(Ramayana)",
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "jatayu-a-bird-devotee-of-lord-rama-is-mauled-by-ravana",
-    "tier": "famous"
+    "slug": "jatayu-a-bird-devotee-of-lord-rama-is-mauled-by-ravana"
   },
   {
     "title": "Victory of Indrajit",
@@ -2712,7 +2709,7 @@
     "id": 145,
     "era": "unknown",
     "subject": "mythology",
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -2720,7 +2717,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Damayanti_and_the_Swan.jpg",
     "date": "Unknown date",
     "slug": "damayanti-and-the-swan",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Hansa Damayanthi",

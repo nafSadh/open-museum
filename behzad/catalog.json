@@ -29,13 +29,13 @@
     "image_height": 4906,
     "id": 2,
     "subject": "court",
-    "famous": false,
+    "famous": true,
     "provenance_url": "https://en.wikipedia.org/wiki/Khawarnaq",
     "year_start": 1494,
     "year_end": 1495,
     "circa": true,
     "slug": "the-construction-of-khawarnaq-castle-arabic-in-al-hira",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "A miniature painting by Bihzad illustrating the funeral of the elderly Attar of Nishapur after he was held captive and killed by a Mongol invader.",
@@ -269,13 +269,13 @@
     "image_height": 2692,
     "id": 15,
     "subject": "court",
-    "famous": false,
+    "famous": true,
     "year_start": 1494,
     "year_end": 1495,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Alexander_and_the_Hermit,_from_Nizami%27s_Iskandarnama,_1494-95,_by_Behzad._British_Library_OR.6810_Folio_273R.jpg",
     "slug": "alexander-and-the-hermit-from-nizamis-iskandarnama-1494-95-b",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Assault on a castle. From a lost manuscript. Iran, circa 1500",
@@ -994,13 +994,13 @@
     "image_height": 1560,
     "id": 55,
     "subject": "portrait",
-    "famous": false,
+    "famous": true,
     "year_start": 1500,
     "year_end": 1525,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sultan_Husayn_Mirza_Bayqara_at_the_age_of_about_50_years._1500%E2%80%9325_copy_from_Behz%C4%81d%27s_original_of_about_1490.jpg",
     "slug": "portrait-of-sultan-husayn-mirza-bayqara-at-the-age-of-about",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Sad'i and the Youth of Kashgar, Ascribed to Bihzad, From a copy of the Gulistan (Rosegarden) by Sa'di",
@@ -1103,14 +1103,13 @@
     "image_height": 6771,
     "id": 61,
     "subject": "court",
-    "famous": true,
+    "famous": false,
     "year_start": 1490,
     "year_end": 1499,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_building_of_the_palace_of_Khavarnaq.png",
     "date": "between 1490 and 1499",
-    "slug": "the-building-of-the-palace-of-khavarnaq",
-    "tier": "famous"
+    "slug": "the-building-of-the-palace-of-khavarnaq"
   },
   {
     "title": "The Old Man Encounters a Youth (CBL Per 163.38)",
@@ -1270,14 +1269,13 @@
     "image_height": 2370,
     "id": 70,
     "subject": "literary",
-    "famous": true,
+    "famous": false,
     "year_start": 1488,
     "year_end": 1488,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_fleeing_the_Advances_of_Zulaikha.jpg",
     "date": "1488",
-    "slug": "yusuf-fleeing-the-advances-of-zulaikha",
-    "tier": "famous"
+    "slug": "yusuf-fleeing-the-advances-of-zulaikha"
   },
   {
     "title": "\"Dancing Dervishes\", Folio from a Divan of Hafiz MET 35802(2)",
@@ -1844,13 +1842,13 @@
     "image_height": 1756,
     "id": 101,
     "subject": "court",
-    "famous": false,
+    "famous": true,
     "year_start": 1488,
     "year_end": 1488,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Darius_and_the_Herdsman,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_10a.jpg",
     "slug": "darius-and-the-herdsman-from-the-cairo-bustan-herat-december",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Frontispiece from the Cairo Bustan. Herat, c. 1488, for Sultan Husayn Bayqara. Cairo, Dar al-kutub, Adab farisi 22, folio 1b-2a",
@@ -1883,13 +1881,13 @@
     "image_height": 1766,
     "id": 103,
     "subject": "religious",
-    "famous": false,
+    "famous": true,
     "year_start": 1488,
     "year_end": 1488,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Beggar_at_the_Mosque,_from_the_Cairo_Bustan._Herat,_December_1488%E2%80%93November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_26a.jpg",
     "slug": "the-beggar-at-the-mosque-from-the-cairo-bustan-herat-decembe",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "The Poet at the Judge’s Court, from the Cairo Bustan. Herat, December 1488–November 1489. Bihzad. Dar al-kutub, Adab farisi 22, folio 30b",

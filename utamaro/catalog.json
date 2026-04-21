@@ -331,7 +331,7 @@
     "id": 17,
     "era": "unknown",
     "subject": "bijin",
-    "famous": false,
+    "famous": true,
     "commons_filename": "Utamaro (c. 1794–95) Hokkoku Goshiki-zumi - Teppō (AIC).jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Utamaro_%28c._1794%E2%80%9395%29_Hokkoku_Goshiki-zumi_-_Tepp%C5%8D_%28AIC%29.jpg",
     "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Utamaro_%28c._1794%E2%80%9395%29_Hokkoku_Goshiki-zumi_-_Tepp%C5%8D_%28AIC%29.jpg",
@@ -346,7 +346,7 @@
     "circa": true,
     "date": "circa 1794",
     "slug": "hokkoku-goshiki-zumi",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Kasen Koi no Bu",
@@ -976,7 +976,7 @@
     "id": 49,
     "era": "unknown",
     "subject": "nature",
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
@@ -984,7 +984,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Moonlight_Revelry_at_Dozo_Sagami_-_Google_Art_Project.jpg",
     "date": "18th century",
     "slug": "moonlight-revelry-at-dozo-sagami",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "Ten physiognomic types of women, Coquettish type",
@@ -1400,15 +1400,14 @@
     "id": 70,
     "era": "unknown",
     "subject": "other",
-    "famous": true,
+    "famous": false,
     "harvest_method": "commons_category",
     "year_start": null,
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A9%A6%E4%BA%BA%E7%9B%B8%E5%AD%B8%E5%8D%81%E8%BA%B0%E3%83%BB%E6%B0%B4%E6%80%A7%E4%B9%8B%E7%9B%B8.jpg",
     "date": "",
-    "slug": "untitled-3",
-    "tier": "famous"
+    "slug": "untitled-3"
   },
   {
     "title": "Five Fanciful Relationships",
@@ -4228,7 +4227,7 @@
     "id": 211,
     "era": "unknown",
     "subject": "bijin",
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category",
     "year_start": 1795,
     "year_end": 1795,
@@ -4236,7 +4235,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kitagawa_Utamaro_-_Takashima_Ohisa_Using_Two_Mirrors_to_Observe_Her_Coiffure_Night_of_the_Asakusa_Marketing_Festival_-_MFA_Boston_21.6410.jpg",
     "date": "circa 1795",
     "slug": "takashima-ohisa-using-two-mirrors-to-observe-her-coiffure-ni",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "The Courtesan Hinazuru of Chojiya with her Attendants Tsuruji and Tsuruno - 1956.756 - Cleveland Museum of Art",
@@ -7155,7 +7154,7 @@
     "id": 357,
     "era": "unknown",
     "subject": "nature",
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category",
     "year_start": 1790,
     "year_end": 1799,
@@ -7163,7 +7162,7 @@
     "provenance_url": "https://commons.wikimedia.org/wiki/File:%E5%A5%91%E6%83%85%E4%B8%89%E4%BA%BA%E9%85%94_%E4%B8%89%E5%B9%85%E4%B9%8B%E5%86%85_%E8%85%B9%E7%AB%8B%E4%B8%8A%E6%88%B8_%E6%B3%A3%E4%B8%8A%E6%88%B8_%E7%AC%91%E4%B8%8A%E6%88%B8-Three_Intoxicated_Courtesans_MET_DP144602.jpg",
     "date": "1790s",
     "slug": "three-intoxicated-courtesans-met-dp144602",
-    "tier": "well_known"
+    "tier": "famous"
   },
   {
     "title": "扇屋内春日野-The Oiran Kasugano of Ogiya on Parade under Blossoming Cherry Trees MET DP135653",
