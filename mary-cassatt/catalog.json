@@ -19,7 +19,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "bain-d-enfant-estampe-14e-etat-mary-cassatt-alternative-titl"
   },
   {
     "id": 2,
@@ -41,7 +42,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "bain-d-enfant-estampe-17e-etat-mary-cassatt"
   },
   {
     "id": 3,
@@ -63,7 +65,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "letter-to-mr-avery"
   },
   {
     "id": 4,
@@ -85,7 +88,8 @@
     "year_end": 1902,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "buste-de-fillette-ppd1005"
   },
   {
     "id": 5,
@@ -107,7 +111,8 @@
     "year_end": 1894,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "summertime"
   },
   {
     "id": 6,
@@ -129,7 +134,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "femme-se-coiffant-estampe-mary-cassatt"
   },
   {
     "id": 7,
@@ -151,7 +157,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced"
   },
   {
     "id": 8,
@@ -173,7 +180,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced-2"
   },
   {
     "id": 9,
@@ -195,7 +203,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced-3"
   },
   {
     "id": 10,
@@ -217,7 +226,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced-4"
   },
   {
     "id": 11,
@@ -239,7 +249,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced-5"
   },
   {
     "id": 12,
@@ -261,7 +272,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced-6"
   },
   {
     "id": 13,
@@ -283,7 +295,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "illustration-from-the-library-of-congress-digitally-enhanced-7"
   },
   {
     "id": 14,
@@ -305,7 +318,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "jeune-femme-essayant-une-robe-estampe-mary-cassatt"
   },
   {
     "id": 15,
@@ -327,7 +341,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "la-lampe-estampe-4e-etat-mary-cassatt"
   },
   {
     "id": 16,
@@ -349,7 +364,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "la-lettre-estampe-mary-cassatt"
   },
   {
     "id": 17,
@@ -371,7 +387,8 @@
     "year_end": 1901,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "la-lecon-de-tricot-estampe-2e-etat-avec-la-signature-gravee"
   },
   {
     "id": 18,
@@ -393,7 +410,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "la-visite-estampe-mary-cassatt"
   },
   {
     "id": 19,
@@ -415,7 +433,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "le-baiser-maternel-estampe-mary-cassatt"
   },
   {
     "id": 20,
@@ -437,7 +456,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "le-baiser-maternel-estampe-mary-cassatt-1890"
   },
   {
     "id": 21,
@@ -459,7 +479,8 @@
     "year_end": 1910,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "mary-cassatt-augusta-reading-to-her-daughter-1910"
   },
   {
     "id": 22,
@@ -481,7 +502,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "mary-cassatt-girl-in-the-garden"
   },
   {
     "id": 23,
@@ -503,7 +525,8 @@
     "year_end": 1910,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "etude-de-paysage-a-la-riviere-et-d-enfants"
   },
   {
     "id": 24,
@@ -525,7 +548,8 @@
     "year_end": 1913,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "redone-mary-cassatt-sig"
   },
   {
     "id": 25,
@@ -547,7 +571,8 @@
     "year_end": 1901,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "sara-avec-son-chien-ppd3561"
   },
   {
     "id": 26,
@@ -569,7 +594,8 @@
     "year_end": 1897,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "sur-l-herbe-estampe-mary-cassatt"
   },
   {
     "id": 27,
@@ -591,7 +617,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "the-arts-1-1-33-two-sisters-by-mary-cassatt"
   },
   {
     "id": 28,
@@ -613,7 +640,8 @@
     "year_end": 1880,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "the-corner-of-the-sofa-no-3-lccn2015646311"
   },
   {
     "id": 29,
@@ -635,7 +663,8 @@
     "year_end": 1900,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Mary Cassatt"
+    "harvest_method": "commons_category:Mary Cassatt",
+    "slug": "woman-in-art-mother-and-child"
   },
   {
     "id": 30,
@@ -657,7 +686,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "1908-cassat-mother-rose-tela-aviv-museum-of-art-anagoria"
   },
   {
     "id": 31,
@@ -679,7 +709,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "sara-holding-a-cat"
   },
   {
     "id": 32,
@@ -701,7 +732,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "baby-in-blue-in-its-carriage-1881-mary-cassatt"
   },
   {
     "id": 33,
@@ -723,7 +755,8 @@
     "year_end": 1884,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "children-playing-on-the-beach"
   },
   {
     "id": 34,
@@ -745,7 +778,8 @@
     "year_end": 1885,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "cassatt-sisters"
   },
   {
     "id": 35,
@@ -767,7 +801,8 @@
     "year_end": 1905,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "the-child"
   },
   {
     "id": 36,
@@ -789,7 +824,8 @@
     "year_end": 1909,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "girl-in-a-bonnet-tied-with-a-large-pink-bow"
   },
   {
     "id": 37,
@@ -811,7 +847,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "helene-is-restless-by-mary-cassatt-c-1890-oil-on-canvas-port"
   },
   {
     "id": 38,
@@ -833,7 +870,8 @@
     "year_end": 1899,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "head-of-jules-buste-d-enfant"
   },
   {
     "id": 39,
@@ -855,7 +893,8 @@
     "year_end": 1881,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "little-girl-in-a-large-red-hat"
   },
   {
     "id": 40,
@@ -877,7 +916,8 @@
     "year_end": 1884,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "children-playing-on-the-beach-1884"
   },
   {
     "id": 41,
@@ -899,7 +939,8 @@
     "year_end": 1909,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "francoise-in-a-round-backed-chair-reading-by-mary-cassatt"
   },
   {
     "id": 42,
@@ -921,7 +962,8 @@
     "year_end": 1912,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "little-girl-in-a-yellow-hat-and-currant-colored-dress"
   },
   {
     "id": 43,
@@ -943,7 +985,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "louise-aurore-villeboeuf-enfant"
   },
   {
     "id": 44,
@@ -965,7 +1008,8 @@
     "year_end": 1890,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "mary-cassatt-baby-in-a-dark-blue-suit-armory-show-1913"
   },
   {
     "id": 45,
@@ -987,7 +1031,8 @@
     "year_end": 1900,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "childhood-in-a-garden-1901"
   },
   {
     "id": 46,
@@ -1009,7 +1054,8 @@
     "year_end": 1875,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "eddy-edward-buchanan-2015-41-1-national-gallery-of-art"
   },
   {
     "id": 47,
@@ -1031,7 +1077,8 @@
     "year_end": 1896,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "ellen-mary-in-a-white-coat"
   },
   {
     "id": 48,
@@ -1053,7 +1100,8 @@
     "year_end": 1881,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "little-girl-in-a-large-red-hat-1881"
   },
   {
     "id": 49,
@@ -1075,7 +1123,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "mary-cassatt-portrait-d-enfant"
   },
   {
     "id": 50,
@@ -1097,7 +1146,8 @@
     "year_end": 1902,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "two-little-sisters"
   },
   {
     "id": 51,
@@ -1119,7 +1169,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "mary-cassatt-1910-portrait-of-charles-dikran-kelekian"
   },
   {
     "id": 52,
@@ -1141,7 +1192,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "mary-cassatt-il-bambino-1905-ca"
   },
   {
     "id": 53,
@@ -1163,7 +1215,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "mary-cassatt"
   },
   {
     "id": 54,
@@ -1185,7 +1238,8 @@
     "year_end": 1910,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "stevenson-sketch-of-head-of-a-girl-in-a-hat-with-a-black-ros"
   },
   {
     "id": 55,
@@ -1207,7 +1261,8 @@
     "year_end": 1901,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "sara-in-a-green-bonnet"
   },
   {
     "id": 56,
@@ -1229,7 +1284,8 @@
     "year_end": 1903,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "simone-in-a-blue-bonnet-no-1"
   },
   {
     "id": 57,
@@ -1251,7 +1307,8 @@
     "year_end": 1898,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "under-the-horse-chesnut-tree-mary-cassatt"
   },
   {
     "id": 58,
@@ -1273,7 +1330,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of children by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of children by Mary Cassatt",
+    "slug": "young-neapolitan-girl-at-the-source-mary-cassatt-1844-1926"
   },
   {
     "id": 59,
@@ -1296,7 +1354,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "title_disambig": "1872 · #105"
+    "title_disambig": "1872 · #105",
+    "slug": "portrait-of-a-woman"
   },
   {
     "id": 60,
@@ -1318,7 +1377,8 @@
     "year_end": 1880,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "automne-portrait-de-lydia-1880-ppp706-petit-palais"
   },
   {
     "id": 61,
@@ -1340,7 +1400,8 @@
     "year_end": 1880,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "autumn-aka-profile-of-lydia-cassatt-1880"
   },
   {
     "id": 62,
@@ -1362,7 +1423,8 @@
     "year_end": 1880,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "cassat-l-automne"
   },
   {
     "id": 63,
@@ -1385,7 +1447,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "title_disambig": "1883–1885 · #109"
+    "title_disambig": "1883–1885 · #109",
+    "slug": "lady-at-the-tea-table"
   },
   {
     "id": 64,
@@ -1407,7 +1470,8 @@
     "year_end": 1879,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "in-the-box"
   },
   {
     "id": 65,
@@ -1429,7 +1493,8 @@
     "year_end": 1883,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "lady-at-the-tea-table-1883"
   },
   {
     "id": 66,
@@ -1451,7 +1516,8 @@
     "year_end": 1881,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "lydia-at-the-tapestry-loom"
   },
   {
     "id": 67,
@@ -1473,7 +1539,8 @@
     "year_end": 1883,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-a-elderly-lady"
   },
   {
     "id": 68,
@@ -1496,7 +1563,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "title_disambig": "1878 · #114"
+    "title_disambig": "1878 · #114",
+    "slug": "portrait-of-a-woman-1878"
   },
   {
     "id": 69,
@@ -1518,7 +1586,8 @@
     "year_end": 1878,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-an-italian-lady"
   },
   {
     "id": 70,
@@ -1540,7 +1609,8 @@
     "year_end": 1873,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-madame-sisley"
   },
   {
     "id": 71,
@@ -1562,7 +1632,8 @@
     "year_end": 1880,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "french-le-thethe-tea"
   },
   {
     "id": 72,
@@ -1584,7 +1655,8 @@
     "year_end": 1872,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "two-women-throwing-flowers"
   },
   {
     "id": 73,
@@ -1606,7 +1678,8 @@
     "year_end": 1882,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "woman-in-black"
   },
   {
     "id": 74,
@@ -1628,7 +1701,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "young-woman-in-green-outdoors-in-the-sun"
   },
   {
     "id": 75,
@@ -1650,7 +1724,8 @@
     "year_end": 1879,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-woman-standing-holding-a-fan-187879"
   },
   {
     "id": 76,
@@ -1672,7 +1747,8 @@
     "year_end": 1877,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-madame-x-dressed-for-the-matinee"
   },
   {
     "id": 77,
@@ -1694,7 +1770,8 @@
     "year_end": 1874,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "small-profile-head-of-a-girl-by-mary-cassatt-ca-1874"
   },
   {
     "id": 78,
@@ -1716,7 +1793,8 @@
     "year_end": 1881,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "lydia-at-a-tapestry-frame"
   },
   {
     "id": 79,
@@ -1738,7 +1816,8 @@
     "year_end": 1879,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "in-the-loge"
   },
   {
     "id": 80,
@@ -1760,7 +1839,8 @@
     "year_end": 1908,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "denise-at-her-dressing-table"
   },
   {
     "id": 81,
@@ -1783,7 +1863,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "title_disambig": "1883–1885 · #127"
+    "title_disambig": "1883–1885 · #127",
+    "slug": "lady-at-the-tea-table-2"
   },
   {
     "id": 82,
@@ -1805,7 +1886,8 @@
     "year_end": 1909,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "antoinette-at-her-dressing-table"
   },
   {
     "id": 83,
@@ -1827,7 +1909,8 @@
     "year_end": 1905,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "french-buste-de-femme-en-corsage-blanc"
   },
   {
     "id": 84,
@@ -1850,7 +1933,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "title_disambig": "1880 · #130"
+    "title_disambig": "1880 · #130",
+    "slug": "french-le-the-five-o-clock-tea"
   },
   {
     "id": 85,
@@ -1872,7 +1956,8 @@
     "year_end": 1882,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "jeune-fille-au-jardin"
   },
   {
     "id": 86,
@@ -1894,7 +1979,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "katherine-kelso-cassatt"
   },
   {
     "id": 87,
@@ -1916,7 +2002,8 @@
     "year_end": 1889,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mrs-robert-s-the-artist-s-mother"
   },
   {
     "id": 88,
@@ -1938,7 +2025,8 @@
     "year_end": 1883,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-a-woman-1881"
   },
   {
     "id": 89,
@@ -1960,7 +2048,8 @@
     "year_end": 1880,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "young-woman-in-black"
   },
   {
     "id": 90,
@@ -1982,7 +2071,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-portrait-of-mrs-currey-sketch-of-mr-cassatt"
   },
   {
     "id": 91,
@@ -2005,7 +2095,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
-    "title_disambig": "1880 · #137"
+    "title_disambig": "1880 · #137",
+    "slug": "french-le-the-five-o-clock-tea-1880"
   },
   {
     "id": 92,
@@ -2027,7 +2118,8 @@
     "year_end": 1876,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "woman-on-a-striped-sofa-with-a-dog-1961-159-fogg-museum"
   },
   {
     "id": 93,
@@ -2049,7 +2141,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-woman-reading-jam-1942-38"
   },
   {
     "id": 94,
@@ -2071,7 +2164,8 @@
     "year_end": 1879,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "woman-with-a-fan"
   },
   {
     "id": 95,
@@ -2093,7 +2187,8 @@
     "year_end": 1885,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "001"
   },
   {
     "id": 96,
@@ -2115,7 +2210,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-in-de-loge"
   },
   {
     "id": 97,
@@ -2137,7 +2233,8 @@
     "year_end": 1879,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-in-the-box"
   },
   {
     "id": 98,
@@ -2159,7 +2256,8 @@
     "year_end": 1878,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-reading-le-figaro"
   },
   {
     "id": 99,
@@ -2181,7 +2279,8 @@
     "year_end": 1908,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "sketch-of-mother-jeanne-s-head-looking-down-no-2"
   },
   {
     "id": 100,
@@ -2203,7 +2302,8 @@
     "year_end": 1879,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-woman-reading-1878-79"
   },
   {
     "id": 101,
@@ -2225,7 +2325,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-woman-reading-in-a-garden"
   },
   {
     "id": 102,
@@ -2247,7 +2348,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-woman-sewing"
   },
   {
     "id": 103,
@@ -2269,7 +2371,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-young-woman-sewing-in-a-garden"
   },
   {
     "id": 104,
@@ -2291,7 +2394,8 @@
     "year_end": 1876,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "1876-mrs-duffee-seated-on-a-striped-sofa-reading"
   },
   {
     "id": 105,
@@ -2313,7 +2417,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-1879c-in-the-box"
   },
   {
     "id": 106,
@@ -2335,7 +2440,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-1880-the-tea"
   },
   {
     "id": 107,
@@ -2357,7 +2463,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "mary-cassatt-giovane-donna-seduta-in-un-giardino-1880-82"
   },
   {
     "id": 108,
@@ -2379,7 +2486,8 @@
     "year_end": 1878,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "reading-le-figaro-1878-collection-mrs-eric-de-spoelberch-hav"
   },
   {
     "id": 109,
@@ -2401,7 +2509,8 @@
     "year_end": 1878,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "in-the-loge-1878"
   },
   {
     "id": 110,
@@ -2423,7 +2532,8 @@
     "year_end": 1882,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "young-woman-sewing-in-garden"
   },
   {
     "id": 111,
@@ -2445,7 +2555,8 @@
     "year_end": 1880,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "woman-with-a-fan-1880"
   },
   {
     "id": 112,
@@ -2467,7 +2578,8 @@
     "year_end": 1887,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-an-elderly-lady-in-a-bonnet-red-background"
   },
   {
     "id": 113,
@@ -2489,7 +2601,8 @@
     "year_end": 1895,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "portrait-of-mrs-clement-b-newbold"
   },
   {
     "id": 114,
@@ -2511,7 +2624,8 @@
     "year_end": 1873,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "spanish-dancer-wearing-a-lace-mantilla"
   },
   {
     "id": 115,
@@ -2533,7 +2647,8 @@
     "year_end": 1876,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "woman-on-a-striped-sofa-with-a-dog"
   },
   {
     "id": 116,
@@ -2555,7 +2670,8 @@
     "year_end": 1885,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "young-girl-at-a-window"
   },
   {
     "id": 117,
@@ -2577,7 +2693,8 @@
     "year_end": 1885,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings of women by Mary Cassatt"
+    "harvest_method": "commons_category:Paintings of women by Mary Cassatt",
+    "slug": "young-girl-at-a-window-1885"
   },
   {
     "id": 118,
@@ -2599,7 +2716,8 @@
     "year_end": 1901,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "cassatt-mary-simone-in-a-white-bonnet-1901"
   },
   {
     "id": 119,
@@ -2621,7 +2739,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "fillette-au-grand-chapeau"
   },
   {
     "id": 120,
@@ -2643,7 +2762,8 @@
     "year_end": 1902,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "young-girl-seated-in-a-yellow-armchair"
   },
   {
     "id": 121,
@@ -2665,7 +2785,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "baby-in-blue-in-its-carriage"
   },
   {
     "id": 122,
@@ -2687,7 +2808,8 @@
     "year_end": 1881,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "l-enfant-bleu"
   },
   {
     "id": 123,
@@ -2709,7 +2831,8 @@
     "year_end": 1880,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "elsie-in-a-blue-chair"
   },
   {
     "id": 124,
@@ -2731,7 +2854,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "margot-in-big-bonnett-and-red-dress"
   },
   {
     "id": 125,
@@ -2753,7 +2877,8 @@
     "year_end": 1902,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "margot-in-blue"
   },
   {
     "id": 126,
@@ -2775,7 +2900,8 @@
     "year_end": 1901,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "sara-with-her-dog-in-an-armchair"
   },
   {
     "id": 127,
@@ -2797,7 +2923,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "young-girl-reading"
   },
   {
     "id": 128,
@@ -2819,7 +2946,8 @@
     "year_end": 1898,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "cassatt-mary-pink-sash-1898"
   },
   {
     "id": 129,
@@ -2842,7 +2970,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1904 · #478"
+    "title_disambig": "1904 · #478",
+    "slug": "child-in-green-coat"
   },
   {
     "id": 130,
@@ -2865,7 +2994,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1904 · #479"
+    "title_disambig": "1904 · #479",
+    "slug": "child-in-green-coat-1904"
   },
   {
     "id": 131,
@@ -2888,7 +3018,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1904 · #480"
+    "title_disambig": "1904 · #480",
+    "slug": "child-in-green-coat-2"
   },
   {
     "id": 132,
@@ -2910,7 +3041,8 @@
     "year_end": 1904,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "child-with-red-hat"
   },
   {
     "id": 133,
@@ -2933,7 +3065,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #482"
+    "title_disambig": "1899 · #482",
+    "slug": "ellen-mary-cassatt"
   },
   {
     "id": 134,
@@ -2956,7 +3089,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #483"
+    "title_disambig": "1899 · #483",
+    "slug": "ellen-mary-cassatt-1899"
   },
   {
     "id": 135,
@@ -2979,7 +3113,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #484"
+    "title_disambig": "1899 · #484",
+    "slug": "ellen-mary-cassatt-2"
   },
   {
     "id": 136,
@@ -3002,7 +3137,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #485"
+    "title_disambig": "1899 · #485",
+    "slug": "gardner-and-ellen-mary-cassatt"
   },
   {
     "id": 137,
@@ -3025,7 +3161,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #486"
+    "title_disambig": "1899 · #486",
+    "slug": "gardner-and-ellen-mary-cassatt-1899"
   },
   {
     "id": 138,
@@ -3048,7 +3185,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #487"
+    "title_disambig": "1899 · #487",
+    "slug": "gardner-and-ellen-mary-cassatt-2"
   },
   {
     "id": 139,
@@ -3071,7 +3209,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1899 · #488"
+    "title_disambig": "1899 · #488",
+    "slug": "gardner-and-ellen-mary-cassatt-3"
   },
   {
     "id": 140,
@@ -3093,7 +3232,8 @@
     "year_end": 1902,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "girl-in-a-hat-with-a-black-ribbon"
   },
   {
     "id": 141,
@@ -3116,7 +3256,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1902 · #490"
+    "title_disambig": "1902 · #490",
+    "slug": "margot-in-orange-dress"
   },
   {
     "id": 142,
@@ -3139,7 +3280,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1902 · #491"
+    "title_disambig": "1902 · #491",
+    "slug": "margot-in-orange-dress-1902"
   },
   {
     "id": 143,
@@ -3162,7 +3304,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1902 · #492"
+    "title_disambig": "1902 · #492",
+    "slug": "margot-in-orange-dress-2"
   },
   {
     "id": 144,
@@ -3185,7 +3328,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1902 · #493"
+    "title_disambig": "1902 · #493",
+    "slug": "margot-in-orange-dress-3"
   },
   {
     "id": 145,
@@ -3208,7 +3352,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1902 · #494"
+    "title_disambig": "1902 · #494",
+    "slug": "margot-in-orange-dress-4"
   },
   {
     "id": 146,
@@ -3230,7 +3375,8 @@
     "year_end": 1910,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "charles-dikran-kelekian"
   },
   {
     "id": 147,
@@ -3252,7 +3398,8 @@
     "year_end": 1906,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "mary-cassatt-francoise-holding-a-little-dog-1906-26-124"
   },
   {
     "id": 148,
@@ -3275,7 +3422,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1889 · #497"
+    "title_disambig": "1889 · #497",
+    "slug": "gardner-and-ellen-mary-cassatt-1889"
   },
   {
     "id": 149,
@@ -3297,7 +3445,8 @@
     "year_end": 1904,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "mary-cassatt-little-girl-in-a-big-hat"
   },
   {
     "id": 150,
@@ -3319,7 +3468,8 @@
     "year_end": 1902,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "margot-lefebvre-in-blue"
   },
   {
     "id": 151,
@@ -3341,7 +3491,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "portrait-of-d-anne-marie-durand-ruel"
   },
   {
     "id": 152,
@@ -3364,7 +3515,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
-    "title_disambig": "1911 · #501"
+    "title_disambig": "1911 · #501",
+    "slug": "gardner-and-ellen-mary-cassatt-1911"
   },
   {
     "id": 153,
@@ -3386,7 +3538,8 @@
     "year_end": 1909,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "francoise-holding-a-little-dog-looking-far-to-the-right"
   },
   {
     "id": 154,
@@ -3408,7 +3561,8 @@
     "year_end": 1903,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "simone-in-a-white-bonnet-seated-with-clasped-hands-no-1"
   },
   {
     "id": 155,
@@ -3430,7 +3584,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "mary-cassatt-1897-young-girls"
   },
   {
     "id": 156,
@@ -3452,7 +3607,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "portrait-of-charles-dikran-kelekian-age-eight"
   },
   {
     "id": 157,
@@ -3474,7 +3630,8 @@
     "year_end": 1907,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of children by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of children by Mary Cassatt",
+    "slug": "portrait-of-helen-sears-daughter-of-sarah-choate-sears-by-ma"
   },
   {
     "id": 158,
@@ -3496,7 +3653,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Ephemera related to Mary Cassatt"
+    "harvest_method": "commons_category:Ephemera related to Mary Cassatt",
+    "slug": "mary-cassatt-plaque-10-rue-de-marignan-paris-8"
   },
   {
     "id": 159,
@@ -3518,7 +3676,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Ephemera related to Mary Cassatt"
+    "harvest_method": "commons_category:Ephemera related to Mary Cassatt",
+    "slug": "may22-mary-casatt"
   },
   {
     "id": 160,
@@ -3540,7 +3699,8 @@
     "year_end": 1890,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of women by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
+    "slug": "young-woman-in-a-black-and-green-bonnet-looking-down"
   },
   {
     "id": 161,
@@ -3562,7 +3722,8 @@
     "year_end": 1897,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of women by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
+    "slug": "la-tasse-de-the"
   },
   {
     "id": 162,
@@ -3584,7 +3745,8 @@
     "year_end": 1895,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of women by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
+    "slug": "young-woman-with-auburn-hair-in-a-pink-blouse"
   },
   {
     "id": 163,
@@ -3606,7 +3768,8 @@
     "year_end": 1898,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of women by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
+    "slug": "portrait-of-a-young-woman"
   },
   {
     "id": 164,
@@ -3628,7 +3791,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of women by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
+    "slug": "cassatthavemeyer"
   },
   {
     "id": 165,
@@ -3651,7 +3815,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "title_disambig": "1901 · #751"
+    "title_disambig": "1901 · #751",
+    "slug": "french-portrait-de-jeune-femme"
   },
   {
     "id": 166,
@@ -3674,7 +3839,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "title_disambig": "1901 · #752"
+    "title_disambig": "1901 · #752",
+    "slug": "french-portrait-de-jeune-femme-1901"
   },
   {
     "id": 167,
@@ -3696,7 +3862,8 @@
     "year_end": 1896,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Pastels of women by Mary Cassatt"
+    "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
+    "slug": "louisine-havemeyer"
   },
   {
     "id": 168,
@@ -3719,7 +3886,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "title_disambig": "1881 · #754"
+    "title_disambig": "1881 · #754",
+    "slug": "woman-on-a-bench"
   },
   {
     "id": 169,
@@ -3742,7 +3910,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "title_disambig": "1881 · #755"
+    "title_disambig": "1881 · #755",
+    "slug": "woman-on-a-bench-1881"
   },
   {
     "id": 170,
@@ -3765,7 +3934,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:Pastels of women by Mary Cassatt",
-    "title_disambig": "1881 · #756"
+    "title_disambig": "1881 · #756",
+    "slug": "woman-on-a-bench-2"
   },
   {
     "id": 171,
@@ -3788,7 +3958,8 @@
     "circa": true,
     "famous": false,
     "harvest_method": "commons_category:The Coiffure by Mary Cassatt",
-    "title_disambig": "1891 · #48"
+    "title_disambig": "1891 · #48",
+    "slug": "the-coiffure"
   },
   {
     "id": 172,
@@ -3811,7 +3982,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Afternoon tea by Mary Cassatt",
-    "title_disambig": "1890–1891 · #167"
+    "title_disambig": "1890–1891 · #167",
+    "slug": "afternoon-tea"
   },
   {
     "id": 173,
@@ -3833,7 +4005,8 @@
     "year_end": 1891,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Drummond Bequest of prints by Mary Cassatt"
+    "harvest_method": "commons_category:Drummond Bequest of prints by Mary Cassatt",
+    "slug": "drummond-bequest-of-prints"
   },
   {
     "id": 174,
@@ -3855,7 +4028,8 @@
     "year_end": 1879,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Fourth Impressionist Exhibition works by Mary Cassatt"
+    "harvest_method": "commons_category:Fourth Impressionist Exhibition works by Mary Cassatt",
+    "slug": "fourth-impressionist-exhibition-works"
   },
   {
     "id": 175,
@@ -3878,7 +4052,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:Little Girl in a Blue Armchair by Mary Cassatt",
-    "title_disambig": "1878 · #512"
+    "title_disambig": "1878 · #512",
+    "slug": "little-girl-in-a-blue-armchair"
   },
   {
     "id": 176,
@@ -3901,7 +4076,8 @@
     "circa": false,
     "famous": false,
     "harvest_method": "commons_category:On a Balcony by Mary Cassatt",
-    "title_disambig": "1878 · #517"
+    "title_disambig": "1878 · #517",
+    "slug": "on-a-balcony"
   },
   {
     "id": 177,
@@ -3923,7 +4099,8 @@
     "year_end": 1879,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Woman with a Pearl Necklace in a Loge by Mary Cassatt"
+    "harvest_method": "commons_category:Woman with a Pearl Necklace in a Loge by Mary Cassatt",
+    "slug": "woman-with-a-pearl-necklace-in-a-loge"
   },
   {
     "id": 178,
@@ -3945,7 +4122,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Images from Christie's by Mary Cassatt"
+    "harvest_method": "commons_category:Images from Christie's by Mary Cassatt",
+    "slug": "images-from-christie-s"
   },
   {
     "id": 179,
@@ -3967,7 +4145,8 @@
     "year_end": 1894,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Images from Dorotheum by Mary Cassatt"
+    "harvest_method": "commons_category:Images from Dorotheum by Mary Cassatt",
+    "slug": "images-from-dorotheum"
   },
   {
     "id": 180,
@@ -3989,7 +4168,8 @@
     "year_end": 1897,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Images from Sotheby's by Mary Cassatt"
+    "harvest_method": "commons_category:Images from Sotheby's by Mary Cassatt",
+    "slug": "images-from-sotheby-s"
   },
   {
     "id": 181,
@@ -4011,7 +4191,8 @@
     "year_end": 1889,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Still lifes by Mary Cassatt"
+    "harvest_method": "commons_category:Still lifes by Mary Cassatt",
+    "slug": "still-lifes"
   },
   {
     "id": 182,
@@ -4033,6 +4214,7 @@
     "year_end": 1893,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Women by Mary Cassatt"
+    "harvest_method": "commons_category:Women by Mary Cassatt",
+    "slug": "women"
   }
 ]

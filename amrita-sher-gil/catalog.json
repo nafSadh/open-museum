@@ -16,7 +16,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Seated_Nude_in_Profile_1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Seated_Nude_in_Profile_1930.jpg",
+    "slug": "seated-nude-in-profile"
   },
   {
     "commons_filename": "Young_Girl_in_Profile_c._1930.jpg",
@@ -35,7 +36,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Young_Girl_in_Profile_c._1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Young_Girl_in_Profile_c._1930.jpg",
+    "slug": "young-girl-in-profile"
   },
   {
     "commons_filename": "Male_Torso_c._1930.jpg",
@@ -56,7 +58,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Male_Torso_c._1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Male_Torso_c._1930.jpg",
+    "slug": "male-torso"
   },
   {
     "commons_filename": "Nude_Study_(1)_c._1930.jpg",
@@ -78,7 +81,8 @@
     "year_end": 1930,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Nude_Study_(1)_c._1930.jpg",
-    "title_disambig": "1930"
+    "title_disambig": "1930",
+    "slug": "sitting-nude"
   },
   {
     "commons_filename": "Old_Man_with_Beard_by_Amrita_Sher-Gil.jpg",
@@ -97,7 +101,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Old_Man_with_Beard_by_Amrita_Sher-Gil.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Old_Man_with_Beard_by_Amrita_Sher-Gil.jpg",
+    "slug": "old-man-with-beard"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Brown_Girl_1930_Paris.jpg",
@@ -116,7 +121,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Brown_Girl_1930_Paris.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Brown_Girl_1930_Paris.jpg",
+    "slug": "brown-girl"
   },
   {
     "commons_filename": "Sher-Gil_Self_Portrait_6_1930.jpg",
@@ -137,7 +143,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Self_Portrait_6_1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Self_Portrait_6_1930.jpg",
+    "slug": "self-portrait-6"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait.jpg",
@@ -158,7 +165,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil_Self-Portrait_7_(1930)",
     "year_start": 1930,
     "year_end": 1930,
-    "circa": false
+    "circa": false,
+    "slug": "amrita-sher-gil-self-portrait-7"
   },
   {
     "commons_filename": "Sher-Gil_Self_Portrait_8_1930.jpg",
@@ -179,7 +187,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Self_Portrait_8_1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Self_Portrait_8_1930.jpg",
+    "slug": "self-portrait-8"
   },
   {
     "commons_filename": "Sher-Gile_self_portrait_9_1930.jpg",
@@ -200,7 +209,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gile_self_portrait_9_1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gile_self_portrait_9_1930.jpg",
+    "slug": "self-portrait-9"
   },
   {
     "commons_filename": "Portrait_of_Mother_1930.jpg",
@@ -221,7 +231,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mother_1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mother_1930.jpg",
+    "slug": "portrait-of-mother"
   },
   {
     "commons_filename": "Portrait_of_My_Sister_1930.jpg",
@@ -242,7 +253,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_My_Sister_1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_My_Sister_1930.jpg",
+    "slug": "portrait-of-my-sister"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_-_Self_Portrait_with_Easel.jpg",
@@ -263,7 +275,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_-_Self_Portrait_with_Easel.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_-_Self_Portrait_with_Easel.jpg",
+    "slug": "self-portrait-with-easel"
   },
   {
     "commons_filename": "Self-portrait_with_Red_Background_c._1930.jpg",
@@ -284,7 +297,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Red_Background_c._1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Red_Background_c._1930.jpg",
+    "slug": "self-portrait-with-red-background"
   },
   {
     "commons_filename": "Portrait_of_a_Young_Man_-_1930_by_Amrita_Sher-Gil.png",
@@ -305,7 +319,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Young_Man_-_1930_by_Amrita_Sher-Gil.png"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Young_Man_-_1930_by_Amrita_Sher-Gil.png",
+    "slug": "portrait"
   },
   {
     "commons_filename": "Boris_Taslitzky_c1930.jpg",
@@ -323,7 +338,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Boris_Taslitzky_c1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Boris_Taslitzky_c1930.jpg",
+    "slug": "boris-taslitzky"
   },
   {
     "commons_filename": "Mme_Taslitzky_c._1930.jpg",
@@ -344,7 +360,8 @@
     "year_start": 1930,
     "year_end": 1930,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mme_Taslitzky_c._1930.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mme_Taslitzky_c._1930.jpg",
+    "slug": "madam-taslitsky"
   },
   {
     "title": "Self-Portrait 1",
@@ -358,7 +375,8 @@
     "famous": true,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "self-portrait-1"
   },
   {
     "commons_filename": "Self-portrait_(2)_1931.jpg",
@@ -379,7 +397,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_(2)_1931.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_(2)_1931.jpg",
+    "slug": "self-portrait-2"
   },
   {
     "title": "Self-Portrait 3",
@@ -393,7 +412,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "self-portrait-3"
   },
   {
     "commons_filename": "Self-portrait_(4)_c._1931.jpg",
@@ -414,7 +434,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_(4)_c._1931.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_(4)_c._1931.jpg",
+    "slug": "self-portrait-4"
   },
   {
     "title": "Self-Portrait with Red Flower",
@@ -428,7 +449,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "self-portrait-with-red-flower"
   },
   {
     "title": "Woman's Back",
@@ -439,7 +461,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "woman-s-back"
   },
   {
     "commons_filename": "Yusuf_Ali_Khan_by_Amrita_Sher-Gil_1931.jpg",
@@ -460,7 +483,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_Ali_Khan_by_Amrita_Sher-Gil_1931.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Yusuf_Ali_Khan_by_Amrita_Sher-Gil_1931.jpg",
+    "slug": "yusuf-ali-khan"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait,_untitled.jpg",
@@ -481,7 +505,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil_self_portrait_(1931)",
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "amrita-sher-gil-self-portrait"
   },
   {
     "commons_filename": "Victor_Egan_1931.jpg",
@@ -499,7 +524,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Victor_Egan_1931.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Victor_Egan_1931.jpg",
+    "slug": "victor-egan"
   },
   {
     "title": "Alfred Cortot",
@@ -513,7 +539,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "alfred-cortot"
   },
   {
     "title": "Portrait of a Young Woman",
@@ -527,7 +554,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-a-young-woman"
   },
   {
     "title": "Violins",
@@ -541,7 +569,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "violins"
   },
   {
     "title": "Woman in Blue Coat",
@@ -555,7 +584,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "woman-in-blue-coat"
   },
   {
     "commons_filename": "Sher-Gil_Girl_in_Mauve_1931.jpg",
@@ -576,7 +606,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Girl_in_Mauve_1931.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Girl_in_Mauve_1931.jpg",
+    "slug": "girl-in-mauve"
   },
   {
     "commons_filename": "Village_Scene_in_Hungary_c._1931.jpg",
@@ -597,7 +628,8 @@
     "year_start": 1931,
     "year_end": 1931,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Scene_in_Hungary_c._1931.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Scene_in_Hungary_c._1931.jpg",
+    "slug": "village-scene-in-hungary"
   },
   {
     "title": "Dressing Table",
@@ -611,7 +643,8 @@
     "famous": false,
     "year_start": 1931,
     "year_end": 1931,
-    "circa": false
+    "circa": false,
+    "slug": "dressing-table"
   },
   {
     "commons_filename": "Portait_of_a_Parisian_Lady_c._1932.jpg",
@@ -629,7 +662,8 @@
     "year_end": 1932,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Portait_of_a_Parisian_Lady_c._1932.jpg",
-    "date": "1932"
+    "date": "1932",
+    "slug": "portrait-of-a-parisian-lady"
   },
   {
     "commons_filename": "Torso_1932.jpg",
@@ -650,7 +684,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Torso_1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Torso_1932.jpg",
+    "slug": "torso"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-Portrait_5_1932_Paris.jpg",
@@ -671,7 +706,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Self-Portrait_5_1932_Paris.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Self-Portrait_5_1932_Paris.jpg",
+    "slug": "self-portrait-5"
   },
   {
     "commons_filename": "Adam_and_Eve_c._1932.jpg",
@@ -692,7 +728,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Adam_and_Eve_c._1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Adam_and_Eve_c._1932.jpg",
+    "slug": "adam-and-eve"
   },
   {
     "title": "Still Life with Green Bottles and Apples",
@@ -706,7 +743,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "still-life-with-green-bottles-and-apples"
   },
   {
     "commons_filename": "Nude_Self-Portrait_with_Palette_1932.jpg",
@@ -725,7 +763,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nude_Self-Portrait_with_Palette_1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nude_Self-Portrait_with_Palette_1932.jpg",
+    "slug": "nude-self-portrait-with-palette"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self_Portrait_in_Green_Dress_1932_Paris.jpg",
@@ -746,7 +785,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Self_Portrait_in_Green_Dress_1932_Paris.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Self_Portrait_in_Green_Dress_1932_Paris.jpg",
+    "slug": "self-portrait-in-green-dress"
   },
   {
     "commons_filename": "Self-Portrait_in_Green_Amrita_Sher-Gil_1932.jpg",
@@ -767,7 +807,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-Portrait_in_Green_Amrita_Sher-Gil_1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-Portrait_in_Green_Amrita_Sher-Gil_1932.jpg",
+    "slug": "self-portrait-in-green"
   },
   {
     "commons_filename": "Department_Store_c.1932.jpg",
@@ -788,7 +829,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Department_Store_c.1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Department_Store_c.1932.jpg",
+    "slug": "department-store"
   },
   {
     "title": "The Blue Danube",
@@ -800,7 +842,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "the-blue-danube"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
@@ -821,7 +864,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
+    "slug": "hungarian-gypsy-girl"
   },
   {
     "title": "Gypsy Girl from Zebegény",
@@ -835,7 +879,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "gypsy-girl-from-zebegeny"
   },
   {
     "title": "Girls in conversation",
@@ -849,7 +894,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "girls-in-conversation"
   },
   {
     "title": "Two Children on a Hillside",
@@ -860,7 +906,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "two-children-on-a-hillside"
   },
   {
     "commons_filename": "Amrita_Sger-Gil_Klarra_Szepessy.jpg",
@@ -881,7 +928,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sger-Gil_Klarra_Szepessy.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sger-Gil_Klarra_Szepessy.jpg",
+    "slug": "klarra-szepessy"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian_Village_Church_1932_Hungary.jpg",
@@ -902,7 +950,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian_Village_Church_1932_Hungary.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian_Village_Church_1932_Hungary.jpg",
+    "slug": "hungarian-village-church"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Denise_Prouteaux_1932_Paris.jpg",
@@ -923,7 +972,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Denise_Prouteaux_1932_Paris.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Denise_Prouteaux_1932_Paris.jpg",
+    "slug": "denise-prouteaux"
   },
   {
     "title": "Portrait of Denise Prouteaux",
@@ -935,7 +985,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-denise-prouteaux"
   },
   {
     "commons_filename": "Young_Man_with_Apples.jpg",
@@ -956,7 +1007,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Young_Man_with_Apples",
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "young-man-with-apples"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Notre_Dame_1932.jpg",
@@ -977,7 +1029,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Notre_Dame_1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Notre_Dame_1932.jpg",
+    "slug": "notre-dame"
   },
   {
     "commons_filename": "Young_Girls.jpg",
@@ -998,7 +1051,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Young_Girls_(painting)",
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "young-girls"
   },
   {
     "commons_filename": "Marie-Louise_Chassany_1932.jpg",
@@ -1019,7 +1073,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Marie-Louise_Chassany_1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Marie-Louise_Chassany_1932.jpg",
+    "slug": "marie-louise-chassanay"
   },
   {
     "commons_filename": "Sitting_Nude_(2),_c.1932.jpg",
@@ -1041,7 +1096,8 @@
     "year_end": 1932,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sitting_Nude_(2),_c.1932.jpg",
-    "title_disambig": "1932"
+    "title_disambig": "1932",
+    "slug": "sitting-nude-1932"
   },
   {
     "title": "Potted Plant in Blossom",
@@ -1055,7 +1111,8 @@
     "famous": false,
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "potted-plant-in-blossom"
   },
   {
     "commons_filename": "My_Grandmother_1932.jpg",
@@ -1076,7 +1133,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/My_Grandmother",
     "year_start": 1932,
     "year_end": 1932,
-    "circa": false
+    "circa": false,
+    "slug": "my-grandmother"
   },
   {
     "commons_filename": "Viola_Egan_c._1932.jpg",
@@ -1095,7 +1153,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Viola_Egan_c._1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Viola_Egan_c._1932.jpg",
+    "slug": "viola-egan"
   },
   {
     "commons_filename": "Gypsy_Woman_Wearing_Shawl_c._1932.jpg",
@@ -1116,7 +1175,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gypsy_Woman_Wearing_Shawl_c._1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Gypsy_Woman_Wearing_Shawl_c._1932.jpg",
+    "slug": "gypsy-woman-wearing-shawl"
   },
   {
     "commons_filename": "Boat_c._1932.jpg",
@@ -1135,7 +1195,8 @@
     "year_end": 1932,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Boat_c._1932.jpg",
-    "title_disambig": "1932"
+    "title_disambig": "1932",
+    "slug": "boat"
   },
   {
     "commons_filename": "Self-portrait_with_Smile_c._1932.jpg",
@@ -1156,7 +1217,8 @@
     "year_start": 1933,
     "year_end": 1933,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Smile_c._1932.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Smile_c._1932.jpg",
+    "slug": "self-portrait-with-a-smile"
   },
   {
     "commons_filename": "Reclining_Nude_1933.jpg",
@@ -1177,7 +1239,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Reclining_Nude_(1933)",
     "year_start": 1933,
     "year_end": 1933,
-    "circa": false
+    "circa": false,
+    "slug": "reclining-nude"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Open_Air_Painters_1933_Paris.jpg",
@@ -1198,7 +1261,8 @@
     "year_start": 1933,
     "year_end": 1933,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Open_Air_Painters_1933_Paris.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Open_Air_Painters_1933_Paris.jpg",
+    "slug": "open-air-painters"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Girl_in_Black_1933.jpg",
@@ -1217,7 +1281,8 @@
     "year_start": 1933,
     "year_end": 1933,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_The_Girl_in_Black_1933.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_The_Girl_in_Black_1933.jpg",
+    "slug": "the-girl-in-black"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Spanish_Girl_1933_Paris.jpg",
@@ -1238,7 +1303,8 @@
     "year_start": 1933,
     "year_end": 1933,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Spanish_Girl_1933_Paris.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Spanish_Girl_1933_Paris.jpg",
+    "slug": "spanish-girl"
   },
   {
     "commons_filename": "Painting_Sleep_1932.jpg",
@@ -1259,7 +1325,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Sleep_(Sher-Gil)",
     "year_start": 1933,
     "year_end": 1933,
-    "circa": false
+    "circa": false,
+    "slug": "sleep"
   },
   {
     "title": "Professional Model",
@@ -1274,7 +1341,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Professional_Model",
     "year_start": 1933,
     "year_end": 1933,
-    "circa": false
+    "circa": false,
+    "slug": "professional-model"
   },
   {
     "title": "Model in Green",
@@ -1285,7 +1353,8 @@
     "famous": false,
     "year_start": 1934,
     "year_end": 1934,
-    "circa": false
+    "circa": false,
+    "slug": "model-in-green"
   },
   {
     "commons_filename": "Self-portrait_with_Long_hair_(2)_1934.jpg",
@@ -1306,7 +1375,8 @@
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Long_hair_(2)_1934.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_with_Long_hair_(2)_1934.jpg",
+    "slug": "self-portrait-with-long-hair"
   },
   {
     "title": "Model in Brown",
@@ -1317,7 +1387,8 @@
     "famous": false,
     "year_start": 1934,
     "year_end": 1934,
-    "circa": false
+    "circa": false,
+    "slug": "model-in-brown"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_View_from_Studio.jpg",
@@ -1338,7 +1409,8 @@
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_View_from_Studio.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_View_from_Studio.jpg",
+    "slug": "view-from-studio"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Standing_Nude.jpg",
@@ -1359,7 +1431,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Self-Portrait_as_a_Tahitian",
     "year_start": 1934,
     "year_end": 1934,
-    "circa": false
+    "circa": false,
+    "slug": "self-portrait-as-a-tahitian"
   },
   {
     "title": "Boat",
@@ -1371,7 +1444,8 @@
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
-    "title_disambig": "1934"
+    "title_disambig": "1934",
+    "slug": "boat-1934"
   },
   {
     "title": "Vine",
@@ -1382,7 +1456,8 @@
     "famous": false,
     "year_start": 1934,
     "year_end": 1934,
-    "circa": false
+    "circa": false,
+    "slug": "vine"
   },
   {
     "commons_filename": "The_Little_Girl_in_Blue_by_Amrita_Sher-Gil.jpg",
@@ -1403,7 +1478,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Little_Girl_in_Blue",
     "year_start": 1934,
     "year_end": 1934,
-    "circa": false
+    "circa": false,
+    "slug": "the-little-girl-in-blue"
   },
   {
     "commons_filename": "View_from_Majithia_House_1934.jpg",
@@ -1424,7 +1500,8 @@
     "year_start": 1934,
     "year_end": 1934,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:View_from_Majithia_House_1934.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:View_from_Majithia_House_1934.jpg",
+    "slug": "view-from-majithia-house"
   },
   {
     "commons_filename": "Group_of_Three_Girls_1935.jpg",
@@ -1445,7 +1522,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Three_Girls_(painting)",
     "year_start": 1935,
     "year_end": 1935,
-    "circa": false
+    "circa": false,
+    "slug": "group-of-young-girls"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Woman_on_Terrace_1935_Amritsar.jpg",
@@ -1466,7 +1544,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Woman_on_Terrace_1935_Amritsar.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Woman_on_Terrace_1935_Amritsar.jpg",
+    "slug": "woman-on-terrace"
   },
   {
     "title": "Beggars",
@@ -1480,7 +1559,8 @@
     "famous": false,
     "year_start": 1935,
     "year_end": 1935,
-    "circa": false
+    "circa": false,
+    "slug": "beggars"
   },
   {
     "commons_filename": "Woman_with_SUnflower_1935.jpg",
@@ -1498,7 +1578,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_with_SUnflower_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_with_SUnflower_1935.jpg",
+    "slug": "woman-with-sunflower"
   },
   {
     "commons_filename": "Woman_Holding_Fan_1935.jpg",
@@ -1519,7 +1600,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_Holding_Fan_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_Holding_Fan_1935.jpg",
+    "slug": "woman-with-fan"
   },
   {
     "commons_filename": "Boy_with_Lemons_1935.jpg",
@@ -1540,7 +1622,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Boy_with_Lemons_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Boy_with_Lemons_1935.jpg",
+    "slug": "boys-with-lemons"
   },
   {
     "commons_filename": "Mother_India_1935.jpg",
@@ -1561,7 +1644,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Mother_India_(painting)",
     "year_start": 1935,
     "year_end": 1935,
-    "circa": false
+    "circa": false,
+    "slug": "mother-india"
   },
   {
     "commons_filename": "Portrait_of_Malcolm_Muggeridge_1935.jpg",
@@ -1580,7 +1664,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Malcolm_Muggeridge_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Malcolm_Muggeridge_1935.jpg",
+    "slug": "portrait-of-malcolm-muggeridge"
   },
   {
     "commons_filename": "Malcolm_Muggeridge_1935.jpg",
@@ -1601,7 +1686,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Malcolm_Muggeridge",
     "year_start": 1935,
     "year_end": 1935,
-    "circa": false
+    "circa": false,
+    "slug": "malcolm-muggeridge"
   },
   {
     "commons_filename": "Portrait_of_Father_SherGil_1935_Simla.jpg",
@@ -1621,7 +1707,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Father_SherGil_1935_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Father_SherGil_1935_Simla.jpg",
+    "slug": "portrait-of-father"
   },
   {
     "commons_filename": "Man_in_White_1935.jpg",
@@ -1639,7 +1726,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Man_in_White_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Man_in_White_1935.jpg",
+    "slug": "man-in-white"
   },
   {
     "title": "Portrait of Mr. F. M. Khan",
@@ -1651,7 +1739,8 @@
     "famous": false,
     "year_start": 1935,
     "year_end": 1935,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-mr-f-m-khan"
   },
   {
     "commons_filename": "Nude_Group_1935.jpg",
@@ -1672,7 +1761,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nude_Group_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Nude_Group_1935.jpg",
+    "slug": "nude-group"
   },
   {
     "commons_filename": "Two_Women_1935.jpg",
@@ -1693,7 +1783,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Women_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Women_1935.jpg",
+    "slug": "two-women"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Two_Women_in_White_1935_Simla.jpg",
@@ -1714,7 +1805,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Two_Women_in_White_1935_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Two_Women_in_White_1935_Simla.jpg",
+    "slug": "two-women-in-white"
   },
   {
     "commons_filename": "Hill_Men_1935.jpg",
@@ -1734,7 +1826,8 @@
     "year_start": 1935,
     "year_end": 1935,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hill_Men_1935.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hill_Men_1935.jpg",
+    "slug": "hill-men"
   },
   {
     "commons_filename": "Women-Painting_of_Amrita_Sher_Girl_(cropped).jpeg",
@@ -1755,7 +1848,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Hill_Women",
     "year_start": 1935,
     "year_end": 1935,
-    "circa": false
+    "circa": false,
+    "slug": "hill-women"
   },
   {
     "commons_filename": "Raja_Surat_Singh_1936.jpg",
@@ -1776,7 +1870,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Surat_Singh_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Surat_Singh_1936.jpg",
+    "slug": "raja-surat-singh"
   },
   {
     "commons_filename": "The_Little_Untouchable_1936.jpg",
@@ -1795,7 +1890,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Little_Untouchable_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Little_Untouchable_1936.jpg",
+    "slug": "the-little-untouchable"
   },
   {
     "commons_filename": "Portrait_of_Girl_with_Flower_1936.jpg",
@@ -1816,7 +1912,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Girl_with_Flower_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Girl_with_Flower_1936.jpg",
+    "slug": "portrait-of-girl-with-flower"
   },
   {
     "commons_filename": "Child_Wife_1936.jpg",
@@ -1837,7 +1934,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Child_Wife",
     "year_start": 1936,
     "year_end": 1936,
-    "circa": false
+    "circa": false,
+    "slug": "child-wife"
   },
   {
     "commons_filename": "Sunder_Singh_March_1936.jpg",
@@ -1858,7 +1956,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sunder_Singh_March_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sunder_Singh_March_1936.jpg",
+    "slug": "sunder-singh"
   },
   {
     "commons_filename": "Portrait_of_Joji_March_1936.jpg",
@@ -1879,7 +1978,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Joji_March_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Joji_March_1936.jpg",
+    "slug": "portrait-of-joji"
   },
   {
     "commons_filename": "Sumair_1936.png",
@@ -1900,7 +2000,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sumair_1936.png"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sumair_1936.png",
+    "slug": "sumair"
   },
   {
     "commons_filename": "Portrait_of_Sister_1936.jpg",
@@ -1921,7 +2022,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sister_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sister_1936.jpg",
+    "slug": "portrait-of-sister"
   },
   {
     "commons_filename": "Woman_in_Red_1936.jpg",
@@ -1942,7 +2044,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_in_Red_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_in_Red_1936.jpg",
+    "slug": "woman-in-red"
   },
   {
     "commons_filename": "Composition_1936.jpg",
@@ -1963,7 +2066,8 @@
     "year_start": 1936,
     "year_end": 1936,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Composition_1936.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Composition_1936.jpg",
+    "slug": "composition"
   },
   {
     "commons_filename": "Fruit_Vendors_1937.jpg",
@@ -1984,7 +2088,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Fruit_Vendors_1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Fruit_Vendors_1937.jpg",
+    "slug": "fruit-vendors"
   },
   {
     "commons_filename": "The_Vina_Player_(cropped).jpg",
@@ -2003,7 +2108,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Vina_Player",
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "the-vina-player"
   },
   {
     "commons_filename": "Raja_of_Kollengode_1937.jpg",
@@ -2024,7 +2130,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_of_Kollengode_1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_of_Kollengode_1937.jpg",
+    "slug": "raja-of-kollengode"
   },
   {
     "commons_filename": "Girl_with_Pitcher_1937.jpg",
@@ -2045,7 +2152,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Girl_with_Pitcher_1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Girl_with_Pitcher_1937.jpg",
+    "slug": "girl-with-pitcher"
   },
   {
     "commons_filename": "Amrita_Sger-Gil_Bride's_Toilet.jpg",
@@ -2066,7 +2174,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Bride%27s_Toilet",
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "bride-s-toilet"
   },
   {
     "commons_filename": "Brahmacharis_1937.jpg",
@@ -2087,7 +2196,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Brahmacharis_(painting)",
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "brahmacharis"
   },
   {
     "commons_filename": "Village_Girl_c._1937.jpg",
@@ -2108,7 +2218,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Girl_c._1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Girl_c._1937.jpg",
+    "slug": "village-girl"
   },
   {
     "commons_filename": "Namaskar_1937.jpg",
@@ -2129,7 +2240,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Namaskar_1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Namaskar_1937.jpg",
+    "slug": "namaskar"
   },
   {
     "title": "South Indian Villagers going to Market",
@@ -2150,7 +2262,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/South_Indian_Villagers_going_to_Market",
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "south-indian-villagers-going-to-market"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Self-portrait_October_1937.jpg",
@@ -2172,7 +2285,8 @@
     "year_end": 1937,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Self-portrait_October_1937.jpg",
-    "title_disambig": "1937"
+    "title_disambig": "1937",
+    "slug": "self-portrait"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Siesta_1937_Simla.jpg",
@@ -2193,7 +2307,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Siesta_1937_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Siesta_1937_Simla.jpg",
+    "slug": "siesta"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Dressing_the_Bride_1937_Simla.jpg",
@@ -2214,7 +2329,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Dressing_the_Bride_1937_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Dressing_the_Bride_1937_Simla.jpg",
+    "slug": "dressing-the-bride"
   },
   {
     "commons_filename": "Women_on_the_Beach_1937.jpg",
@@ -2235,7 +2351,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Women_on_the_Beach_1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Women_on_the_Beach_1937.jpg",
+    "slug": "women-on-the-beach"
   },
   {
     "title": "Villagers in Winter",
@@ -2247,7 +2364,8 @@
     "famous": false,
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "villagers-in-winter"
   },
   {
     "title": "Mendicant",
@@ -2261,7 +2379,8 @@
     "famous": false,
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "mendicant"
   },
   {
     "title": "Two Mendicants",
@@ -2275,7 +2394,8 @@
     "famous": false,
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "two-mendicants"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Lady_Daljit_Singh_of_Kapurthala_1937_Simla.jpg",
@@ -2296,7 +2416,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Lady_Daljit_Singh_of_Kapurthala_1937_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Lady_Daljit_Singh_of_Kapurthala_1937_Simla.jpg",
+    "slug": "lady-daljit-singh-of-kapurthala"
   },
   {
     "title": "Self-Portrait",
@@ -2311,7 +2432,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "title_disambig": "1937"
+    "title_disambig": "1937",
+    "slug": "self-portrait-1937"
   },
   {
     "title": "Self-Portrait in Blue Sari",
@@ -2325,7 +2447,8 @@
     "famous": false,
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "self-portrait-in-blue-sari"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Head_of_Girl_1937_Simla.jpg",
@@ -2346,7 +2469,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Head_of_Girl_1937_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Head_of_Girl_1937_Simla.jpg",
+    "slug": "head-of-girl"
   },
   {
     "commons_filename": "Bullock_Cart_1937.jpg",
@@ -2367,7 +2491,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bullock_Cart_1937.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bullock_Cart_1937.jpg",
+    "slug": "bullock-cart"
   },
   {
     "title": "The Story Teller",
@@ -2382,7 +2507,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Story_Teller_(painting)",
     "year_start": 1937,
     "year_end": 1937,
-    "circa": false
+    "circa": false,
+    "slug": "the-story-teller"
   },
   {
     "title": "Portrait of a Stout Lady",
@@ -2394,7 +2520,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-a-stout-lady"
   },
   {
     "title": "Portrait of Mrs Hirlalal",
@@ -2405,7 +2532,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-mrs-hirlalal"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Portrait_of_Shakuntala_Kapur_1938_Lahore.jpg",
@@ -2424,7 +2552,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Portrait_of_Shakuntala_Kapur_1938_Lahore.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Portrait_of_Shakuntala_Kapur_1938_Lahore.jpg",
+    "slug": "portrait-of-shakuntala-kapur"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Portrait_of_Helen_1938_Lahore.jpg",
@@ -2445,7 +2574,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Portrait_of_Helen_1938_Lahore.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Portrait_of_Helen_1938_Lahore.jpg",
+    "slug": "portrait-of-helen"
   },
   {
     "title": "Red Brick House",
@@ -2459,7 +2589,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "red-brick-house"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Elephants_Bathing_in_a_Green_Pool_1938_Saraya.jpg",
@@ -2479,7 +2610,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Elephants_Bathing_in_a_Green_Pool_1938_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Elephants_Bathing_in_a_Green_Pool_1938_Saraya.jpg",
+    "slug": "elephants-bathing-in-a-green-pool"
   },
   {
     "commons_filename": "Sher-Gil_Village-group-1938.jpg",
@@ -2500,7 +2632,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Village-group-1938.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Village-group-1938.jpg",
+    "slug": "village-group"
   },
   {
     "title": "Women in Red",
@@ -2514,7 +2647,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "women-in-red"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Three_Bullock_Carts_1938_Saraya.jpg",
@@ -2535,7 +2669,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Three_Bullock_Carts_1938_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Three_Bullock_Carts_1938_Saraya.jpg",
+    "slug": "three-bullock-carts"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hill_Scene_1938_Simla.jpg",
@@ -2556,7 +2691,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hill_Scene_1938_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hill_Scene_1938_Simla.jpg",
+    "slug": "hill-scene"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hillside_1938_Simla.jpg",
@@ -2577,7 +2713,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hillside_1938_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hillside_1938_Simla.jpg",
+    "slug": "hill-side"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Village_Scene_1938_Simla.jpg",
@@ -2598,7 +2735,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Village_Scene",
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "village-scene"
   },
   {
     "commons_filename": "In_the_Ladies_Enclosure_1938.jpg",
@@ -2619,7 +2757,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:In_the_Ladies_Enclosure_1938.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:In_the_Ladies_Enclosure_1938.jpg",
+    "slug": "in-the-ladies-enclosure"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Red_Clay_Elephant_1938_Saraya.jpg",
@@ -2640,7 +2779,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Red_Clay_Elephant_1938_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Red_Clay_Elephant_1938_Saraya.jpg",
+    "slug": "red-clay-elephant"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Red_Verandah_1938_Simla.jpg",
@@ -2661,7 +2801,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Red_Verandah_1938_Simla.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Red_Verandah_1938_Simla.jpg",
+    "slug": "red-verandah"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Sardani_Kirpal_Singh_Majithia_1938_Saraya.jpg",
@@ -2682,7 +2823,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Sardani_Kirpal_Singh_Majithia_1938_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Sardani_Kirpal_Singh_Majithia_1938_Saraya.jpg",
+    "slug": "sardarni-kirpal-singh-majithia"
   },
   {
     "title": "Potato Peeler",
@@ -2696,7 +2838,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "potato-peeler"
   },
   {
     "title": "In the Garden",
@@ -2709,7 +2852,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "in-the-garden"
   },
   {
     "commons_filename": "Hungarian_Church_Steeple_1938.jpg",
@@ -2730,7 +2874,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Church_Steeple_1938.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Church_Steeple_1938.jpg",
+    "slug": "hungarian-church-steeple"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian_Village_Market_1938_Kiskunhalas.jpg",
@@ -2751,7 +2896,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian_Village_Market_1938_Kiskunhalas.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian_Village_Market_1938_Kiskunhalas.jpg",
+    "slug": "hungarian-village-market"
   },
   {
     "title": "Trees",
@@ -2765,7 +2911,8 @@
     "famous": false,
     "year_start": 1938,
     "year_end": 1938,
-    "circa": false
+    "circa": false,
+    "slug": "trees"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Hungarian_Peasant_1938_Kiskunhalas.jpg",
@@ -2786,7 +2933,8 @@
     "year_start": 1938,
     "year_end": 1938,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian_Peasant_1938_Kiskunhalas.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian_Peasant_1938_Kiskunhalas.jpg",
+    "slug": "hungarian-peasant"
   },
   {
     "commons_filename": "Winter_1939.jpg",
@@ -2807,7 +2955,8 @@
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Winter_1939.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Winter_1939.jpg",
+    "slug": "winter"
   },
   {
     "commons_filename": "Amrita-sher-gil-the-merry-cemetery-1939-trivium-art-history.jpg",
@@ -2828,7 +2977,8 @@
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita-sher-gil-the-merry-cemetery-1939-trivium-art-history.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita-sher-gil-the-merry-cemetery-1939-trivium-art-history.jpg",
+    "slug": "merry-cemetery"
   },
   {
     "commons_filename": "Portrait_of_Victor_Egan_by_Amrita_Sher-Gil_1939.jpg",
@@ -2849,7 +2999,8 @@
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Victor_Egan_by_Amrita_Sher-Gil_1939.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Victor_Egan_by_Amrita_Sher-Gil_1939.jpg",
+    "slug": "portrait-of-victor-egan"
   },
   {
     "commons_filename": "Female_Torso_1939.jpg",
@@ -2870,7 +3021,8 @@
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Female_Torso_1939.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Female_Torso_1939.jpg",
+    "slug": "female-torso"
   },
   {
     "commons_filename": "Two_Girls_by_Amrita_Sher-Gil_1939_Budapest.jpg",
@@ -2891,7 +3043,8 @@
     "year_start": 1939,
     "year_end": 1939,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Girls_by_Amrita_Sher-Gil_1939_Budapest.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Girls_by_Amrita_Sher-Gil_1939_Budapest.jpg",
+    "slug": "two-girls"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Resting_1939_Saraya.jpg",
@@ -2912,7 +3065,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Resting_1939_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Resting_1939_Saraya.jpg",
+    "slug": "resting"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
@@ -2933,7 +3087,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
+    "slug": "ancient-story-teller"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Swing_1940_Saraya.jpg",
@@ -2954,7 +3109,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_The_Swing_1940_Saraya.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_The_Swing_1940_Saraya.jpg",
+    "slug": "the-swing"
   },
   {
     "commons_filename": "Woman_on_Charpoy_1940.jpg",
@@ -2975,7 +3131,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_on_Charpoy",
     "year_start": 1940,
     "year_end": 1940,
-    "circa": false
+    "circa": false,
+    "slug": "woman-on-charpoy"
   },
   {
     "commons_filename": "Bride_1940.jpg",
@@ -2996,7 +3153,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bride_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Bride_1940.jpg",
+    "slug": "bride"
   },
   {
     "commons_filename": "Restimg_Mother_1940.jpg",
@@ -3017,7 +3175,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Restimg_Mother_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Restimg_Mother_1940.jpg",
+    "slug": "resting-mother"
   },
   {
     "commons_filename": "Elephant_promenade_1940.jpg",
@@ -3038,7 +3197,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Elephant_promenade_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Elephant_promenade_1940.jpg",
+    "slug": "elephant-promenade"
   },
   {
     "commons_filename": "Elephants_1940.jpg",
@@ -3059,7 +3219,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Elephants_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Elephants_1940.jpg",
+    "slug": "elephants"
   },
   {
     "commons_filename": "Sher-Giil_Two_Elephants_1940_Saraya.webp",
@@ -3080,7 +3241,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Giil_Two_Elephants_1940_Saraya.webp"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Giil_Two_Elephants_1940_Saraya.webp",
+    "slug": "two-elephants"
   },
   {
     "commons_filename": "Haldi_Grinders_1940.jpg",
@@ -3101,7 +3263,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Haldi_Grinders_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Haldi_Grinders_1940.jpg",
+    "slug": "haldi-grinders"
   },
   {
     "commons_filename": "Mucisicians_1940.jpg",
@@ -3122,7 +3285,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mucisicians_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Mucisicians_1940.jpg",
+    "slug": "musicians"
   },
   {
     "title": "Horse and Groom",
@@ -3134,7 +3298,8 @@
     "famous": false,
     "year_start": 1940,
     "year_end": 1940,
-    "circa": false
+    "circa": false,
+    "slug": "horse-and-groom"
   },
   {
     "commons_filename": "Woman_at_Bath_1940.jpg",
@@ -3155,7 +3320,8 @@
     "year_start": 1940,
     "year_end": 1940,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_at_Bath_1940.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_at_Bath_1940.jpg",
+    "slug": "woman-at-bath"
   },
   {
     "commons_filename": "Village_Girls_Saraya_1941.jpg",
@@ -3176,7 +3342,8 @@
     "year_start": 1941,
     "year_end": 1941,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Girls_Saraya_1941.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Girls_Saraya_1941.jpg",
+    "slug": "village-girls"
   },
   {
     "commons_filename": "Sher-Gil_Camels_1941.jpg",
@@ -3197,7 +3364,8 @@
     "year_start": 1941,
     "year_end": 1941,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Camels_1941.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Sher-Gil_Camels_1941.jpg",
+    "slug": "camels"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_The_Last_Unfinished_Painting_1941_Lahore.jpg",
@@ -3218,6 +3386,7 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Last_Unfinished_Painting",
     "year_start": 1941,
     "year_end": 1941,
-    "circa": false
+    "circa": false,
+    "slug": "the-last-unfinished-painting"
   }
 ]

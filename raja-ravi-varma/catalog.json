@@ -16,7 +16,8 @@
     "year_start": 1898,
     "year_end": 1898,
     "circa": false,
-    "date": "1898"
+    "date": "1898",
+    "slug": "shakuntala-looking-for-dushyanta"
   },
   {
     "title": "Galaxy of Musicians",
@@ -35,7 +36,8 @@
     "year_start": 1889,
     "year_end": 1889,
     "circa": false,
-    "date": "1889"
+    "date": "1889",
+    "slug": "galaxy-of-musicians"
   },
   {
     "title": "Shakuntala Patra-lekhan",
@@ -54,7 +56,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "date": ""
+    "date": "",
+    "slug": "shakuntala-patra-lekhan"
   },
   {
     "title": "Nair Lady Adorning Her Hair",
@@ -73,7 +76,8 @@
     "year_start": 1873,
     "year_end": 1873,
     "circa": false,
-    "date": "1873"
+    "date": "1873",
+    "slug": "nair-lady-adorning-her-hair"
   },
   {
     "title": "Expectation",
@@ -92,7 +96,8 @@
     "year_end": 1893,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Expectation.jpg",
-    "date": "1893"
+    "date": "1893",
+    "slug": "expectation"
   },
   {
     "title": "Radha in the Moonlight",
@@ -111,7 +116,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Radha_in_the_Moonlight.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "radha-in-the-moonlight"
   },
   {
     "title": "Gypsies",
@@ -130,7 +136,8 @@
     "year_end": 1893,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Gypsies_(1893).jpg",
-    "date": "1893"
+    "date": "1893",
+    "slug": "gypsies"
   },
   {
     "title": "Sri Shanmukha Subramania Swami",
@@ -149,7 +156,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sri-shanmukha-subramania-swami"
   },
   {
     "title": "Saraswati",
@@ -168,7 +176,8 @@
     "year_start": 1896,
     "year_end": 1896,
     "circa": false,
-    "date": "1896"
+    "date": "1896",
+    "slug": "saraswati"
   },
   {
     "title": "Geevarghese Mar Gregorios of Parumala",
@@ -187,7 +196,8 @@
     "year_start": 1905,
     "year_end": 1905,
     "circa": false,
-    "date": "1905"
+    "date": "1905",
+    "slug": "geevarghese-mar-gregorios-of-parumala"
   },
   {
     "title": "Descent of Ganga",
@@ -206,7 +216,8 @@
     "year_start": 1910,
     "year_end": 1910,
     "circa": true,
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "descent-of-ganga"
   },
   {
     "title": "Sri Krishna as Envoy",
@@ -225,7 +236,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_as_Envoy.jpg",
-    "date": ""
+    "date": "",
+    "slug": "sri-krishna-as-envoy"
   },
   {
     "title": "Jatayu fights Ravana",
@@ -244,7 +256,8 @@
     "year_start": 1895,
     "year_end": 1895,
     "circa": false,
-    "date": "1895"
+    "date": "1895",
+    "slug": "jatayu-fights-ravana"
   },
   {
     "title": "Lady giving alms in a temple",
@@ -263,7 +276,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Lady_Giving_Alms_at_the_Temple.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-giving-alms-in-a-temple"
   },
   {
     "title": "Stolen Interview",
@@ -282,7 +296,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Stolen_Interview.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "stolen-interview"
   },
   {
     "title": "The Maharashtrian Lady",
@@ -301,7 +316,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Maharashtrian_Lady.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "the-maharashtrian-lady"
   },
   {
     "title": "Rama vanquishing the ocean",
@@ -320,7 +336,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "rama-vanquishing-the-ocean"
   },
   {
     "title": "Mohini on a swing",
@@ -339,7 +356,8 @@
     "year_start": 1894,
     "year_end": 1894,
     "circa": false,
-    "date": "January 1894"
+    "date": "January 1894",
+    "slug": "mohini-on-a-swing"
   },
   {
     "title": "Disrobing of Draupadi",
@@ -358,7 +376,8 @@
     "year_end": 1890,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma.jpg",
-    "date": "Circa 1888 -1890"
+    "date": "Circa 1888 -1890",
+    "slug": "disrobing-of-draupadi"
   },
   {
     "title": "Sita Bhumi Pravesh",
@@ -377,7 +396,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sita_Bhum_Pravesh.jpg",
-    "date": "19th century"
+    "date": "19th century",
+    "slug": "sita-bhumi-pravesh"
   },
   {
     "title": "Draupadi being humiliated in the court of Virata",
@@ -396,7 +416,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "draupadi-being-humiliated-in-the-court-of-virata"
   },
   {
     "title": "Krishna with Yashoda",
@@ -415,7 +436,8 @@
     "year_start": 1911,
     "year_end": 1911,
     "circa": false,
-    "date": "before 1911"
+    "date": "before 1911",
+    "slug": "krishna-with-yashoda"
   },
   {
     "title": "Village Belle",
@@ -434,7 +456,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Village_Belle,_by_Raja_Ravi_Varma.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "village-belle"
   },
   {
     "title": "Victory of Meghanada",
@@ -453,7 +476,8 @@
     "year_start": 1905,
     "year_end": 1905,
     "circa": false,
-    "date": "1905"
+    "date": "1905",
+    "slug": "victory-of-meghanada"
   },
   {
     "title": "Malabar Lady or Swarbat Player",
@@ -472,7 +496,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Malabar_Lady.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "malabar-lady-or-swarbat-player"
   },
   {
     "title": "Keechaka and Sairandhri",
@@ -491,7 +516,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_1890.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "keechaka-and-sairandhri"
   },
   {
     "title": "Shantanu and Matsyagandha",
@@ -510,7 +536,8 @@
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
-    "date": "1890"
+    "date": "1890",
+    "slug": "shantanu-and-matsyagandha"
   },
   {
     "title": "Arjuna and Subhadra",
@@ -529,7 +556,8 @@
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
-    "date": "1890"
+    "date": "1890",
+    "slug": "arjuna-and-subhadra"
   },
   {
     "title": "Woman holding a fan",
@@ -548,7 +576,8 @@
     "year_end": 1900,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_holading_a_fan_by_Raja_Ravi_Varma.jpg",
-    "date": "between circa 1895 and circa 1900"
+    "date": "between circa 1895 and circa 1900",
+    "slug": "woman-holding-a-fan"
   },
   {
     "title": "Damayanti and her maid in the moonlight",
@@ -567,7 +596,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ladies_in_the_moonlight_by_RRV.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "damayanti-and-her-maid-in-the-moonlight"
   },
   {
     "title": "Shakuntala lost in thoughts",
@@ -586,7 +616,8 @@
     "year_end": 1901,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Shakuntala_lost_in_thoughts_(1901).jpg",
-    "date": "1901"
+    "date": "1901",
+    "slug": "shakuntala-lost-in-thoughts"
   },
   {
     "title": "Disappointing News",
@@ -605,7 +636,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Disappointing_News.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "disappointing-news"
   },
   {
     "title": "The Fatal Garland",
@@ -624,7 +656,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Fatal_Garland_from_The_Modern_Review_Vol_01_(Jan.-June_1907)_(page_7_crop).jpg",
-    "date": ""
+    "date": "",
+    "slug": "the-fatal-garland"
   },
   {
     "title": "Mohini playing with a ball",
@@ -635,7 +668,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "mohini-playing-with-a-ball"
   },
   {
     "title": "Yashoda and Krishna",
@@ -653,7 +687,8 @@
     "commons_page": "https://commons.wikimedia.org/wiki/File:Yashoda_with_Krishna,_Raja_Ravi_Varma.jpg",
     "image_width": 972,
     "image_height": 1200,
-    "mime": "image/jpeg"
+    "mime": "image/jpeg",
+    "slug": "yashoda-and-krishna"
   },
   {
     "title": "Lady Lost in Thought",
@@ -664,7 +699,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "lady-lost-in-thought"
   },
   {
     "title": "Damayanti Talking to a Swan",
@@ -676,7 +712,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "damayanti-talking-to-a-swan"
   },
   {
     "title": "The Orchestra",
@@ -687,7 +724,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "the-orchestra"
   },
   {
     "title": "The heartbroken",
@@ -698,7 +736,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "the-heartbroken"
   },
   {
     "title": "Swarbat Player",
@@ -717,7 +756,8 @@
     "commons_page": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Swarbat_player_jewellery.jpg",
     "image_width": 1656,
     "image_height": 1992,
-    "mime": "image/jpeg"
+    "mime": "image/jpeg",
+    "slug": "swarbat-player"
   },
   {
     "title": "Shakuntala",
@@ -736,7 +776,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "date": "Date not mentioned"
+    "date": "Date not mentioned",
+    "slug": "shakuntala"
   },
   {
     "title": "Lord Krishna as Ambassador",
@@ -748,7 +789,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "lord-krishna-as-ambassador"
   },
   {
     "title": "Jatayu, a bird devotee of Lord Rama is mauled by Ravana",
@@ -760,7 +802,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "jatayu-a-bird-devotee-of-lord-rama-is-mauled-by-ravana"
   },
   {
     "title": "Victory of Indrajit",
@@ -772,7 +815,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "victory-of-indrajit"
   },
   {
     "title": "The gypsies[attribution needed]",
@@ -784,7 +828,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "the-gypsies-attribution-needed"
   },
   {
     "title": "A Lady Playing Swarbat",
@@ -796,7 +841,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "a-lady-playing-swarbat"
   },
   {
     "title": "Lord Rama Conquers Varuna",
@@ -808,7 +854,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "lord-rama-conquers-varuna"
   },
   {
     "title": "Nair Woman",
@@ -820,7 +867,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "nair-woman"
   },
   {
     "title": "Romancing Couple",
@@ -831,7 +879,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "romancing-couple"
   },
   {
     "title": "Draupadi Dreading to Meet Kichaka",
@@ -851,7 +900,8 @@
     "year_start": 1888,
     "year_end": 1890,
     "circa": false,
-    "date": "between 1888 and 1890"
+    "date": "between 1888 and 1890",
+    "slug": "draupadi-dreading-to-meet-kichaka"
   },
   {
     "title": "Shakuntala Composing a Love Letter to King Dushyanta",
@@ -863,7 +913,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "shakuntala-composing-a-love-letter-to-king-dushyanta"
   },
   {
     "title": "Girl in Sage Kanwa's Hermitage (Rishi-Kanya)",
@@ -882,7 +933,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Girl_in_Sage_Kanwa%27s_Hermitage_(Rishi-Kanya).jpg",
-    "date": "date not mentioned"
+    "date": "date not mentioned",
+    "slug": "girl-in-sage-kanwa-s-hermitage-rishi-kanya"
   },
   {
     "title": "Bharani Thirunal Lakshmi Bayi of Travancore",
@@ -902,7 +954,8 @@
     "year_start": 1885,
     "year_end": 1885,
     "circa": true,
-    "date": "circa 1885"
+    "date": "circa 1885",
+    "slug": "bharani-thirunal-lakshmi-bayi-of-travancore"
   },
   {
     "title": "3D painting of the Mysore king on a horse (now on display at the Mysore Palace)",
@@ -914,7 +967,8 @@
     "harvest_method": "wikipedia_list",
     "year_start": null,
     "year_end": null,
-    "circa": false
+    "circa": false,
+    "slug": "3d-painting-of-the-mysore-king-on-a-horse-now-on-display-at"
   },
   {
     "title": "Ahimahi Vadh",
@@ -933,7 +987,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ahimahi_Vadh,_Ravi_Varma_Press.jpg",
-    "date": "1910"
+    "date": "1910",
+    "slug": "ahimahi-vadh"
   },
   {
     "title": "AshtaSiddhi",
@@ -952,7 +1007,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:AshtaSiddhi.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "ashtasiddhi"
   },
   {
     "title": "Chitralekha",
@@ -971,7 +1027,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Chitralekha,_by_Raja_Ravi_Varma.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "chitralekha"
   },
   {
     "title": "Dashavatara",
@@ -990,7 +1047,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Dashavatara.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "dashavatara"
   },
   {
     "title": "Durga",
@@ -1009,7 +1067,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Durga_by_Raja_Ravi_Varma.jpg",
-    "date": ""
+    "date": "",
+    "slug": "durga"
   },
   {
     "title": "Durga Mahishasura-mardini, the slayer of the buffalo demon, Germany",
@@ -1028,7 +1087,8 @@
     "year_end": 1880,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Durga_Mahishasura-mardini,_the_slayer_of_the_buffalo_demon,_Germany.jpg",
-    "date": "1880"
+    "date": "1880",
+    "slug": "durga-mahishasura-mardini-the-slayer-of-the-buffalo-demon-ge"
   },
   {
     "title": "Ganapati1",
@@ -1047,7 +1107,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ganapati1.jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "ganapati1"
   },
   {
     "title": "Gayatri1",
@@ -1066,7 +1127,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Gayatri1.jpg",
-    "date": ""
+    "date": "",
+    "slug": "gayatri1"
   },
   {
     "title": "Goddess Durga",
@@ -1085,7 +1147,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Goddess_Durga_by_Raja_Ravi_Varma.jpg",
-    "date": ""
+    "date": "",
+    "slug": "goddess-durga"
   },
   {
     "title": "Jagannath Lithograph",
@@ -1104,7 +1167,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Jagannath_Lithograph_by_Raja_Ravi_Varma_1900s.jpg",
-    "date": "Late 19th/Early 20th Century"
+    "date": "Late 19th/Early 20th Century",
+    "slug": "jagannath-lithograph"
   },
   {
     "title": "Kali",
@@ -1123,7 +1187,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kali_by_Raja_Ravi_Varma.jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "kali"
   },
   {
     "title": "Kurma Avatar",
@@ -1142,7 +1207,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kurma_Avatar_by_Raja_Ravi_Varma.jpg",
-    "date": "1910"
+    "date": "1910",
+    "slug": "kurma-avatar"
   },
   {
     "title": "Maruti",
@@ -1161,7 +1227,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Maruti.JPG",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "maruti"
   },
   {
     "title": "Meerabai",
@@ -1180,7 +1247,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Meerabai_(crop).jpg",
-    "date": "before 1906"
+    "date": "before 1906",
+    "slug": "meerabai"
   },
   {
     "title": "Mohini bhasmasura",
@@ -1199,7 +1267,8 @@
     "year_end": 1948,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Mohini_bhasmasura.jpg",
-    "date": "between 1948 and 1906"
+    "date": "between 1948 and 1906",
+    "slug": "mohini-bhasmasura"
   },
   {
     "title": "National Gallery of Modern Art, Mumbai, India (20575179683)",
@@ -1218,7 +1287,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Modern_Art,_Mumbai,_India_(20575179683).jpg",
-    "date": ""
+    "date": "",
+    "slug": "national-gallery-of-modern-art-mumbai-india-20575179683"
   },
   {
     "title": "Parashurama with axe",
@@ -1237,7 +1307,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Parashurama_with_axe.jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "parashurama-with-axe"
   },
   {
     "title": "Dattatreya",
@@ -1256,7 +1327,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Dattatreya.jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "dattatreya"
   },
   {
     "title": "Ambika (Oleographic print)",
@@ -1275,7 +1347,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Ambika_(Oleographic_print).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "ambika-oleographic-print"
   },
   {
     "title": "Dhruv Narayan",
@@ -1294,7 +1367,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Dhruv_Narayan.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "dhruv-narayan"
   },
   {
     "title": "Lord Garuda",
@@ -1313,7 +1387,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lord_Garuda.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lord-garuda"
   },
   {
     "title": "Markandeya",
@@ -1332,7 +1407,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Markandeya.jpg",
-    "date": "1910"
+    "date": "1910",
+    "slug": "markandeya"
   },
   {
     "title": "Mohini (Oleograph)",
@@ -1351,7 +1427,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mohini_(Oleograph).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "mohini-oleograph"
   },
   {
     "title": "Parashuram",
@@ -1370,7 +1447,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Parashuram.jpg",
-    "date": ""
+    "date": "",
+    "slug": "parashuram"
   },
   {
     "title": "Radha Waiting for Krishna",
@@ -1389,7 +1467,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Radha_Waiting_for_Krishna.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "radha-waiting-for-krishna"
   },
   {
     "title": "Seshanarayana (Oleographic print)",
@@ -1408,7 +1487,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Seshanarayana_(Oleographic_print).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "seshanarayana-oleographic-print"
   },
   {
     "title": "Vasantika (oleographic print)",
@@ -1427,7 +1507,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Vasantika_(oleographic_print).jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "vasantika-oleographic-print"
   },
   {
     "title": "Satyavan Savitri",
@@ -1446,7 +1527,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Satyavan_Savitri.jpg",
-    "date": "19th century"
+    "date": "19th century",
+    "slug": "satyavan-savitri"
   },
   {
     "title": "Savitri Narad Samvad",
@@ -1465,7 +1547,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Savitri_Narad_Samvad.jpg",
-    "date": "19th century"
+    "date": "19th century",
+    "slug": "savitri-narad-samvad"
   },
   {
     "title": "Savitri",
@@ -1484,7 +1567,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Savitri.jpg",
-    "date": "19th century"
+    "date": "19th century",
+    "slug": "savitri"
   },
   {
     "title": "Shani Deva",
@@ -1503,7 +1587,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shani_Deva.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "shani-deva"
   },
   {
     "title": "Shanmukha Subramanyaswami",
@@ -1522,7 +1607,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shanmukha_Subramanyaswami_by_Raja_Ravi_Varma.jpg",
-    "date": ""
+    "date": "",
+    "slug": "shanmukha-subramanyaswami"
   },
   {
     "title": "Shiva as an ascetic",
@@ -1541,7 +1627,8 @@
     "year_end": 1880,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shiva_as_an_ascetic.jpg",
-    "date": "1880"
+    "date": "1880",
+    "slug": "shiva-as-an-ascetic"
   },
   {
     "title": "Shiva Parvati Ganesha",
@@ -1560,7 +1647,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_Ganesha.jpg",
-    "date": "between 1848 and 1906"
+    "date": "between 1848 and 1906",
+    "slug": "shiva-parvati-ganesha"
   },
   {
     "title": "Sita Bhumipravesh",
@@ -1579,7 +1667,8 @@
     "year_end": 1880,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sita_Bhumipravesh.jpg",
-    "date": "1880"
+    "date": "1880",
+    "slug": "sita-bhumipravesh"
   },
   {
     "title": "Sri Shanmukaha Subramania Swami",
@@ -1598,7 +1687,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sri_Shanmukaha_Subramania_Swami.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sri-shanmukaha-subramania-swami"
   },
   {
     "title": "Surya poster",
@@ -1617,7 +1707,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Surya_poster.jpg",
-    "date": ""
+    "date": "",
+    "slug": "surya-poster"
   },
   {
     "title": "Vaman",
@@ -1636,7 +1727,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Vaman.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "vaman"
   },
   {
     "title": "Vamana —",
@@ -1655,7 +1747,8 @@
     "year_end": 1919,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
-    "date": "1910s"
+    "date": "1910s",
+    "slug": "vamana"
   },
   {
     "title": "Varaha",
@@ -1674,7 +1767,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Varaha_Raja_Ravi_Varma.jpg",
-    "date": ""
+    "date": "",
+    "slug": "varaha"
   },
   {
     "title": "Vishnu Avatars",
@@ -1693,7 +1787,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Vishnu_Avatars.jpg",
-    "date": "between 1848 and 1906"
+    "date": "between 1848 and 1906",
+    "slug": "vishnu-avatars"
   },
   {
     "title": "Bharat playing with Lion cubs",
@@ -1712,7 +1807,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Bharat_playing_with_Lion_cubs.jpg",
-    "date": "Date not mentioned"
+    "date": "Date not mentioned",
+    "slug": "bharat-playing-with-lion-cubs"
   },
   {
     "title": "Bheeshma oath",
@@ -1731,7 +1827,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Bheeshma_oath_by_RRV_(cropped).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "bheeshma-oath"
   },
   {
     "title": "Draupadi and Pandavas",
@@ -1750,7 +1847,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_and_Pandavas.jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "draupadi-and-pandavas"
   },
   {
     "title": "Draupadi and Sudheshna",
@@ -1769,7 +1867,8 @@
     "year_end": 1896,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_and_Sudheshna.jpg",
-    "date": "1896"
+    "date": "1896",
+    "slug": "draupadi-and-sudheshna"
   },
   {
     "title": "Draupadi humiliated RRV crop",
@@ -1788,7 +1887,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_humiliated_RRV_crop.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "draupadi-humiliated-rrv-crop"
   },
   {
     "title": "Draupadi Vastraharan",
@@ -1807,7 +1907,8 @@
     "year_end": 1890,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadi_Vastraharan,_Raja_Ravi_Varma_(crop_3).jpg",
-    "date": "between circa 1888 and circa 1890"
+    "date": "between circa 1888 and circa 1890",
+    "slug": "draupadi-vastraharan"
   },
   {
     "title": "Duryodhana",
@@ -1826,7 +1927,8 @@
     "year_end": 1890,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Duryodhana,_Raja_Ravi_Varma_(cropped).jpg",
-    "date": "Circa 1888 -1890"
+    "date": "Circa 1888 -1890",
+    "slug": "duryodhana"
   },
   {
     "title": "Ganga and Bhishma",
@@ -1845,7 +1947,8 @@
     "year_end": 1900,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ganga_and_Bhishma.jpg",
-    "date": "circa 1900"
+    "date": "circa 1900",
+    "slug": "ganga-and-bhishma"
   },
   {
     "title": "Ganga shantanu",
@@ -1864,7 +1967,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ganga_shantanu.jpg",
-    "date": ""
+    "date": "",
+    "slug": "ganga-shantanu"
   },
   {
     "title": "Harishchandra",
@@ -1883,7 +1987,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Harishchandra_by_RRV.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "harishchandra"
   },
   {
     "title": "Jaydrath abduct Draupadi",
@@ -1902,7 +2007,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Jaydrath_abduct_Draupadi.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "jaydrath-abduct-draupadi"
   },
   {
     "title": "Kiratarjuniya",
@@ -1921,7 +2027,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kiratarjuniya.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "kiratarjuniya"
   },
   {
     "title": "Krishna as Envoy",
@@ -1940,7 +2047,8 @@
     "year_end": 1905,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Krishna_as_Envoy,_by_Raja_Ravi_Varma.jpg",
-    "date": "1905"
+    "date": "1905",
+    "slug": "krishna-as-envoy"
   },
   {
     "title": "Krishna meets parents",
@@ -1959,7 +2067,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Krishna_meets_parents.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "krishna-meets-parents"
   },
   {
     "title": "Krishna Pleads with Dhritarashtra to Avoid War",
@@ -1978,7 +2087,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Krishna_Pleads_with_Dhritarashtra_to_Avoid_War.jpg",
-    "date": "date not mentoned"
+    "date": "date not mentoned",
+    "slug": "krishna-pleads-with-dhritarashtra-to-avoid-war"
   },
   {
     "title": "Menaka and Vishvamitra, in a painting",
@@ -1997,7 +2107,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Menaka_and_Vishvamitra,_in_a_painting_by_Raja_Ravi_Varma.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "menaka-and-vishvamitra-in-a-painting"
   },
   {
     "title": "Menaka the nymph tempting the yogi",
@@ -2016,7 +2127,8 @@
     "year_end": 1900,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Menaka_the_nymph_tempting_the_yogi.jpg",
-    "date": "circa 1900"
+    "date": "circa 1900",
+    "slug": "menaka-the-nymph-tempting-the-yogi"
   },
   {
     "title": "Menaka Vishwamitra",
@@ -2035,7 +2147,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Menaka_Vishwamitra_by_RRV.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "menaka-vishwamitra"
   },
   {
     "title": "Radha Madhavam",
@@ -2054,7 +2167,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Radha_Madhavam.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "radha-madhavam"
   },
   {
     "title": "Ganga and Shantanu",
@@ -2073,7 +2187,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Ganga_and_Shantanu.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "ganga-and-shantanu"
   },
   {
     "title": "Mahabharata - Bharata",
@@ -2092,7 +2207,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "mahabharata-bharata"
   },
   {
     "title": "Mahabharata - NalaDamayanti",
@@ -2111,7 +2227,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Mahabharata_-_NalaDamayanti.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "mahabharata-naladamayanti"
   },
   {
     "title": "Birth of Krishna (1890)",
@@ -2130,7 +2247,8 @@
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Birth_of_Krishna_(1890).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Birth_of_Krishna_(1890).jpg",
+    "slug": "birth-of-krishna-1890"
   },
   {
     "title": "Damayanthi",
@@ -2149,7 +2267,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Damayanthi.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "damayanthi"
   },
   {
     "title": "Damayanti Vanavasa (Oleograph)",
@@ -2168,7 +2287,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Damayanti_Vanavasa_(Oleograph).jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "damayanti-vanavasa-oleograph"
   },
   {
     "title": "Harischandra and Tharamathi",
@@ -2187,7 +2307,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Harischandra_and_Tharamathi.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "harischandra-and-tharamathi"
   },
   {
     "title": "Haunsa Damayanti Sanwada (Oleograph print)",
@@ -2206,7 +2327,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Haunsa_Damayanti_Sanwada_(Oleograph_print).jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "haunsa-damayanti-sanwada-oleograph-print"
   },
   {
     "title": "Introducing Radha to Krishna",
@@ -2225,7 +2347,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Introducing_Radha_to_Krishna.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "introducing-radha-to-krishna"
   },
   {
     "title": "Kamsa maya (1890)",
@@ -2244,7 +2367,8 @@
     "year_start": 1890,
     "year_end": 1890,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Kamsa_maya_(1890).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Kamsa_maya_(1890).jpg",
+    "slug": "kamsa-maya-1890"
   },
   {
     "title": "Keechaka and Sairandhri, Oleograph",
@@ -2263,7 +2387,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_Oleograph.jpg",
-    "date": "between 1848 and 1906"
+    "date": "between 1848 and 1906",
+    "slug": "keechaka-and-sairandhri-oleograph"
   },
   {
     "title": "Krishna Drishta (1888)",
@@ -2282,7 +2407,8 @@
     "year_start": 1888,
     "year_end": 1888,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Krishna_Drishta_(1888).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Krishna_Drishta_(1888).jpg",
+    "slug": "krishna-drishta-1888"
   },
   {
     "title": "Marriage of Malsya Gandhi, (1907",
@@ -2301,7 +2427,8 @@
     "year_end": 1907,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Marriage_of_Malsya_Gandhi,_(1907_Chromolithograph).jpg",
-    "date": "1907"
+    "date": "1907",
+    "slug": "marriage-of-malsya-gandhi-1907"
   },
   {
     "title": "Mohini and Rugmangada (1899)",
@@ -2320,7 +2447,8 @@
     "year_start": 1899,
     "year_end": 1899,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mohini_and_Rugmangada_(1899).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mohini_and_Rugmangada_(1899).jpg",
+    "slug": "mohini-and-rugmangada-1899"
   },
   {
     "title": "Radha and Sakhi (Oleographic print)",
@@ -2339,7 +2467,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Radha_and_Sakhi_(Oleographic_print).jpg",
-    "date": "before 1910"
+    "date": "before 1910",
+    "slug": "radha-and-sakhi-oleographic-print"
   },
   {
     "title": "Sairandhri (1891)",
@@ -2358,7 +2487,8 @@
     "year_start": 1891,
     "year_end": 1891,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sairandhri_(1891)_(cropped).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sairandhri_(1891)_(cropped).jpg",
+    "slug": "sairandhri-1891"
   },
   {
     "title": "Shantanu and Matsyagandhi (Oleograph)",
@@ -2377,7 +2507,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Shantanu_and_Matsyagandhi_(Oleograph).jpg",
-    "date": "before 1910"
+    "date": "before 1910",
+    "slug": "shantanu-and-matsyagandhi-oleograph"
   },
   {
     "title": "Simhika and Sairandhri",
@@ -2396,7 +2527,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Simhika_and_Sairandhri.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "simhika-and-sairandhri"
   },
   {
     "title": "Swan Messenger",
@@ -2415,7 +2547,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Swan_Messenger.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "swan-messenger"
   },
   {
     "title": "Usha's Dream (oleographic print)",
@@ -2434,7 +2567,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Usha%27s_Dream_(oleographic_print).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "usha-s-dream-oleographic-print"
   },
   {
     "title": "Vishwamitra and Menaka (oleographic print)",
@@ -2453,7 +2587,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Vishwamitra_and_Menaka_(oleographic_print).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "vishwamitra-and-menaka-oleographic-print"
   },
   {
     "title": "Yasoda Adorning Krishna",
@@ -2472,7 +2607,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasoda_Adorning_Krishna.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "yasoda-adorning-krishna"
   },
   {
     "title": "Yasoda with Krishna",
@@ -2491,7 +2627,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasoda_with_Krishna.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "yasoda-with-krishna"
   },
   {
     "title": "Yasodha and Krishna (1901)",
@@ -2510,7 +2647,8 @@
     "year_start": 1901,
     "year_end": 1901,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasodha_and_Krishna_(1901).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasodha_and_Krishna_(1901).jpg",
+    "slug": "yasodha-and-krishna-1901"
   },
   {
     "title": "A swan telling Damayanti of Nala's love",
@@ -2529,7 +2667,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:A_swan_telling_Damayanti_of_Nala%27s_love._Chromolithograph_by_Wellcome_V0045111.jpg",
-    "date": ""
+    "date": "",
+    "slug": "a-swan-telling-damayanti-of-nala-s-love"
   },
   {
     "title": "Damayanti and the Swan",
@@ -2548,7 +2687,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Damayanti_and_the_Swan.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "damayanti-and-the-swan"
   },
   {
     "title": "Hansa Damayanthi",
@@ -2567,7 +2707,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hansa_Damayanthi.jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "hansa-damayanthi"
   },
   {
     "title": "Hansa damayanti",
@@ -2586,7 +2727,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Hansa_damayanti.jpg",
-    "date": "April 29, 1848 - October 2, 1906"
+    "date": "April 29, 1848 - October 2, 1906",
+    "slug": "hansa-damayanti"
   },
   {
     "title": "Princess Damayanthi talking with Royal Swan about Nala",
@@ -2605,7 +2747,8 @@
     "year_end": 1899,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
-    "date": "1899"
+    "date": "1899",
+    "slug": "princess-damayanthi-talking-with-royal-swan-about-nala"
   },
   {
     "title": "Draupadi and Simhika",
@@ -2624,7 +2767,8 @@
     "year_end": 1896,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Draupadi_and_Simhika.jpg",
-    "date": "1896"
+    "date": "1896",
+    "slug": "draupadi-and-simhika"
   },
   {
     "title": "Shaivya Taramati",
@@ -2643,7 +2787,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shaivya_Taramati.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "shaivya-taramati"
   },
   {
     "title": "Sudeshna and Draupathi",
@@ -2662,7 +2807,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sudeshna_and_Draupathi.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sudeshna-and-draupathi"
   },
   {
     "title": "Viswamitra",
@@ -2681,7 +2827,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Viswamitra.jpg",
-    "date": "Date not mentioned"
+    "date": "Date not mentioned",
+    "slug": "viswamitra"
   },
   {
     "title": "Yesoda-krishna",
@@ -2700,7 +2847,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Yesoda-krishna.jpg",
-    "date": ""
+    "date": "",
+    "slug": "yesoda-krishna"
   },
   {
     "title": "Ahalya crop",
@@ -2719,7 +2867,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ahalya_crop.jpg",
-    "date": ""
+    "date": "",
+    "slug": "ahalya-crop"
   },
   {
     "title": "Ahalya Indravalokan",
@@ -2738,7 +2887,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ahalya_Indravalokan.jpg",
-    "date": "exact date unknown"
+    "date": "exact date unknown",
+    "slug": "ahalya-indravalokan"
   },
   {
     "title": "Ahalya rama",
@@ -2757,7 +2907,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ahalya_rama.jpg",
-    "date": "before 1910"
+    "date": "before 1910",
+    "slug": "ahalya-rama"
   },
   {
     "title": "Ahalya",
@@ -2776,7 +2927,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ahalya.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "ahalya"
   },
   {
     "title": "Kaikeyi vilap",
@@ -2795,7 +2947,8 @@
     "year_end": 1895,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kaikeyi_vilap.jpg",
-    "date": "circa 1895"
+    "date": "circa 1895",
+    "slug": "kaikeyi-vilap"
   },
   {
     "title": "Bharat Milap (Lithographic Print)",
@@ -2814,7 +2967,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Bharat_Milap_(Lithographic_Print).jpg",
-    "date": "before 1910"
+    "date": "before 1910",
+    "slug": "bharat-milap-lithographic-print"
   },
   {
     "title": "Jatayu vadha",
@@ -2833,7 +2987,8 @@
     "year_start": 1906,
     "year_end": 1906,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Jatayu_vadha,_1906.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Jatayu_vadha,_1906.jpg",
+    "slug": "jatayu-vadha"
   },
   {
     "title": "Sita taken by Goddess Earth",
@@ -2852,7 +3007,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sita_taken_by_Goddess_Earth.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sita-taken-by-goddess-earth"
   },
   {
     "title": "Sree Rama Crossing Sarayu river",
@@ -2871,7 +3027,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sree_Rama_Crossing_Sarayu_river.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sree-rama-crossing-sarayu-river"
   },
   {
     "title": "Ram & Laxman",
@@ -2890,7 +3047,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ram_%26_Laxman.JPG",
-    "date": "not mentioned"
+    "date": "not mentioned",
+    "slug": "ram-laxman"
   },
   {
     "title": "Rama breaking the bow to win Sita as wife",
@@ -2909,7 +3067,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rama_breaking_the_bow_to_win_Sita_as_wife.jpg",
-    "date": "early 20th century"
+    "date": "early 20th century",
+    "slug": "rama-breaking-the-bow-to-win-sita-as-wife"
   },
   {
     "title": "Rama breaking the bow",
@@ -2928,7 +3087,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rama_breaking_the_bow.jpg",
-    "date": "early 20th century"
+    "date": "early 20th century",
+    "slug": "rama-breaking-the-bow"
   },
   {
     "title": "Rama crossing Sarayu in Ivory",
@@ -2947,7 +3107,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rama_crossing_Sarayu_in_Ivory.jpg",
-    "date": ""
+    "date": "",
+    "slug": "rama-crossing-sarayu-in-ivory"
   },
   {
     "title": "Rama releasing Ahalya from curse",
@@ -2966,7 +3127,8 @@
     "year_end": 1910,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rama_releasing_Ahalya_from_curse.jpg",
-    "date": "before 1910"
+    "date": "before 1910",
+    "slug": "rama-releasing-ahalya-from-curse"
   },
   {
     "title": "Ramapanchayan",
@@ -2985,7 +3147,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ramapanchayan,_Raja_Ravi_Varma_(Lithograph).jpg",
-    "date": "before 1906"
+    "date": "before 1906",
+    "slug": "ramapanchayan"
   },
   {
     "title": "Rama-breaking-bow",
@@ -3004,7 +3167,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Rama-breaking-bow.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "rama-breaking-bow"
   },
   {
     "title": "Sita(1)",
@@ -3023,7 +3187,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sita(1).jpg",
-    "date": "19th century"
+    "date": "19th century",
+    "slug": "sita-1"
   },
   {
     "title": "Urvashi-Pururavas",
@@ -3042,7 +3207,8 @@
     "year_end": 1890,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Urvashi-Pururavas_by_RRV.jpg",
-    "date": "1890"
+    "date": "1890",
+    "slug": "urvashi-pururavas"
   },
   {
     "title": "Chinmabai",
@@ -3061,7 +3227,8 @@
     "year_end": 1889,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Chinmabai.jpg",
-    "date": "1889"
+    "date": "1889",
+    "slug": "chinmabai"
   },
   {
     "title": "Draupadikichaka",
@@ -3080,7 +3247,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadikichaka.jpg",
-    "date": "Not MENTIONED"
+    "date": "Not MENTIONED",
+    "slug": "draupadikichaka"
   },
   {
     "title": "Draupadisairendri",
@@ -3099,7 +3267,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadisairendri.jpg",
-    "date": "Not MENTIONED"
+    "date": "Not MENTIONED",
+    "slug": "draupadisairendri"
   },
   {
     "title": "Draupadisimhika1",
@@ -3118,7 +3287,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadisimhika1.jpg",
-    "date": "Not MENTIONED"
+    "date": "Not MENTIONED",
+    "slug": "draupadisimhika1"
   },
   {
     "title": "Draupadisimhika1b",
@@ -3137,7 +3307,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Draupadisimhika1b.jpg",
-    "date": "Not MENTIONED"
+    "date": "Not MENTIONED",
+    "slug": "draupadisimhika1b"
   },
   {
     "title": "HH Subbamma Bai Sahib Rani of Pudukottai",
@@ -3156,7 +3327,8 @@
     "year_end": 1879,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:HH_Subbamma_Bai_Sahib_Rani_of_Pudukottai.jpg",
-    "date": "1879"
+    "date": "1879",
+    "slug": "hh-subbamma-bai-sahib-rani-of-pudukottai"
   },
   {
     "title": "Malabar Beauty",
@@ -3175,7 +3347,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Malabar_Beauty,_by_Raja_Ravi_Varma.jpg",
-    "date": "before 1906"
+    "date": "before 1906",
+    "slug": "malabar-beauty"
   },
   {
     "title": "Malayali Lady",
@@ -3194,7 +3367,8 @@
     "year_end": 1892,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Malayali_Lady,_by_Raja_Ravi_Varma.jpg",
-    "date": "1892"
+    "date": "1892",
+    "slug": "malayali-lady"
   },
   {
     "title": "Mandodari",
@@ -3213,7 +3387,8 @@
     "year_end": 1910,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Mandodari,_by_Raja_Ravi_Varma_(cropped).jpg",
-    "date": "circa 1910"
+    "date": "circa 1910",
+    "slug": "mandodari"
   },
   {
     "title": "Mother preparing vegetables",
@@ -3232,7 +3407,8 @@
     "year_end": 1900,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Mother_preparing_vegetables.jpg",
-    "date": "1900"
+    "date": "1900",
+    "slug": "mother-preparing-vegetables"
   },
   {
     "title": "Panchakanya",
@@ -3251,7 +3427,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Panchakanya_by_Raja_Ravi_Varma.jpg",
-    "date": ""
+    "date": "",
+    "slug": "panchakanya"
   },
   {
     "title": "Portrait of a Lady - Google Art Project",
@@ -3270,7 +3447,8 @@
     "year_end": 1893,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Portrait_of_a_Lady_-_Google_Art_Project.jpg",
-    "date": "1893"
+    "date": "1893",
+    "slug": "portrait-of-a-lady-google-art-project"
   },
   {
     "title": "Shakuntala writing a love letter on a lotus leaf",
@@ -3289,7 +3467,8 @@
     "year_end": 1885,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
-    "date": "between 1880 and 1885"
+    "date": "between 1880 and 1885",
+    "slug": "shakuntala-writing-a-love-letter-on-a-lotus-leaf"
   },
   {
     "title": "Woman Holding a Fan VA AC 2006AU7185",
@@ -3308,7 +3487,8 @@
     "year_end": 1900,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Woman_Holding_a_Fan_VA_AC_2006AU7185.jpg",
-    "date": "between circa 1895 and circa 1900"
+    "date": "between circa 1895 and circa 1900",
+    "slug": "woman-holding-a-fan-va-ac-2006au7185"
   },
   {
     "title": "Woman Holding a Fruit - Google Art Project",
@@ -3327,7 +3507,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Woman_Holding_a_Fruit_-_Google_Art_Project.jpg",
-    "date": "late 19th century"
+    "date": "late 19th century",
+    "slug": "woman-holding-a-fruit-google-art-project"
   },
   {
     "title": "A Portrait (Village girl)",
@@ -3346,7 +3527,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_A_Portrait_(Village_girl).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "a-portrait-village-girl"
   },
   {
     "title": "Decking the bride",
@@ -3365,7 +3547,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Decking_the_bride.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "decking-the-bride"
   },
   {
     "title": "Lady at Ball Game",
@@ -3384,7 +3567,8 @@
     "year_end": 1894,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_at_Ball_Game.jpg",
-    "date": "circa 1894"
+    "date": "circa 1894",
+    "slug": "lady-at-ball-game"
   },
   {
     "title": "Lady Going for Pooja",
@@ -3403,7 +3587,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Going_for_Pooja.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-going-for-pooja"
   },
   {
     "title": "Lady in Prison",
@@ -3422,7 +3607,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_in_Prison.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-in-prison"
   },
   {
     "title": "Lady in the Moon Light (1889)",
@@ -3441,7 +3627,8 @@
     "year_start": 1889,
     "year_end": 1889,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_in_the_Moon_Light_(1889).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_in_the_Moon_Light_(1889).jpg",
+    "slug": "lady-in-the-moon-light-1889"
   },
   {
     "title": "Lady Juggler",
@@ -3460,7 +3647,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Juggler.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-juggler"
   },
   {
     "title": "Lady with Jewels",
@@ -3479,7 +3667,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_with_Jewels.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-with-jewels"
   },
   {
     "title": "Maharani Chimanbai (younger age 2)",
@@ -3498,7 +3687,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Maharani_Chimanbai_(younger_age_2).jpg",
-    "date": "Date not mentioned"
+    "date": "Date not mentioned",
+    "slug": "maharani-chimanbai-younger-age-2"
   },
   {
     "title": "Maharashtrian Beauty",
@@ -3517,7 +3707,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Maharashtrian_Beauty.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "maharashtrian-beauty"
   },
   {
     "title": "Mrs. Ramanadha Rao",
@@ -3536,7 +3727,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Mrs._Ramanadha_Rao.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "mrs-ramanadha-rao"
   },
   {
     "title": "Portrait of a Lady",
@@ -3555,7 +3747,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Portrait_of_a_Lady.jpg",
-    "date": "Date not mentioned"
+    "date": "Date not mentioned",
+    "slug": "portrait-of-a-lady"
   },
   {
     "title": "Princess Tharabai",
@@ -3574,7 +3767,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Princess_Tharabai.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "princess-tharabai"
   },
   {
     "title": "The Lady with a Mirror (1894)",
@@ -3593,7 +3787,8 @@
     "year_start": 1894,
     "year_end": 1894,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Lady_with_a_Mirror_(1894).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Lady_with_a_Mirror_(1894).jpg",
+    "slug": "the-lady-with-a-mirror-1894"
   },
   {
     "title": "The Milkmaid (1904)",
@@ -3612,7 +3807,8 @@
     "year_start": 1904,
     "year_end": 1904,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Milkmaid_(1904).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Milkmaid_(1904).jpg",
+    "slug": "the-milkmaid-1904"
   },
   {
     "title": "The Parsee Lady",
@@ -3631,7 +3827,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Parsee_Lady.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "the-parsee-lady"
   },
   {
     "title": "The suckling child",
@@ -3650,7 +3847,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_suckling_child.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "the-suckling-child"
   },
   {
     "title": "Vasanthasena (Oleographic print)",
@@ -3669,7 +3867,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Vasanthasena_(Oleographic_print).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "vasanthasena-oleographic-print"
   },
   {
     "title": "Lady playing the swarbat",
@@ -3688,7 +3887,8 @@
     "year_end": 1874,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Lady_playing_the_swarbat.jpg",
-    "date": "1874"
+    "date": "1874",
+    "slug": "lady-playing-the-swarbat"
   },
   {
     "title": "Swarbat player jewellery",
@@ -3707,7 +3907,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Swarbat_player_jewellery.jpg",
-    "date": ""
+    "date": "",
+    "slug": "swarbat-player-jewellery"
   },
   {
     "title": "violin",
@@ -3726,7 +3927,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-violin.jpg",
-    "date": ""
+    "date": "",
+    "slug": "violin"
   },
   {
     "title": "Shakuntala lost in Dushyanta's thoughts",
@@ -3745,7 +3947,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shakuntala_lost_in_Dushyanta%27s_thoughts.jpg",
-    "date": "(1848 - 1906)"
+    "date": "(1848 - 1906)",
+    "slug": "shakuntala-lost-in-dushyanta-s-thoughts"
   },
   {
     "title": "Tara",
@@ -3764,7 +3967,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Tara,_by_Raja_Ravi_Varma.jpg",
-    "date": "early 20th century"
+    "date": "early 20th century",
+    "slug": "tara"
   },
   {
     "title": "The Begum's Bath",
@@ -3783,7 +3987,8 @@
     "year_end": 1906,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Begum%27s_Bath,_by_Raja_Ravi_Varma.jpg",
-    "date": "before 1906"
+    "date": "before 1906",
+    "slug": "the-begum-s-bath"
   },
   {
     "title": "The Coquette",
@@ -3802,7 +4007,8 @@
     "year_end": 1893,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:The_Coquette.jpg",
-    "date": "1893"
+    "date": "1893",
+    "slug": "the-coquette"
   },
   {
     "title": "There Comes Papa",
@@ -3821,7 +4027,8 @@
     "year_end": 1893,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:There_Comes_Papa,_by_Raja_Ravi_Varma.jpg",
-    "date": "1893-05"
+    "date": "1893-05",
+    "slug": "there-comes-papa"
   },
   {
     "title": "Water carrier",
@@ -3840,7 +4047,8 @@
     "year_end": 1894,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Water_carrier.jpg",
-    "date": "1894"
+    "date": "1894",
+    "slug": "water-carrier"
   },
   {
     "title": "A native noble man",
@@ -3859,7 +4067,8 @@
     "year_end": 1901,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:A_native_noble_man.jpg",
-    "date": "1901"
+    "date": "1901",
+    "slug": "a-native-noble-man"
   },
   {
     "title": "Kerala Varma Valiya Koil Thampuran Changanassery Lakshmipuram Palace",
@@ -3878,7 +4087,8 @@
     "year_end": 1880,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Kerala_Varma_Valiya_Koil_Thampuran_Changanassery_Lakshmipuram_Palace.jpg",
-    "date": "1880"
+    "date": "1880",
+    "slug": "kerala-varma-valiya-koil-thampuran-changanassery-lakshmipura"
   },
   {
     "title": "Maharaja SAYAJIRAO",
@@ -3897,7 +4107,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Maharaja_SAYAJIRAO_1.jpg",
-    "date": "19th century"
+    "date": "19th century",
+    "slug": "maharaja-sayajirao"
   },
   {
     "title": "Painting of Maharana Raj Singh - I (1652 - 80)",
@@ -3916,7 +4127,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Painting_of_Maharana_Raj_Singh_-_I_(1652_-_80).jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "painting-of-maharana-raj-singh-i-1652-80"
   },
   {
     "title": "Raja Dambadas Ramachandra",
@@ -3935,7 +4147,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Dambadas_Ramachandra.png",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "raja-dambadas-ramachandra"
   },
   {
     "title": "Lord Ampthill (1905)",
@@ -3954,7 +4167,8 @@
     "year_start": 1905,
     "year_end": 1905,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lord_Ampthill_(1905).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lord_Ampthill_(1905).jpg",
+    "slug": "lord-ampthill-1905"
   },
   {
     "title": "Nobleman from Central India",
@@ -3973,7 +4187,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Nobleman_from_Central_India.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "nobleman-from-central-india"
   },
   {
     "title": "Puddukotta Durbar",
@@ -3992,7 +4207,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Puddukotta_Durbar.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "puddukotta-durbar"
   },
   {
     "title": "The Miser (1901)",
@@ -4011,7 +4227,8 @@
     "year_start": 1901,
     "year_end": 1901,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Miser_(1901).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_The_Miser_(1901).jpg",
+    "slug": "the-miser-1901"
   },
   {
     "title": "RajaRaviVarma MaharanaPratap",
@@ -4030,7 +4247,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:RajaRaviVarma_MaharanaPratap.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "rajaravivarma-maharanapratap"
   },
   {
     "title": "Rajput soldier",
@@ -4049,7 +4267,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Rajput_soldier.jpg",
-    "date": ""
+    "date": "",
+    "slug": "rajput-soldier"
   },
   {
     "title": "Shivaji",
@@ -4068,7 +4287,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Shivaji_by_Raja_Ravi_Varma.JPG",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "shivaji"
   },
   {
     "title": "Sri Shivaji Maharraj",
@@ -4087,7 +4307,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Sri_Shivaji_Maharraj.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sri-shivaji-maharraj"
   },
   {
     "title": "Veera Kerala Varma Pazhassi Raja",
@@ -4106,7 +4327,8 @@
     "year_end": 1898,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Veera_Kerala_Varma_Pazhassi_Raja.jpg",
-    "date": "1898"
+    "date": "1898",
+    "slug": "veera-kerala-varma-pazhassi-raja"
   },
   {
     "title": "Lady Playing the Swarabat",
@@ -4125,7 +4347,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Playing_the_Swarabat.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-playing-the-swarabat"
   },
   {
     "title": "Lady Resting on the Pillow",
@@ -4144,7 +4367,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lady_Resting_on_the_Pillow.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "lady-resting-on-the-pillow"
   },
   {
     "title": "Sleeping Beauty",
@@ -4163,7 +4387,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Sleeping_Beauty.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "sleeping-beauty"
   },
   {
     "title": "Woman with veena",
@@ -4182,7 +4407,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Woman_with_veena_by_Raja_Ravi_Varma.jpg",
-    "date": "Unknown date"
+    "date": "Unknown date",
+    "slug": "woman-with-veena"
   },
   {
     "title": "Early to the Fair",
@@ -4201,7 +4427,8 @@
     "year_end": 1902,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Early_to_the_Fair.jpg",
-    "date": "1902"
+    "date": "1902",
+    "slug": "early-to-the-fair"
   },
   {
     "title": "Raja ravivarma painting 50 historic meeting",
@@ -4220,7 +4447,8 @@
     "year_end": 1881,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_ravivarma_painting_50_historic_meeting.jpg",
-    "date": "1881"
+    "date": "1881",
+    "slug": "raja-ravivarma-painting-50-historic-meeting"
   },
   {
     "title": "Udaipur palace landscape",
@@ -4239,7 +4467,8 @@
     "year_end": null,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Udaipur_palace_landscape_by_RRV.jpg",
-    "date": ""
+    "date": "",
+    "slug": "udaipur-palace-landscape"
   },
   {
     "title": "Rani Bharani Thirunal Lakshmi Bayi of Travancore (1848–1901)",
@@ -4258,6 +4487,7 @@
     "year_end": 1883,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Rani_Bharani_Thirunal_Lakshmi_Bayi_of_Travancore_(1848%E2%80%931901).jpg",
-    "date": "1883"
+    "date": "1883",
+    "slug": "rani-bharani-thirunal-lakshmi-bayi-of-travancore-18481901"
   }
 ]

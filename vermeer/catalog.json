@@ -18,7 +18,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Christ_in_the_House_of_Martha_and_Mary_(Vermeer)",
     "year_start": 1654,
     "year_end": 1655,
-    "circa": true
+    "circa": true,
+    "slug": "christ-in-the-house-of-martha-and-mary"
   },
   {
     "commons_filename": "SaintPraxedisJohannesVermeerPainting.jpg",
@@ -39,7 +40,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Saint_Praxedis_(painting)",
     "year_start": 1655,
     "year_end": 1655,
-    "circa": false
+    "circa": false,
+    "slug": "saint-praxedis"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
@@ -60,7 +62,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Diana_and_Her_Companions",
     "year_start": 1653,
     "year_end": 1656,
-    "circa": true
+    "circa": true,
+    "slug": "diana-and-her-companions"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg",
@@ -81,7 +84,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Procuress_(Vermeer)",
     "year_start": 1656,
     "year_end": 1656,
-    "circa": false
+    "circa": false,
+    "slug": "the-procuress"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_(ca._1657-59).jpg",
@@ -102,7 +106,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_Reading_a_Letter_at_an_Open_Window",
     "year_start": 1657,
     "year_end": 1659,
-    "circa": true
+    "circa": true,
+    "slug": "girl-reading-a-letter-at-an-open-window-also-known-as-young"
   },
   {
     "commons_filename": "Vermeer_young_women_sleeping.jpg",
@@ -123,7 +128,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/A_Girl_Asleep_(Vermeer)",
     "year_start": 1656,
     "year_end": 1657,
-    "circa": false
+    "circa": false,
+    "slug": "a-girl-asleep-also-known-as-a-maid-asleep"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft,_bekend_als_'Het_straatje'_-_Google_Art_Project.jpg",
@@ -144,7 +150,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Little_Street",
     "year_start": 1657,
     "year_end": 1658,
-    "circa": true
+    "circa": true,
+    "slug": "the-little-street"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
@@ -165,7 +172,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Officer_with_a_Laughing_Girl",
     "year_start": 1657,
     "year_end": 1657,
-    "circa": true
+    "circa": true,
+    "slug": "officer-with-a-laughing-girl-also-known-as-officer-and-laugh"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
@@ -186,7 +194,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
     "year_start": 1657,
     "year_end": 1658,
-    "circa": true
+    "circa": true,
+    "slug": "the-milkmaid"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
@@ -207,7 +216,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Wine_Glass",
     "year_start": 1658,
     "year_end": 1660,
-    "circa": false
+    "circa": false,
+    "slug": "the-wine-glass-also-known-as-a-lady-drinking-and-a-gentleman"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_006.jpg",
@@ -228,7 +238,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Girl_with_the_Wineglass",
     "year_start": 1659,
     "year_end": 1659,
-    "circa": true
+    "circa": true,
+    "slug": "the-girl-with-the-wineglass"
   },
   {
     "commons_filename": "Vermeer-view-of-delft.jpg",
@@ -249,7 +260,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/View_of_Delft_(Vermeer)",
     "year_start": 1659,
     "year_end": 1660,
-    "circa": false
+    "circa": false,
+    "slug": "view-of-delft"
   },
   {
     "commons_filename": "Vermeer_Girl_Interrupted_at_Her_Music.jpg",
@@ -270,7 +282,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_Interrupted_at_Her_Music",
     "year_start": 1658,
     "year_end": 1661,
-    "circa": false
+    "circa": false,
+    "slug": "girl-interrupted-at-her-music"
   },
   {
     "commons_filename": "Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
@@ -291,7 +304,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_Reading_a_Letter_(Vermeer)",
     "year_start": 1657,
     "year_end": 1664,
-    "circa": false
+    "circa": false,
+    "slug": "woman-reading-a-letter"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_014.jpg",
@@ -312,7 +326,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Music_Lesson",
     "year_start": 1662,
     "year_end": 1662,
-    "circa": false
+    "circa": false,
+    "slug": "the-music-lesson-also-known-as-a-lady-at-the-virginals-with"
   },
   {
     "commons_filename": "Vermeer_-_Woman_with_a_Lute_near_a_window.jpg",
@@ -333,7 +348,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Lute",
     "year_start": 1662,
     "year_end": 1664,
-    "circa": true
+    "circa": true,
+    "slug": "woman-with-a-lute"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
@@ -354,7 +370,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Pearl_Necklace",
     "year_start": 1662,
     "year_end": 1664,
-    "circa": false
+    "circa": false,
+    "slug": "woman-with-a-pearl-necklace"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_019.jpg",
@@ -375,7 +392,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Water_Jug_(Vermeer)",
     "year_start": 1660,
     "year_end": 1662,
-    "circa": true
+    "circa": true,
+    "slug": "woman-with-a-water-jug-also-known-as-young-woman-with-a-wate"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg",
@@ -396,7 +414,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance",
     "year_start": 1662,
     "year_end": 1663,
-    "circa": true
+    "circa": true,
+    "slug": "woman-holding-a-balance-also-known-as-woman-with-a-balance"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg",
@@ -417,7 +436,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/A_Lady_Writing_a_Letter",
     "year_start": 1665,
     "year_end": 1666,
-    "circa": false
+    "circa": false,
+    "slug": "a-lady-writing-a-letter"
   },
   {
     "commons_filename": "1665_Girl_with_a_Pearl_Earring.jpg",
@@ -438,7 +458,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
     "year_start": 1665,
     "year_end": 1665,
-    "circa": true
+    "circa": true,
+    "slug": "girl-with-a-pearl-earring-also-known-as-girl-in-a-turban-hea"
   },
   {
     "commons_filename": "Vermeer_The_concert.JPG",
@@ -459,7 +480,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Concert_(Vermeer)",
     "year_start": 1665,
     "year_end": 1666,
-    "circa": false
+    "circa": false,
+    "slug": "the-concert"
   },
   {
     "commons_filename": "Vermeer-Portrait_of_a_Young_Woman.jpg",
@@ -480,7 +502,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(Vermeer,_New_York)",
     "year_start": 1665,
     "year_end": 1667,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-young-woman-also-known-as-study-of-a-young-wom"
   },
   {
     "commons_filename": "Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
@@ -501,7 +524,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Art_of_Painting",
     "year_start": 1666,
     "year_end": 1667,
-    "circa": true
+    "circa": true,
+    "slug": "the-allegory-of-painting-also-known-as-the-art-of-painting"
   },
   {
     "commons_filename": "Vermeer_Lady_Maidservant_Holding_Letter.jpg",
@@ -522,7 +546,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Mistress_and_Maid",
     "year_start": 1667,
     "year_end": 1667,
-    "circa": false
+    "circa": false,
+    "slug": "mistress-and-maid-also-known-as-lady-with-her-maidservant-ho"
   },
   {
     "commons_filename": "Vermeer_-_Girl_with_a_Red_Hat.JPG",
@@ -543,7 +568,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_with_a_Red_Hat",
     "year_start": 1665,
     "year_end": 1668,
-    "circa": true
+    "circa": true,
+    "slug": "girl-with-a-red-hat-attribution-to-vermeer-has-been-question"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
@@ -564,7 +590,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Astronomer_(Vermeer)",
     "year_start": 1668,
     "year_end": 1668,
-    "circa": false
+    "circa": false,
+    "slug": "the-astronomer"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
@@ -585,7 +612,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Geographer",
     "year_start": 1668,
     "year_end": 1668,
-    "circa": false
+    "circa": false,
+    "slug": "the-geographer"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_The_lacemaker_(c.1669-1671).jpg",
@@ -606,7 +634,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Lacemaker_(Vermeer)",
     "year_start": 1669,
     "year_end": 1669,
-    "circa": false
+    "circa": false,
+    "slug": "the-lacemaker"
   },
   {
     "commons_filename": "Vermeer,_Johannes_-_The_Loveletter.jpg",
@@ -627,7 +656,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Love_Letter_(Vermeer)",
     "year_start": 1669,
     "year_end": 1669,
-    "circa": false
+    "circa": false,
+    "slug": "the-love-letter"
   },
   {
     "commons_filename": "Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg",
@@ -648,7 +678,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/A_Young_Woman_Seated_at_the_Virginals",
     "year_start": 1670,
     "year_end": 1670,
-    "circa": true
+    "circa": true,
+    "slug": "a-young-woman-seated-at-the-virginals"
   },
   {
     "commons_filename": "DublinVermeer.jpg",
@@ -669,7 +700,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Lady_Writing_a_Letter_with_her_Maid",
     "year_start": 1670,
     "year_end": 1670,
-    "circa": false
+    "circa": false,
+    "slug": "lady-writing-a-letter-with-her-maid"
   },
   {
     "commons_filename": "Johannes_Vermeer,_Allegory_of_the_Catholic_Faith,_The_Metropolitan_Museum_of_Art.jpg",
@@ -690,7 +722,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Allegory_of_Faith",
     "year_start": 1670,
     "year_end": 1674,
-    "circa": true
+    "circa": true,
+    "slug": "the-allegory-of-faith-also-known-as-allegory-of-the-faith"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_013.jpg",
@@ -711,7 +744,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Guitar_Player_(Vermeer)",
     "year_start": 1672,
     "year_end": 1672,
-    "circa": false
+    "circa": false,
+    "slug": "the-guitar-player"
   },
   {
     "commons_filename": "Jan_Vermeer_van_Delft_-_Lady_Standing_at_a_Virginal_-_National_Gallery,_London.jpg",
@@ -732,7 +766,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Lady_Standing_at_a_Virginal",
     "year_start": 1670,
     "year_end": 1675,
-    "circa": true
+    "circa": true,
+    "slug": "lady-standing-at-a-virginal-also-known-as-young-woman-standi"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Zittende_Klavecimbelspeelster_(1673-1675).jpg",
@@ -753,7 +788,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Lady_Seated_at_a_Virginal",
     "year_start": 1670,
     "year_end": 1675,
-    "circa": true
+    "circa": true,
+    "slug": "lady-seated-at-a-virginal-also-known-as-young-woman-seated-a"
   },
   {
     "commons_filename": "Johannes_Vermeer_-_Girl_with_a_flute_(c_1665-1670).jpg",
@@ -775,6 +811,7 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_with_a_Flute",
     "year_start": 1665,
     "year_end": 1670,
-    "circa": false
+    "circa": false,
+    "slug": "girl-with-a-flute-said-to-be-by-a-friend-or-imitator-of-verm"
   }
 ]

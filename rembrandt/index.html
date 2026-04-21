@@ -717,7 +717,7 @@ function openLb(idx) {
   renderLb();
   document.getElementById('lb').classList.add('open');
   document.body.style.overflow = 'hidden';
-  if (filtered[idx]) history.replaceState(null, '', '#' + filtered[idx].id);
+  if (filtered[idx]) history.replaceState(null, '', '#' + (filtered[idx].slug || filtered[idx].id));
 }
 function closeLb() {
   document.getElementById('lb').classList.remove('open');
@@ -729,6 +729,7 @@ function navLb(d) {
   if (lbIdx < 0) return;
   lbIdx = (lbIdx + d + filtered.length) % filtered.length;
   renderLb();
+  history.replaceState(null, '', '#' + (filtered[lbIdx].slug || filtered[lbIdx].id));
 }
 function renderLb() {
   const w = filtered[lbIdx];
@@ -755,10 +756,14 @@ function renderLb() {
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 
 function openFromHash() {
-  const m = (location.hash || '').match(/^#(?:id=)?(\d+)$/);
-  if (!m) return;
-  const id = parseInt(m[1]);
-  const idx = filtered.findIndex(w => w.id === id);
+  const raw = decodeURIComponent((location.hash || '').replace(/^#(?:id=)?/, ''));
+  if (!raw) return;
+  let idx = -1;
+  if (/^\d+$/.test(raw)) {
+    const id = parseInt(raw);
+    idx = filtered.findIndex(w => w.id === id);
+  }
+  if (idx < 0) idx = filtered.findIndex(w => w.slug === raw);
   if (idx >= 0) openLb(idx);
 }
 window.addEventListener('hashchange', openFromHash);

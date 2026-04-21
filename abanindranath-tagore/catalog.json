@@ -19,7 +19,8 @@
     "year_end": 1913,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "journey-s-end"
   },
   {
     "id": 2,
@@ -41,7 +42,8 @@
     "year_end": 1913,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "my-mother"
   },
   {
     "id": 3,
@@ -63,7 +65,8 @@
     "year_end": 1916,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "rabindranath-in-the-role-of-blind-singer"
   },
   {
     "id": 4,
@@ -85,7 +88,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "abanindranath-tagore-santhal-girl-ranchi"
   },
   {
     "id": 5,
@@ -107,7 +111,8 @@
     "year_end": 1930,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "sindbad-the-sailor"
   },
   {
     "id": 6,
@@ -129,7 +134,8 @@
     "year_end": 1926,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "village-music"
   },
   {
     "id": 7,
@@ -151,7 +157,8 @@
     "year_end": 1915,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "white-peacock"
   },
   {
     "id": 8,
@@ -173,7 +180,8 @@
     "year_end": 1911,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "tissarakshita-queen-of-asoka"
   },
   {
     "id": 9,
@@ -195,7 +203,8 @@
     "year_end": 1905,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "bharat-mata"
   },
   {
     "id": 10,
@@ -217,7 +226,8 @@
     "year_end": 1907,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "dewali-or-the-feast-of-lamps"
   },
   {
     "id": 11,
@@ -239,7 +249,8 @@
     "year_end": 1913,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "fairyland-illustration"
   },
   {
     "id": 12,
@@ -261,7 +272,8 @@
     "year_end": 1925,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "gandhi-portrait-painting-by-abanindranath-tagore"
   },
   {
     "id": 13,
@@ -283,7 +295,8 @@
     "year_end": 1907,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "in-quest-of-the-beloved-in-a-dark-night"
   },
   {
     "id": 14,
@@ -305,7 +318,8 @@
     "year_end": 1926,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "jamuna-sen-painter"
   },
   {
     "id": 15,
@@ -327,7 +341,8 @@
     "year_end": 1920,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "kala-paree-and-nidra-paree"
   },
   {
     "id": 16,
@@ -349,7 +364,8 @@
     "year_end": 1920,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "khoodeh-the-youngest-born"
   },
   {
     "id": 17,
@@ -371,7 +387,8 @@
     "year_end": 1920,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "padmalochan-the-weaver"
   },
   {
     "id": 18,
@@ -393,7 +410,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "parvati-playing-with-baby-ganesha"
   },
   {
     "id": 19,
@@ -415,7 +433,8 @@
     "year_end": 1893,
     "circa": true,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "portrait-of-rabindranath-tagore"
   },
   {
     "id": 20,
@@ -437,7 +456,8 @@
     "year_end": 1920,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "princess-kalabutti"
   },
   {
     "id": 21,
@@ -459,7 +479,8 @@
     "year_end": 1910,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "shah-jahan-dreams-of-the-taj-from-the-modern-review-vol-7-ja"
   },
   {
     "id": 22,
@@ -481,7 +502,8 @@
     "year_end": 1907,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "siddhas-of-the-upper-air"
   },
   {
     "id": 23,
@@ -503,7 +525,8 @@
     "year_end": 1908,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "sita-in-captivity-in-lanka"
   },
   {
     "id": 24,
@@ -525,7 +548,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "the-autobiography-of-maharshi-devendranath-tagore"
   },
   {
     "id": 25,
@@ -547,7 +571,8 @@
     "year_end": 1905,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "the-banished-yaksha"
   },
   {
     "id": 26,
@@ -569,7 +594,8 @@
     "year_end": null,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "footfalls-of-indian-history"
   },
   {
     "id": 27,
@@ -591,7 +617,8 @@
     "year_end": 1920,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "the-man-who-was-enriched-by-accident"
   },
   {
     "id": 28,
@@ -613,7 +640,8 @@
     "year_end": 1920,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Paintings by Abanindranath Tagore"
+    "harvest_method": "commons_category:Paintings by Abanindranath Tagore",
+    "slug": "the-man-who-was-only-a-finger-and-a-half-in-stature"
   },
   {
     "id": 29,
@@ -635,7 +663,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "abanindranath-tagore-the-victory-of-buddha-1914"
   },
   {
     "id": 30,
@@ -657,7 +686,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "the-bodhisattva-s-tusks"
   },
   {
     "id": 31,
@@ -679,7 +709,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "buddha-as-mendicant"
   },
   {
     "id": 32,
@@ -701,7 +732,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "building-of-rama-s-bridge"
   },
   {
     "id": 33,
@@ -723,7 +755,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "burning-of-lanka"
   },
   {
     "id": 34,
@@ -745,7 +778,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "damayanthi"
   },
   {
     "id": 35,
@@ -767,7 +801,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "departure-of-prince-siddhartha"
   },
   {
     "id": 36,
@@ -789,7 +824,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "kali-myths-of-the-hindus-and-buddhists"
   },
   {
     "id": 37,
@@ -811,7 +847,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "kaliya-damana"
   },
   {
     "id": 38,
@@ -833,7 +870,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "krishna-instucting-arjuna"
   },
   {
     "id": 39,
@@ -855,7 +893,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "manasa-myths-of-the-hindus-buddhists"
   },
   {
     "id": 40,
@@ -877,7 +916,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-buddha-as-mendicant"
   },
   {
     "id": 41,
@@ -899,7 +939,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-dhruva"
   },
   {
     "id": 42,
@@ -921,7 +962,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-ekalavya"
   },
   {
     "id": 43,
@@ -943,7 +985,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-garuda"
   },
   {
     "id": 44,
@@ -965,7 +1008,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-kirat-arjuna"
   },
   {
     "id": 45,
@@ -987,7 +1031,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-manasa-devi"
   },
   {
     "id": 46,
@@ -1009,7 +1054,8 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-pururavas"
   },
   {
     "id": 47,
@@ -1031,6 +1077,7 @@
     "year_end": 1914,
     "circa": false,
     "famous": false,
-    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations"
+    "harvest_method": "commons_category:Myths of the Hindus & Buddhists illustrations",
+    "slug": "myths-of-the-hindus-buddhists-shiva-drinking-the-world-poiso"
   }
 ]

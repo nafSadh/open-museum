@@ -18,7 +18,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Detroit_Trio",
     "year_start": 1500,
     "year_end": 1500,
-    "circa": true
+    "circa": true,
+    "slug": "detroit-trio-the-appeal"
   },
   {
     "commons_filename": "Tiziano_o_giorgione,_cristo_portacroce.jpg",
@@ -39,7 +40,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Christ_Carrying_the_Cross_(Titian)",
     "year_start": 1505,
     "year_end": 1505,
-    "circa": false
+    "circa": false,
+    "slug": "christ-carrying-the-cross"
   },
   {
     "commons_filename": "Madonna_and_Child_MET_DT5274.jpg",
@@ -60,7 +62,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Bache_Madonna",
     "year_start": 1508,
     "year_end": 1508,
-    "circa": true
+    "circa": true,
+    "slug": "madonna-and-child-bache-madonna"
   },
   {
     "commons_filename": "Titian_-_Flight_into_Egypt,_Circa_1508.jpg",
@@ -81,7 +84,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Flight_into_Egypt_(Titian)",
     "year_start": 1508,
     "year_end": 1508,
-    "circa": true
+    "circa": true,
+    "slug": "flight-into-egypt"
   },
   {
     "commons_filename": "Tiziano,_cristo_e_l'adultera,_glasgow.jpg",
@@ -103,7 +107,8 @@
     "year_start": 1508,
     "year_end": 1510,
     "circa": true,
-    "title_disambig": "1508–1510"
+    "title_disambig": "1508–1510",
+    "slug": "christ-and-the-adulteress"
   },
   {
     "commons_filename": "Titian_-_A_Man_with_a_Quilted_Sleeve_-_Google_Art_Project.jpg",
@@ -124,7 +129,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/A_Man_with_a_Quilted_Sleeve",
     "year_start": 1508,
     "year_end": 1510,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-man-a-man-with-a-quilted-sleeve"
   },
   {
     "commons_filename": "Titian_-_Portrait_of_a_Lady_('La_Schiavona')_-_Google_Art_Project.jpg",
@@ -145,7 +151,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/La_Schiavona",
     "year_start": 1509,
     "year_end": 1510,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-lady-la-schiavona"
   },
   {
     "commons_filename": "Le_Concert_champêtre,_by_Titian,_from_C2RMF_retouched.jpg",
@@ -166,7 +173,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Pastoral_Concert",
     "year_start": 1510,
     "year_end": 1510,
-    "circa": true
+    "circa": true,
+    "slug": "pastoral-concert"
   },
   {
     "commons_filename": "Portrait_of_a_Man_in_a_Red_Cap_-_Titian_c._1510.jpg",
@@ -187,7 +195,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_in_a_Red_Cap",
     "year_start": 1510,
     "year_end": 1510,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-man-in-a-red-cap"
   },
   {
     "commons_filename": "Attributed_to_Titian_(c._1488-Venice_1576)_-_The_Lovers_-_RCIN_403928_-_Royal_Collection.jpg",
@@ -208,7 +217,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Lovers_(Titian)",
     "year_start": 1510,
     "year_end": 1510,
-    "circa": true
+    "circa": true,
+    "slug": "the-lovers"
   },
   {
     "commons_filename": "Titian_-_St_Mark_Enthroned_with_Saints_-_WGA22765.jpg",
@@ -229,7 +239,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/St._Mark_Enthroned",
     "year_start": 1510,
     "year_end": 1510,
-    "circa": false
+    "circa": false,
+    "slug": "st-mark-enthroned"
   },
   {
     "commons_filename": "Tizian_023.jpg",
@@ -250,7 +261,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Miracle_of_the_Jealous_Husband",
     "year_start": 1511,
     "year_end": 1511,
-    "circa": false
+    "circa": false,
+    "slug": "the-jealous-husband"
   },
   {
     "commons_filename": "Tizian_024.jpg",
@@ -271,7 +283,8 @@
     "year_start": 1511,
     "year_end": 1511,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_024.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_024.jpg",
+    "slug": "miracle-of-the-irascible-son"
   },
   {
     "commons_filename": "Tizian_025.jpg",
@@ -292,7 +305,8 @@
     "year_start": 1511,
     "year_end": 1511,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_025.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_025.jpg",
+    "slug": "miracle-of-the-newborn-infant"
   },
   {
     "commons_filename": "Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg",
@@ -313,7 +327,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Noli_me_tangere_(Titian)",
     "year_start": 1511,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "noli-me-tangere"
   },
   {
     "commons_filename": "Portrait_d'une_Femme_à_sa_Toilette,_by_Titian,_from_C2RMF_retouched.jpg",
@@ -334,7 +349,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_with_a_Mirror",
     "year_start": 1511,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "woman-with-a-mirror"
   },
   {
     "commons_filename": "Titian_(c.1488-1576)_-_Portrait_of_an_Unknown_Man_(once_called_'Pietro_Aretino')_-_851770_-_National_Trust.jpg",
@@ -355,7 +371,8 @@
     "year_start": 1512,
     "year_end": 1512,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(c.1488-1576)_-_Portrait_of_an_Unknown_Man_(once_called_%27Pietro_Aretino%27)_-_851770_-_National_Trust.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(c.1488-1576)_-_Portrait_of_an_Unknown_Man_(once_called_%27Pietro_Aretino%27)_-_851770_-_National_Trust.jpg",
+    "slug": "an-unknown-man"
   },
   {
     "commons_filename": "Tizian_002.jpg",
@@ -376,7 +393,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Three_Ages_of_Man_(Titian)",
     "year_start": 1512,
     "year_end": 1512,
-    "circa": true
+    "circa": true,
+    "slug": "the-three-ages-of-man"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Gipsy_Madonna_-_Google_Art_Project.jpg",
@@ -397,7 +415,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Gypsy_Madonna",
     "year_start": 1512,
     "year_end": 1512,
-    "circa": true
+    "circa": true,
+    "slug": "madonna-and-child-the-gypsy-madonna"
   },
   {
     "commons_filename": "Tizian_095.jpg",
@@ -418,7 +437,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Baptism_of_Christ_(Titian)",
     "year_start": 1512,
     "year_end": 1512,
-    "circa": true
+    "circa": true,
+    "slug": "baptism-of-christ"
   },
   {
     "commons_filename": "Titian_Madonna_and_Child_with_Sts_Catherine_and_Dominic_and_a_Donor.jpg",
@@ -439,7 +459,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Balbi_Holy_Conversation",
     "year_start": 1512,
     "year_end": 1514,
-    "circa": true
+    "circa": true,
+    "slug": "balbi-holy-conversation-madonna-and-child-with-sts-catherine"
   },
   {
     "commons_filename": "Accademia_-_Archangel_Raphael_and_Tobit_by_Titian.jpg",
@@ -460,7 +481,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Archangel_Raphael_and_Tobias_(Titian)",
     "year_start": 1512,
     "year_end": 1514,
-    "circa": true
+    "circa": true,
+    "slug": "the-archangel-raphael-and-tobias"
   },
   {
     "commons_filename": "TITIAN;_Portrait_of_Jacopo_Sannazaro_(1514-18).JPG",
@@ -481,7 +503,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Jacopo_Sannazaro",
     "year_start": 1514,
     "year_end": 1518,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-jacopo-sannazaro"
   },
   {
     "commons_filename": "Tiziano_-_Flora_-_Google_Art_Project.jpg",
@@ -502,7 +525,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Flora_(Titian)",
     "year_start": 1515,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "flora"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_gen._Tizian,_Kunsthistorisches_Museum_Wien_-_Der_Arzt_Gian_Giacomo_Bartolotti_da_Parma_-_GG_94_-_Kunsthistorisches_Museum.jpg",
@@ -523,7 +547,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_the_Physician_Gian_Giacomo_Bartolotti_da_Parma",
     "year_start": 1515,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-the-physician-gian-giacomo-bartolotti-da-parma"
   },
   {
     "commons_filename": "Portrait_of_a_Man_MET_DT2774.jpg",
@@ -544,7 +569,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Titian,_New_York)",
     "year_start": 1515,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-man"
   },
   {
     "commons_filename": "Tiziano_salome.jpg",
@@ -566,7 +592,8 @@
     "year_start": 1515,
     "year_end": 1515,
     "circa": true,
-    "title_disambig": "1515"
+    "title_disambig": "1515",
+    "slug": "salome"
   },
   {
     "commons_filename": "Tizian_033.jpg",
@@ -587,7 +614,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Madonna_of_the_Cherries",
     "year_start": 1515,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "kirschenmadonna-madonna-of-the-cherries"
   },
   {
     "commons_filename": "Tiziano_-_Vanità_(Alte_Pinakothek_München).jpg",
@@ -608,7 +636,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Vanity_(Titian)",
     "year_start": 1515,
     "year_end": 1515,
-    "circa": true
+    "circa": true,
+    "slug": "vanity"
   },
   {
     "commons_filename": "Tizian_Violante_dsc01834.jpg",
@@ -629,7 +658,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Violante_(Titian)",
     "year_start": 1515,
     "year_end": 1516,
-    "circa": true
+    "circa": true,
+    "slug": "violante"
   },
   {
     "commons_filename": "Tiziano,_tarquinio_e_lucrezia.jpg",
@@ -650,7 +680,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Lucretia_and_her_Husband",
     "year_start": 1515,
     "year_end": 1520,
-    "circa": true
+    "circa": true,
+    "slug": "lucretia-and-her-husband-or-tarquin-and-lucretia-and-possibl"
   },
   {
     "commons_filename": "Tiziano,_ritratto_di_giovane_di_petworth_house.jpg",
@@ -671,7 +702,8 @@
     "year_start": 1515,
     "year_end": 1520,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tiziano,_ritratto_di_giovane_di_petworth_house.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tiziano,_ritratto_di_giovane_di_petworth_house.jpg",
+    "slug": "an-unknown-man-in-a-black-plumed-hat"
   },
   {
     "commons_filename": "Tiziano_-_Amor_Sacro_y_Amor_Profano_(Galería_Borghese,_Roma,_1514).jpg",
@@ -692,7 +724,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love",
     "year_start": 1515,
     "year_end": 1516,
-    "circa": true
+    "circa": true,
+    "slug": "sacred-and-profane-love"
   },
   {
     "commons_filename": "The_Tribute_Money_(1516)_-_Tizian_(Gemäldegalerie_Alte_Meister,_Dresden).jpg",
@@ -714,7 +747,8 @@
     "year_start": 1516,
     "year_end": 1516,
     "circa": true,
-    "title_disambig": "1516"
+    "title_disambig": "1516",
+    "slug": "the-tribute-money"
   },
   {
     "commons_filename": "Tizian_041.jpg",
@@ -735,7 +769,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)",
     "year_start": 1516,
     "year_end": 1518,
-    "circa": true
+    "circa": true,
+    "slug": "assumption-of-the-virgin"
   },
   {
     "commons_filename": "Tiziano,_Madonna_and_Child_with_Sts_Dorothy_and_George.jpg",
@@ -756,7 +791,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_George_and_Saint_Dorothy",
     "year_start": 1516,
     "year_end": 1516,
-    "circa": true
+    "circa": true,
+    "slug": "the-virgin-and-child-with-saint-george-and-saint-dorothy"
   },
   {
     "commons_filename": "Titian,_Virgin_and_Child_with_St_John_the_Baptist_and_an_Unidentified_Male_Saint,_Oil_on_canvas,_transferred_from_wood,_1517-1520..jpg",
@@ -777,7 +813,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_John_the_Baptist_and_an_Unidentified_Saint",
     "year_start": 1515,
     "year_end": 1520,
-    "circa": true
+    "circa": true,
+    "slug": "virgin-and-child-with-saint-john-the-baptist-and-an-unidenti"
   },
   {
     "commons_filename": "Bacanal_de_los_andrios.jpg",
@@ -798,7 +835,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Bacchanal_of_the_Andrians",
     "year_start": 1518,
     "year_end": 1519,
-    "circa": true
+    "circa": true,
+    "slug": "the-bacchanal-of-the-andrians"
   },
   {
     "commons_filename": "Ofrenda_a_Venus.jpg",
@@ -819,7 +857,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Worship_of_Venus",
     "year_start": 1518,
     "year_end": 1520,
-    "circa": false
+    "circa": false,
+    "slug": "the-worship-of-venus"
   },
   {
     "commons_filename": "Duomo_(Treviso)_-_Interior_-_Annunciation_by_Titian_crop.jpg",
@@ -840,7 +879,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Malchiostro_Annunciation",
     "year_start": 1520,
     "year_end": 1520,
-    "circa": true
+    "circa": true,
+    "slug": "malchiostro-annunciation"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_gen._Tizian,_Kunsthistorisches_Museum_Wien_-_Christus_und_die_Ehebrecherin_-_GG_114_-_Kunsthistorisches_Museum.jpg",
@@ -862,7 +902,8 @@
     "year_start": 1520,
     "year_end": 1520,
     "circa": true,
-    "title_disambig": "1520"
+    "title_disambig": "1520",
+    "slug": "christ-and-the-adulteress-1520"
   },
   {
     "commons_filename": "La_Vierge_à_l'_Enfant_avec_saint_Étienne,_saint_Jérôme_et_saint_Maurice_(Titian,_Louvre).jpg",
@@ -883,7 +924,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saints_Stephen,_Jerome_and_Maurice_(Titian,_Paris)",
     "year_start": 1510,
     "year_end": 1525,
-    "circa": true
+    "circa": true,
+    "slug": "virgin-and-child-with-saint-stephen-saint-jerome-and-saint-m"
   },
   {
     "commons_filename": "Maria_mit_Kind_und_den_Hll._Stephanus,_Hieronymus_und_Mauritius_(Titian,_Vienna).png",
@@ -904,7 +946,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saints_Stephen,_Jerome_and_Maurice_(Titian,_Vienna)",
     "year_start": 1520,
     "year_end": 1520,
-    "circa": true
+    "circa": true,
+    "slug": "mary-with-child-and-saints-stephen-jerome-and-mauritius"
   },
   {
     "commons_filename": "Tizian_071.jpg",
@@ -925,7 +968,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Vincenzo_Mosti",
     "year_start": 1520,
     "year_end": 1520,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-vincenzo-mosti"
   },
   {
     "commons_filename": "Tiziano,_pala_gozzi_01.jpg",
@@ -946,7 +990,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Gozzi_Altarpiece",
     "year_start": 1520,
     "year_end": 1520,
-    "circa": false
+    "circa": false,
+    "slug": "gozzi-altarpiece"
   },
   {
     "commons_filename": "Polittico_averoldi_01.jpg",
@@ -967,7 +1012,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Averoldi_Polyptych",
     "year_start": 1520,
     "year_end": 1522,
-    "circa": true
+    "circa": true,
+    "slug": "averoldi-polyptych"
   },
   {
     "commons_filename": "Titian_(Tiziano_Vecellio)_-_Venus_Rising_from_the_Sea_('Venus_Anadyomene')_-_Google_Art_Project.jpg",
@@ -988,7 +1034,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_Anadyomene_(Titian)",
     "year_start": 1520,
     "year_end": 1520,
-    "circa": true
+    "circa": true,
+    "slug": "venus-anadyomene"
   },
   {
     "commons_filename": "Tizian_006.jpg",
@@ -1009,7 +1056,8 @@
     "year_start": 1520,
     "year_end": 1522,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_006.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_006.jpg",
+    "slug": "center-panel-of-the-altarpiece-of-the-resurrection-the-avero"
   },
   {
     "commons_filename": "Titian_Bacchus_and_Ariadne.jpg",
@@ -1030,7 +1078,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Bacchus_and_Ariadne",
     "year_start": 1522,
     "year_end": 1523,
-    "circa": true
+    "circa": true,
+    "slug": "bacchus-and-ariadne"
   },
   {
     "commons_filename": "Tizian_079.jpg",
@@ -1051,7 +1100,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Man_with_a_Glove",
     "year_start": 1520,
     "year_end": 1523,
-    "circa": true
+    "circa": true,
+    "slug": "man-with-a-glove"
   },
   {
     "commons_filename": "Tizian_028.jpg",
@@ -1073,7 +1123,8 @@
     "year_start": 1523,
     "year_end": 1525,
     "circa": true,
-    "title_disambig": "1523–1525"
+    "title_disambig": "1523–1525",
+    "slug": "the-entombment"
   },
   {
     "commons_filename": "Frari_(Venice)_nave_left_-_Altar_of_Madona_di_Ca'Pesaro.jpg",
@@ -1094,7 +1145,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Pesaro_Madonna",
     "year_start": 1519,
     "year_end": 1526,
-    "circa": true
+    "circa": true,
+    "slug": "pesaro-madonna"
   },
   {
     "commons_filename": "Titian_madonna_of_frari_vatican.jpg",
@@ -1115,7 +1167,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Altarpiece_of_San_Nicol%C3%B2_della_Lattuga",
     "year_start": 1522,
     "year_end": 1526,
-    "circa": true
+    "circa": true,
+    "slug": "altarpiece-of-san-nicolo-della-lattuga"
   },
   {
     "commons_filename": "Tizian_-_Portrait_of_Federico_II_Gonzaga_-_circa_1525.jpg",
@@ -1136,7 +1189,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Federico_II_Gonzaga",
     "year_start": 1525,
     "year_end": 1528,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-federico-ii-gonzaga"
   },
   {
     "commons_filename": "La_Vierge_au_Lapin_à_la_Loupe.jpg",
@@ -1157,7 +1211,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Madonna_of_the_Rabbit",
     "year_start": 1530,
     "year_end": 1530,
-    "circa": false
+    "circa": false,
+    "slug": "madonna-and-child-with-saint-catherine-and-a-rabbit"
   },
   {
     "commons_filename": "Giacomo_Dolfin_(Tiziano).jpg",
@@ -1178,7 +1233,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Giacomo_di_Andrea_Dolfin",
     "year_start": 1531,
     "year_end": 1532,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-giacomo-di-andrea-dolfin"
   },
   {
     "commons_filename": "Titian_-_Portrait_of_a_Venetian_Gentleman_painted_over_a_copy_of_Giacomo_Dolfin.jpg",
@@ -1199,7 +1255,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Giacomo_di_Andrea_Dolfin#Copy",
     "year_start": 1530,
     "year_end": 1530,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-a-venetian-nobleman"
   },
   {
     "commons_filename": "Portrait_of_Cardinal_Ippolito_de'_Medici_in_a_Hungarian_Costume_(by_Titian)_-_Palazzo_Pitti,_Florence.jpg",
@@ -1220,7 +1277,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Ippolito_de%27_Medici",
     "year_start": 1532,
     "year_end": 1533,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-ippolito-de-medici"
   },
   {
     "commons_filename": "Titian_-_The_Virgin_and_Child_with_the_Infant_Saint_John_and_a_Female_Saint_or_Donor_('The_Aldobrandini_Madonna')_-_Google_Art_Project.jpg",
@@ -1241,7 +1299,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Aldobrandini_Madonna_(Titian)",
     "year_start": 1532,
     "year_end": 1532,
-    "circa": true
+    "circa": true,
+    "slug": "madonna-and-child-with-saint-john-the-baptist-and-saint-cath"
   },
   {
     "commons_filename": "Tizian_081.jpg",
@@ -1262,7 +1321,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Charles_V_with_a_Dog",
     "year_start": 1532,
     "year_end": 1533,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-charles-v-with-a-dog"
   },
   {
     "commons_filename": "Magdalena_penitente,_por_Tiziano.jpg",
@@ -1284,7 +1344,8 @@
     "year_start": 1531,
     "year_end": 1533,
     "circa": true,
-    "title_disambig": "1531–1533"
+    "title_disambig": "1531–1533",
+    "slug": "the-penitent-magdalene"
   },
   {
     "commons_filename": "Presentation_of_the_Virgin_by_Titian_-_Accademia_-_Venice_2016.jpg",
@@ -1305,7 +1366,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Presentation_of_the_Virgin_at_the_Temple_(Titian)",
     "year_start": 1534,
     "year_end": 1538,
-    "circa": true
+    "circa": true,
+    "slug": "the-presentation-of-the-virgin-at-the-temple"
   },
   {
     "commons_filename": "1954.301_-_Portrait_of_a_Lady.jpg",
@@ -1326,7 +1388,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_(Titian,_Chicago)",
     "year_start": 1525,
     "year_end": 1565,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-lady"
   },
   {
     "commons_filename": "Ritratto-di-giulia-gonzaga-del-tiziano.jpg",
@@ -1347,7 +1410,8 @@
     "year_start": 1530,
     "year_end": 1539,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ritratto-di-giulia-gonzaga-del-tiziano.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ritratto-di-giulia-gonzaga-del-tiziano.jpg",
+    "slug": "portrait-of-giulia-gonzaga"
   },
   {
     "commons_filename": "Tizian_-_Porträt_der_Isabella_d'Este.jpg",
@@ -1368,7 +1432,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Isabella_d%27Este_(Titian)",
     "year_start": 1534,
     "year_end": 1536,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-isabella-d-este"
   },
   {
     "commons_filename": "Tizian_038.jpg",
@@ -1389,7 +1454,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_in_a_Fur",
     "year_start": 1535,
     "year_end": 1535,
-    "circa": true
+    "circa": true,
+    "slug": "girl-in-a-fur"
   },
   {
     "commons_filename": "Salon_de_Mercure-LE_SOUPER_A_EMMAUS.jpg",
@@ -1410,7 +1476,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Pilgrims_at_Emmaus",
     "year_start": 1533,
     "year_end": 1534,
-    "circa": true
+    "circa": true,
+    "slug": "pilgrims-at-emmaus"
   },
   {
     "commons_filename": "Titian_-_Supper_at_Emmaus,_c._1530-34.jpg",
@@ -1432,7 +1499,8 @@
     "year_start": 1534,
     "year_end": 1534,
     "circa": true,
-    "title_disambig": "1534"
+    "title_disambig": "1534",
+    "slug": "supper-at-emmaus"
   },
   {
     "commons_filename": "Tiziano_Vecelli_-_La_cena_in_Emmaus_(National_Gallery_of_Ireland).jpg",
@@ -1454,7 +1522,8 @@
     "year_start": 1545,
     "year_end": 1545,
     "circa": true,
-    "title_disambig": "1545"
+    "title_disambig": "1545",
+    "slug": "supper-at-emmaus-1545"
   },
   {
     "commons_filename": "Tizian_-_La_Bella.jpg",
@@ -1475,7 +1544,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/La_Bella",
     "year_start": 1536,
     "year_end": 1536,
-    "circa": false
+    "circa": false,
+    "slug": "la-bella"
   },
   {
     "commons_filename": "Tizian_074.jpg",
@@ -1496,7 +1566,8 @@
     "year_start": 1536,
     "year_end": 1536,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_074.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_074.jpg",
+    "slug": "portrait-of-a-young-woman-with-feather-hat"
   },
   {
     "commons_filename": "Titien_-_Conjugal_allegory_-_Louvre.jpg",
@@ -1517,7 +1588,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Allegory_of_Marriage",
     "year_start": 1530,
     "year_end": 1535,
-    "circa": true
+    "circa": true,
+    "slug": "allegory-of-marriage"
   },
   {
     "commons_filename": "Tizian_062.jpg",
@@ -1538,7 +1610,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Francesco_Maria_I_della_Rovere,_Duke_of_Urbino",
     "year_start": 1536,
     "year_end": 1538,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-francesco-maria-i-della-rovere-duke-of-urbino"
   },
   {
     "commons_filename": "Tizian_070.jpg",
@@ -1560,7 +1633,8 @@
     "year_start": 1537,
     "year_end": 1537,
     "circa": true,
-    "title_disambig": "1537"
+    "title_disambig": "1537",
+    "slug": "portrait-of-pietro-aretino"
   },
   {
     "commons_filename": "Tiziano,_uomo_col_falcone.jpg",
@@ -1581,7 +1655,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Falcon",
     "year_start": 1537,
     "year_end": 1537,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-man-with-a-falcon"
   },
   {
     "commons_filename": "Tizian_-_Porträt_der_Eleonora_Gonzaga.jpg",
@@ -1602,7 +1677,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Eleonora_Gonzaga_della_Rovere",
     "year_start": 1538,
     "year_end": 1538,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-eleonora-gonzaga-della-rovere"
   },
   {
     "commons_filename": "Tizian_-_Venus_von_Urbino.jpg",
@@ -1623,7 +1699,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_of_Urbino",
     "year_start": 1538,
     "year_end": 1538,
-    "circa": false
+    "circa": false,
+    "slug": "venus-of-urbino"
   },
   {
     "commons_filename": "Titian_-_Portrait_of_Count_Antonio_Porcia_-_WGA22968.jpg",
@@ -1644,7 +1721,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Count_Antonio_Porcia_and_Brugnera",
     "year_start": 1535,
     "year_end": 1540,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-count-antonio-porcia-and-brugnera"
   },
   {
     "commons_filename": "Benedetto_varchi_tiziano.jpg",
@@ -1665,7 +1743,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Benedetto_Varchi",
     "year_start": 1536,
     "year_end": 1540,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-benedetto-varchi"
   },
   {
     "commons_filename": "Titian_(c.1488-1576)_(attributed_to)_-_Portrait_of_an_Unknown_Young_Cardinal_-_486205_-_National_Trust.jpg",
@@ -1686,7 +1765,8 @@
     "year_start": 1540,
     "year_end": 1550,
     "circa": false,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(c.1488-1576)_(attributed_to)_-_Portrait_of_an_Unknown_Young_Cardinal_-_486205_-_National_Trust.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(c.1488-1576)_(attributed_to)_-_Portrait_of_an_Unknown_Young_Cardinal_-_486205_-_National_Trust.jpg",
+    "slug": "an-unknown-cardinal"
   },
   {
     "commons_filename": "Pietro_Bembo_-_Titian.jpg",
@@ -1707,7 +1787,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Pietro_Bembo",
     "year_start": 1540,
     "year_end": 1540,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-cardinal-pietro-bembo"
   },
   {
     "commons_filename": "Ritratto_del_Doge_Andrea_Gritti_-_Tiziano_059.jpg",
@@ -1728,7 +1809,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Doge_Andrea_Gritti",
     "year_start": 1546,
     "year_end": 1550,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-doge-andrea-gritti"
   },
   {
     "commons_filename": "Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01_(cropped).jpg",
@@ -1749,7 +1831,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Pope_Sixtus_IV",
     "year_start": 1540,
     "year_end": 1540,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-pope-sixtus-iv"
   },
   {
     "commons_filename": "Tiziano,_madonna_col_bambino_thyssen.jpg",
@@ -1769,7 +1852,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Sciarra_Madonna",
     "year_start": 1540,
     "year_end": 1540,
-    "circa": true
+    "circa": true,
+    "slug": "sciarra-madonna"
   },
   {
     "commons_filename": "The_Marquis_of_Vasto_addressing_his_troops.jpg",
@@ -1790,7 +1874,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Alfonso_d%27Avalos_Addressing_his_Troops",
     "year_start": 1540,
     "year_end": 1541,
-    "circa": true
+    "circa": true,
+    "slug": "alfonso-d-avalos-addressing-his-troops"
   },
   {
     "commons_filename": "Madonna_dell'Orto_(Venice)_-_Chapel_Vendramin_-_Arcangel_Raphael_and_Tobias_by_Titien.jpg",
@@ -1811,7 +1896,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Archangel_Raphael_and_Tobias_(Titian)#Tobias_and_the_Angel",
     "year_start": 1540,
     "year_end": 1545,
-    "circa": true
+    "circa": true,
+    "slug": "tobias-and-the-angel"
   },
   {
     "commons_filename": "Clarissa_Strozzi.jpg",
@@ -1832,7 +1918,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Clarissa_Strozzi",
     "year_start": 1542,
     "year_end": 1542,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-clarissa-strozzi"
   },
   {
     "commons_filename": "Titian_-_Christ_crowned_with_Thorns_-_Louvre.jpg",
@@ -1854,7 +1941,8 @@
     "year_start": 1542,
     "year_end": 1544,
     "circa": true,
-    "title_disambig": "1542–1544"
+    "title_disambig": "1542–1544",
+    "slug": "the-crowning-with-thorns"
   },
   {
     "commons_filename": "Ultima_Cena_(1542-1544)_-_Tiziano_Vecellio.jpg",
@@ -1875,7 +1963,8 @@
     "year_start": 1542,
     "year_end": 1544,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ultima_Cena_(1542-1544)_-_Tiziano_Vecellio.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Ultima_Cena_(1542-1544)_-_Tiziano_Vecellio.jpg",
+    "slug": "last-supper"
   },
   {
     "commons_filename": "Tizian_076.jpg",
@@ -1896,7 +1985,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Englishman",
     "year_start": 1540,
     "year_end": 1545,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-a-young-englishman"
   },
   {
     "commons_filename": "Titian_-_Ranuccio_Farnese_-_Google_Art_Project.jpg",
@@ -1917,7 +2007,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Ranuccio_Farnese",
     "year_start": 1542,
     "year_end": 1542,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-ranuccio-farnese"
   },
   {
     "commons_filename": "Portrait_of_Pope_Paul_III_Farnese_(by_Titian)_-_National_Museum_of_Capodimonte.jpg",
@@ -1938,7 +2029,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Pope_Paul_III_(Titian)",
     "year_start": 1543,
     "year_end": 1543,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-pope-paul-iii"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Ecce_Homo_-_Google_Art_Project.jpg",
@@ -1959,7 +2051,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Ecce_Homo_(Titian,_Vienna)",
     "year_start": 1543,
     "year_end": 1543,
-    "circa": false
+    "circa": false,
+    "slug": "ecce-homo"
   },
   {
     "commons_filename": "Titian_-_Cain_and_Abel.JPG",
@@ -1980,7 +2073,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Cain_and_Abel_(Titian)",
     "year_start": 1543,
     "year_end": 1544,
-    "circa": false
+    "circa": false,
+    "slug": "cain-slaying-abel"
   },
   {
     "commons_filename": "Tycjan_David_i_Goliat.jpg",
@@ -2001,7 +2095,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/David_and_Goliath_(Titian)",
     "year_start": 1543,
     "year_end": 1544,
-    "circa": false
+    "circa": false,
+    "slug": "david-and-goliath"
   },
   {
     "commons_filename": "Titian_-_Sacrifice_of_Isaac_-_WGA22780.jpg",
@@ -2022,7 +2117,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Abraham_and_Isaac_(Titian)",
     "year_start": 1542,
     "year_end": 1544,
-    "circa": false
+    "circa": false,
+    "slug": "abraham-and-isaac"
   },
   {
     "commons_filename": "Tizian_069.jpg",
@@ -2044,7 +2140,8 @@
     "year_start": 1545,
     "year_end": 1545,
     "circa": true,
-    "title_disambig": "1545"
+    "title_disambig": "1545",
+    "slug": "portrait-of-pietro-aretino-1545"
   },
   {
     "commons_filename": "Tiziano_Cardinale_Alessandro_Farnese.jpg",
@@ -2064,7 +2161,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Alessandro_Farnese_(Titian)",
     "year_start": 1545,
     "year_end": 1546,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-cardinal-alessandro-farnese"
   },
   {
     "commons_filename": "Tizian_068.jpg",
@@ -2085,7 +2183,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Pope_Paul_III_and_His_Grandsons",
     "year_start": 1546,
     "year_end": 1546,
-    "circa": false
+    "circa": false,
+    "slug": "pope-paul-iii-and-his-grandsons"
   },
   {
     "commons_filename": "Tizian_011.jpg",
@@ -2106,7 +2205,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
     "year_start": 1546,
     "year_end": 1546,
-    "circa": false
+    "circa": false,
+    "slug": "danae-one-of-at-least-four-versions"
   },
   {
     "commons_filename": "Titian_and_workshop_-_The_Vendramin_Family,_venerating_a_Relic_of_the_True_Cross_-_Google_Art_Project.jpg",
@@ -2127,7 +2227,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_the_Vendramin_Family",
     "year_start": 1547,
     "year_end": 1547,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-the-vendramin-family"
   },
   {
     "commons_filename": "Carlos_V_en_Mühlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg",
@@ -2148,7 +2249,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V",
     "year_start": 1548,
     "year_end": 1548,
-    "circa": false
+    "circa": false,
+    "slug": "equestrian-portrait-of-charles-v"
   },
   {
     "commons_filename": "Karl_V.-Carlos_I._1548_(Tiziano_Vecellio?)_066.jpg",
@@ -2169,7 +2271,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Charles_V_(Titian,_Munich)",
     "year_start": 1548,
     "year_end": 1548,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-charles-v-seated"
   },
   {
     "commons_filename": "Isabella_of_Portugal_by_Titian.jpg",
@@ -2190,7 +2293,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Isabella_of_Portugal_(Titian)",
     "year_start": 1548,
     "year_end": 1548,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-isabella-of-portugal"
   },
   {
     "commons_filename": "Venus_and_organist_and_little_dog.jpg",
@@ -2211,7 +2315,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
     "year_start": 1548,
     "year_end": 1548,
-    "circa": false
+    "circa": false,
+    "slug": "venus-and-musician"
   },
   {
     "commons_filename": "Johann_Friedrich_(Sachsen).jpg",
@@ -2232,7 +2337,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/John_Frederick_I,_Elector_of_Saxony",
     "year_start": 1548,
     "year_end": 1548,
-    "circa": false
+    "circa": false,
+    "slug": "john-frederick-i-elector-of-saxony-in-armour"
   },
   {
     "commons_filename": "Tityus1.jpg",
@@ -2253,7 +2359,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Tityus_(Titian)",
     "year_start": 1549,
     "year_end": 1549,
-    "circa": false
+    "circa": false,
+    "slug": "tityus"
   },
   {
     "commons_filename": "Punishment_sisyph.jpg",
@@ -2274,7 +2381,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Sisyphus_(Titian)",
     "year_start": 1549,
     "year_end": 1549,
-    "circa": false
+    "circa": false,
+    "slug": "sisyphus"
   },
   {
     "commons_filename": "Saintjohnthealmoner.jpg",
@@ -2295,7 +2403,8 @@
     "year_start": 1549,
     "year_end": 1549,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Saintjohnthealmoner.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Saintjohnthealmoner.jpg",
+    "slug": "saint-john-the-almoner"
   },
   {
     "commons_filename": "Tizian_091.jpg",
@@ -2316,7 +2425,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Fall_of_Man_(Titian)",
     "year_start": 1550,
     "year_end": 1550,
-    "circa": true
+    "circa": true,
+    "slug": "the-fall-of-man"
   },
   {
     "commons_filename": "Mater_Dolorosa_by_Titian.jpg",
@@ -2337,7 +2447,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Mater_Dolorosa_(Titian)",
     "year_start": 1550,
     "year_end": 1550,
-    "circa": false
+    "circa": false,
+    "slug": "mater-dolorosa"
   },
   {
     "commons_filename": "Tizian_064.jpg",
@@ -2358,7 +2469,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_John_Frederick_I,_Elector_of_Saxony",
     "year_start": 1550,
     "year_end": 1551,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-john-frederick-i-elector-of-saxony"
   },
   {
     "commons_filename": "Titian_(Tiziano_Vecellio),_Portrait_of_a_Lady_and_her_Daughter.png",
@@ -2379,7 +2491,8 @@
     "year_start": 1550,
     "year_end": 1550,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(Tiziano_Vecellio),_Portrait_of_a_Lady_and_her_Daughter.png"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(Tiziano_Vecellio),_Portrait_of_a_Lady_and_her_Daughter.png",
+    "slug": "portrait-of-a-lady-and-her-daughter"
   },
   {
     "commons_filename": "Tizian_096.jpg",
@@ -2400,7 +2513,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
     "year_start": 1550,
     "year_end": 1550,
-    "circa": true
+    "circa": true,
+    "slug": "venus-with-an-organist"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_gen._Tizian_(und_Werkstatt)_-_Mars,_Venus_und_Amor_-_GG_13_-_Kunsthistorisches_Museum.jpg",
@@ -2421,7 +2535,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Mars,_Venus_and_Amor",
     "year_start": 1550,
     "year_end": 1550,
-    "circa": true
+    "circa": true,
+    "slug": "mars-venus-and-amor"
   },
   {
     "commons_filename": "Knight_with_a_clock.jpg",
@@ -2442,7 +2557,8 @@
     "year_start": 1550,
     "year_end": 1550,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Knight_with_a_clock.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Knight_with_a_clock.jpg",
+    "slug": "knight-of-malta-with-a-watch"
   },
   {
     "commons_filename": "Titian_-_The_penitent_magdalene_(1565).jpg",
@@ -2462,7 +2578,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Penitent_Magdalene_(Titian,_1550)",
     "year_start": 1550,
     "year_end": 1550,
-    "circa": true
+    "circa": true,
+    "slug": "penitent-magdalene"
   },
   {
     "commons_filename": "Tizian_030.jpg",
@@ -2483,7 +2600,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Saint_Jerome_in_Penitence_(Titian,_1552)",
     "year_start": 1550,
     "year_end": 1560,
-    "circa": false
+    "circa": false,
+    "slug": "saint-jerome-in-penitence"
   },
   {
     "commons_filename": "Philip_II.jpg",
@@ -2504,7 +2622,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Philip_II_in_Armour",
     "year_start": 1551,
     "year_end": 1551,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-philip-ii-in-armour"
   },
   {
     "commons_filename": "Ticiano_-_cardealmadruzzo05.jpg",
@@ -2525,7 +2644,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Cardinal_Cristoforo_Madruzzo",
     "year_start": 1552,
     "year_end": 1552,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-cardinal-cristoforo-madruzzo"
   },
   {
     "commons_filename": "La_Gloria_(Tiziano).jpg",
@@ -2546,7 +2666,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/La_Gloria_(Titian)",
     "year_start": 1551,
     "year_end": 1554,
-    "circa": false
+    "circa": false,
+    "slug": "the-holy-trinity-la-gloria"
   },
   {
     "commons_filename": "Venus_and_Adonis_by_Titian.jpg",
@@ -2567,7 +2688,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "year_start": 1553,
     "year_end": 1554,
-    "circa": false
+    "circa": false,
+    "slug": "venus-and-adonis-many-different-versions-with-varying-contri"
   },
   {
     "commons_filename": "Titian_-_Mater_Dolorosa_with_her_Hands_apart_(Museo_del_Prado).jpg",
@@ -2588,7 +2710,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Mater_Dolorosa",
     "year_start": 1554,
     "year_end": 1554,
-    "circa": false
+    "circa": false,
+    "slug": "mater-dolorosa-with-open-hands"
   },
   {
     "commons_filename": "Titian_-_Christ_Appearing_to_His_Mother,_1554.jpg",
@@ -2607,7 +2730,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Christ_Appearing_to_his_Mother_after_his_Resurrection",
     "year_start": 1554,
     "year_end": 1554,
-    "circa": false
+    "circa": false,
+    "slug": "christ-appearing-to-his-mother-after-his-resurrection"
   },
   {
     "commons_filename": "Titian_-_Woman_Holding_an_Apple.jpg",
@@ -2628,7 +2752,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Woman_Holding_an_Apple",
     "year_start": 1550,
     "year_end": 1555,
-    "circa": true
+    "circa": true,
+    "slug": "woman-holding-an-apple"
   },
   {
     "commons_filename": "Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado.jpg",
@@ -2649,7 +2774,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)",
     "year_start": 1554,
     "year_end": 1554,
-    "circa": false
+    "circa": false,
+    "slug": "danae-and-the-shower-of-gold"
   },
   {
     "commons_filename": "Perseo_y_Andrómeda,_por_Tiziano.jpg",
@@ -2670,7 +2796,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Perseus_and_Andromeda_(Titian)",
     "year_start": 1554,
     "year_end": 1556,
-    "circa": true
+    "circa": true,
+    "slug": "perseus-and-andromeda"
   },
   {
     "commons_filename": "Ritratto_di_Filippo_II,_Tiziano_Vacellio_001.JPG",
@@ -2690,7 +2817,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Philip_II",
     "year_start": 1554,
     "year_end": 1554,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-philip-ii"
   },
   {
     "commons_filename": "Titian_National_Museum_of_Serbia.JPG",
@@ -2711,7 +2839,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Queen_Christina_of_Denmark",
     "year_start": 1555,
     "year_end": 1556,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-queen-christina-of-denmark"
   },
   {
     "commons_filename": "Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg",
@@ -2732,7 +2861,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_with_a_Mirror",
     "year_start": 1555,
     "year_end": 1555,
-    "circa": true
+    "circa": true,
+    "slug": "venus-with-a-mirror"
   },
   {
     "commons_filename": "Venus_and_Adonis_MET_DT5111.jpg",
@@ -2753,7 +2883,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "year_start": 1555,
     "year_end": 1555,
-    "circa": true
+    "circa": true,
+    "slug": "venus-and-adonis-many-different-versions-with-varying-contri-1555"
   },
   {
     "commons_filename": "Filippo_Archinto_(born_about_1500,_died_1558),_Archbishop_of_Milan_MET_DT5147.jpg",
@@ -2774,7 +2905,8 @@
     "year_start": 1555,
     "year_end": 1555,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Filippo_Archinto_(born_about_1500,_died_1558),_Archbishop_of_Milan_MET_DT5147.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Filippo_Archinto_(born_about_1500,_died_1558),_Archbishop_of_Milan_MET_DT5147.jpg",
+    "slug": "filippo-archinto-archbishop-of-milan"
   },
   {
     "commons_filename": "Tiziano_Vecellio_-_Venere_e_il_Suonatore_di_liuto_(Fitzwilliam_Museum).jpg",
@@ -2795,7 +2927,8 @@
     "year_start": 1555,
     "year_end": 1565,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_-_Venere_e_il_Suonatore_di_liuto_(Fitzwilliam_Museum).jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_-_Venere_e_il_Suonatore_di_liuto_(Fitzwilliam_Museum).jpg",
+    "slug": "venus-and-the-lute-player"
   },
   {
     "commons_filename": "Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg",
@@ -2816,7 +2949,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)",
     "year_start": 1556,
     "year_end": 1559,
-    "circa": false
+    "circa": false,
+    "slug": "diana-and-actaeon"
   },
   {
     "commons_filename": "Tizian_061.jpg",
@@ -2837,7 +2971,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Fabrizio_Salvaresio",
     "year_start": 1558,
     "year_end": 1558,
-    "circa": false
+    "circa": false,
+    "slug": "portrait-of-fabrizio-salvaresio"
   },
   {
     "commons_filename": "Titian_1558_Ancona_Crucifixion.jpg",
@@ -2858,7 +2993,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Crucifixion_(Titian)",
     "year_start": 1558,
     "year_end": 1558,
-    "circa": false
+    "circa": false,
+    "slug": "crucifixion"
   },
   {
     "commons_filename": "Interior_of_Chiesa_dei_Gesuiti_(Venice)_-_left_nave_-_The_Martyrdom_of_St_Lawrence_-_Titian.jpg",
@@ -2879,7 +3015,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Martyrdom_of_Saint_Lawrence_(Titian)",
     "year_start": 1559,
     "year_end": 1559,
-    "circa": false
+    "circa": false,
+    "slug": "the-martyrdom-of-saint-lawrence"
   },
   {
     "commons_filename": "TitianDianaCallistoEdinburgh.jpg",
@@ -2900,7 +3037,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Diana_and_Callisto",
     "year_start": 1559,
     "year_end": 1559,
-    "circa": false
+    "circa": false,
+    "slug": "diana-and-callisto"
   },
   {
     "commons_filename": "Entierro_de_Cristo_(Tiziano).jpg",
@@ -2922,7 +3060,8 @@
     "year_start": 1559,
     "year_end": 1559,
     "circa": false,
-    "title_disambig": "1559"
+    "title_disambig": "1559",
+    "slug": "the-entombment-1559"
   },
   {
     "commons_filename": "Titian_-_Rape_of_Europa_-_Google_Art_Project.jpg",
@@ -2943,7 +3082,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Rape_of_Europa_(Titian)",
     "year_start": 1559,
     "year_end": 1562,
-    "circa": false
+    "circa": false,
+    "slug": "the-rape-of-europa"
   },
   {
     "commons_filename": "San_Salvador_Interno_-_Annunciazione_del_Signore_Tiziano.jpg",
@@ -2964,7 +3104,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Annunciation_(church_of_San_Salvador)",
     "year_start": 1559,
     "year_end": 1564,
-    "circa": false
+    "circa": false,
+    "slug": "annunciation"
   },
   {
     "commons_filename": "Titian_-_The_Death_of_Actaeon_-_Google_Art_Project.jpg",
@@ -2985,7 +3126,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/The_Death_of_Actaeon",
     "year_start": 1559,
     "year_end": 1575,
-    "circa": true
+    "circa": true,
+    "slug": "the-death-of-actaeon"
   },
   {
     "commons_filename": "Salome_with_the_head_of_John_the_Baptist_(Titian).jpg",
@@ -3007,7 +3149,8 @@
     "year_start": 1560,
     "year_end": 1560,
     "circa": true,
-    "title_disambig": "1560"
+    "title_disambig": "1560",
+    "slug": "salome-1560"
   },
   {
     "commons_filename": "Titian_-_Girl_with_a_Platter_of_Fruit_-_c._1555.jpg",
@@ -3028,7 +3171,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Girl_with_a_Platter_of_Fruit",
     "year_start": 1558,
     "year_end": 1558,
-    "circa": true
+    "circa": true,
+    "slug": "girl-with-a-platter-of-fruit"
   },
   {
     "commons_filename": "Titian_-_Venus_and_Adonis_-_Rome_-_WGA22906.jpg",
@@ -3049,7 +3193,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Adonis_(Titian)",
     "year_start": 1560,
     "year_end": 1560,
-    "circa": true
+    "circa": true,
+    "slug": "venus-and-adonis-many-different-versions-with-varying-contri-1560"
   },
   {
     "commons_filename": "Titian,_Sacra_Conversazione,_The_Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria.jpg",
@@ -3070,7 +3215,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria",
     "year_start": 1560,
     "year_end": 1560,
-    "circa": true
+    "circa": true,
+    "slug": "madonna-and-child-with-saints-luke-and-catherine-of-alexandr"
   },
   {
     "commons_filename": "Titian_(c.1488-1576)_-_Nicolò_Zen_(1515–1565)_-_1257086_-_National_Trust.jpg",
@@ -3091,7 +3237,8 @@
     "year_start": 1560,
     "year_end": 1565,
     "circa": true,
-    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(c.1488-1576)_-_Nicol%C3%B2_Zen_(1515%E2%80%931565)_-_1257086_-_National_Trust.jpg"
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_(c.1488-1576)_-_Nicol%C3%B2_Zen_(1515%E2%80%931565)_-_1257086_-_National_Trust.jpg",
+    "slug": "nicolo-zen"
   },
   {
     "commons_filename": "Self-portrait_of_Titian.jpg",
@@ -3113,7 +3260,8 @@
     "year_start": 1560,
     "year_end": 1562,
     "circa": true,
-    "title_disambig": "1560–1562"
+    "title_disambig": "1560–1562",
+    "slug": "self-portrait"
   },
   {
     "commons_filename": "Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg",
@@ -3135,7 +3283,8 @@
     "year_end": 1568,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg",
-    "title_disambig": "1560–1568"
+    "title_disambig": "1560–1568",
+    "slug": "the-tribute-money-1560"
   },
   {
     "commons_filename": "Titian_-_Penitent_Magdalene_(Hermitage).jpg",
@@ -3157,7 +3306,8 @@
     "year_start": 1565,
     "year_end": 1565,
     "circa": true,
-    "title_disambig": "1565"
+    "title_disambig": "1565",
+    "slug": "the-penitent-magdalene-1565"
   },
   {
     "commons_filename": "Dominikus_von_Tizian.jpg",
@@ -3178,7 +3328,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Saint_Dominic_(Titian)",
     "year_start": 1565,
     "year_end": 1565,
-    "circa": true
+    "circa": true,
+    "slug": "saint-dominic"
   },
   {
     "commons_filename": "Titian_and_workshop_-_An_Allegory_of_Prudence_-_Google_Art_Project.jpg",
@@ -3199,7 +3350,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Allegory_of_Prudence",
     "year_start": 1565,
     "year_end": 1570,
-    "circa": true
+    "circa": true,
+    "slug": "allegory-of-prudence"
   },
   {
     "commons_filename": "Venus_and_the_Lute_Player_MET_DT11.jpg",
@@ -3220,7 +3372,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Venus_and_Musician",
     "year_start": 1565,
     "year_end": 1570,
-    "circa": true
+    "circa": true,
+    "slug": "venus-and-a-lute-player"
   },
   {
     "commons_filename": "Tizian_027.jpg",
@@ -3242,7 +3395,8 @@
     "year_end": 1566,
     "circa": false,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Tizian_027.jpg",
-    "title_disambig": "1566"
+    "title_disambig": "1566",
+    "slug": "the-entombment-1566"
   },
   {
     "commons_filename": "Titian_-_Self-portrait_(Museo_del_Prado).jpg",
@@ -3264,7 +3418,8 @@
     "year_start": 1567,
     "year_end": 1567,
     "circa": true,
-    "title_disambig": "1567"
+    "title_disambig": "1567",
+    "slug": "self-portrait-1567"
   },
   {
     "commons_filename": "Tizian_067.jpg",
@@ -3285,7 +3440,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Portrait_of_Jacopo_Strada",
     "year_start": 1567,
     "year_end": 1568,
-    "circa": true
+    "circa": true,
+    "slug": "portrait-of-jacopo-strada"
   },
   {
     "commons_filename": "Vecelli,_Tiziano_-_Judith_with_the_head_of_Holofernes_-_c._1570.jpg",
@@ -3306,7 +3462,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Judith_with_the_Head_of_Holofernes_(Titian)",
     "year_start": 1570,
     "year_end": 1570,
-    "circa": true
+    "circa": true,
+    "slug": "judith-with-the-head-of-holofernes"
   },
   {
     "commons_filename": "Titian_-_Salome_with_the_head_of_John_the_Baptist_and_two_assistants.jpg",
@@ -3328,7 +3485,8 @@
     "year_start": 1570,
     "year_end": 1570,
     "circa": true,
-    "title_disambig": "1570"
+    "title_disambig": "1570",
+    "slug": "salome-1570"
   },
   {
     "commons_filename": "Salome_with_the_Head_of_John_the_Baptist,_by_Tiziano_Vecellio_and_workshop,_c._1560-1570,_oil_on_canvas_-_National_Museum_of_Western_Art,_Tokyo_-_DSC08139.JPG",
@@ -3350,7 +3508,8 @@
     "year_end": 1570,
     "circa": true,
     "provenance_url": "https://commons.wikimedia.org/wiki/File:Salome_with_the_Head_of_John_the_Baptist,_by_Tiziano_Vecellio_and_workshop,_c._1560-1570,_oil_on_canvas_-_National_Museum_of_Western_Art,_Tokyo_-_DSC08139.JPG",
-    "title_disambig": "1560–1570"
+    "title_disambig": "1560–1570",
+    "slug": "salome-2"
   },
   {
     "commons_filename": "Tizian_094.jpg",
@@ -3371,7 +3530,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Tarquin_and_Lucretia_(Titian)",
     "year_start": 1571,
     "year_end": 1571,
-    "circa": false
+    "circa": false,
+    "slug": "tarquin-and-lucretia"
   },
   {
     "commons_filename": "Titian_-_The_Flaying_of_Marsyas.jpg",
@@ -3392,7 +3552,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Flaying_of_Marsyas_(Titian)",
     "year_start": 1570,
     "year_end": 1576,
-    "circa": true
+    "circa": true,
+    "slug": "punishment-of-marsyas"
   },
   {
     "commons_filename": "Tiziano_Vecellio,_called_Titian_-_Nymph_and_Shepherd_-_Google_Art_Project.jpg",
@@ -3413,7 +3574,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Nymph_and_Shepherd",
     "year_start": 1570,
     "year_end": 1576,
-    "circa": true
+    "circa": true,
+    "slug": "nymph-and-shepherd"
   },
   {
     "commons_filename": "Accademia_-_Pietà_by_Titian.jpg",
@@ -3434,7 +3596,8 @@
     "provenance_url": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)",
     "year_start": 1570,
     "year_end": 1576,
-    "circa": true
+    "circa": true,
+    "slug": "pieta"
   },
   {
     "commons_filename": "The_Crowning_with_Thorns_by_Titian_-_Alte_Pinakothek_-_Munich_-_Germany_2017.jpg",
@@ -3456,6 +3619,7 @@
     "year_start": 1570,
     "year_end": 1576,
     "circa": true,
-    "title_disambig": "1570–1576"
+    "title_disambig": "1570–1576",
+    "slug": "the-crowning-with-thorns-1570"
   }
 ]
