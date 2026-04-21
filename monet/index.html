@@ -659,7 +659,8 @@ const eraNames    = { early: 'early', impressionist: 'impressionist', series: 's
 const subjNames   = { water: 'water', landscape: 'landscape', garden: 'garden', urban: 'urban', portrait: 'portrait', still_life: 'still life' };
 
 async function init() {
-  works = await (await fetch('catalog.json')).json();
+  const all = await (await fetch('catalog.json')).json();
+  works = all.filter(w => (w.image_url || '').trim());
   applyFilters();
   openFromHash();
 }

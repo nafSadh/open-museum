@@ -661,7 +661,8 @@ let works = [], filtered = [], shown = 0, lbIdx = -1;
 let activeTypes = new Set(), activeEras = new Set(), activeSubjects = new Set(), famousOnly = true, query = '';
 
 async function init() {
-  works = await (await fetch('catalog.json')).json();
+  const all = await (await fetch('catalog.json')).json();
+  works = all.filter(w => (w.image_url || '').trim());
   applyFilters();
   openFromHash();
 }

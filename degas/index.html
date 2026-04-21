@@ -454,7 +454,8 @@ const subjectNames = { dance: 'dance', nude: 'nude', portrait: 'portrait', racin
 
 async function init() {
   const resp = await fetch('catalog.json');
-  works = await resp.json();
+  const all = await resp.json();
+  works = all.filter(w => (w.image_url || '').trim());
   applyFilters();
   openFromHash();
 }

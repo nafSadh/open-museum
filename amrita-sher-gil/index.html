@@ -625,7 +625,8 @@ const subjectNames = { portrait: 'portrait', 'self-portrait': 'self-portrait', v
 
 async function init() {
   const resp = await fetch('catalog.json');
-  works = await resp.json();
+  const all = await resp.json();
+  works = all.filter(w => (w.image_url || '').trim());
   applyFilters();
   openFromHash();
 }

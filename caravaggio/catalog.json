@@ -18,7 +18,7 @@
     "year_start": 1598,
     "year_end": 1598,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Bacchus by Caravaggio",
     "slug": "bacchus"
   },
@@ -41,7 +41,7 @@
     "year_start": 1597,
     "year_end": 1600,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Basket of Fruit by Caravaggio",
     "slug": "basket-of-fruit"
   },
@@ -64,7 +64,7 @@
     "year_start": 1593,
     "year_end": 1594,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Boy Bitten by a Lizard by Caravaggio (London)",
     "slug": "boy-bitten-by-a-lizard-london"
   },
@@ -110,7 +110,7 @@
     "year_start": 1593,
     "year_end": 1595,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Boy with a Basket of Fruit by Caravaggio",
     "slug": "boy-with-a-basket-of-fruit"
   },
@@ -156,7 +156,7 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:David and Goliath by Caravaggio (Madrid)",
     "slug": "david-and-goliath-madrid"
   },
@@ -179,7 +179,7 @@
     "year_start": 1594,
     "year_end": 1594,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Ecstasy of Saint Francis of Assisi by Caravaggio",
     "slug": "ecstasy-of-saint-francis-of-assisi"
   },
@@ -202,7 +202,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Fortune Teller by Caravaggio (Paris)",
     "slug": "the-fortune-teller-paris"
   },
@@ -248,7 +248,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Lute Player by Caravaggio (Saint Petersburg)",
     "slug": "the-lute-player-saint-petersburg"
   },
@@ -294,7 +294,7 @@
     "year_start": 1595,
     "year_end": 1598,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Medusa by Caravaggio",
     "slug": "medusa"
   },
@@ -317,7 +317,7 @@
     "year_start": 1595,
     "year_end": 1595,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Musicians by Caravaggio",
     "slug": "the-musicians"
   },
@@ -340,7 +340,7 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Narcissus by Caravaggio",
     "slug": "narcissus"
   },
@@ -363,7 +363,7 @@
     "year_start": 1594,
     "year_end": 1596,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Penitent Magdalene by Caravaggio",
     "slug": "penitent-magdalene"
   },
@@ -386,7 +386,7 @@
     "year_start": 1598,
     "year_end": 1598,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint Catherine of Alexandria by Caravaggio",
     "slug": "saint-catherine-of-alexandria"
   },
@@ -409,7 +409,7 @@
     "year_start": 1593,
     "year_end": 1593,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Sick young Bacchus by Caravaggio",
     "slug": "sick-young-bacchus"
   },
@@ -432,7 +432,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Cardsharps by Caravaggio (Fort Worth)",
     "slug": "the-cardsharps-fort-worth"
   },
@@ -455,7 +455,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Fortune Teller by Caravaggio (Rome)",
     "slug": "the-fortune-teller-rome"
   },
@@ -478,7 +478,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Lute Player by Caravaggio (Gloucestershire)",
     "slug": "the-lute-player-gloucestershire"
   },
@@ -501,7 +501,7 @@
     "year_start": 1596,
     "year_end": 1596,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Lute Player by Caravaggio (New York)",
     "slug": "the-lute-player-new-york"
   },
@@ -524,7 +524,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Sacrifice of Isaac by Caravaggio (Princeton)",
     "slug": "the-sacrifice-of-isaac-princeton"
   },
@@ -662,7 +662,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Supper at Emmaus by Caravaggio",
     "slug": "supper-at-emmaus"
   },
@@ -754,7 +754,7 @@
     "year_start": 1601,
     "year_end": 1602,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Amor Victorious by Caravaggio",
     "slug": "amor-victorious"
   },
@@ -777,7 +777,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Beheading of Saint John the Baptist by Caravaggio",
     "slug": "beheading-of-saint-john-the-baptist"
   },
@@ -800,7 +800,7 @@
     "year_start": 1599,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Calling of Saint Matthew by Caravaggio",
     "slug": "the-calling-of-saint-matthew"
   },
@@ -869,7 +869,7 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Crucifixion of Saint Peter by Caravaggio",
     "slug": "crucifixion-of-saint-peter"
   },
@@ -892,7 +892,7 @@
     "year_start": 1601,
     "year_end": 1601,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Supper at Emmaus by Caravaggio (London)",
     "slug": "supper-at-emmaus-london"
   },
@@ -915,7 +915,7 @@
     "year_start": 1594,
     "year_end": 1594,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Cardsharps by Caravaggio",
     "slug": "the-cardsharps"
   },
@@ -938,7 +938,7 @@
     "year_start": 1606,
     "year_end": 1606,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Christ at the Column by Caravaggio",
     "slug": "christ-at-the-column"
   },
@@ -984,7 +984,7 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Conversion of Saint Paul by Caravaggio (Odescalchi)",
     "slug": "conversion-of-saint-paul-odescalchi"
   },
@@ -1007,7 +1007,7 @@
     "year_start": 1600,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Conversion of Saint Paul by Caravaggio (Rome)",
     "slug": "conversion-of-saint-paul-rome"
   },
@@ -1168,7 +1168,7 @@
     "year_start": 1605,
     "year_end": 1606,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Death of the Virgin by Caravaggio",
     "slug": "the-death-of-the-virgin"
   },
@@ -1237,7 +1237,7 @@
     "year_start": 1605,
     "year_end": 1605,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Ecce Homo by Caravaggio",
     "slug": "ecce-homo"
   },
@@ -1260,7 +1260,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Entombment of Christ by Caravaggio",
     "slug": "entombment-of-christ"
   },
@@ -1306,7 +1306,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint John the Baptist by Caravaggio (Toledo)",
     "slug": "saint-john-the-baptist-toledo"
   },
@@ -1329,7 +1329,7 @@
     "year_start": 1598,
     "year_end": 1599,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Judith beheading Holofernes by Caravaggio",
     "slug": "judith-beheading-holofernes"
   },
@@ -1375,7 +1375,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Lute Player by Caravaggio",
     "slug": "the-lute-player"
   },
@@ -1421,7 +1421,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Madonna of the Pilgrims by Caravaggio",
     "slug": "madonna-of-the-pilgrims"
   },
@@ -1444,7 +1444,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Madonna of the Rosary by Caravaggio",
     "slug": "madonna-of-the-rosary"
   },
@@ -1490,7 +1490,7 @@
     "year_start": 1599,
     "year_end": 1600,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Martyrdom of Saint Matthew by Caravaggio",
     "slug": "martyrdom-of-saint-matthew"
   },
@@ -1582,7 +1582,7 @@
     "year_start": 1610,
     "year_end": 1610,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint John the Baptist Reclining by Caravaggio",
     "slug": "saint-john-the-baptist-reclining"
   },
@@ -1628,7 +1628,7 @@
     "year_start": 1603,
     "year_end": 1604,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:The Sacrifice of Isaac by Caravaggio (Florence)",
     "slug": "the-sacrifice-of-isaac-florence"
   },
@@ -1674,7 +1674,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint Jerome in his study by Caravaggio (Valletta)",
     "slug": "saint-jerome-in-his-study-valletta"
   },
@@ -1697,7 +1697,7 @@
     "year_start": 1605,
     "year_end": 1605,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint John the Baptist by Caravaggio (Kansas City)",
     "slug": "saint-john-the-baptist-kansas-city"
   },
@@ -1720,7 +1720,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint John the Baptist by Caravaggio (Rome, Borghese)",
     "slug": "saint-john-the-baptist-rome-borghese"
   },
@@ -1743,7 +1743,7 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint John the Baptist by Caravaggio (Rome, Corsini)",
     "slug": "saint-john-the-baptist-rome-corsini"
   },
@@ -1812,7 +1812,7 @@
     "year_start": 1607,
     "year_end": 1607,
     "circa": false,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Salome with the Head of John the Baptist by Caravaggio (London)",
     "slug": "salome-with-the-head-of-john-the-baptist-london"
   },
@@ -1927,7 +1927,7 @@
     "year_start": 1608,
     "year_end": 1608,
     "circa": true,
-    "famous": false,
+    "famous": true,
     "harvest_method": "commons_category:Saint John the Baptist at the Well by Caravaggio",
     "slug": "saint-john-the-baptist-at-the-well"
   },
