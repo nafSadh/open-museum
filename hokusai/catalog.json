@@ -1705,8 +1705,8 @@
     "subject": "other",
     "famous": false,
     "provenance_url": "https://en.wikipedia.org/wiki/Egret",
-    "year_start": null,
-    "year_end": null,
+    "year_start": 1823,
+    "year_end": 1823,
     "circa": false,
     "date": "文政六年出版",
     "slug": "egrets-from-quick-lessons-in-simplified-drawing"

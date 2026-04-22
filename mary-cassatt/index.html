@@ -644,6 +644,9 @@ function applyFilters() {
   filtered.sort((a, b) => {
     const r = _tierRank(a.tier) - _tierRank(b.tier);
     if (r !== 0) return r;
+    const ay = (a.year_start ?? 9999) + (a.year_end ?? a.year_start ?? 9999);
+    const by = (b.year_start ?? 9999) + (b.year_end ?? b.year_start ?? 9999);
+    if (ay !== by) return ay - by;
     return (a.id || 0) - (b.id || 0);
   });
 
