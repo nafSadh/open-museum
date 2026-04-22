@@ -223,6 +223,81 @@
 
     ::selection { background: rgba(184, 160, 224, 0.25); color: var(--text-hi); }
 
+    /* ── Global search ── */
+    .search-wrap {
+      position: relative;
+      margin-top: 1.5rem;
+      width: 100%; max-width: 520px;
+      z-index: 20;
+    }
+    .global-search {
+      width: 100%;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.82rem;
+      background: rgba(184, 160, 224, 0.05);
+      border: 1px solid rgba(184, 160, 224, 0.18);
+      border-radius: 3px;
+      color: var(--text-hi);
+      padding: 0.6rem 0.9rem;
+      outline: none;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .global-search::placeholder { color: var(--text-lo); }
+    .global-search:focus {
+      border-color: var(--accent);
+      background: rgba(184, 160, 224, 0.08);
+    }
+    .search-results {
+      position: absolute; top: calc(100% + 4px); left: 0; right: 0;
+      background: #1a1423;
+      border: 1px solid rgba(184, 160, 224, 0.2);
+      border-radius: 3px;
+      max-height: 60vh; overflow-y: auto;
+      display: none;
+    }
+    .search-results.open { display: block; }
+    .search-result {
+      display: flex; align-items: center; gap: 0.7rem;
+      padding: 0.55rem 0.85rem;
+      text-decoration: none; color: var(--text-hi);
+      border-bottom: 1px solid rgba(184, 160, 224, 0.08);
+      transition: background 0.15s;
+    }
+    .search-result:hover, .search-result.active {
+      background: rgba(184, 160, 224, 0.12);
+      border-bottom-color: transparent;
+    }
+    .search-result:last-child { border-bottom: none; }
+    .search-result img {
+      width: 40px; height: 40px; object-fit: cover;
+      border-radius: 2px; flex-shrink: 0;
+      background: rgba(184, 160, 224, 0.1);
+    }
+    .search-result-body { flex: 1; min-width: 0; }
+    .search-result-title {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 0.92rem; font-style: italic;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .search-result-meta {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.65rem; color: var(--secondary);
+      letter-spacing: 0.06em;
+      margin-top: 0.1rem;
+    }
+    .search-result-tier {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.6rem; letter-spacing: 0.1em;
+      color: var(--cadmium, var(--accent));
+      text-transform: uppercase;
+      flex-shrink: 0;
+    }
+    .search-empty {
+      padding: 0.7rem 0.9rem;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; color: var(--text-lo);
+    }
+
     @media (max-width: 560px) {
       section { padding: 8vh 5vw; min-height: 55vh; }
       #hero { padding: 0 5vw; }
@@ -241,6 +316,12 @@
         high-resolution images from Wikimedia Commons. Free of copyright,
         beautifully presented.
       </p>
+      <div class="search-wrap">
+        <input type="text" id="global-search" class="global-search"
+               placeholder="search 7,400 works by title…"
+               autocomplete="off" spellcheck="false" />
+        <div id="search-results" class="search-results"></div>
+      </div>
       <div class="scroll-hint" aria-hidden="true">scroll</div>
     </section>
 
@@ -669,6 +750,106 @@
   <footer>
     open museum &middot; public domain
   </footer>
+
+  <script>
+  (function() {
+    const input = document.getElementById('global-search');
+    const resultsEl = document.getElementById('search-results');
+    const ARTIST_NAMES = {
+      'van-gogh':'Vincent van Gogh','monet':'Claude Monet','leonardo-da-vinci':'Leonardo da Vinci',
+      'titian':'Titian','caravaggio':'Caravaggio','rembrandt':'Rembrandt','vermeer':'Johannes Vermeer',
+      'degas':'Edgar Degas','mary-cassatt':'Mary Cassatt','hokusai':'Katsushika Hokusai',
+      'hiroshige':'Utagawa Hiroshige','utamaro':'Kitagawa Utamaro','kuniyoshi':'Utagawa Kuniyoshi',
+      'raja-ravi-varma':'Raja Ravi Varma','abanindranath-tagore':'Abanindranath Tagore',
+      'amrita-sher-gil':'Amrita Sher-Gil','xu-beihong':'Xu Beihong','behzad':'Kam\u0101l ud-D\u012Bn Behz\u0101d'
+    };
+    let index = null, activeIdx = -1;
+
+    async function loadIndex() {
+      if (index) return index;
+      const r = await fetch('assets/search-index.json');
+      index = await r.json();
+      return index;
+    }
+
+    // Eager-load on page ready so typing is instant
+    loadIndex().then(() => {
+      if (input.value.trim()) doSearch();
+    });
+
+    function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+    function tierRank(t) { return t === 'famous' ? 0 : t === 'well_known' ? 1 : 2; }
+
+    function search(q) {
+      if (!q || !index) return [];
+      const ql = q.toLowerCase();
+      const exact = [], starts = [], contains = [];
+      for (const e of index) {
+        const tl = e.t.toLowerCase();
+        if (tl === ql) exact.push(e);
+        else if (tl.startsWith(ql)) starts.push(e);
+        else if (tl.includes(ql)) contains.push(e);
+      }
+      // Within each group, sort by tier (famous first)
+      const byTier = (a, b) => tierRank(a.r) - tierRank(b.r);
+      exact.sort(byTier); starts.sort(byTier); contains.sort(byTier);
+      return [...exact, ...starts, ...contains].slice(0, 40);
+    }
+
+    function render(results, q) {
+      if (!q) { resultsEl.classList.remove('open'); resultsEl.innerHTML = ''; return; }
+      if (!results.length) {
+        resultsEl.innerHTML = '<div class="search-empty">no matches</div>';
+        resultsEl.classList.add('open');
+        return;
+      }
+      const html = results.map((e, i) => {
+        const artist = ARTIST_NAMES[e.a] || e.a;
+        const yr = e.y ? ' &middot; ' + e.y : '';
+        const tierBadge = e.r === 'famous' ? '<span class="search-result-tier">famous</span>' :
+                          e.r === 'well_known' ? '<span class="search-result-tier">well known</span>' : '';
+        return `<a class="search-result" data-idx="${i}" href="${e.a}/#${encodeURIComponent(e.s)}">
+          ${e.i ? `<img src="${esc(e.i)}" alt="" loading="lazy">` : '<div style="width:40px;height:40px;background:rgba(184,160,224,0.08);border-radius:2px;flex-shrink:0"></div>'}
+          <div class="search-result-body">
+            <div class="search-result-title">${esc(e.t)}</div>
+            <div class="search-result-meta">${esc(artist)}${yr}</div>
+          </div>
+          ${tierBadge}
+        </a>`;
+      }).join('');
+      resultsEl.innerHTML = html;
+      resultsEl.classList.add('open');
+      activeIdx = -1;
+    }
+
+    let curResults = [];
+    const doSearch = () => {
+      const q = input.value.trim();
+      curResults = search(q);
+      render(curResults, q);
+    };
+
+    input.addEventListener('focus', async () => {
+      await loadIndex();
+      if (input.value.trim()) doSearch();
+    });
+    input.addEventListener('input', doSearch);
+    input.addEventListener('keydown', (e) => {
+      if (!resultsEl.classList.contains('open')) return;
+      const items = resultsEl.querySelectorAll('.search-result');
+      if (e.key === 'ArrowDown') { e.preventDefault(); activeIdx = Math.min(activeIdx + 1, items.length - 1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); activeIdx = Math.max(activeIdx - 1, -1); }
+      else if (e.key === 'Enter' && activeIdx >= 0) { e.preventDefault(); items[activeIdx].click(); return; }
+      else if (e.key === 'Escape') { resultsEl.classList.remove('open'); input.blur(); return; }
+      items.forEach((el, i) => el.classList.toggle('active', i === activeIdx));
+      if (activeIdx >= 0) items[activeIdx].scrollIntoView({block:'nearest'});
+    });
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.search-wrap')) resultsEl.classList.remove('open');
+    });
+  })();
+  </script>
 
 </body>
 </html>

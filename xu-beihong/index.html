@@ -652,6 +652,13 @@ function applyFilters() {
     if (q) return [w.title, w.current_location, w.date, w.technique].filter(Boolean).join(' ').toLowerCase().includes(q);
     return true;
   });
+  // Tier-based sort: famous first, then well_known, then rest
+  const _tierRank = t => t === 'famous' ? 0 : t === 'well_known' ? 1 : 2;
+  filtered.sort((a, b) => {
+    const r = _tierRank(a.tier) - _tierRank(b.tier);
+    if (r !== 0) return r;
+    return (a.id || 0) - (b.id || 0);
+  });
 
   const g = document.getElementById('gallery');
   g.innerHTML = '';

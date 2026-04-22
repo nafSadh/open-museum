@@ -582,6 +582,21 @@
           <button class="pick" data-g="subject" data-v="study">study</button>
           <button class="pick" data-g="subject" data-v="landscape">landscape</button> <span class="exp-brace">}</span></span>
       </span>
+
+      <span class="static exp-hide-on-hover">held at</span>
+
+      <span class="exp" id="exp-held-at">
+        <span class="exp-summary" id="held-at-summary">any collection</span>
+        <span class="exp-picks"><span class="exp-label">held at</span> <span class="exp-brace">{</span> <button class="pick active" data-g="held_at" data-v="any">any</button>
+          <button class="pick" data-g="held_at" data-v="Royal Collection, Windsor">Windsor</button>
+          <button class="pick" data-g="held_at" data-v="Biblioteca Ambrosiana, Milan">Ambrosiana</button>
+          <button class="pick" data-g="held_at" data-v="Biblioteca Reale, Turin">Turin</button>
+          <button class="pick" data-g="held_at" data-v="Louvre, Paris">Louvre</button>
+          <button class="pick" data-g="held_at" data-v="Uffizi, Florence">Uffizi</button>
+          <button class="pick" data-g="held_at" data-v="British Museum">British Museum</button>
+          <button class="pick" data-g="held_at" data-v="Gallerie dell'Accademia, Venice">Accademia Venice</button>
+          <button class="pick" data-g="held_at" data-v="Institut de France, Paris">Institut de France</button> <span class="exp-brace">}</span></span>
+      </span>
     </p>
     <div class="layout-row">
       <span class="layout-label">layout</span>
@@ -625,7 +640,7 @@
 
 <script>
 let works = [], filtered = [], lbIdx = -1, query = '';
-let scopeFilter = 'all', activeEra = 'any', activeSubject = 'any', activeType = 'any';
+let scopeFilter = 'all', activeEra = 'any', activeSubject = 'any', activeType = 'any', activeHeldAt = 'any';
 let activeLayout = 'flow';
 
 const eraNames     = { early: 'early', middle: 'middle', late: 'late' };
@@ -648,8 +663,16 @@ function applyFilters() {
     if (activeType !== 'any' && w.type !== activeType) return false;
     if (activeEra !== 'any' && w.era !== activeEra) return false;
     if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
+    if (activeHeldAt !== 'any' && w.held_at !== activeHeldAt) return false;
     if (q) return [w.title, w.current_location, w.date, w.medium, w.attribution].filter(Boolean).join(' ').toLowerCase().includes(q);
     return true;
+  });
+  // Tier-based sort: famous first, then well_known, then rest
+  const _tierRank = t => t === 'famous' ? 0 : t === 'well_known' ? 1 : 2;
+  filtered.sort((a, b) => {
+    const r = _tierRank(a.tier) - _tierRank(b.tier);
+    if (r !== 0) return r;
+    return (a.id || 0) - (b.id || 0);
   });
 
   const g = document.getElementById('gallery');
@@ -680,6 +703,14 @@ function updateSummaries() {
   const suc = document.getElementById('subject-summary');
   suc.textContent = activeSubject === 'any' ? 'any subject' : subjectNames[activeSubject];
   suc.classList.toggle('has-value', activeSubject !== 'any');
+
+  const hc = document.getElementById('held-at-summary');
+  if (hc) {
+    const shortLabel = activeHeldAt === 'any' ? 'any collection' :
+      activeHeldAt.replace(/,.*$/, '').replace(/Biblioteca /i, '').replace('Gallerie dell\'Accademia', 'Accademia');
+    hc.textContent = shortLabel;
+    hc.classList.toggle('has-value', activeHeldAt !== 'any');
+  }
 }
 
 function applyLayout() {
@@ -806,6 +837,7 @@ document.querySelectorAll('.pick').forEach(btn => {
     if (g === 'scope') scopeFilter = v;
     else if (g === 'type') activeType = v;
     else if (g === 'era') activeEra = v;
+    else if (g === 'held_at') activeHeldAt = v;
     else if (g === 'subject') activeSubject = v;
     applyFilters();
   });
