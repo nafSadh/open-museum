@@ -159,6 +159,16 @@
     .sentence:hover .exp-picks { display: inline; }
     .sentence:hover .exp-summary { display: none; }
     .sentence:hover .exp-hide-on-hover { display: none; }
+    /* Touch devices can't hover — tap-to-expand toggles .open on the sentence. */
+    @media (hover: none) {
+      .sentence:hover .exp-picks { display: none; }
+      .sentence:hover .exp-summary { display: inline; }
+      .sentence:hover .exp-hide-on-hover { display: inline; }
+      .sentence.open .exp-picks { display: inline; }
+      .sentence.open .exp-summary { display: none; }
+      .sentence.open .exp-hide-on-hover { display: none; }
+      .exp-summary { cursor: pointer; }
+    }
 
     .exp-brace {
       font-family: 'Fira Code', monospace;
@@ -871,7 +881,31 @@ document.querySelectorAll('.pick').forEach(btn => {
   });
 });
 
-document.getElementById('more').addEventListener('click', loadPage);
+// Touch devices: tap the sentence toggles .open (no :hover on touch)
+if (matchMedia('(hover: none)').matches) {
+  const sentence = document.querySelector('.sentence');
+  sentence.addEventListener('click', (e) => {
+    if (e.target.closest('.pick')) return; // let pick buttons work normally
+    sentence.classList.toggle('open');
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.sentence')) sentence.classList.remove('open');
+  });
+}
+
+// More button + infinite-scroll: auto-load when the button is within ~600px of the viewport.
+const moreBtn = document.getElementById('more');
+moreBtn.addEventListener('click', loadPage);
+let _moreTick = false;
+window.addEventListener('scroll', () => {
+  if (_moreTick) return;
+  _moreTick = true;
+  requestAnimationFrame(() => {
+    _moreTick = false;
+    if (moreBtn.style.display === 'none') return;
+    if (moreBtn.getBoundingClientRect().top < window.innerHeight + 600) loadPage();
+  });
+}, { passive: true });
 
 document.querySelectorAll('.layout-btn').forEach(btn => {
   btn.addEventListener('click', () => {

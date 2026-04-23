@@ -577,8 +577,8 @@
     <h1 class="hero-name">Van Gogh</h1>
     <div class="hero-sub">dutch &middot; 1853 &ndash; 1890 &middot; public domain</div>
     <p class="hero-desc">
-      The complete paintings, watercolors, lithographs, and letter sketches
-      of Vincent van Gogh &mdash; <em>1,153 works</em> from Wikimedia Commons.
+      The complete paintings, drawings, watercolors, lithographs, and letter sketches
+      of Vincent van Gogh &mdash; <em>1,669 works</em> from Wikimedia Commons.
     </p>
     <div class="scroll-cue" aria-hidden="true">scroll</div>
   </section>
@@ -602,6 +602,7 @@
         <span class="exp-summary" id="type-summary">works</span>
         <span class="exp-picks"><span class="exp-brace">{</span><button class="pick active" data-g="type" data-v="any">any</button>
           <button class="pick" data-g="type" data-v="painting">paintings</button>
+          <button class="pick" data-g="type" data-v="drawing">drawings</button>
           <button class="pick" data-g="type" data-v="watercolor">watercolors</button>
           <button class="pick" data-g="type" data-v="letter_sketch">sketches</button>
           <button class="pick" data-g="type" data-v="lithograph">lithographs</button><span class="exp-brace">}</span></span>
@@ -864,7 +865,7 @@ document.getElementById('search').addEventListener('input', e => {
 });
 
 // ── Summary text helpers ──
-const typeNames = { painting: 'paintings', watercolor: 'watercolors', letter_sketch: 'sketches', lithograph: 'lithographs' };
+const typeNames = { painting: 'paintings', drawing: 'drawings', watercolor: 'watercolors', letter_sketch: 'sketches', lithograph: 'lithographs' };
 const eraNames = { 'The Hague': 'Hague', 'Nuenen': 'Nuenen', 'Antwerp': 'Antwerp', 'Paris': 'Paris', 'Arles': 'Arles', 'Saint-R\u00e9my': 'Saint-R\u00e9my', 'Auvers-sur-Oise': 'Auvers' };
 const subjectNames = { landscape: 'landscapes', portrait: 'portraits', self_portrait: 'self-portraits', still_life: 'still lifes', cityscape: 'cityscapes', interior: 'interiors' };
 
