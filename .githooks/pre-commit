@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Auto-rebuild assets/search-index.json when any {artist}/catalog.json is staged.
+# Enable this hook once per clone with:
+#   git config core.hooksPath .githooks
+
+set -euo pipefail
+
+# Any catalog.json staged?
+if ! git diff --cached --name-only | grep -qE '^[^/]+/catalog\.json$'; then
+  exit 0
+fi
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+echo "pre-commit: catalog change detected — rebuilding assets/search-index.json"
+python3 scripts/build_search_index.py >/dev/null
+
+# If the rebuild changed the index, stage it with the commit.
+if ! git diff --quiet -- assets/search-index.json; then
+  git add assets/search-index.json
+  echo "pre-commit: staged updated assets/search-index.json"
+fi

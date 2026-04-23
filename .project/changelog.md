@@ -1,5 +1,37 @@
 # Changelog — open-museum
 
+## 2026-04-21: Date-triplet backfill + year-aware sort + search-index builder
+
+### Data
+- Parsed loose date strings into the `year_start` / `year_end` / `circa` triplet across non-Western collections. 61 entries updated: behzad 32, utamaro 17, raja-ravi-varma 11, hokusai 1.
+- Parser covers century expressions with modifiers ("First half of 16th century", "late 19th century", "end of the 15th century"), century ranges ("15th–16th centuries", "Late 19th/Early 20th Century"), Roman numerals ("XV век"), and Japanese era names (寛政6年-7年頃 → Kansei 6–7 = 1794–1795, circa).
+- Future-dated outliers (`c. 3580`, `c. 2313`) and pure unknowns (`"Unknown date"`, `"—"`) correctly refused — year triplet stays null.
+
+### Tooling
+- New `scripts/build_search_index.py` — reproduces the existing `assets/search-index.json` shape from the 18 catalogs. Previously generated one-shot; now a script.
+- Regenerated `assets/search-index.json`; picks up the 61 new `y` values.
+
+### UI
+- `applyFilters` in all 18 gallery `index.html` files: year-midpoint tiebreaker inserted between tier rank and id. Within each tier, entries now sort chronologically rather than by catalog id. Nulls sort last (9999 sentinel); ranges sort by the center of `year_start`..`year_end`.
+
+### Project hygiene
+- `.project/todo.md` rewritten to reflect reality (Leonardo, Mary Cassatt, Abanindranath Tagore, Caravaggio all shipped but unchecked; completed items separated from open ones).
+- `.project/audit-2026-04-21.md` supersedes `audit-2026-04-20.md`. All previous blocker-level findings resolved. Remaining items are curation-level.
+
+---
+
+## 2026-04-05 → 2026-04-20: Expansion phase (not previously logged here)
+
+Captured in `.project/agent-log.md` (rows 8–47) rather than this changelog. High-level milestones:
+
+- Shipped 17 additional artist collections (all except Van Gogh): Titian, Monet, Rembrandt, Vermeer, Degas, Hokusai, Hiroshige, Utamaro, Kuniyoshi, Raja Ravi Varma, Amrita Sher-Gil, Xu Beihong, Behzad, Leonardo da Vinci (1,697 entries via Commons crawl), Mary Cassatt, Caravaggio, Abanindranath Tagore.
+- Schema evolution: `wikipedia_url` → `provenance_url` migration across all collections; `source` string → `harvest_method` (lineage, not URL).
+- Comprehensive 2026-04-20 audit; 99.98% image-URL liveness sweep; deduplication pass (−20 near-duplicate entries across monet/rembrandt/raja-ravi-varma).
+- Cross-collection search + tier-based default sort across all 18 galleries (commit aec7399).
+- Manual "famous" + "well_known" curation across all 18 collections; research-grounded per-artist scaling.
+
+---
+
 ## 2026-04-04 (session 2): Gallery UI design refinement
 
 ### Sentence builder filter UI

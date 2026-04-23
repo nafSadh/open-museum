@@ -173,6 +173,16 @@
     .sentence:hover .exp-picks { display: inline; }
     .sentence:hover .exp-summary { display: none; }
     .sentence:hover .exp-hide-on-hover { display: none; }
+    /* Touch devices can't hover — tap-to-expand toggles .open on the sentence. */
+    @media (hover: none) {
+      .sentence:hover .exp-picks { display: none; }
+      .sentence:hover .exp-summary { display: inline; }
+      .sentence:hover .exp-hide-on-hover { display: inline; }
+      .sentence.open .exp-picks { display: inline; }
+      .sentence.open .exp-summary { display: none; }
+      .sentence.open .exp-hide-on-hover { display: none; }
+      .exp-summary { cursor: pointer; }
+    }
 
     .exp-brace {
       font-family: 'Fira Code', monospace;
@@ -410,6 +420,13 @@
       letter-spacing: 0.08em;
       line-height: 1.8;
     }
+    .lb-painting-tags {
+      font-family: 'Fira Code', monospace;
+      font-size: 0.62rem; color: rgba(40,168,208,0.55);
+      letter-spacing: 0.1em; line-height: 1.7;
+      margin-top: 0.15rem;
+    }
+    .lb-painting-tags:empty { display: none; }
 
     .lb-see-also {
       margin-top: 0.6rem;
@@ -619,7 +636,7 @@
     </p>
     <div class="search-row">
       <input type="text" class="search-field" id="search"
-             placeholder="or search by title..." autocomplete="off" spellcheck="false">
+             placeholder="or search by title, genre, depicts..." autocomplete="off" spellcheck="false">
     </div>
   </div>
 
@@ -643,6 +660,7 @@
     <div class="lb-info">
       <div class="lb-painting-title" id="lb-title"></div>
       <div class="lb-painting-sub" id="lb-sub"></div>
+      <div class="lb-painting-tags" id="lb-tags"></div>
       <div class="lb-ext-links" id="lb-links"></div>
       <div class="lb-see-also" id="lb-see-also"></div>
     </div>
@@ -677,7 +695,8 @@ function applyFilters() {
     if (scopeFilter === 'famous' && w.tier !== 'famous') return false;
     if (scopeFilter === 'well_known' && !w.tier) return false;
     if (q) {
-      return [w.title, w.current_location, w.date, w.section, w.f_number, w.jh_number, w.era, ...(w.subjects||[])]
+      return [w.title, w.current_location, w.date, w.section, w.f_number, w.jh_number, w.era,
+              ...(w.subjects||[]), ...(w.wikidata_genres||[]), ...(w.wikidata_depicts||[])]
         .filter(Boolean).join(' ').toLowerCase().includes(q);
     }
     return true;
@@ -750,8 +769,18 @@ function navLb(d) {
 function renderLb() {
   const w = filtered[lbIdx];
   const img = document.getElementById('lb-img');
-  // Use larger thumb or full image for lightbox
-  img.src = w.thumb_url || '';
+  // Commons serves thumbs only at pre-cached widths for JPG — snap up to the nearest supported size,
+  // bounded by the original's image_width. Arbitrary widths return 400.
+  const t = w.thumb_url || '';
+  if (/\/thumb\/.*\/\d+px-/.test(t)) {
+    const CACHED = [960, 1280, 1920, 3840];
+    const want = Math.ceil(window.innerWidth * (window.devicePixelRatio || 1));
+    const cap = w.image_width || 3840;
+    const target = CACHED.find(s => s >= want && s <= cap) || CACHED.filter(s => s <= cap).pop();
+    img.src = target ? t.replace(/\/\d+px-/, `/${target}px-`) : (w.image_url || t);
+  } else {
+    img.src = w.image_url || t;
+  }
   img.alt = w.title;
   // Re-trigger fade animation
   img.style.animation = 'none';
@@ -761,11 +790,18 @@ function renderLb() {
   document.getElementById('lb-title').textContent = w.title + (w.title_disambig ? ' \u00b7 ' + w.title_disambig : '');
   document.getElementById('lb-pos').textContent = (lbIdx + 1) + ' / ' + filtered.length;
 
-  // Build subtitle: date · era · medium · dimensions · location
+  // Build subtitle: date · era · medium · dimensions · location · [catalog nums]
   const parts = [w.date, w.era, w.medium, w.dimensions, w.current_location].filter(Boolean);
   const catalogNums = [w.f_number, w.jh_number].filter(Boolean).join(' / ');
   if (catalogNums) parts.push(catalogNums);
   document.getElementById('lb-sub').textContent = parts.join(' \u00b7 ');
+
+  // Wikidata tags: genres (clean taxonomy) + depicts (top 6 depicted objects)
+  const tagEl = document.getElementById('lb-tags');
+  if (tagEl) {
+    const tags = [...(w.wikidata_genres || []), ...(w.wikidata_depicts || []).slice(0, 6)];
+    tagEl.textContent = tags.length ? tags.join(' \u00b7 ') : '';
+  }
 
   let lk = '';
   if (w.commons_page) lk += `<a href="${w.commons_page}" target="_blank">commons</a>`;
@@ -901,8 +937,31 @@ document.querySelectorAll('.pick').forEach(btn => {
   });
 });
 
-// More button
-document.getElementById('more').addEventListener('click', loadPage);
+// Touch devices: tap the sentence toggles .open (no :hover on touch)
+if (matchMedia('(hover: none)').matches) {
+  const sentence = document.querySelector('.sentence');
+  sentence.addEventListener('click', (e) => {
+    if (e.target.closest('.pick')) return; // let pick buttons work normally
+    sentence.classList.toggle('open');
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.sentence')) sentence.classList.remove('open');
+  });
+}
+
+// More button + infinite-scroll: auto-load when the button is within ~600px of the viewport.
+const moreBtn = document.getElementById('more');
+moreBtn.addEventListener('click', loadPage);
+let _moreTick = false;
+window.addEventListener('scroll', () => {
+  if (_moreTick) return;
+  _moreTick = true;
+  requestAnimationFrame(() => {
+    _moreTick = false;
+    if (moreBtn.style.display === 'none') return;
+    if (moreBtn.getBoundingClientRect().top < window.innerHeight + 600) loadPage();
+  });
+}, { passive: true });
 
 // Lightbox controls
 document.getElementById('lb-close').addEventListener('click', closeLb);

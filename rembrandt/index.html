@@ -777,7 +777,18 @@ function navLb(d) {
 function renderLb() {
   const w = filtered[lbIdx];
   const img = document.getElementById('lb-img');
-  img.src = w.thumb_url || '';
+  // Commons serves thumbs only at pre-cached widths for JPG — snap up to the nearest supported size,
+  // bounded by the original's image_width. Arbitrary widths return 400.
+  const t = w.thumb_url || '';
+  if (/\/thumb\/.*\/\d+px-/.test(t)) {
+    const CACHED = [960, 1280, 1920, 3840];
+    const want = Math.ceil(window.innerWidth * (window.devicePixelRatio || 1));
+    const cap = w.image_width || 3840;
+    const target = CACHED.find(s => s >= want && s <= cap) || CACHED.filter(s => s <= cap).pop();
+    img.src = target ? t.replace(/\/\d+px-/, `/${target}px-`) : (w.image_url || t);
+  } else {
+    img.src = w.image_url || t;
+  }
   img.alt = w.title;
   img.style.animation = 'none';
   img.offsetHeight;
