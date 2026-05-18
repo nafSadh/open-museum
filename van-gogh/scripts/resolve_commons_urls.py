@@ -53,7 +53,7 @@ def fetch_image_info(filenames: list[str]) -> dict:
         fname = title[5:] if title.startswith("File:") else title
         fname = fname.replace(" ", "_")
         ii = page_data.get("imageinfo", [{}])[0]
-        results[fname] = {
+        record = {
             "image_url": ii.get("url", ""),
             "thumb_url": ii.get("thumburl", ""),
             "commons_page": ii.get("descriptionurl", ""),
@@ -61,6 +61,10 @@ def fetch_image_info(filenames: list[str]) -> dict:
             "height": ii.get("height"),
             "mime": ii.get("mime", ""),
         }
+        results[fname] = record
+        # Wikimedia sometimes returns url-encoded filenames; index both forms
+        # so lookups by the original (decoded) commons_filename also hit.
+        results[urllib.parse.unquote(fname)] = record
     return results
 
 
@@ -101,9 +105,9 @@ def main():
     # Merge resolved data back into works
     resolved_count = 0
     for fn, indices in fname_to_indices.items():
-        if fn in resolved:
+        info = resolved.get(fn) or resolved.get(urllib.parse.unquote(fn))
+        if info:
             for i in indices:
-                info = resolved[fn]
                 works[i]["image_url"] = info.get("image_url", "")
                 works[i]["thumb_url"] = info.get("thumb_url", "")
                 works[i]["commons_page"] = info.get("commons_page", "")
