@@ -288,6 +288,26 @@
       font-size: 0.52rem; color: var(--sakura);
       letter-spacing: 0.06em; margin-top: 0.15rem; opacity: 0.6;
     }
+    .more-btn {
+      display: block; margin: 4rem auto 0;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; font-weight: 400;
+      padding: 0;
+      border: none; background: transparent;
+      color: var(--text-lo); cursor: pointer;
+      letter-spacing: 0.14em; text-transform: lowercase;
+      position: relative;
+      transition: color 0.2s;
+    }
+    .more-btn::after {
+      content: '';
+      display: block; width: 1px; height: 28px;
+      margin: 0.8rem auto 0;
+      background: linear-gradient(to bottom, var(--beni), transparent);
+      opacity: 0.4;
+    }
+    .more-btn:hover { color: var(--text-hi); }
+
     .card-empty {
       width: 100%; height: 100%;
       display: flex; align-items: center; justify-content: center;
@@ -588,6 +608,7 @@
 
   <div class="gallery-section">
     <div class="gallery tall" id="gallery"></div>
+    <button class="more-btn" id="more" style="display:none">more</button>
   </div>
 
   <div class="lb" id="lb">
@@ -597,7 +618,7 @@
     </div>
     <div class="lb-canvas" id="lb-canvas">
       <button class="lb-arrow prev" id="lb-prev">&lsaquo;</button>
-      <img class="lb-img" id="lb-img" alt="">
+      <img class="lb-img" id="lb-img" alt="" onerror="imgFallback(this)">
       <button class="lb-arrow next" id="lb-next">&rsaquo;</button>
     </div>
     <div class="lb-info">
@@ -615,9 +636,10 @@
   </footer>
 
 <script>
-let works = [], filtered = [], lbIdx = -1, query = '';
+let works = [], filtered = [], shown = 0, lbIdx = -1, query = '';
 let scopeFilter = 'all', activeEra = 'any', activeSubject = 'any';
 let activeLayout = 'tall';
+const PG = 80;
 
 const eraNames     = { early: 'early', mature: 'mature', late: 'late' };
 const subjectNames = { bijin: 'bijin-ga', nature: 'nature', erotica: 'erotica', other: 'other' };
@@ -657,10 +679,19 @@ function applyFilters() {
   document.getElementById('topbar-count').textContent = filtered.length + ' works';
   updateSummaries();
 
-  const f = document.createDocumentFragment();
-  for (let i = 0; i < filtered.length; i++) f.appendChild(mkCard(filtered[i], i));
-  g.appendChild(f);
+  shown = 0;
   applyLayout();
+  loadPage();
+}
+
+function loadPage() {
+  const g = document.getElementById('gallery');
+  const end = Math.min(shown + PG, filtered.length);
+  const f = document.createDocumentFragment();
+  for (let i = shown; i < end; i++) f.appendChild(mkCard(filtered[i], i));
+  g.appendChild(f);
+  shown = end;
+  document.getElementById('more').style.display = shown < filtered.length ? 'block' : 'none';
 }
 
 function updateSummaries() {
@@ -694,7 +725,7 @@ function mkCard(w, idx) {
   const t = w.thumb_url || '';
   if (t) {
     el.innerHTML =
-      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy">` +
+      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy" onerror="imgFallback(this)">` +
       `<div class="card-info"><div class="card-title">${esc(w.title)}</div>` +
       `<div class="card-meta">${esc(w.date || '')}</div></div>`;
   } else {
@@ -762,7 +793,7 @@ function renderLb() {
         const thumb = s.thumb_url || s.image_url || '';
         const tooltip = [s.attribution, s.location, s.note].filter(Boolean).join(' \u2014 ');
         return `<a class="lb-recon" href="${href}" target="_blank" title="${esc(tooltip)}">
-          <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy">
+          <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy" onerror="imgFallback(this)">
           <span class="lb-recon-label">${esc(s.label || '')}</span>
         </a>`;
       }).join('');
@@ -786,6 +817,7 @@ function cleanAttribution(a) {
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+function imgFallback(el){el.onerror=null;el.src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5' preserveAspectRatio='xMidYMid slice'><rect width='4' height='5' fill='%23222' opacity='.5'/><text x='2' y='2.65' text-anchor='middle' font-size='.28' fill='%23aaa' font-family='ui-sans-serif,sans-serif'>image unavailable</text></svg>";el.classList.add('img-fallback');}
 
 function openFromHash() {
   const raw = decodeURIComponent((location.hash || '').replace(/^#(?:id=)?/, ''));
@@ -826,6 +858,20 @@ document.querySelectorAll('.layout-btn').forEach(btn => {
     applyLayout();
   });
 });
+
+// More button + infinite-scroll: auto-load when the button is within ~600px of the viewport.
+const moreBtn = document.getElementById('more');
+moreBtn.addEventListener('click', loadPage);
+let _moreTick = false;
+window.addEventListener('scroll', () => {
+  if (_moreTick) return;
+  _moreTick = true;
+  requestAnimationFrame(() => {
+    _moreTick = false;
+    if (moreBtn.style.display === 'none') return;
+    if (moreBtn.getBoundingClientRect().top < window.innerHeight + 600) loadPage();
+  });
+}, { passive: true });
 
 const tb = document.getElementById('topbar');
 window.addEventListener('scroll', () => {
