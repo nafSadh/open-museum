@@ -598,7 +598,7 @@
     </div>
     <div class="lb-canvas" id="lb-canvas">
       <button class="lb-arrow prev" id="lb-prev">&lsaquo;</button>
-      <img class="lb-img" id="lb-img" alt="">
+      <img class="lb-img" id="lb-img" alt="" onerror="imgFallback(this)">
       <button class="lb-arrow next" id="lb-next">&rsaquo;</button>
     </div>
     <div class="lb-info">
@@ -695,7 +695,7 @@ function mkCard(w, idx) {
   const t = w.thumb_url || '';
   if (t) {
     el.innerHTML =
-      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy">` +
+      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy" onerror="imgFallback(this)">` +
       `<div class="card-info"><div class="card-title">${esc(w.title)}</div>` +
       `<div class="card-meta">${esc(w.date || '')}${w.series ? ' \u00b7 ' + esc(w.series) : ''}</div></div>`;
   } else {
@@ -763,7 +763,7 @@ function renderLb() {
         const thumb = s.thumb_url || s.image_url || '';
         const tooltip = [s.attribution, s.location, s.note].filter(Boolean).join(' \u2014 ');
         return `<a class="lb-recon" href="${href}" target="_blank" title="${esc(tooltip)}">
-          <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy">
+          <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy" onerror="imgFallback(this)">
           <span class="lb-recon-label">${esc(s.label || '')}</span>
         </a>`;
       }).join('');
@@ -787,6 +787,7 @@ function cleanAttribution(a) {
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+function imgFallback(el){el.onerror=null;el.src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5' preserveAspectRatio='xMidYMid slice'><rect width='4' height='5' fill='%23222' opacity='.5'/><text x='2' y='2.65' text-anchor='middle' font-size='.28' fill='%23aaa' font-family='ui-sans-serif,sans-serif'>image unavailable</text></svg>";el.classList.add('img-fallback');}
 
 function openFromHash() {
   const raw = decodeURIComponent((location.hash || '').replace(/^#(?:id=)?/, ''));

@@ -802,6 +802,7 @@
     });
 
     function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+    function imgFallback(el){el.onerror=null;el.src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5' preserveAspectRatio='xMidYMid slice'><rect width='4' height='5' fill='%23222' opacity='.5'/><text x='2' y='2.65' text-anchor='middle' font-size='.28' fill='%23aaa' font-family='ui-sans-serif,sans-serif'>image unavailable</text></svg>";el.classList.add('img-fallback');}
 
     function tierRank(t) { return t === 'famous' ? 0 : t === 'well_known' ? 1 : 2; }
 
@@ -834,7 +835,7 @@
         const tierBadge = e.r === 'famous' ? '<span class="search-result-tier">famous</span>' :
                           e.r === 'well_known' ? '<span class="search-result-tier">well known</span>' : '';
         return `<a class="search-result" data-idx="${i}" href="${e.a}/#${encodeURIComponent(e.s)}">
-          ${e.i ? `<img src="${esc(e.i)}" alt="" loading="lazy">` : '<div style="width:40px;height:40px;background:rgba(184,160,224,0.08);border-radius:2px;flex-shrink:0"></div>'}
+          ${e.i ? `<img src="${esc(e.i)}" alt="" loading="lazy" onerror="imgFallback(this)">` : '<div style="width:40px;height:40px;background:rgba(184,160,224,0.08);border-radius:2px;flex-shrink:0"></div>'}
           <div class="search-result-body">
             <div class="search-result-title">${esc(e.t)}</div>
             <div class="search-result-meta">${esc(artist)}${yr}</div>
