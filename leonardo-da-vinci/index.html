@@ -304,6 +304,26 @@
       color: var(--text-lo); text-align: center; padding: 0.8rem;
     }
 
+    .more-btn {
+      display: block; margin: 4rem auto 0;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.72rem; font-weight: 400;
+      padding: 0;
+      border: none; background: transparent;
+      color: var(--text-lo); cursor: pointer;
+      letter-spacing: 0.14em; text-transform: lowercase;
+      position: relative;
+      transition: color 0.2s;
+    }
+    .more-btn::after {
+      content: '';
+      display: block; width: 1px; height: 28px;
+      margin: 0.8rem auto 0;
+      background: linear-gradient(to bottom, var(--ochre), transparent);
+      opacity: 0.4;
+    }
+    .more-btn:hover { color: var(--text-hi); }
+
     /* ── Lightbox ── */
     .lb {
       display: none; position: fixed; inset: 0; z-index: 300;
@@ -622,6 +642,7 @@
 
   <div class="gallery-section">
     <div class="gallery flow" id="gallery"></div>
+    <button class="more-btn" id="more" style="display:none">more</button>
   </div>
 
   <div class="lb" id="lb">
@@ -631,7 +652,7 @@
     </div>
     <div class="lb-canvas" id="lb-canvas">
       <button class="lb-arrow prev" id="lb-prev">&lsaquo;</button>
-      <img class="lb-img" id="lb-img" alt="">
+      <img class="lb-img" id="lb-img" alt="" onerror="imgFallback(this)">
       <button class="lb-arrow next" id="lb-next">&rsaquo;</button>
     </div>
     <div class="lb-info">
@@ -649,9 +670,16 @@
   </footer>
 
 <script>
-let works = [], filtered = [], lbIdx = -1, query = '';
-let scopeFilter = 'all', activeEra = 'any', activeSubject = 'any', activeType = 'any', activeHeldAt = 'any';
+let works = [], filtered = [], shown = 0, lbIdx = -1, query = '';
+let scopeFilter = 'all', activeTypes = new Set(), activeEras = new Set(), activeSubjects = new Set(), activeHeldAt = 'any';
 let activeLayout = 'flow';
+const PG = 80;
+
+function joinNatural(items) {
+  if (items.length === 0) return '';
+  if (items.length === 1) return items[0];
+  return items.slice(0, -1).join(', ') + ' and ' + items[items.length - 1];
+}
 
 const eraNames     = { early: 'early', middle: 'middle', late: 'late' };
 const subjectNames = { portrait: 'portrait', religious: 'religious', study: 'study', landscape: 'landscape', codex: 'codex' };
@@ -670,9 +698,9 @@ function applyFilters() {
   filtered = works.filter(w => {
     if (scopeFilter === 'famous' && w.tier !== 'famous') return false;
     if (scopeFilter === 'well_known' && !w.tier) return false;
-    if (activeType !== 'any' && w.type !== activeType) return false;
-    if (activeEra !== 'any' && w.era !== activeEra) return false;
-    if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
+    if (activeTypes.size > 0 && !activeTypes.has(w.type)) return false;
+    if (activeEras.size > 0 && !activeEras.has(w.era)) return false;
+    if (activeSubjects.size > 0 && !activeSubjects.has(w.subject)) return false;
     if (activeHeldAt !== 'any' && w.held_at !== activeHeldAt) return false;
     if (q) return [w.title, w.current_location, w.date, w.medium, w.attribution].filter(Boolean).join(' ').toLowerCase().includes(q);
     return true;
@@ -694,10 +722,19 @@ function applyFilters() {
   document.getElementById('topbar-count').textContent = filtered.length + ' works';
   updateSummaries();
 
-  const f = document.createDocumentFragment();
-  for (let i = 0; i < filtered.length; i++) f.appendChild(mkCard(filtered[i], i));
-  g.appendChild(f);
+  shown = 0;
   applyLayout();
+  loadPage();
+}
+
+function loadPage() {
+  const g = document.getElementById('gallery');
+  const end = Math.min(shown + PG, filtered.length);
+  const f = document.createDocumentFragment();
+  for (let i = shown; i < end; i++) f.appendChild(mkCard(filtered[i], i));
+  g.appendChild(f);
+  shown = end;
+  document.getElementById('more').style.display = shown < filtered.length ? 'block' : 'none';
 }
 
 function updateSummaries() {
@@ -706,16 +743,16 @@ function updateSummaries() {
   sc.classList.toggle('has-value', scopeFilter !== 'all');
 
   const tc = document.getElementById('type-summary');
-  tc.textContent = activeType === 'any' ? 'any kind' : typeNames[activeType];
-  tc.classList.toggle('has-value', activeType !== 'any');
+  if (activeTypes.size === 0) { tc.textContent = 'any kind'; tc.classList.remove('has-value'); }
+  else { tc.textContent = joinNatural([...activeTypes].map(t => typeNames[t] || t)); tc.classList.add('has-value'); }
 
   const ec = document.getElementById('era-summary');
-  ec.textContent = activeEra === 'any' ? 'any era' : eraNames[activeEra];
-  ec.classList.toggle('has-value', activeEra !== 'any');
+  if (activeEras.size === 0) { ec.textContent = 'any era'; ec.classList.remove('has-value'); }
+  else { ec.textContent = joinNatural([...activeEras].map(e => eraNames[e] || e)); ec.classList.add('has-value'); }
 
   const suc = document.getElementById('subject-summary');
-  suc.textContent = activeSubject === 'any' ? 'any subject' : subjectNames[activeSubject];
-  suc.classList.toggle('has-value', activeSubject !== 'any');
+  if (activeSubjects.size === 0) { suc.textContent = 'any subject'; suc.classList.remove('has-value'); }
+  else { suc.textContent = joinNatural([...activeSubjects].map(s => subjectNames[s] || s)); suc.classList.add('has-value'); }
 
   const hc = document.getElementById('held-at-summary');
   if (hc) {
@@ -743,7 +780,7 @@ function mkCard(w, idx) {
   const t = w.thumb_url || '';
   if (t) {
     el.innerHTML =
-      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy">` +
+      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy" onerror="imgFallback(this)">` +
       `<div class="card-info"><div class="card-title">${esc(w.title)}</div>` +
       `<div class="card-meta">${esc(w.date || '')}</div></div>`;
   } else {
@@ -810,7 +847,7 @@ function renderLb() {
       const thumb = s.thumb_url || s.image_url || '';
       const tooltip = [s.attribution, s.location, s.note].filter(Boolean).join(' \u2014 ');
       return `<a class="lb-recon" href="${href}" target="_blank" title="${esc(tooltip)}">
-        <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy">
+        <img src="${thumb}" alt="${esc(s.label || '')}" loading="lazy" onerror="imgFallback(this)">
         <span class="lb-recon-label">${esc(s.label || '')}</span>
       </a>`;
     }).join('');
@@ -833,6 +870,7 @@ function cleanAttribution(a) {
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+function imgFallback(el){el.onerror=null;el.src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5' preserveAspectRatio='xMidYMid slice'><rect width='4' height='5' fill='%23222' opacity='.5'/><text x='2' y='2.65' text-anchor='middle' font-size='.28' fill='%23aaa' font-family='ui-sans-serif,sans-serif'>image unavailable</text></svg>";el.classList.add('img-fallback');}
 
 function openFromHash() {
   const raw = decodeURIComponent((location.hash || '').replace(/^#(?:id=)?/, ''));
@@ -856,13 +894,30 @@ document.querySelectorAll('.pick').forEach(btn => {
   btn.addEventListener('click', e => {
     e.stopPropagation();
     const g = btn.dataset.g, v = btn.dataset.v;
-    document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    if (g === 'scope') scopeFilter = v;
-    else if (g === 'type') activeType = v;
-    else if (g === 'era') activeEra = v;
-    else if (g === 'held_at') activeHeldAt = v;
-    else if (g === 'subject') activeSubject = v;
+
+    // Single-select groups: scope (famous / well_known / all) and held_at
+    if (g === 'scope' || g === 'held_at') {
+      document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (g === 'scope') scopeFilter = v;
+      else activeHeldAt = v;
+      applyFilters();
+      return;
+    }
+
+    // Multi-select: type, era, subject
+    const set = g === 'type' ? activeTypes : g === 'era' ? activeEras : activeSubjects;
+    if (v === 'any') {
+      set.clear();
+      document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => {
+        b.classList.toggle('active', b.dataset.v === 'any');
+      });
+    } else {
+      if (set.has(v)) { set.delete(v); btn.classList.remove('active'); }
+      else { set.add(v); btn.classList.add('active'); }
+      const anyBtn = document.querySelector(`.pick[data-g="${g}"][data-v="any"]`);
+      if (anyBtn) anyBtn.classList.toggle('active', set.size === 0);
+    }
     applyFilters();
   });
 });
@@ -887,6 +942,20 @@ if (matchMedia('(hover: none)').matches) {
     if (!e.target.closest('.sentence')) sentence.classList.remove('open');
   });
 }
+
+// More button + infinite-scroll: auto-load when the button is within ~600px of the viewport.
+const moreBtn = document.getElementById('more');
+moreBtn.addEventListener('click', loadPage);
+let _moreTick = false;
+window.addEventListener('scroll', () => {
+  if (_moreTick) return;
+  _moreTick = true;
+  requestAnimationFrame(() => {
+    _moreTick = false;
+    if (moreBtn.style.display === 'none') return;
+    if (moreBtn.getBoundingClientRect().top < window.innerHeight + 600) loadPage();
+  });
+}, { passive: true });
 
 const tb = document.getElementById('topbar');
 window.addEventListener('scroll', () => {
