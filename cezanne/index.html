@@ -616,7 +616,7 @@
     </div>
     <div class="lb-canvas" id="lb-canvas">
       <button class="lb-arrow prev" id="lb-prev">&lsaquo;</button>
-      <img class="lb-img" id="lb-img" alt="">
+      <img class="lb-img" id="lb-img" alt="" onerror="imgFallback(this)">
       <button class="lb-arrow next" id="lb-next">&rsaquo;</button>
     </div>
     <div class="lb-info">
@@ -635,8 +635,14 @@
 <script>
 const PG = 80;
 let works = [], filtered = [], shown = 0, lbIdx = -1, query = '';
-let scopeFilter = 'all', activeEra = 'any', activeSubject = 'any', activeSeries = 'any';
+let scopeFilter = 'all', activeEras = new Set(), activeSubjects = new Set(), activeSeries = new Set();
 let activeLayout = 'flow';
+
+function joinNatural(items) {
+  if (items.length === 0) return '';
+  if (items.length === 1) return items[0];
+  return items.slice(0, -1).join(', ') + ' and ' + items[items.length - 1];
+}
 
 const eraNames     = { early: 'early', impressionist: 'impressionist', constructive: 'constructive', late: 'late' };
 const subjectNames = { landscape: 'landscape', mountain: 'mont sainte-victoire', still_life: 'still life', portrait: 'portrait', bather: 'bather', cardplayer: 'card player' };
@@ -663,9 +669,9 @@ function applyFilters() {
   filtered = works.filter(w => {
     if (scopeFilter === 'famous' && w.tier !== 'famous') return false;
     if (scopeFilter === 'well_known' && !w.tier) return false;
-    if (activeEra !== 'any' && w.era !== activeEra) return false;
-    if (activeSubject !== 'any' && w.subject !== activeSubject) return false;
-    if (activeSeries !== 'any' && w.series !== activeSeries) return false;
+    if (activeEras.size > 0 && !activeEras.has(w.era)) return false;
+    if (activeSubjects.size > 0 && !activeSubjects.has(w.subject)) return false;
+    if (activeSeries.size > 0 && !activeSeries.has(w.series)) return false;
     if (q) {
       return [w.title, w.current_location, w.date, w.section,
               w.v_number, w.r_number, w.fwn_number, w.series, w.dimensions]
@@ -708,16 +714,16 @@ function updateSummaries() {
   sc.classList.toggle('has-value', scopeFilter !== 'all');
 
   const ec = document.getElementById('era-summary');
-  ec.textContent = activeEra === 'any' ? 'any era' : eraNames[activeEra];
-  ec.classList.toggle('has-value', activeEra !== 'any');
+  if (activeEras.size === 0) { ec.textContent = 'any era'; ec.classList.remove('has-value'); }
+  else { ec.textContent = joinNatural([...activeEras].map(x => eraNames[x] || x)); ec.classList.add('has-value'); }
 
   const suc = document.getElementById('subject-summary');
-  suc.textContent = activeSubject === 'any' ? 'any subject' : subjectNames[activeSubject];
-  suc.classList.toggle('has-value', activeSubject !== 'any');
+  if (activeSubjects.size === 0) { suc.textContent = 'any subject'; suc.classList.remove('has-value'); }
+  else { suc.textContent = joinNatural([...activeSubjects].map(x => subjectNames[x] || x)); suc.classList.add('has-value'); }
 
   const src = document.getElementById('series-summary');
-  src.textContent = activeSeries === 'any' ? 'any series' : seriesNames[activeSeries];
-  src.classList.toggle('has-value', activeSeries !== 'any');
+  if (activeSeries.size === 0) { src.textContent = 'any series'; src.classList.remove('has-value'); }
+  else { src.textContent = joinNatural([...activeSeries].map(x => seriesNames[x] || x)); src.classList.add('has-value'); }
 }
 
 function applyLayout() {
@@ -739,7 +745,7 @@ function mkCard(w, idx) {
   const catStr = catParts.length ? ' · ' + catParts[0] : '';
   if (t) {
     el.innerHTML =
-      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy">` +
+      `<img class="card-img" src="${t}" alt="${esc(w.title)}" loading="lazy" onerror="imgFallback(this)">` +
       `<div class="card-info"><div class="card-title">${esc(w.title)}</div>` +
       `<div class="card-meta">${esc(w.date || '')}${catStr}</div></div>`;
   } else {
@@ -803,6 +809,7 @@ function renderLb() {
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+function imgFallback(el){el.onerror=null;el.src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5' preserveAspectRatio='xMidYMid slice'><rect width='4' height='5' fill='%23222' opacity='.5'/><text x='2' y='2.65' text-anchor='middle' font-size='.28' fill='%23aaa' font-family='ui-sans-serif,sans-serif'>image unavailable</text></svg>";el.classList.add('img-fallback');}
 
 function openFromHash() {
   const raw = decodeURIComponent((location.hash || '').replace(/^#(?:id=)?/, ''));
@@ -826,12 +833,27 @@ document.querySelectorAll('.pick').forEach(btn => {
   btn.addEventListener('click', e => {
     e.stopPropagation();
     const g = btn.dataset.g, v = btn.dataset.v;
-    document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    if (g === 'scope') scopeFilter = v;
-    else if (g === 'era') activeEra = v;
-    else if (g === 'subject') activeSubject = v;
-    else if (g === 'series') activeSeries = v;
+
+    if (g === 'scope') {
+      document.querySelectorAll(`.pick[data-g="scope"]`).forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      scopeFilter = v;
+      applyFilters();
+      return;
+    }
+
+    const set = g === 'era' ? activeEras : g === 'subject' ? activeSubjects : activeSeries;
+    if (v === 'any') {
+      set.clear();
+      document.querySelectorAll(`.pick[data-g="${g}"]`).forEach(b => {
+        b.classList.toggle('active', b.dataset.v === 'any');
+      });
+    } else {
+      if (set.has(v)) { set.delete(v); btn.classList.remove('active'); }
+      else { set.add(v); btn.classList.add('active'); }
+      const anyBtn = document.querySelector(`.pick[data-g="${g}"][data-v="any"]`);
+      if (anyBtn) anyBtn.classList.toggle('active', set.size === 0);
+    }
     applyFilters();
   });
 });
