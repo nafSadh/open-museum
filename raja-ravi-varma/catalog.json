@@ -677,19 +677,6 @@
     "slug": "the-fatal-garland"
   },
   {
-    "title": "Mohini playing with a ball",
-    "id": 36,
-    "era": "unknown",
-    "subject": "mythology",
-    "famous": false,
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "mohini-playing-with-a-ball",
-    "tier": "well_known"
-  },
-  {
     "title": "Yashoda and Krishna",
     "id": 37,
     "era": "unknown",
@@ -710,7 +697,13 @@
     "tier": "famous"
   },
   {
+    "commons_filename": "Raja_Ravi_Varma,_Reverie.jpg",
     "title": "Lady Lost in Thought",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Raja_Ravi_Varma%2C_Reverie.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raja_Ravi_Varma%2C_Reverie.jpg/960px-Raja_Ravi_Varma%2C_Reverie.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Reverie.jpg",
+    "image_width": 8108,
+    "image_height": 11173,
     "id": 38,
     "era": "unknown",
     "subject": "portrait",
@@ -719,44 +712,8 @@
     "year_start": null,
     "year_end": null,
     "circa": false,
-    "slug": "lady-lost-in-thought"
-  },
-  {
-    "title": "Damayanti Talking to a Swan",
-    "id": 39,
-    "era": "unknown",
-    "subject": "mythology",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Damayanti",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "damayanti-talking-to-a-swan"
-  },
-  {
-    "title": "The Orchestra",
-    "id": 40,
-    "era": "unknown",
-    "subject": "other",
-    "famous": false,
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "the-orchestra"
-  },
-  {
-    "title": "The heartbroken",
-    "id": 41,
-    "era": "unknown",
-    "subject": "other",
-    "famous": false,
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "the-heartbroken"
+    "slug": "lady-lost-in-thought",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Reverie.jpg"
   },
   {
     "title": "Swarbat Player",
@@ -799,33 +756,6 @@
     "slug": "shakuntala"
   },
   {
-    "title": "Lord Krishna as Ambassador",
-    "id": 44,
-    "era": "unknown",
-    "subject": "mythology",
-    "famous": true,
-    "provenance_url": "https://en.wikipedia.org/wiki/Krishna",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "lord-krishna-as-ambassador",
-    "tier": "famous"
-  },
-  {
-    "title": "Jatayu, a bird devotee of Lord Rama is mauled by Ravana",
-    "id": 45,
-    "era": "unknown",
-    "subject": "mythology",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Jatayu_(Ramayana)",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "jatayu-a-bird-devotee-of-lord-rama-is-mauled-by-ravana"
-  },
-  {
     "title": "Victory of Indrajit",
     "commons_filename": "Victory_of_Indrajit._Chromolithograph_by_R._Varma._Wellcome_V0045131.jpg",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Victory_of_Indrajit._Chromolithograph_by_R._Varma._Wellcome_V0045131.jpg",
@@ -844,71 +774,6 @@
     "circa": false,
     "slug": "victory-of-indrajit",
     "tier": "well_known"
-  },
-  {
-    "title": "The gypsies[attribution needed]",
-    "id": 47,
-    "era": "unknown",
-    "subject": "portrait",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Wikipedia:Attribution_needed",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "the-gypsies-attribution-needed"
-  },
-  {
-    "title": "A Lady Playing Swarbat",
-    "id": 48,
-    "era": "unknown",
-    "subject": "portrait",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Swarbat",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "a-lady-playing-swarbat",
-    "tier": "well_known"
-  },
-  {
-    "title": "Lord Rama Conquers Varuna",
-    "id": 50,
-    "era": "unknown",
-    "subject": "mythology",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Varuna",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "lord-rama-conquers-varuna"
-  },
-  {
-    "title": "Nair Woman",
-    "id": 51,
-    "era": "unknown",
-    "subject": "other",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Nair",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "nair-woman"
-  },
-  {
-    "title": "Romancing Couple",
-    "id": 52,
-    "era": "unknown",
-    "subject": "other",
-    "famous": false,
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "romancing-couple"
   },
   {
     "title": "Draupadi Dreading to Meet Kichaka",
@@ -930,19 +795,6 @@
     "circa": false,
     "date": "between 1888 and 1890",
     "slug": "draupadi-dreading-to-meet-kichaka"
-  },
-  {
-    "title": "Shakuntala Composing a Love Letter to King Dushyanta",
-    "id": 54,
-    "era": "unknown",
-    "subject": "mythology",
-    "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Dushyanta",
-    "harvest_method": "wikipedia_list",
-    "year_start": null,
-    "year_end": null,
-    "circa": false,
-    "slug": "shakuntala-composing-a-love-letter-to-king-dushyanta"
   },
   {
     "title": "Girl in Sage Kanwa's Hermitage (Rishi-Kanya)",

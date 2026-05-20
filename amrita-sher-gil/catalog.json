@@ -876,8 +876,14 @@
     "tier": "famous"
   },
   {
+    "commons_filename": "Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
     "title": "Gypsy Girl from Zebegény",
     "date": "1932",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg/960px-Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg",
+    "image_width": 6470,
+    "image_height": 4192,
     "current_location": "Private collection",
     "dimensions": "41 × 62 cm",
     "technique": "Oil on canvas",
@@ -888,7 +894,8 @@
     "year_start": 1932,
     "year_end": 1932,
     "circa": false,
-    "slug": "gypsy-girl-from-zebegeny"
+    "slug": "gypsy-girl-from-zebegeny",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Hungarian-gypsy-girl.jpg"
   },
   {
     "title": "Girls in conversation",
@@ -1345,8 +1352,14 @@
     "tier": "well_known"
   },
   {
+    "commons_filename": "Professional_Model_1933.jpg",
     "title": "Professional Model",
     "date": "1933",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Professional_Model_1933.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Professional_Model_1933.jpg/960px-Professional_Model_1933.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Professional_Model_1933.jpg",
+    "image_width": 4928,
+    "image_height": 6926,
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "72× 100 cm",
     "technique": "Oil on canvas",
@@ -1354,7 +1367,7 @@
     "era": "paris",
     "subject": "other",
     "famous": false,
-    "provenance_url": "https://en.wikipedia.org/wiki/Professional_Model",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Professional_Model_1933.jpg",
     "year_start": 1933,
     "year_end": 1933,
     "circa": false,
@@ -2410,8 +2423,14 @@
     "slug": "mendicant"
   },
   {
+    "commons_filename": "Two_Medicants_1937.jpg",
     "title": "Two Mendicants",
     "date": "1937",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Two_Medicants_1937.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Two_Medicants_1937.jpg/960px-Two_Medicants_1937.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Two_Medicants_1937.jpg",
+    "image_width": 1507,
+    "image_height": 1994,
     "current_location": "New Delhi, National Gallery of Modern Art",
     "dimensions": "66.5 × 89.5 cm",
     "technique": "Oil on canvas",
@@ -2422,7 +2441,8 @@
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,
-    "slug": "two-mendicants"
+    "slug": "two-mendicants",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Two_Medicants_1937.jpg"
   },
   {
     "commons_filename": "Amrita_Sher-Gil_Lady_Daljit_Singh_of_Kapurthala_1937_Simla.jpg",
@@ -2522,8 +2542,14 @@
     "slug": "bullock-cart"
   },
   {
+    "commons_filename": "Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
     "title": "The Story Teller",
     "date": "1937",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg/960px-Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
+    "image_width": 3456,
+    "image_height": 4265,
     "current_location": "India, private collection",
     "dimensions": "59 × 79 cm",
     "technique": "Oil on canvas",
@@ -2531,7 +2557,7 @@
     "era": "india",
     "subject": "other",
     "famous": true,
-    "provenance_url": "https://en.wikipedia.org/wiki/The_Story_Teller_(painting)",
+    "provenance_url": "https://commons.wikimedia.org/wiki/File:Amrita_Sher-Gil_Ancient_Story_Teller_1940_Saraya.jpg",
     "year_start": 1937,
     "year_end": 1937,
     "circa": false,

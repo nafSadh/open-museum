@@ -23,11 +23,12 @@ _Last refreshed: 2026-04-21. See `.project/audit-2026-04-21.md` for current data
 - [ ] Mobile layout pass
 - [ ] Load-more / pagination UX improvement
 
-## Collections — shipped (18)
+## Collections — shipped (19)
 
 - [x] Van Gogh (1,153)
 - [x] Monet (1,766)
 - [x] Leonardo da Vinci (1,697 — paintings + drawings + codex folios; `held_at` filter)
+- [x] Paul Cézanne (932)
 - [x] Titian (164)
 - [x] Caravaggio (89)
 - [x] Rembrandt (805 — paintings + etchings + drawings)
@@ -47,7 +48,6 @@ _Last refreshed: 2026-04-21. See `.project/audit-2026-04-21.md` for current data
 ## Collections — open
 
 ### Western canon
-- [ ] Paul Cézanne
 - [ ] Michelangelo
 - [ ] Pierre-Auguste Renoir
 - [ ] Édouard Manet
@@ -76,7 +76,7 @@ _Last refreshed: 2026-04-21. See `.project/audit-2026-04-21.md` for current data
 
 ## Data-quality follow-ups (from 2026-04-21 audit)
 
-- [ ] Amrita Sher-Gil: 37 entries missing `image_url` (~22% of collection)
-- [ ] Raja Ravi Varma: 15 entries missing `image_url`; 83 entries still carry "Unknown date" variants with no year
+- [ ] Amrita Sher-Gil: 33 entries missing `image_url` (~20% of collection)
+- [ ] Raja Ravi Varma: 1 entry missing `image_url` (3D horse painting); 83 entries still carry "Unknown date" variants with no year
 - [ ] Leonardo: 76% of entries lack a `date` (drawings and codex folios often undated — consider dating where catalogued)
-- [ ] Behzad: 7 entries carry future-year `date` strings (`c. 3580`, `c. 2313`, `c. 4798`, `c. 2277`) — likely folio / accession numbers harvested as dates. Parser already refuses them (year triplet null), but the `date` display string still misleads; curation pass to correct or null the field.
+- [x] Behzad: 7 entries carry future-year `date` strings (`c. 3580`, `c. 2313`, `c. 4798`, `c. 2277`) — likely folio / accession numbers harvested as dates. Parser already refuses them (year triplet null), but the `date` display string still misleads; curation pass to correct or null the field.
