@@ -18,7 +18,7 @@ from pathlib import Path
 
 ARTISTS = sorted([
     'abanindranath-tagore', 'amrita-sher-gil', 'behzad', 'caravaggio',
-    'cezanne', 'degas', 'hiroshige', 'hokusai', 'kuniyoshi',
+    'cezanne', 'degas', 'goya', 'hiroshige', 'hokusai', 'kuniyoshi',
     'leonardo-da-vinci', 'mary-cassatt', 'monet', 'raja-ravi-varma',
     'rembrandt', 'titian', 'utamaro', 'van-gogh', 'vermeer', 'xu-beihong',
 ])
